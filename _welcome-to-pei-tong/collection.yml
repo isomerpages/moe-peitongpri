@@ -2,6 +2,7 @@ collections:
   welcome-to-pei-tong:
     output: true
     order:
+      - Resilient Individuals.md
       - Passionate Learners.md
       - A Home Where Every Child Flourishes.md
       - Principal's Message.md
