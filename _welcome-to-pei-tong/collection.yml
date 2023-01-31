@@ -2,4 +2,4 @@ collections:
   welcome-to-pei-tong:
     output: true
     order:
-      - folder-page.md
+      - Welcome to Pei Tong.md
