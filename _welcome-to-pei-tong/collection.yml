@@ -2,6 +2,7 @@ collections:
   welcome-to-pei-tong:
     output: true
     order:
+      - Welcoming Our P1 Students.md
       - Gracious Citizens.md
       - Resilient Individuals.md
       - Passionate Learners.md
