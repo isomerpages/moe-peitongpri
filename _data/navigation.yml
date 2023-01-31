@@ -1,8 +1,13 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: Welcome To Pei Tong
     collection: welcome-to-pei-tong
+  - title: School Information
+    collection: school-information
+  - title: Our Partners
+    collection: our-partners
+  - title: Parents' Portal
+    collection: parents-portal
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
