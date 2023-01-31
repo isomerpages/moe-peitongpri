@@ -6,16 +6,16 @@ links:
     collection: school-information
   - title: Our People
     collection: our-people
-  - title: Parents' Portal
-    collection: parents-portal
-  - title: Our Partners
-    collection: our-partners
   - title: PTPS Experience
     url: /permalink
     sublinks: []
   - title: Our Gallery
     url: /permalink
     sublinks: []
+  - title: Parents' Portal
+    collection: parents-portal
+  - title: Our Partners
+    collection: our-partners
   - title: MK@Pei Tong
     url: /permalink
     sublinks: []
