@@ -4,10 +4,18 @@ links:
     collection: welcome-to-pei-tong
   - title: School Information
     collection: school-information
-  - title: Our Partners
-    collection: our-partners
+  - title: Our People
+    collection: our-people
   - title: Parents' Portal
     collection: parents-portal
-  - title: Menu Title
+  - title: Our Partners
+    collection: our-partners
+  - title: PTPS Experience
+    url: /permalink
+    sublinks: []
+  - title: Our Gallery
+    url: /permalink
+    sublinks: []
+  - title: MK@Pei Tong
     url: /permalink
     sublinks: []
