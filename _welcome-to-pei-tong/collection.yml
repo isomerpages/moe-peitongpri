@@ -2,11 +2,11 @@ collections:
   welcome-to-pei-tong:
     output: true
     order:
-      - Testimonials from Students.md
-      - Welcoming Our P1 Students.md
-      - Gracious Citizens.md
-      - Resilient Individuals.md
-      - Passionate Learners.md
-      - A Home Where Every Child Flourishes.md
-      - Principal's Message.md
       - Welcome to Pei Tong.md
+      - Principal's Message.md
+      - A Home Where Every Child Flourishes.md
+      - Passionate Learners.md
+      - Resilient Individuals.md
+      - Gracious Citizens.md
+      - Welcoming Our P1 Students.md
+      - Testimonials from Students.md
