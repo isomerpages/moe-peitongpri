@@ -2,6 +2,7 @@ collections:
   welcome-to-pei-tong:
     output: true
     order:
+      - Testimonials from Parents.md
       - Welcome to Pei Tong.md
       - Principal's Message.md
       - A Home Where Every Child Flourishes.md
