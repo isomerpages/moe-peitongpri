@@ -15,7 +15,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2">Integrity 1</td>
+    <td rowspan="2"><b>Integrity 1</b></td>
     <td>Mdm Nur Syafinah</td>
     <td><a href="mailto:nur_syafinah_zainal@moe.edu.sg">nur_syafinah_zainal@moe.edu.sg</a></td>
   </tr>
@@ -24,7 +24,7 @@ description: ""
     <td><a href="mailto:yeo_cheng_yong@moe.edu.sg">yeo_cheng_yong@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td rowspan="2">Integrity 2</td>
+    <td rowspan="2"><b>Integrity 2</b></td>
     <td>Mr Ricky Low</td>
     <td><a href="mailto:low_thiam_chye@moe.edu.sg">low_thiam_chye@moe.edu.sg</a></td>
   </tr>
@@ -33,7 +33,7 @@ description: ""
     <td><a href="mailto:koh_mei_grace@moe.edu.sg">koh_mei_grace@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td rowspan="2">Integrity 3</td>
+    <td rowspan="2"><b>Integrity 3</b></td>
     <td>Ms Sally Chow</td>
     <td><a href="mailto:chow_sally@moe.edu.sg">chow_sally@moe.edu.sg</a></td>
   </tr>
@@ -42,7 +42,7 @@ description: ""
     <td><a href="mailto:revathy_manokaran@moe.edu.sg">revathy_manokaran@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td rowspan="2">Integrity 4</td>
+    <td rowspan="2"><b>Integrity 4</b></td>
     <td>Mr Leow Guohao</td>
     <td><a href="mailto:leow_guohao@moe.edu.sg">leow_guohao@moe.edu.sg</a></td>
   </tr>
@@ -51,7 +51,7 @@ description: ""
     <td><a href="mailto:wee_khang_ping@moe.edu.sg">wee_khang_ping@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td rowspan="2">Integrity 5</td>
+    <td rowspan="2"><b>Integrity 5</b></td>
     <td>Miss Shermaine Chua</td>
     <td><a href="mailto:Shermaine_Chua_Si_Min@moe.edu.sg">Shermaine_Chua_Si_Min@moe.edu.sg</a></td>
   </tr>
@@ -60,7 +60,7 @@ description: ""
     <td><a href="mailto:tan_yu_leun@moe.edu.sg">tan_yu_leun@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td rowspan="2">Integrity 6</td>
+    <td rowspan="2"><b>Integrity 6</b></td>
     <td>Mr Morris Koh</td>
     <td><a href="mailto:koh_leong_seng_morris@moe.edu.sg">koh_leong_seng_morris@moe.edu.sg</a></td>
   </tr>
@@ -69,7 +69,7 @@ description: ""
     <td><a href="mailto:sek_yee_yong@moe.edu.sg">sek_yee_yong@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td rowspan="2">Integrity 7</td>
+    <td rowspan="2"><b>Integrity 7</b></td>
     <td>Miss Clarissa Lim</td>
     <td><a href="mailto:clarissa_lim_jia_yin@moe.edu.sg">clarissa_lim_jia_yin@moe.edu.sg</a></td>
   </tr>
