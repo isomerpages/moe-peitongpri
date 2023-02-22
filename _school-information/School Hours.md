@@ -10,12 +10,12 @@ All students are required to report to school by **7.30am** for the flag-raisi
 <table>
 <thead>
   <tr>
-    <th></th>
-    <th>Monday</th>
-    <th>Tuesday</th>
-    <th>Wednesday</th>
-    <th>Thursday</th>
-    <th>Friday</th>
+    <td></td>
+    <td>Monday</td>
+    <td>Tuesday</td>
+    <td>Wednesday</td>
+    <td>Thursday</td>
+    <td>Friday</td>
   </tr>
 </thead>
 <tbody>
