@@ -126,3 +126,5 @@ All students are required to report to school by **7.30am** for the flag-raisi
   </tr>
 </tbody>
 </table>
+
+_updated 11 Jan 2023_
