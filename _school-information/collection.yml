@@ -2,8 +2,8 @@ collections:
   school-information:
     output: true
     order:
-      - School History/Heritage Gallery.md
-      - School History/Past Principals.md
-      - School History/School History.md
       - School History/.keep
+      - School History/School History.md
+      - School History/Past Principals.md
+      - School History/Heritage Gallery.md
       - Vison, Mission & Motto.md
