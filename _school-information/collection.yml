@@ -2,16 +2,16 @@ collections:
   school-information:
     output: true
     order:
-      - Contact Us.md
-      - Safety and Security.md
-      - School Rules/.keep
-      - School Rules/School Rules.md
-      - School Rules/Attire and Personal Appearance.md
-      - School Hours.md
-      - School Song.md
-      - School Crest.md
+      - Vison, Mission & Motto.md
       - School History/.keep
       - School History/School History.md
       - School History/Past Principals.md
       - School History/Heritage Gallery.md
-      - Vison, Mission & Motto.md
+      - School Crest.md
+      - School Song.md
+      - School Hours.md
+      - School Rules/.keep
+      - School Rules/School Rules.md
+      - School Rules/Attire and Personal Appearance.md
+      - Safety and Security.md
+      - Contact Us.md
