@@ -12,11 +12,11 @@ third_nav_title: School Rules
 <tbody>
   <tr>
     <td>Uniform &amp; Name Tag</td>
-    <td>Wear prescribed school uniform in school and during all school activities. Modification to<br>the uniform is not allowed.<br>The PE attire may be worn for the whole day when students have PHE / PAL / CCA lessons<br>(as required).<br>All students are expected to have their name tags sewn on the polo T-shirts. Name tags<br>can be purchased from the school bookshop.<br>All students coming to school for activities outside school hours must be in appropriate<br>school attire.</td>
+    <td>Wear prescribed school uniform in school and during all school activities. <b>Modification to<br>the uniform is not allowed.<br></b>The PE attire may be worn for the whole day when students have PHE / PAL / CCA lessons<br>(as required).<br>All students are expected to have their name tags sewn on the polo T-shirts. Name tags<br>can be purchased from the school bookshop.<br>All students coming to school for activities outside school hours must be in appropriate<br>school attire.</td>
   </tr>
   <tr>
     <td>Hair</td>
-    <td>Hair should be in natural colour. No dyeing or highlighting of hair is allowed.<br>For girls, hair should be kept neat, tidy and simply styled. Hair touching the collar must be either tied up or cut. Only black and dark green hair accessories are permitted.<br>For boys, hair should be short and neat. Fringe must be above the eyebrows. Moustache, beard and long sideburns are not permitted.</td>
+    <td>Hair should be in natural colour. No dyeing or highlighting of hair is allowed.<br>For girls, hair should be kept neat, tidy and simply styled. Hair touching the collar must be either tied up or cut. Only black and dark green hair accessories are permitted.<br>For boys, hair should be short and neat. Fringe must be above the eyebrows. <b>Moustache, beard and long sideburns are not permitted.</b></td>
   </tr>
   <tr>
     <td>Jewellery and accessories</td>
