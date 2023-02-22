@@ -2,5 +2,6 @@ collections:
   school-information:
     output: true
     order:
+      - School History/School History.md
       - School History/.keep
       - Vison, Mission & Motto.md
