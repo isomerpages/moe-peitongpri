@@ -2,5 +2,6 @@ collections:
   english:
     output: true
     order:
+      - Mindful Reader.md
       - Read @ PT.md
       - English.md
