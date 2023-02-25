@@ -57,7 +57,7 @@ This tiered and customised approach informs the cumulative exposure and learning
   <tr>
     <td>P4</td>
     <td>Code for Fun</td>
-    <td rowspan="3">• EL Communication Prog<br> Persuasive<br>• MTL<br> Appreciation MTL through Culture<br>• SC<br>DILE &amp; Science Learning Journey</td>
+		<td rowspan="3">• <u>EL Communication Prog</u><br> Persuasive<br>• <u>MTL</u><br> Appreciation MTL through Culture<br>• <u>SC</u><br>DILE &amp; Science Learning Journey</td>
     <td rowspan="3">•    Class Monitors<br>•    Subject Leaders</td>
     <td>Speech and Drama  Melody @ Pei Tong</td>
     <td>•  Clean plate Campaign(VIA)<br>•  Fundraising for Lions Befrienders and Community Lunch<br>•  Everyday Responsibility<br>•  Kidzania LJ</td>
