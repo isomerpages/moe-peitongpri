@@ -31,9 +31,13 @@ We are also constantly and consciously nurturing our students to achieve the 21s
 </thead>
 <tbody>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><img src="/images/PTPS%20Experience/20200811_112558.jpg" 
+     style="width:75%">
+</td>
+    <td><img src="/images/PTPS%20Experience/Peitong-StagedShots-87.jpg" 
+     style="width:75%"></td>
+    <td><img src="/images/PTPS%20Experience/20200730_115900.jpg" 
+     style="width:75%"></td>
   </tr>
   <tr>
     <td>who possess the values, dispositions and skills to listen actively to different perspectives; communicate confidently, effectively and sensitively while collaborating with others to work towards shared goals, and balance an appreciation of the Singapore spirit with multi-ethnic and multicultural sensitivities.</td>
