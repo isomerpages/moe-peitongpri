@@ -145,64 +145,7 @@ This tiered and customised approach informs the cumulative exposure and learning
 
 ## PTPS Talent Programme – Type III Develop Potential Passion
 
-<table>
-<thead>
-  <tr>
-    <td></td>
-    <td><b>C</b>ognitive</td>
-    <td></td>
-    <td><b>L</b>eadership</td>
-    <td></td>
-    <td><b>A</b>esthetics</td>
-    <td><b>S</b>ocial &amp; Moral</td>
-    <td></td>
-    <td><b>P</b>hysical Fitness</td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>P1</td>
-    <td colspan="2"></td>
-    <td colspan="2"></td>
-    <td></td>
-    <td rowspan="2">VIA Champions</td>
-    <td rowspan="6">Model Student Award</td>
-    <td rowspan="6">CCA School Representatives</td>
-  </tr>
-  <tr>
-    <td>P2</td>
-    <td colspan="2"></td>
-    <td colspan="2"></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>P3</td>
-    <td colspan="2"></td>
-    <td colspan="2">Junior Prefect</td>
-    <td rowspan="4">School Representatives CCA School Representatives</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>P4</td>
-    <td>Destination Imagination</td>
-    <td rowspan="3">Debate sessions</td>
-    <td></td>
-    <td rowspan="3">Senior Prefects</td>
-    <td>Internationalisation Trip</td>
-  </tr>
-  <tr>
-    <td>P5</td>
-    <td>Maths Olympiad<br>E2K Science E2K Math</td>
-    <td rowspan="2">EXCO Prefects</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>P6</td>
-    <td></td>
-    <td></td>
-  </tr>
-</tbody>
-</table>
+
 
 <table>
 <thead>
