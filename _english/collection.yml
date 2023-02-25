@@ -2,4 +2,5 @@ collections:
   english:
     output: true
     order:
+      - Read @ PT.md
       - English.md
