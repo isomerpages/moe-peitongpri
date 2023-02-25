@@ -80,3 +80,65 @@ This tiered and customised approach informs the cumulative exposure and learning
   </tr>
 </tbody>
 </table>
+
+
+## PTPS Talent Programme – Type II Choices
+
+
+
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th>Cognitive</th>
+    <th></th>
+    <th>Leadership</th>
+    <th></th>
+    <th>Aesthetics</th>
+    <th>Social &amp; Moral</th>
+    <th>Physical Fitness</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>P1</td>
+    <td colspan="2" rowspan="2">Active Recess IP</td>
+    <td colspan="2"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>P2</td>
+    <td colspan="2">Junior Ambassadors</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>P3</td>
+    <td>P3: Math &amp; Science Week Activities</td>
+    <td rowspan="4">Active Recess IP<br>Literacy Club<br>Science &amp; Environment Club</td>
+    <td>•       AVA Leaders<br>•       Junior Prefects</td>
+    <td rowspan="4">•       CCA Leaders<br>•       CCD Ambassadors<br>•       Junior Prefects<br>•       Cyber-wellness Ambassadors<br>•       Active Recess Reps</td>
+    <td rowspan="4">Performing&amp; Visual Arts CCA</td>
+    <td rowspan="4">Science Environmental Club</td>
+    <td rowspan="4">•       Sports CCA<br>•       Active Recess<br>•       Junior Sports Academy</td>
+  </tr>
+  <tr>
+    <td>P4</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>P5</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>P6</td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
