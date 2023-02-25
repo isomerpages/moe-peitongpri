@@ -89,14 +89,14 @@ This tiered and customised approach informs the cumulative exposure and learning
 <table>
 <thead>
   <tr>
-    <th></th>
-    <th>Cognitive</th>
-    <th></th>
-    <th>Leadership</th>
-    <th></th>
-    <th>Aesthetics</th>
-    <th>Social &amp; Moral</th>
-    <th>Physical Fitness</th>
+    <td></td>
+     <td><b>C</b>ognitive</td>
+     <td></th>
+     <td><b>L</b>eadership</td>
+     <td></th>
+     <td><b>A</b>esthetics</td>
+     <td><b>S</b>ocial &amp; Moral</td>
+     <td><b>P</b>hysical Fitness</td>
   </tr>
 </thead>
 <tbody>
@@ -148,15 +148,15 @@ This tiered and customised approach informs the cumulative exposure and learning
 <table>
 <thead>
   <tr>
-    <th></th>
-    <th>Cognitive</th>
-    <th></th>
-    <th>Leadership</th>
-    <th></th>
-    <th>Aesthetics</th>
-    <th>Social &amp; Moral</th>
-    <th></th>
-    <th>Physical Fitness</th>
+    <td></td>
+    <td><b>C</b>ognitive</td>
+    <td></td>
+    <td><b>L</b>eadership</td>
+    <td></td>
+    <td><b>A</b>esthetics</td>
+    <td><b>S</b>ocial &amp; Moral</td>
+    <td></td>
+    <td><b>P</b>hysical Fitness</td>
   </tr>
 </thead>
 <tbody>
