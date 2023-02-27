@@ -2,6 +2,6 @@ collections:
   mother-tongue:
     output: true
     order:
-      - Chinese Department/Student Portfolios.md
-      - Chinese Department/Chinese Department Activities.md
       - Chinese Department/.keep
+      - Chinese Department/Chinese Department Activities.md
+      - Chinese Department/Student Portfolios.md
