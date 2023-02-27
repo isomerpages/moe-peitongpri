@@ -2,7 +2,6 @@ collections:
   mother-tongue:
     output: true
     order:
-      - Tamil Department Activities/.keep
       - Malay Department Activities/.keep
       - Malay Department Activities/Malay Department Activities.md
       - Malay Department Activities/Student Portfolios.md
