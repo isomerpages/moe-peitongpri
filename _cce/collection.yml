@@ -2,8 +2,8 @@ collections:
   cce:
     output: true
     order:
-      - Education and Career Guidance.md
-      - "'I Influence' (Student Leadership @ PT).md"
-      - Citizenship Education.md
-      - iCARE (Values in Action @ PT).md
       - Character and Citizenship Education (CCE).md
+      - iCARE (Values in Action @ PT).md
+      - Citizenship Education.md
+      - "'I Influence' (Student Leadership @ PT).md"
+      - Education and Career Guidance.md
