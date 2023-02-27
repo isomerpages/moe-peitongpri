@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - "ACES: iACE Through Sports/.keep"
-      - "ACES: iACE Through Sports.md"
       - Physical and Health Education (PHE).md
