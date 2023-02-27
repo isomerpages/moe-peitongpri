@@ -31,3 +31,20 @@ This year (2022), the following learning journeys are planned:-
 *   Primary 6 – Sungei Buloh Nature Reserve (Virtual Experience)
 
 ## E2k Science Programme
+
+![](/images/PTPS%20Experience/sc_e2k.png)
+
+The E2K Science Programme is a Science enrichment programme for our upper primary students who demonstrate interest and ability in Science.  This programme aims to engage selected students in scientific inquiry that will help them to develop the habits, attitudes and dispositions which scientists possess through scientific investigations involving advanced science concepts. It also seeks to develop important 21st-century competencies such as critical and inventive thinking and effective communication skills in the participants.
+
+## Pei Tong Science Explorer Programme
+
+<img src="images/PTPS%20Experience/Science%20Explorer.png" style="width:45%;margin-right:15px;" align = "left">
+
+The Pei Tong Science Explorer Programme is designed by our teachers to provide a variety of authentic learning experiences for our P3 and P5 students. Through a series of interesting learning activities that involve creative thinking and independent research skills, students can strengthen and deepen their science knowledge. To further enhance our students’ self-directedness, we provide several opportunities for them to take ownership of their own learning.
+
+## P5 Applied Science Programme (ASP) and P6 Science Experimental Techniques
+
+
+![](/images/PTPS%20Experience/Sc%20ASP%20and%20experimental%20tech.jpg)
+
+The Science department has organized a series of workshops to focus on providing our students with authentic learning experiences and exposing students to experimental skills, and techniques. Through these processes of inquiry and experimentation, students were able to apply scientific concepts and transfer their learning. To top it off, learning was made fun and meaningful. Our students have shown a high level of interest, involvement and engagement.
