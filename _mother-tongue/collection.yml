@@ -2,4 +2,5 @@ collections:
   mother-tongue:
     output: true
     order:
+      - Chinese Department/Chinese Department Activities.md
       - Chinese Department/.keep
