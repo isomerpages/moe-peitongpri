@@ -4,4 +4,6 @@ permalink: /ptps-experience/mother-tongue/chinese-department-activities/student-
 description: ""
 third_nav_title: Chinese Department
 ---
-asd
+# Student Portfolios
+
+[Click Here!](https://sites.google.com/moe.edu.sg/studentsportfolio/home)
