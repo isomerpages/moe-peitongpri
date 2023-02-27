@@ -26,6 +26,8 @@ To develop and equip students holistically to be able to demonstrate individuall
 
 Students in primary school learn fundamental movement skills that incorporate movement concepts. They develop efficiency, effectiveness and versatility in their performance as they practice and transfer their skills across different learning areas in the PHE Syllabus to become competent movers.
 
+![](/images/PTPS%20Experience/Physical%20and%20Health%20Education/phe%20syllabus.png)
+
 The seven learning areas are:
 
 *   Athletics (P3 onwards)
