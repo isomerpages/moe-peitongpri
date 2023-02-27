@@ -2,6 +2,7 @@ collections:
   physical-health-and-education:
     output: true
     order:
+      - Mind Our Health (MOH).md
       - "ACES: iACE Through Sports/.keep"
       - "ACES: iACE Through Sports/ACES: iACE Through Sports.md"
       - "ACES: iACE Through Sports/Primary 1 and 2.md"
