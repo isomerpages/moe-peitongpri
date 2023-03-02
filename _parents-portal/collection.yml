@@ -2,4 +2,5 @@ collections:
   parents-portal:
     output: true
     order:
+      - Information For Parents.md
       - School Terms and Holidays.md
