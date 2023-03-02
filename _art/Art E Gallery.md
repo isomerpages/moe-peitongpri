@@ -5,4 +5,4 @@ description: ""
 ---
 # Art E-Gallery
 
-[Click Here](https://sites.google.com/moe.edu.sg/ptpsart/)
+[Click here for the art e-gallery!](https://sites.google.com/moe.edu.sg/ptpsart/)
