@@ -2,5 +2,5 @@ collections:
   art:
     output: true
     order:
-      - Art E Gallery.md
       - Art.md
+      - Art E Gallery.md
