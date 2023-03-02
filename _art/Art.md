@@ -35,3 +35,5 @@ Students communicate their imagination, thoughts, and feelings by expressing the
 ![](/images/PTPS%20Experience/Art/Comm3.jpg)
 
 ![](/images/PTPS%20Experience/Art/Comm2.jpg)
+
+For more beautiful artworks, visit our [online gallery](https://sites.google.com/moe.edu.sg/ptpsart/home?authuser=0%20)
