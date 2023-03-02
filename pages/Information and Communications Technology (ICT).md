@@ -31,7 +31,7 @@ The ICT Programmes in Pei Tong Primary School are planned in mind to support a c
 <tbody>
   <tr>
     <td rowspan="6"> <br> <br> <br> <br> <br> <br> <br> <br>Equipping</td>
-    <td rowspan="4">iTEP 1<br>iCT Equip Programme 1<br>Equipping students with baseline ICT Standards where they demonstrate understanding of technology concepts and operations to use computer applications effectively and productively.<br> <br> <br> <br> </td>
+		<td rowspan="4"><b><u>iTEP 1</u></b><br><u>iCT Equip Programme 1</u><br>Equipping students with baseline ICT Standards where they demonstrate understanding of technology concepts and operations to use computer applications effectively and productively.<br> <br> <br> <br> </td>
     <td>•     P1-P6 Login Sessions of SSOE2 ACAD Devices, SLS Accounts and Student iCON Accounts</td>
     <td>Term 1</td>
   </tr>
@@ -40,7 +40,7 @@ The ICT Programmes in Pei Tong Primary School are planned in mind to support a c
     <td>Term 1</td>
   </tr>
   <tr>
-    <td>•     P1 &amp; P2 Touch-typing EquippeD (TED) Module via SLS</td>
+    <td>•     P1 &amp; P2 <b><u>T</u></b>ouch-typing <b><u>E</u></b>quippe<b><u>D</u></b>  <b><u>(TED)</u></b> Module via SLS</td>
     <td>Self-Directed on SLS for Whole Year</td>
   </tr>
   <tr>
