@@ -54,3 +54,84 @@ P1 and P2 classes rotate to experience thematized modules of the different PAL d
   </tr>
 </tbody>
 </table>
+
+
+
+## Visual Art
+
+
+Group sharing and group work
+
+![](/images/PTPS%20Experience/CCA%20(PAL)/visual%20art1.png)
+
+Some of their art creations
+
+![](/images/PTPS%20Experience/CCA%20(PAL)/visual%20art%20creation.png)
+
+
+## P1 Drama
+
+
+Drama Characterisation
+
+![](/images/PTPS%20Experience/CCA%20(PAL)/P1%20drama.png)
+
+Exploring actions
+
+![](/images/PTPS%20Experience/CCA%20(PAL)/Exploring.png)
+
+Creating their own monster with masks and mouth puppets
+
+![](/images/PTPS%20Experience/CCA%20(PAL)/Create%20.png)
+
+
+## Games and Sports
+
+
+Playing games
+
+
+![](/images/PTPS%20Experience/CCA%20(PAL)/Playing%20games.png)
+
+
+Making their own sports equipment
+
+![](/images/PTPS%20Experience/CCA%20(PAL)/Making%20sports%20equip.png)
+
+
+## Outdoor Education
+
+
+Shadow Play
+
+![](/images/PTPS%20Experience/CCA%20(PAL)/Shadow%20play.png)
+
+
+Learning about light and colours
+
+![](/images/PTPS%20Experience/CCA%20(PAL)/Learning%20about%20lights.png)
+
+I spy! - Exploring the school
+
+![](/images/PTPS%20Experience/CCA%20(PAL)/i%20spy.png)
+
+Creating a mini-raft
+
+![](/images/PTPS%20Experience/CCA%20(PAL)/Create%20mini%20raft.png)
+
+Sand Play
+
+![](/images/PTPS%20Experience/CCA%20(PAL)/Sand%20play.png)
+
+
+## P2 Music
+
+
+Making Music as a group
+
+
+![](/images/PTPS%20Experience/CCA%20(PAL)/Making%20music%20as%20a%20group.png)
+
+Using Boomwhackers
+
+![](/images/PTPS%20Experience/CCA%20(PAL)/Using%20boomw.png)
