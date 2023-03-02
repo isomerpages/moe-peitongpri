@@ -2,5 +2,5 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Programme for Active Learning (PAL).md
       - Co Curricular Activities (CCA).md
+      - Programme for Active Learning (PAL).md
