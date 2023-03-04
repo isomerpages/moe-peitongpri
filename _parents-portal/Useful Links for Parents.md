@@ -41,9 +41,8 @@ Launched in August 2020, this is our new kid on the block. Parenting with.moesg 
 
 ## SEL Resources for parents
 
+[https://www.moe.gov.sg/programmes/social-and-emotional-learning/sel-resources-for-parents](https://www.moe.gov.sg/programmes/social-and-emotional-learning/sel-resources-for-parents) (LINK DOES NOT WORK)
 
-[https://www.moe.gov.sg/programmes/social-and-emotional-learning/sel-resources-for-parents](https://www.moe.gov.sg/programmes/social-and-emotional-learning/sel-resources-for-parents)[  
-](https://www.moe.gov.sg/programmes/social-and-emotional-learning/sel-resources-for-parents)
 
 Social and Emotional Learning (SEL) refers to the soft skills that are essential for your child's personal and social well-being. Having strong social-emotional competencies can improve your child's school performance.
 
