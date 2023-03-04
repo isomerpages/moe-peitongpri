@@ -13,7 +13,7 @@ description: ""
 
 Should you require assistance, please contact our Administration Manager, Ms Jia Jinghui, at 67775458 or email her at [jia\_jinghui@schools.gov.sg](mailto:jia_jinghui@schools.gov.sg).
 
-**Click here for** [Parents Gateway Guide](https://peitongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u575/2019/Documents/Parents%20Gateway%20Guide.pdf)  
+**Click here for** [Parents Gateway Guide](/files/Parents%20Portal/Parents%20Gateway%20Guide.pdf)
 **Download app from the [Apple App Store](https://apps.apple.com/sg/app/parents-gateway/id1267198708) or [Google Play Store](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG)**
 
 ## MOE Parent KIT
