@@ -2,10 +2,10 @@ collections:
   parents-portal:
     output: true
     order:
-      - PT Heartbeat Publications.md
-      - Family Matters @ School.md
-      - Sexuality Education.md
-      - Useful Links for Parents.md
-      - 2023 Booklists.md
-      - Information For Parents.md
       - School Terms and Holidays.md
+      - Information For Parents.md
+      - 2023 Booklists.md
+      - Useful Links for Parents.md
+      - Sexuality Education.md
+      - Family Matters @ School.md
+      - PT Heartbeat Publications.md
