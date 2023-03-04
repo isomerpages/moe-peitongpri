@@ -18,13 +18,13 @@ The SLS is an online platform with tools and curriculum-aligned resources for al
 The SLS is collectively shaped by teachers and students. Taking into consideration their ideas and feedback on the resources and tools, the system is developed iteratively to stay dynamic and responsive.
 
 
-Getting Started
----------------
+## Getting Started
+
 
 1.[Introduction for students](/files/Parents%20Portal/Annexes%20to%20Letter%20to%20Parents.pdf)
 
-SLS Helpdesk
-------------
+## SLS Helpdesk
+
 
 Please contact the SLS Helpdesk if you have further queries. <br>
 Tel: (65) 6702 6513
