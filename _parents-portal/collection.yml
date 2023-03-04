@@ -2,11 +2,11 @@ collections:
   parents-portal:
     output: true
     order:
-      - Student Learning Space.md
       - School Terms and Holidays.md
       - Information For Parents.md
       - 2023 Booklists.md
       - Useful Links for Parents.md
+      - Student Learning Space.md
       - Sexuality Education.md
       - Family Matters @ School.md
       - PT Heartbeat Publications.md
