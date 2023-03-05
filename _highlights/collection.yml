@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - Previous Years' Highlights/2021 Learning Journeys.md
       - Previous Years' Highlights/Previous Years' Highlights.md
       - Previous Years' Highlights/.keep
       - 2022 Term 1.md
