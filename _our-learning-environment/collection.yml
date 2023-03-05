@@ -2,4 +2,5 @@ collections:
   our-learning-environment:
     output: true
     order:
+      - Indoor Environment.md
       - Our Learning Environment.md
