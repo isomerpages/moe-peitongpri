@@ -2,4 +2,5 @@ collections:
   highlights:
     output: true
     order:
+      - 2022 Term 3.md
       - 2022 Term 4.md
