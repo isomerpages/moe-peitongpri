@@ -10,7 +10,7 @@ description: ""
 
 * [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 *   [Google Workspace](https://workspace.google.com/dashboard)[](https://vle.learning.moe.edu.sg/login)
-*   [Google Classroom](https://classroom.google.com/login)
+*   [Google Classroom](https://classroom.google.com/login) (LINK DOES NOT WORK)
 *   [Google Gmail](http://google.com/mail)
 
   
