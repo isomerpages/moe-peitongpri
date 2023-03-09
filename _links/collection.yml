@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Links.md
-      - For Students.md
       - For Teachers.md
+      - For Students.md
