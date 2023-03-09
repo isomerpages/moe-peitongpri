@@ -7,7 +7,11 @@ description: ""
 
 ## What our students have to say
 
-![](/images/Welcome%20to%20Pei%20Tong/testimonial%20-%20Raeann%20Goh%20jing%20en%20Krss.jpeg)
+
+<img src="/images/Welcome%20to%20Pei%20Tong/testimonial%20-%20Raeann%20Goh%20jing%20en%20Krss.jpeg" style="width:45%;margin-right:15px;" align = "left">
+
+
+
 
 Pei Tong is a special school to me as it is a place that holds many precious memories for me.   
 
@@ -35,7 +39,8 @@ Thank you to all my teachers and staff for everything! It was a great and enjoya
 
 ## What our students have to say
 
-![](/images/Welcome%20to%20Pei%20Tong/rynna%20give%20rice%20-%20Rynna%20Tan.jpg)
+
+<img src="/images/Welcome%20to%20Pei%20Tong/rynna%20give%20rice%20-%20Rynna%20Tan.jpg" style="width:35%;margin-right:15px;" align = "left">
 
 Pei Tong is special to me because it’s a place full of memories and a place that made me feel like it was a place where I belonged.   
 
@@ -67,7 +72,8 @@ Thank you to all teachers and staff for everything that you have done for me! I 
 ## What our students have to say
 
 
-![](/images/Welcome%20to%20Pei%20Tong/min%20yi%20ong.jpeg)
+
+<img src="/images/Welcome%20to%20Pei%20Tong/min%20yi%20ong.jpeg" style="width:45%;margin-right:15px;" align = "left">
 
 Pei Tong has given me a conducive environment and opportunities to succeed, learn new skills, as well as make new friends. 
 
