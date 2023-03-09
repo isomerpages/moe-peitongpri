@@ -15,7 +15,7 @@ Download our handbook to know more about MOE Kindergarten.  <br>
 
   
 
-#### **MOE KINDERGARTEN WAITLIST APPLICATION**
+#### MOE KINDERGARTEN WAITLIST APPLICATION
 
 Please fill out this [waitlist](https://go.gov.sg/mkpt-waitlist) <b>(LINK DOES NOT WORK)</b> if you would like to register your child for 2022/2023 K1/K2 class. 
 
