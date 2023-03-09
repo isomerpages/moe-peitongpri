@@ -7,7 +7,7 @@ description: ""
 
 ## What our Parents have to say
 
-<img src="/images/Welcome%20to%20Pei%20Tong/F7065FD0-4448-4B47-87E1-DC0A12ED9028%20-%20Min%20lee.jpeg" style="width:75%;margin-right:15px;" align = "left">
+<img src="/images/Welcome%20to%20Pei%20Tong/F7065FD0-4448-4B47-87E1-DC0A12ED9028%20-%20Min%20lee.jpeg" style="width:45%;margin-right:15px;" align = "left">
 
 To be honest, my child entered Pei Tong Primary School (PTPS) through registration phase 2Cs as she was balloted out from another school. Coming in, I did not hope for much and just want her to make friends, have fun and enjoy her childhood. 
 
@@ -29,7 +29,7 @@ All in all, I always believe that everything happens for a reason and I am so th
 
 ## What our Parents have to say
 
-<img src="/images/Welcome%20to%20Pei%20Tong/ryantan.jpeg" style="width:75%;margin-right:15px;" align = "left">
+<img src="/images/Welcome%20to%20Pei%20Tong/ryantan.jpeg" style="width:45%;margin-right:15px;" align = "left">
 
 Our son Ryan Tan Zhiwen is a graduate of Pei Tong Primary and is currently in Secondary 3 at Commonwealth Secondary.  Our daughter Katelyn Tan Hui Qi currently attends Pei Tong Primary.
 
@@ -59,7 +59,7 @@ Ryan had no problems with his PSLE and has fond memories of primary school. This
 
 ## What our Parents have to say
 
-<img src="/images/Welcome%20to%20Pei%20Tong/miny.jpg" style="width:75%;margin-right:15px;" align = "left">
+<img src="/images/Welcome%20to%20Pei%20Tong/miny.jpg" style="width:45%;margin-right:15px;" align = "left">
 
 Sending my 2 girls to Pei Tong brings back fond memories as I was a former student of Pei Tong Primary. When Pei Tong moved to the new Clementi campus in 1981, my family had also just moved into Clementi new housing estate.  Hence, my 3 younger brothers and I all studied in Pei Tong.
 
@@ -78,7 +78,7 @@ Pei Tong is a school that provides a holistic and nurturing environment for chil
 
 ## What our Parents have to say
 
-<img src="/images/Welcome%20to%20Pei%20Tong/fangfang%20Huang.jpg" style="width:75%;margin-right:15px;" align = "left">
+<img src="/images/Welcome%20to%20Pei%20Tong/fangfang%20Huang.jpg" style="width:35%;margin-right:15px;" align = "left">
 
 
 My children are from the graduating classes of 2016 and 2019. My children are very privileged to have very supportive teachers and staff who have encouraged them both emotionally and academically in their 6 years in Pei Tong.
@@ -104,7 +104,7 @@ Pei Tong is like an extended family to us. We are indebted to and very grateful 
 
 ## What our Parents have to say
 
-<img src="/images/Welcome%20to%20Pei%20Tong/nicole.png" style="width:75%;margin-right:15px;" align = "left">
+<img src="/images/Welcome%20to%20Pei%20Tong/nicole.png" style="width:35%;margin-right:15px;" align = "left">
 
 Our daughter, Lim HuaMing, Nicole, graduated from Pei Tong Primary School (PTPS) in the Year 2020. We have seen many new changes to PTPS over the years with all of them making a positive impact on our child's learning and development. The school is very well supported within the community, and it offers a wide range of opportunities for children to learn.  
 
