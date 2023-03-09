@@ -2,5 +2,6 @@ collections:
   photo-gallery:
     output: true
     order:
+      - 2023 Joy of Learning Recess Activities.md
       - 2023 Total Defence Day.md
       - Photo Gallery.md
