@@ -100,6 +100,9 @@ The guidance and opportunities that have been offered by my teachers certainly d
 
 ## What our students have to say
 
+
+<img src="/images/Welcome%20to%20Pei%20Tong/Rynna%20Tan%20en%20qi%20Hyss.jpeg" style="width:45%;margin-right:15px;" align = "left">
+
 Pei Tong is special to me because it is a place where we students can enjoy, play, study and make new friends. It is also a place where care is readily provided whenever we need it.  
 
   
@@ -124,6 +127,9 @@ Thank you to the teachers and staff who have done so much for me, and I really h
 **_Class of 2021_**
 
 ## What our students have to say
+
+
+<img src="/images/Welcome%20to%20Pei%20Tong/nurin%20batrisyia%20Mohamed%20ali%20Ctss.jpg" style="width:35%;margin-right:15px;" align = "left">
 
 Pei Tong is special to me because when I moved to the west side of Singapore, I did not have many friends. Pei Tong has helped me meet new people whom I am still friends with till this day.
 
@@ -150,7 +156,8 @@ I am thankful for my learning experience in Pei Tong and I would like to go back
 
 ## What our students have to say
 
-![](/images/Welcome%20to%20Pei%20Tong/sze%20yeeng%20tan.jpeg)
+
+<img src="/images/Welcome%20to%20Pei%20Tong/sze%20yeeng%20tan.jpeg" style="width:35%;margin-right:15px;" align = "left">
 
 Pei Tong is special to me as it is a place where many important values had been instilled in me. Pei Tong has many fun, engaging as well as bonding activities and excursions for all the students. Nonetheless, Pei Tong offers a lot of leadership opportunities which allowed me to grow bits by bits from there. 
 
