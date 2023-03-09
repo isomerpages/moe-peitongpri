@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Our Partners/Parent Support Group (PSG).md
       - Our Partners/Pei Tong Alumni.md
       - Our Partners/.keep
       - School Executive Committee.md
