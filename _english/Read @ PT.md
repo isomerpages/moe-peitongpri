@@ -5,15 +5,7 @@ description: ""
 ---
 # Read @ PT
 
-Reading helps a person to learn and grow. As a famous poet Margaret Atwood puts it succinctly, “I read for pleasure and that is the moment I learn the most.”  
-
-  
-
-At Pei Tong, we strongly believe that when our students develop a love and competency in reading, independent learning will take place. Putting our belief into practice, our school’s reading program seeks to nurture their love for reading through the use of various reading platforms that are tailored to build their reading interest and capacity.
-
-  
-
-Our reading program is guided by the principles that are Literature-rich, Interesting, Fun, and Engaging (LIFE)  for the students.
+Read@Pei Tong is an initiative to promote good reading habits among students. Students can enjoy a variety of exciting reading programmes that cater to different reading abilities and interests. Read@PT seeks to nurture a love of reading in students through various reading platforms and activities.
 
 ## Reading Programmes
 
