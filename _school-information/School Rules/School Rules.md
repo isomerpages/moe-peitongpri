@@ -4,7 +4,6 @@ permalink: /school-information/school-rules/
 description: ""
 third_nav_title: School Rules
 ---
-
 # School Rules
 
 **A. General Conduct**
@@ -112,8 +111,8 @@ third_nav_title: School Rules
 <table>
 <thead>
   <tr>
-    <th>E1</th>
-    <th>The usage of all mobile electronic devices (e.g. mobile phones, iPods, iPads, tablets or laptops, smart watches etc.) during school hours and CCA time is restricted and should only be used under direct teacher supervision for educational purposes.</th>
+    <td>E1</td>
+    <td>The usage of all mobile electronic devices (e.g. mobile phones, iPods, iPads, tablets or laptops, smart watches etc.) during school hours and CCA time is restricted and should only be used under direct teacher supervision for educational purposes.</td>
   </tr>
 </thead>
 <tbody>
