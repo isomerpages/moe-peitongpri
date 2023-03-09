@@ -5,7 +5,6 @@ description: ""
 ---
 # Contact Us
 
-## Contact Information
  
 
 ### School Office
