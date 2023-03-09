@@ -5,7 +5,11 @@ description: ""
 ---
 # English
 
-![](/images/PTPS%20Experience/Peitong-StagedShots-100.jpg)
+
+<img src="/images/PTPS%20Experience/Peitong-StagedShots-100.jpg" style="width:55%;margin-right:15px;" align = "left">
+
+
+
 
 In line with MOE’s Specific Aims of EL Syllabus 2020, Pei Tong Primary School desires every Pei Tong student to use English with impact, effect and affect.  In order to enable them to do so, our English department implements structured programmes to hone our students’ English Language skills under the four broad areas of **Writing, Reading, Listening and Speaking**.  
 
