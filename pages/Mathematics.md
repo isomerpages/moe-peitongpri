@@ -52,3 +52,12 @@ As we believe that all children can learn, ICAN programme is a collaboration bet
 Factual Fluency (FF) and Interleaved Distributed Practices (IDP) are two of the strategies that are characteristic of ICAN classes. The daily 5-10 minutes of FF and/ or IDP exercise helps students to recall and revise basic facts regularly and in turn, boost their confidence level to enable them to progress in handling more difficult concepts and skills.
 
 ![](/images/PTPS%20Experience/ican2.png)
+
+## Competitions
+
+
+In our school, we strive to provide a platform for our upper primary students to stretch their problem-solving skills and gain exposure to external competitions. Selected Primary 5 and/ or 6 students will be invited to participate in the following competitions:
+
+*   Raffles Institution Primary Mathematics World Contest (RIPMWC)
+*   Singapore Mathematical Olympiad for Primary School (SMOPS)
+*   NUS High School National Mathematical Olympiad of Singapore (NMOS)
