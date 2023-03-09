@@ -38,7 +38,9 @@ The E2K Science Programme is a Science enrichment programme for our upper primar
 
 ## Pei Tong Science Explorer Programme
 
-<img src="images/PTPS%20Experience/Science%20Explorer.png" style="width:45%;margin-right:15px;" align = "left">
+<img src="/images/PTPS%20Experience/Science%20Explorer.png" style="width:35%;margin-right:15px;" align = "left">
+
+
 
 The Pei Tong Science Explorer Programme is designed by our teachers to provide a variety of authentic learning experiences for our P3 and P5 students. Through a series of interesting learning activities that involve creative thinking and independent research skills, students can strengthen and deepen their science knowledge. To further enhance our students’ self-directedness, we provide several opportunities for them to take ownership of their own learning.
 
