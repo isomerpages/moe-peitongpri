@@ -69,6 +69,8 @@ Students will show care for the environment through learning more about food was
 
 Students will show care for the environment by embarking on a school-wide Save That Pen Campaign to encourage their schoolmates to reuse and donate pens to students in need, and also, to encourage the reuse of pens through refills.
 
+![](/images/PTPS%20Experience/VIA%20-%20Save%20that%20pen.png)
+
 ## P5- iCare for the COMMUNITY (i)
 
 
@@ -81,7 +83,7 @@ Students will show care for their community by learning more about special needs
 ## P6- iCare for the COMMUNITY (ii)
 
 
-<b><u>Learning about dementia (\*new)</u></b>
+<b><u>Learning about dementia (*new)</u></b>
 
 Students will show care for the elderly by getting to know more about elderly issues and dementia.  
 
