@@ -36,10 +36,30 @@ links:
       - title: Learning for Life Programme
         url: /ptps-experience/learning-for-life-programme-llp
   - title: Our Gallery
-    url: /permalink
-    sublinks: []
+    url: /our-gallery/photo-gallery/
+    sublinks:
+      - title: Photo Gallery
+        url: /our-gallery/photo-gallery/
+      - title: Art E-Gallery
+        url: https://sites.google.com/moe.edu.sg/ptpsart/
+      - title: Videos
+        url: /our-gallery/videos/
   - title: Parents' Portal
     collection: parents-portal
   - title: MK@Pei Tong
-    url: /permalink
-    sublinks: []
+    url: /mkpeitong
+    sublinks:
+      - title: About MOE Kindergarten (MK)
+        url: /mkpeitong/about-moe-kindergarten-mk
+      - title: Curriculum
+        url: /mkpeitong/curriculum
+      - title: Our Learning Environment
+        url: /mkpeitong/our-learning-environment
+      - title: Parent Support Group (PSG)
+        url: /mkpeitong/parent-support-group-psg
+      - title: Contact Us
+        url: /mkpeitong/contact-us
+      - title: Useful Information/Links
+        url: /mkpeitong/useful-information-links
+      - title: Highlights
+        url: /mkpeitong/highlights/2022-term-4
