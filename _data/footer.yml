@@ -1,4 +1,5 @@
 contact_us: /contact-us/
 show_reach: true
 faq: /faq/
-social_media: {}
+social_media:
+  youtube: https://www.youtube.com/channel/UCUOCuOaW2sn0A5jTdkHlr7g
