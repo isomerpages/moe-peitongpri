@@ -2,8 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - Pei Tong Alumni.md
-      - Parent Support Group (PSG).md
       - School Executive Committee.md
       - Primary 1 Form Teachers.md
       - Primary 2 Form Teachers.md
@@ -13,3 +11,5 @@ collections:
       - Primary 6 Form Teachers.md
       - Allied Educators (AED).md
       - Executive and Administrative Staff.md
+      - Parent Support Group (PSG).md
+      - Pei Tong Alumni.md
