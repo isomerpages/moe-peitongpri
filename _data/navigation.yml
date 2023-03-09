@@ -7,8 +7,34 @@ links:
   - title: Our People
     collection: our-people
   - title: PTPS Experience
-    url: /permalink
-    sublinks: []
+    url: /ptps-experience/ptps-enriched-total-curriculum-petc
+    sublinks:
+      - title: PTPS Enriched Total Curriculum
+        url: /ptps-experience/ptps-enriched-total-curriculum-petc
+      - title: English
+        url: /ptps-experience/english
+      - title: Mathematics
+        url: /ptps-experience/mathematics
+      - title: Science
+        url: /ptps-experience/science
+      - title: Mother Tongue
+        url: /ptps-experience/mother-tongue/chinese-department-activities/
+      - title: CCE
+        url: /ptps-experience/character-and-citizenship-education-cce/
+      - title: Physical and Health Education
+        url: /ptps-experience/physical-and-health-education-phe
+      - title: Art
+        url: /ptps-experience/art
+      - title: Music
+        url: /ptps-experience/music
+      - title: Co-curricular activities (CCA)
+        url: /ptps-experience/co-curricular-activities-cca
+      - title: ICT
+        url: /ptps-experience/information-and-communications-technology-ict
+      - title: Applied Learning Programme
+        url: /ptps-experience/applied-learning-programme-alp
+      - title: Learning for Life Programme
+        url: /ptps-experience/learning-for-life-programme-llp
   - title: Our Gallery
     url: /permalink
     sublinks: []
