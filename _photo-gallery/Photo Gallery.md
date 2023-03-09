@@ -5,3 +5,4 @@ description: ""
 ---
 # Photo Gallery
 
+Click on the sidebar to see all the different school events!
