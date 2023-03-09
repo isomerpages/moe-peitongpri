@@ -42,3 +42,23 @@ The school seeks to develop in the students the following dispositions as well a
 (e) Are **self-directed** in their learning and
 
 (f) Are **active citizens** who seek to make positive changes that result in a greener environment.
+
+![](/images/PTPS%20Experience/ALP/ALP2.png)
+
+## Tier 1 Activities
+
+
+All students are engaged in the “Change Maker” projects to provide them with opportunities to have hands-on experience to address different issues related to sustainable living. 
+
+  
+
+They are presented with real-life problems and are required to work on solutions in teams and develop prototypes where applicable, with the application of STEM skills and knowledge in an integrated manner. 
+
+  
+
+To guide the students in the solutioning process, the school adopts the “Design for Change” (DfC) Approach which incorporates the ‘**Feel, Imagine, Do and Share**’ (FIDS) process for the “Change Maker” projects.  The complexity of the projects is progressive in nature, based on the development of the 21st CC outcomes.
+
+## Tier 2 Activities
+
+
+Several platforms are available for students interested in STEM and environmental concerns to delve deeper into these areas and enhance their knowledge and skills. These platforms include co-curricular activities (CCAs), such as the Environmental Science Club and the InfoComm Club. These clubs enable students to participate in initiatives aimed at preserving and maintaining the school environment and promoting sustainable practices among members of the school community.
