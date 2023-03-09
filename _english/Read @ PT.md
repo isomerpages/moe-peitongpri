@@ -38,13 +38,18 @@ Read@Pei Tong is an initiative to promote good reading habits among students. St
 
 ## Go Read A Book (GRAB)
 
-![](/images/PTPS%20Experience/Picture1.jpg)
 
-“Go, Read A Book” (GRAB) comprises 4 different level reader books, ranging from emergent readers to intermediate readers that are placed in the class library. These books are carefully curated to suit the reading needs of our students.
+<img src="/images/PTPS%20Experience/Picture1.jpg" style="width:35%;margin-right:15px;" align = "left">
 
-![](/images/PTPS%20Experience/Go%20read.jpg)
 
-Every month, the students will write book reviews based on the story plot, and characters that they have read from the class library and recommend the books they have read to their peers verbally.  The books are rotated among the classes on a termly basis to ensure that each student would be given the opportunity to read 120 books in a year.
+
+
+GRAB books are carefully curated to suit the reading abilities of our students. Each lower primary class will receive level readers that comprises of four different level reader books that cater to both the emergent as well as intermediate readers. These level readers are placed in the class library. 
+
+  
+
+Students will be given the opportunity to share what they have read during GRAB in English lessons through verbal sharing and other activities carried out by the teachers. The books are rotated among the classes on a termly basis to ensure that each student is given the opportunity to read at least 120 books in a year.
+
 
   
 
