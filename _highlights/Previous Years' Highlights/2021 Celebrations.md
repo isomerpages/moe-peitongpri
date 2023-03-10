@@ -33,6 +33,7 @@ third_nav_title: Previous Years' Highlights
 
 ![](/images/MK@Pei%20Tong/Highlights/2021/Events%20Celebrations%20N%20D%201.jpg)
 
+![](/images/MK@Pei%20Tong/Highlights/2021/Events%20Celebrations%20N%20D%203.jpg)
+
 ![](/images/MK@Pei%20Tong/Highlights/2021/Events%20Celebrations%20N%20D%202.jpg)
 
-![](/images/MK@Pei%20Tong/Highlights/2021/Events%20Celebrations%20N%20D%203.jpg)
