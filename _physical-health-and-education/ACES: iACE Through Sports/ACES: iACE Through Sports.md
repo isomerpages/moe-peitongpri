@@ -74,7 +74,7 @@ The I’mPossible Week is a Paralympic Education Programme which exposes our stu
 
 
 
-Through the event, we hope to equip students with Paralympic Values of courage, determination, inspiration, and equity to be able to achieve the impossible in their lives.<br><br>
+Through the event, we hope to equip students with Paralympic Values of courage, determination, inspiration, and equity to be able to achieve the impossible in their lives.<br><br><br>
 
 
 ## ActiveSG
