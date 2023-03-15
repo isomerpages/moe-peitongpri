@@ -56,8 +56,8 @@ description: ""
     <td><a href="mailto:vanessa_krishn@moe.edu.sg">vanessa_krishn@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td>Mr Melvin Koh Wan Hou<br>Mdm Lee Pei Shan</td>
-    <td><a href="mailto:koh_wan_hou_melvin@moe.edu.sg">koh_wan_hou_melvin@moe.edu.sg</a> <br><a href="mailto:lee_pei_shan@moe.edu.sg">lee_pei_shan@moe.edu.sg</a></td>
+    <td>Mr Melvin Koh Wan Hou<br></td>
+    <td><a href="mailto:koh_wan_hou_melvin@moe.edu.sg">koh_wan_hou_melvin@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td rowspan="2"><b>Resilience 6</b></td>
