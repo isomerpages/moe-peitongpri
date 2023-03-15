@@ -2,5 +2,4 @@ collections:
   english:
     output: true
     order:
-      - I Write with An Intent.md
       - Spelling.md
