@@ -2,6 +2,7 @@ collections:
   ptps-experience:
     output: true
     order:
+      - Science.md
       - Programme for Active Learning (PAL).md
       - Co Curricular Activities (CCA).md
       - Education and Career Guidance.md
