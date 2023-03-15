@@ -20,8 +20,8 @@ description: ""
     <td><a href="mailto:yap_shi_mei_erika@moe.edu.sg">yap_shi_mei_erika@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td>Miss Chan Wen Hui (YH P1 &amp; P2)</td>
-    <td><a href="mailto:chan_wen_hui@moe.edu.sg">chan_wen_hui@moe.edu.sg</a></td>
+    <td>Mdm Lee Pei Shan</td>
+    <td><a href="mailto:lee_pei_shan@moe.edu.sg">lee_pei_shan@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td rowspan="2"><b>Care 2</b></td>
