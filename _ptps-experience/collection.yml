@@ -2,6 +2,7 @@ collections:
   ptps-experience:
     output: true
     order:
+      - CCE/iCARE (Values in Action @ PT).md
       - CCE/Character and Citizenship Education (CCE).md
       - CCE/Citizenship Education.md
       - CCE/.keep
