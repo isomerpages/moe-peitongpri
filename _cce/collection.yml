@@ -2,6 +2,5 @@ collections:
   cce:
     output: true
     order:
-      - Citizenship Education.md
       - "'I Influence' (Student Leadership @ PT).md"
       - Education and Career Guidance.md
