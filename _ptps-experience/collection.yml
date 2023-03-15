@@ -2,6 +2,7 @@ collections:
   ptps-experience:
     output: true
     order:
+      - PTPS Enriched Total Curriculum (PETC).md
       - Information and Communications Technology (ICT).md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
