@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Malay Department Activities/.keep
-      - Malay Department Activities/Malay Department Activities.md
+      - Malay Department Activities/Malay Department.md
       - Malay Department Activities/Student Portfolios.md
       - Tamil Department Activities.md
