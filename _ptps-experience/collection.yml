@@ -2,4 +2,5 @@ collections:
   ptps-experience:
     output: true
     order:
+      - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
