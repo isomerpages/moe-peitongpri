@@ -4,8 +4,7 @@ permalink: /ptps-experience/mother-tongue/malay-department-activities/
 description: ""
 third_nav_title: Malay Department Activities
 ---
-
-# Malay Department Activities
+# Malay Department
 
 ## Active Recess Activities
 
