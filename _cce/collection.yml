@@ -2,5 +2,4 @@ collections:
   cce:
     output: true
     order:
-      - "'I Influence' (Student Leadership @ PT).md"
       - Education and Career Guidance.md
