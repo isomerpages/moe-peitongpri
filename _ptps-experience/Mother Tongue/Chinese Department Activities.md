@@ -4,8 +4,6 @@ permalink: /ptps-experience/mother-tongue/chinese-department-activities/
 description: ""
 third_nav_title: Mother Tongue
 ---
-
-
 # Chinese Department Activities
 
 
@@ -45,3 +43,7 @@ In line with textbook content, another Primary 5 class was also tasked to write 
 ![](/images/PTPS%20Experience/CL%20P2%20Show%20and%20Tell.png)
 
 Through the lessons, students learn about various jobs and occupations. Teachers provide learning packages for students to understand the description and demands of the various jobs and occupations. Students will learn what doctors, nurses, gardeners, policemen and more, do daily. At the end of the lessons, students have a chance to role-play the occupations that they are interested in.  The lessons provide real-life experiences for students to practice and apply the language skills or knowledge they learned.
+
+# Student Portfolios
+
+[Click Here!](https://sites.google.com/moe.edu.sg/studentsportfolio/home)
