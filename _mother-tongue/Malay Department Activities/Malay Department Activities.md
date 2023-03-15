@@ -84,3 +84,17 @@ On top of that, students learned the content through exploration and discussion.
 
 
 On 29th April 2022, the Malay Department organized a Hari Raya Aidilfitri celebration via Zoom. The students learnt about the significance of Hari Raya Aidilfitri and ketupat. Prior to the celebration, students had to decorate their own ketupats which were then hanged around the school. The highlight of the event was when Mr Ketupat went into each class while the celebration was going on. The students were ecstatic when they saw Mr Ketupat giving out green packets to students. The students also participated in a Hari Raya quiz and watched an outfit change challenge video by the P5 and P6 Malay language students. The celebration was concluded with a mass Hari Raya dance which was demonstrated by Pei Tong teachers in the video. It was definitely a fun and meaningful celebration for everybody!
+
+# Student Portfolios
+
+![](/images/PTPS%20Experience/AaliyahZ%20Res2.jpg)
+
+![](/images/PTPS%20Experience/Aliya%20C%20Res4.jpg)
+
+![](/images/PTPS%20Experience/Grace%20Ex4.jpg)
+
+![](/images/PTPS%20Experience/NurSyifa%20Ex6.jpg)
+
+![](/images/PTPS%20Experience/NurSyifa%20Ex6.jpg)
+
+![](/images/PTPS%20Experience/Sharleez%20Res5.jpg)
