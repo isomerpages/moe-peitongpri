@@ -2,5 +2,4 @@ collections:
   our-learning-environment:
     output: true
     order:
-      - Outdoor Environment.md
       - MK@Pei Tong Virtual Tour.md
