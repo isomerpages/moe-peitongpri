@@ -2,6 +2,7 @@ collections:
   mk:
     output: true
     order:
+      - Indoor Environment.md
       - Our Learning Environment.md
       - Useful Information Links.md
       - Parent Support Group (PSG).md
