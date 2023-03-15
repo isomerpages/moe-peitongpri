@@ -4,9 +4,7 @@ permalink: /ptps-experience/mother-tongue/tamil-department-activities/
 description: ""
 third_nav_title: Mother Tongue
 ---
-
-
-# Tamil Department Activities
+# Tamil Department
 
 ## Tamil Language Fortnight
 
