@@ -2,6 +2,7 @@ collections:
   ptps-experience:
     output: true
     order:
+      - Physical & Health Education/Physical and Health Education (PHE).md
       - Physical & Health Education/.keep
       - Mind Our Health (MOH).md
       - Science.md
