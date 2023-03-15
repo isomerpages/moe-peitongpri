@@ -2,6 +2,7 @@ collections:
   ptps-experience:
     output: true
     order:
+      - Art/Art.md
       - Art/.keep
       - Art E Gallery.md
       - English/Spelling.md
