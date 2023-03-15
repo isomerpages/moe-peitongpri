@@ -2,6 +2,7 @@ collections:
   mk:
     output: true
     order:
+      - Useful Information Links.md
       - Parent Support Group (PSG).md
       - Contact Us.md
       - Curriculum.md
