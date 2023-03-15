@@ -2,6 +2,7 @@ collections:
   mk:
     output: true
     order:
+      - Contact Us.md
       - Curriculum.md
       - About MOE Kindergarten (MK).md
       - MK@Pei Tong.md
