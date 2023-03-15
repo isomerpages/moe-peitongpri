@@ -1,5 +1,4 @@
 collections:
   our-learning-environment:
     output: true
-    order:
-      - MK@Pei Tong Virtual Tour.md
+    order: []
