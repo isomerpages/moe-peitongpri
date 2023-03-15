@@ -2,6 +2,7 @@ collections:
   ptps-experience:
     output: true
     order:
+      - Mother Tongue/.keep
       - Chinese Department Activities.md
       - Student Portfolios.md
       - PTPS Enriched Total Curriculum (PETC).md
