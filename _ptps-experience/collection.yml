@@ -2,6 +2,7 @@ collections:
   ptps-experience:
     output: true
     order:
+      - Character and Citizenship Education (CCE).md
       - Music.md
       - Mathematics.md
       - PTPS Enriched Total Curriculum (PETC).md
