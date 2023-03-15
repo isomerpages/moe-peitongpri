@@ -2,6 +2,7 @@ collections:
   ptps-experience:
     output: true
     order:
+      - Mother Tongue/Malay Department.md
       - Mother Tongue/Chinese Department.md
       - Mother Tongue/.keep
       - PTPS Enriched Total Curriculum (PETC).md
