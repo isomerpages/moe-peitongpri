@@ -1,5 +1,4 @@
 collections:
   art:
     output: true
-    order:
-      - Art E Gallery.md
+    order: []
