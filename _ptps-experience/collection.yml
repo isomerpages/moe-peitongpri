@@ -2,11 +2,11 @@ collections:
   ptps-experience:
     output: true
     order:
-      - Physical & Health Education/Mind Our Health (MOH).md
-      - Physical & Health Education/Co Curricular Activities (CCA).md
-      - Physical & Health Education/Programme for Active Learning (PAL).md
-      - Physical & Health Education/Physical and Health Education (PHE).md
-      - Physical & Health Education/.keep
+      - Physical and Health Education/Mind Our Health (MOH).md
+      - Physical and Health Education/Co Curricular Activities (CCA).md
+      - Physical and Health Education/Programme for Active Learning (PAL).md
+      - Physical and Health Education/Physical and Health Education (PHE).md
+      - Physical and Health Education/.keep
       - Science.md
       - Education and Career Guidance.md
       - "'I Influence' (Student Leadership @ PT).md"
