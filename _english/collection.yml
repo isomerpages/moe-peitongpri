@@ -2,7 +2,6 @@ collections:
   english:
     output: true
     order:
-      - Read @ PT.md
       - Mindful Reader.md
       - Oral Communication Programme.md
       - I Write with An Intent.md
