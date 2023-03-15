@@ -2,10 +2,6 @@ collections:
   ptps-experience:
     output: true
     order:
-      - Mother Tongue/Tamil Department Activities.md
-      - Mother Tongue/Malay Department.md
-      - Mother Tongue/Chinese Department.md
-      - Mother Tongue/.keep
       - PTPS Enriched Total Curriculum (PETC).md
       - English/.keep
       - English/Spelling.md
@@ -16,16 +12,20 @@ collections:
       - English/English.md
       - Mathematics.md
       - Science.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Tamil Department Activities.md
+      - Mother Tongue/Malay Department.md
+      - Mother Tongue/Chinese Department.md
       - CCE/.keep
       - CCE/'I Influence' (Student Leadership @ PT).md
       - CCE/Education and Career Guidance.md
       - CCE/iCARE (Values in Action @ PT).md
       - CCE/Character and Citizenship Education (CCE).md
       - CCE/Citizenship Education.md
+      - Physical and Health Education/.keep
       - Physical and Health Education/ACES Primary 3 to 6.md
       - Physical and Health Education/ACES Primary 1 and 2.md
       - "Physical and Health Education/ACES: iACE Through Sports.md"
-      - Physical and Health Education/.keep
       - Physical and Health Education/Mind Our Health (MOH).md
       - Physical and Health Education/Co Curricular Activities (CCA).md
       - Physical and Health Education/Programme for Active Learning (PAL).md
