@@ -2,6 +2,7 @@ collections:
   ptps-experience:
     output: true
     order:
+      - Physical & Health Education/Mind Our Health (MOH).md
       - Physical & Health Education/Co Curricular Activities (CCA).md
       - Physical & Health Education/Programme for Active Learning (PAL).md
       - Physical & Health Education/Physical and Health Education (PHE).md
