@@ -2,6 +2,7 @@ collections:
   ptps-experience:
     output: true
     order:
+      - Art E Gallery.md
       - Art.md
       - English/Spelling.md
       - English/I Write with An Intent.md
