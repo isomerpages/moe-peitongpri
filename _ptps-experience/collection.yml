@@ -2,17 +2,17 @@ collections:
   ptps-experience:
     output: true
     order:
-      - Art/Art E Gallery.md
-      - Art/Art.md
-      - Art/.keep
+      - PTPS Enriched Total Curriculum (PETC).md
+      - English/.keep
       - English/Spelling.md
       - English/I Write with An Intent.md
       - English/Oral Communication Programme.md
       - English/Mindful Reader.md
       - English/Read @ PT.md
       - English/English.md
-      - English/.keep
-      - PTPS Enriched Total Curriculum (PETC).md
+      - Art/.keep
+      - Art/Art E Gallery.md
+      - Art/Art.md
       - Information and Communications Technology (ICT).md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
