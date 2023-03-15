@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - "ACES: iACE Through Sports/.keep"
-      - "ACES: iACE Through Sports/ACES: iACE Through Sports.md"
       - "ACES: iACE Through Sports/ACES Primary 1 and 2.md"
       - "ACES: iACE Through Sports/ACES Primary 3 to 6.md"
