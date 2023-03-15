@@ -4,7 +4,7 @@ permalink: /ptps-experience/mother-tongue/chinese-department-activities/
 description: ""
 third_nav_title: Mother Tongue
 ---
-# Chinese Department Activities
+# Chinese Department
 
 
 ## P2 Clay Making
