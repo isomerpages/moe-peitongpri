@@ -2,6 +2,5 @@ collections:
   our-learning-environment:
     output: true
     order:
-      - Indoor Environment.md
       - Outdoor Environment.md
       - MK@Pei Tong Virtual Tour.md
