@@ -1,5 +1,4 @@
 collections:
   english:
     output: true
-    order:
-      - Spelling.md
+    order: []
