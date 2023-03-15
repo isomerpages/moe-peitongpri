@@ -2,20 +2,6 @@ collections:
   ptps-experience:
     output: true
     order:
-      - CCE/'I Influence' (Student Leadership @ PT).md
-      - CCE/Education and Career Guidance.md
-      - CCE/iCARE (Values in Action @ PT).md
-      - CCE/Character and Citizenship Education (CCE).md
-      - CCE/Citizenship Education.md
-      - CCE/.keep
-      - Physical and Health Education/Mind Our Health (MOH).md
-      - Physical and Health Education/Co Curricular Activities (CCA).md
-      - Physical and Health Education/Programme for Active Learning (PAL).md
-      - Physical and Health Education/Physical and Health Education (PHE).md
-      - Physical and Health Education/.keep
-      - Science.md
-      - Music.md
-      - Mathematics.md
       - PTPS Enriched Total Curriculum (PETC).md
       - English/.keep
       - English/Spelling.md
@@ -24,9 +10,23 @@ collections:
       - English/Mindful Reader.md
       - English/Read @ PT.md
       - English/English.md
+      - Mathematics.md
+      - Science.md
+      - CCE/.keep
+      - CCE/'I Influence' (Student Leadership @ PT).md
+      - CCE/Education and Career Guidance.md
+      - CCE/iCARE (Values in Action @ PT).md
+      - CCE/Character and Citizenship Education (CCE).md
+      - CCE/Citizenship Education.md
+      - Physical and Health Education/.keep
+      - Physical and Health Education/Mind Our Health (MOH).md
+      - Physical and Health Education/Co Curricular Activities (CCA).md
+      - Physical and Health Education/Programme for Active Learning (PAL).md
+      - Physical and Health Education/Physical and Health Education (PHE).md
       - Art/.keep
       - Art/Art E Gallery.md
       - Art/Art.md
+      - Music.md
       - Information and Communications Technology (ICT).md
-      - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
+      - Applied Learning Programme (ALP).md
