@@ -2,5 +2,6 @@ collections:
   ptps-experience:
     output: true
     order:
+      - Information and Communications Technology (ICT).md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
