@@ -2,6 +2,7 @@ collections:
   ptps-experience:
     output: true
     order:
+      - Co Curricular Activities (CCA).md
       - Education and Career Guidance.md
       - "'I Influence' (Student Leadership @ PT).md"
       - Citizenship Education.md
