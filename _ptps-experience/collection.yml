@@ -3,13 +3,13 @@ collections:
     output: true
     order:
       - PTPS Enriched Total Curriculum (PETC).md
-      - English/P5 Enrichment Programme (for selected students).md
       - English/.keep
       - English/English.md
       - English/Read @ PT.md
       - English/Oral Communication Programme (P1 to P4).md
       - English/Mindful Reader (P3 to P6).md
       - English/P5 Literature Programme.md
+      - English/P5 Enrichment Programme (for selected students).md
       - Mathematics.md
       - Science.md
       - Mother Tongue/.keep
