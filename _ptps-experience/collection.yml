@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - PTPS Enriched Total Curriculum (PETC).md
+      - English/P5 Enrichment Programme (for selected students).md
       - English/.keep
       - English/English.md
       - English/Read @ PT.md
