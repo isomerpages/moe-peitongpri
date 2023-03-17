@@ -11,7 +11,7 @@ _Every student, an engaged Mathematics learner._
 
 Students master mathematical concepts and skills through activity-based lessons using Concrete-Pictorial-Abstract (CPA) approach. They also learn to reason and communicate mathematical ideas during group activities. These approaches help build numeracy skills, foster greater interest in the subject, and develop better problem-solvers to function effectively in everyday life. 
 
-## Mathematics Made Meaningful (M3)
+## Mathematics Made Meaningful (M³)
 
 ![](/images/PTPS%20Experience/math%202.jpg)
 
@@ -19,7 +19,7 @@ A child learns best through ‘play’. Students experience authentic learning e
 
 ![](/images/PTPS%20Experience/Math/M3-Circles.jpg)
 
-## Mastery in Mathematics (M2)
+## Mastery in Mathematics (M²)
 
 ![](/images/PTPS%20Experience/math.png)
 
