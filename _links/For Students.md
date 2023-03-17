@@ -9,17 +9,13 @@ description: ""
 
 
 * [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
-*   [Google Workspace](https://workspace.google.com/dashboard)[](https://vle.learning.moe.edu.sg/login)
-*   [Google Classroom](https://classroom.google.com/login) (LINK DOES NOT WORK)
+*   [Google Workspace/ Classroom](https://workspace.google.com/dashboard)
 *   [Google Gmail](http://google.com/mail)
-
-  
-
 *   [Padlet](https://padlet.com/)  
-    
 *   [KooBits](https://member.koobits.com/)
 *   [Kahoot!](https://kahoot.it/)
 *   [Myskillsfuture (Pri)](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
+
 
 ## SLS Login Problems
 
@@ -32,3 +28,7 @@ description: ""
 
 *   [PTPS Library](https://schoolibrary.moe.edu.sg/peitongpri)
 *   [PTPS Art E-Gallery](https://sites.google.com/moe.edu.sg/ptpsart)
+
+## NLB
+*   [NLB Reading D.I.Y. Resources](https://childrenandteens.nlb.gov.sg/diy-resources/primary/primary-main/)
+*   [NLB Book Recommendations](https://childrenandteens.nlb.gov.sg/book-recommendations/recommend-primary/)
