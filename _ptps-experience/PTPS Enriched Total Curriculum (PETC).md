@@ -8,7 +8,7 @@ description: ""
 ## Overview of PETC
 
 
-Every child can develop holistally through Pei Tong Primary School’s Enriched Total Curriculum (PETC). 
+Every child can develop holistally through **Pei Tong Primary School’s Enriched Total Curriculum (PETC)**. 
 
 ![](/images/PTPS%20Experience/Peitong-StagedShots-152.jpg)
 
