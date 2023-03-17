@@ -3,22 +3,21 @@ title: Mathematics
 permalink: /ptps-experience/mathematics/
 description: ""
 ---
-
 # Mathematics
 
 **Our Vision**
 
 _Every student, an engaged Mathematics learner._
 
-  
-
-We believe in building a strong foundation in the teaching and learning of mathematical concepts in our students. In line with joyful learning, the mastery of mathematical concepts and skills is achieved through activity-based lessons using the Concrete-Pictorial-Abstract (CPA) approach. Emphasis is also placed on developing in students, the ability to reason and communicate ideas in Mathematics during group activities. These approaches help build numeracy skills, foster greater interest in the subject, as well as develop better problem-solvers to function effectively in everyday life. 
+Students master mathematical concepts and skills through activity-based lessons using Concrete-Pictorial-Abstract (CPA) approach. They also learn to reason and communicate mathematical ideas during group activities. These approaches help build numeracy skills, foster greater interest in the subject, and develop better problem-solvers to function effectively in everyday life. 
 
 ## Mathematics Made Meaningful (M3)
 
 ![](/images/PTPS%20Experience/math%202.jpg)
 
-A child learns best through ‘play’. The learning of mathematical concepts is made more meaningful and joyful through authentic learning experiences within and beyond classrooms. Manipulatives and/ or technology are used to enhance the understanding of concepts. During collaborative learning, teachers use Talk Moves to encourage and guide students to reason and communicate their thinking, so that they become confident problem-solvers.  
+A child learns best through ‘play’. Students experience authentic learning experiences to make learning of  mathematical concepts more joyful. Their conceptual understanding is enhanced through manipulatives and/ or technology. During group work, teachers use Talk Moves to encourage and guide students to reason and communicate their thinking, so that they become confident problem-solvers.
+
+![](/images/PTPS%20Experience/Math/M3-Circles.jpg)
 
 ## Mastery in Mathematics (M2)
 
