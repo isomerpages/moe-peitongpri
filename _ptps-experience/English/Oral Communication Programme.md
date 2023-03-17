@@ -4,7 +4,7 @@ permalink: /ptps-experience/english/oral-communication-programme/
 description: ""
 third_nav_title: English
 ---
-# Oral Communication Programme (from P1 to P4)
+# Oral Communication Programme (P1 to P4)
 
 As part of the English Language Oral Communication Programme in Pei Tong Primary School, all Primary 1 to Primary 4 students will enjoy a series of enrichment programmes in Term 3. 
 
@@ -27,4 +27,4 @@ Students work in groups to put up a one-minute presentation that aims to inform,
 
 ## Primary 4 -Debate 
 
-Students strengthen their critical thinking skills as they make arguments substantiated with evidence and data. They learn to express themselves coherently and confidently while presenting their arguments in front of an audience. The programme aims to build the oral competencies of students and equip them with the basic vocabulary, terms and structure of a debate. 
+Students strengthen their critical thinking skills as they make arguments substantiated with evidence and data. They learn to express themselves coherently and confidently while presenting their arguments in front of an audience. The programme aims to build the oral competencies of students and equip them with the basic vocabulary, terms and structure of a debate.
