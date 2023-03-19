@@ -120,7 +120,7 @@ b.        Character and Citizenship Education (CCE)
 
 **\*For 2023, the Primary 5 lesson “_Did You Know_?” will also be conducted for the Primary 6 cohort.**
 
-Information for Parents
+## Information for Parents
 -----------------------
 
 8.    Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
