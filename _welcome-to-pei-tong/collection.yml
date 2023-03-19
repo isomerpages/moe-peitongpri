@@ -2,7 +2,7 @@ collections:
   welcome-to-pei-tong:
     output: true
     order:
-      - Welcome to Pei Tong.md
+      - Introduction.md
       - Principal's Message.md
       - A Home Where Every Child Flourishes.md
       - Passionate Learners.md
