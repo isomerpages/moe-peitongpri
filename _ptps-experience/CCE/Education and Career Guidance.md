@@ -4,10 +4,6 @@ permalink: /ptps-experience/character-and-citizenship-education-cce/education-an
 description: ""
 third_nav_title: CCE
 ---
-
-
-# Education and Career Guidance
-
 ## Goal
 
 
