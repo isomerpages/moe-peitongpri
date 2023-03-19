@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Previous Years' Highlights/.keep
-      - Previous Years' Highlights/2021 Celebrations.md
       - Previous Years' Highlights/2021 LIFE@MK.md
