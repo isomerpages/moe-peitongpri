@@ -74,5 +74,3 @@ The ICT Programmes in Pei Tong Primary School are planned in mind to support a c
 ![](/images/PTPS%20Experience/ICT/ICT%20ileap2.png)
 
 ![](/images/PTPS%20Experience/ICT/ICT%20ileap3.png)
-
-![](/images/PTPS%20Experience/ICT/e-learning.jpeg)
