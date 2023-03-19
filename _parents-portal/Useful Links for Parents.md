@@ -9,11 +9,15 @@ description: ""
 ## Parents' Gateway (PG)
 
 
-[Parents Gateway](https://pg.moe.edu.sg/) is a mobile app specially designed for parents. Developed by MOE and GovTech, the app allows parents to engage closely with schools, receive information and perform a range of administrative functions including giving consent for school trips. We would like to invite all parents to download the free Parents Gateway mobile app on your mobile phone (available on iOS and Android platforms only) and perform a simple one-time onboarding process. Please refer to the Parents Gateway Guide below for a step-by-step guide.
+[Parents Gateway](https://pg.moe.edu.sg/) is a mobile app specially designed for parents. Developed by MOE and GovTech, the app allows parents to engage closely with schools, receive information and perform a range of administrative functions including giving consent for school trips. 
+
+We would like to invite all parents to download the free Parents Gateway mobile app on your mobile phone (available on iOS and Android platforms only) and perform a simple one-time onboarding process. 
+
+Please click here for the [Parents Gateway Guide](/files/Parents%20Portal/Parents%20Gateway%20Guide.pdf) for a step-by-step guide.
 
 Should you require assistance, please contact our Administration Manager, Ms Jia Jinghui, at 67775458 or email her at [jia\_jinghui@schools.gov.sg](mailto:jia_jinghui@schools.gov.sg).
 
-**Click here for** [Parents Gateway Guide](/files/Parents%20Portal/Parents%20Gateway%20Guide.pdf)
+
 **Download app from the [Apple App Store](https://apps.apple.com/sg/app/parents-gateway/id1267198708) or [Google Play Store](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG)**
 
 ## MOE Parent KIT
