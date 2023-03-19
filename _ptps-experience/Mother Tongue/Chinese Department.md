@@ -12,7 +12,7 @@ Students learn Chinese in authentic learning experiences where lessons have diff
 
 A highlight for lower primary students is when teachers brought vegetables to class. They had tactile and sensory learning experiences that related to their activity book. Students were even encouraged to bring the vegetables home to prepare a meal together with their families.
 
-![]()
+![](/images/PTPS%20Experience/CL%202023%20Auth.png)
 
 ## P2 Clay Making
 
