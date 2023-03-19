@@ -4,16 +4,13 @@ permalink: /ptps-experience/information-and-communications-technology-ict/
 description: ""
 ---
 # Overview
-
+The ICT Programmes in Pei Tong Primary School are planned in mind to support a community of curious and self-directed learners empowered with technology tools. This is done through a **3-pronged approach** of **Equipping** and allowing the **Achievement** of ICT Baseline skills and Media Literacies as well as **Enthusing** students to explore new ICT skills. Hence, the ICT Literacies Equip, enthuse and Achievement Programme (iLEAP) was conceptualised. 
 
 ![](/images/PTPS%20Experience/ICT/ICT-framework.png)
-
-The ICT Programmes in Pei Tong Primary School are planned in mind to support a community of curious and self-directed learners empowered with technology tools. This is done through a **3-pronged approach** of **Equipping** and allowing the **Achievement** of ICT Baseline skills and Media Literacies as well as **Enthusing** students to explore new ICT skills. Hence, the ICT Literacies Equip, enthuse and Achievement Programme (iLEAP) was conceptualised. 
 
   
 
 4 distinctive overarching areas focusing on ensuring students acquire the knowledge, skills, attitudes, and values pertinent to thriving in the 21st Century were mapped out. They are as follows:
-
 ![](/images/PTPS%20Experience/ICT/ICT%20ileap.png)
 
 <table>
