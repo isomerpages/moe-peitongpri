@@ -4,7 +4,7 @@ permalink: /ptps-experience/mother-tongue/chinese-department-activities/
 description: ""
 third_nav_title: Mother Tongue
 ---
-# Chinese Department
+# Overview
 
 Students learn Chinese in authentic learning experiences where lessons have different themes or scenarios to provide real life experiences for students to apply the language skills or knowledge they have learnt.
 
