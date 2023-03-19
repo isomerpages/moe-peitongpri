@@ -3,7 +3,6 @@ title: Curriculum
 permalink: /mkpeitong/curriculum/
 description: ""
 ---
-
 # Curriculum
 
 
@@ -18,11 +17,11 @@ description: ""
 <tbody>
   <tr>
     <td>AM session</td>
-    <td>8am - 12pm</td>
+    <td>8.00am - 12.00pm</td>
   </tr>
   <tr>
     <td>PM session</td>
-    <td>1pm - 5pm</td>
+    <td>1.00pm - 5.00pm</td>
   </tr>
 </tbody>
 </table>
