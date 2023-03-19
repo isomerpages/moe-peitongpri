@@ -4,10 +4,7 @@ permalink: /ptps-experience/physical-and-health-education-phe/aces-iace-through-
 description: ""
 third_nav_title: Physical and Health Education
 ---
-
-
-# Primary 3 to 6
-
+# Overview
 
 P3 to P6 programmes progress from lower primary to focus on gross and fine motor coordination and game skills. Students also learn basic survival skills and fitness. Students grow in social skills and relationship management as they participate in activities that require greater teamwork.
 
