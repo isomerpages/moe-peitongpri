@@ -4,10 +4,7 @@ permalink: /ptps-experience/physical-and-health-education-phe/aces-iace-through-
 description: ""
 third_nav_title: Physical and Health Education
 ---
-
-
-# Primary 1 and 2
-
+# Overview
 
 The P1 and P2 programmes focus on fitness, general coordination and fundamental movement. They are integrated with the DISCOVER traits for students to learn self-awareness and self-management, to be able to demonstrate positive values and learning dispositions.
 
