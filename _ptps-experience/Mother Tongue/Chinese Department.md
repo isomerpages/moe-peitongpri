@@ -4,9 +4,15 @@ permalink: /ptps-experience/mother-tongue/chinese-department-activities/
 description: ""
 third_nav_title: Mother Tongue
 ---
-
 # Chinese Department
 
+Students learn Chinese in authentic learning experiences where lessons have different themes or scenarios to provide real life experiences for students to apply the language skills or knowledge they have learnt.
+
+## Authentic Learning
+
+A highlight for lower primary students is when teachers brought vegetables to class. They had tactile and sensory learning experiences that related to their activity book. Students were even encouraged to bring the vegetables home to prepare a meal together with their families.
+
+![]()
 
 ## P2 Clay Making
 
