@@ -6,12 +6,12 @@ description: ""
 # About MOE Kindergarten (MK)
 
 
-### MK VISION AND MISSION
+## MK VISION AND MISSION
 
 
 To provide a strong start for every child. We seek to do so through providing quality preschool education that is affordable to Singaporeans and catalysing quality improvements in the sector
 
-### BELIEFS
+## BELIEFS
 
 
 **Children are curious learners.**
