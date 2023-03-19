@@ -3,7 +3,7 @@ title: Welcome to Pei Tong
 permalink: /welcome-to-pei-tong/welcome-to-pei-tong/
 description: ""
 ---
-# 🌱 Welcome to Pei Tong
+# 🌱 Introduction
 
 
 Welcome to Pei Tong Primary School's website! We're glad you're here. 
