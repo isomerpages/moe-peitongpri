@@ -3,9 +3,9 @@ title: Applied Learning Programme (ALP)
 permalink: /ptps-experience/applied-learning-programme-alp/
 description: ""
 ---
-# Applied Learning Programme (ALP) - PLANET
+# Overview of PLANET
 
-PLANET (Pei Tong Learn And Nurture the Environment with Technology), adopts STEM as its strand and Sustainable Living for its contextual theme. Coding is a key approach to teaching students computational thinking as it is part of problem solving.
+**PLANET (Pei Tong Learn And Nurture the Environment with Technology)**, adopts STEM as its strand and Sustainable Living for its contextual theme. Coding is a key approach to teaching students computational thinking as it is part of problem solving.
 
 ![](/images/PTPS%20Experience/ALP/ALP1.png)
 
