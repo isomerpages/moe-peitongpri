@@ -3,9 +3,7 @@ title: PTPS Enriched Total Curriculum (PETC)
 permalink: /ptps-experience/ptps-enriched-total-curriculum-petc/
 description: ""
 ---
-# PTPS Enriched Total Curriculum (PETC)
-
-## Overview of PETC
+# Overview of PETC
 
 
 Every child can develop holistally through **Pei Tong Primary School’s Enriched Total Curriculum (PETC)**. 
