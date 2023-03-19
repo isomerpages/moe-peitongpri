@@ -4,9 +4,7 @@ permalink: /ptps-experience/art/
 description: ""
 third_nav_title: Art
 ---
-
-
-# Art
+# Overview
 
 The aim of art education in Pei Tong is to develop every child to have a life-long interest and appreciation in visual arts by communicating and expressing visually and making meaning through connecting with others.
 
