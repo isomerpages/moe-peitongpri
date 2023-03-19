@@ -47,4 +47,4 @@ A caring and safe environment is important to enabling all students to have a po
 
 **7\. Insurance Coverage**
 
-All students are covered under a basic insurance policy. Payouts of insurance will be subject to policy terms and conditions.
+* All students are covered under a basic insurance policy. Payouts of insurance will be subject to policy terms and conditions.
