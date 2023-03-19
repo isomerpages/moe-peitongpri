@@ -23,11 +23,11 @@ Do contact your child's Form Teacher to find out how to stay connected with us v
 <tbody>
   <tr>
     <td>2020</td>
-    <td>·       <a href="https://peitongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u575/2020/2020_Issue%201.pdf">2020_Issue 1.pdf</a> FILE SIZE TOO LARGE<br> </td>
+    <td>·       <a href="https://for.edu.sg/2020issue1">2020_Issue 1.pdf</a><br> </td>
   </tr>
   <tr>
     <td>2019</td>
-    <td>·       <a href="https://peitongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u575/2020/2019%20_Issue%201.pdf">2019 _Issue 1.pdf</a> FILE SIZE TOO LARGE<br>·       <a href="https://peitongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u575/2020/2019_Issue%202.pdf">2019_Issue 2.pdf</a> FILE SIZE TOO LARGE<br> </td>
+    <td>·       <a href="https://for.edu.sg/2019issue1">2019_Issue 1.pdf</a><br>·       <a href="https://for.edu.sg/2019issue2">2019_Issue 2.pdf</a><br> </td>
   </tr>
   <tr>
     <td>2018</td>
@@ -43,7 +43,7 @@ Do contact your child's Form Teacher to find out how to stay connected with us v
   </tr>
   <tr>
     <td>2015</td>
-    <td>·       <a href="https://peitongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u575/PT%20Heartbeat/PT%2070%20Magazine.pdf">PT 70 Magazine.pdf</a> FILE SIZE TOO LARGE<br>·       <a href="/files/Parents%20Portal/2015%20Issue%202.pdf">2015 Issue 2.pdf</a><br></td>
+    <td>·       <a href="https://for.edu.sg/pt70pub">PT 70 Magazine.pdf</a><br>·       <a href="/files/Parents%20Portal/2015%20Issue%202.pdf">2015 Issue 2.pdf</a><br></td>
   </tr>
   <tr>
     <td>2014</td>
