@@ -4,7 +4,7 @@ permalink: /ptps-experience/mother-tongue/malay-department-activities/
 description: ""
 third_nav_title: Mother Tongue
 ---
-# Malay Department
+# Overview
 
 Students learn Malay in authentic learning experiences where lessons have different themes or scenarios to provide real life experiences for students to apply the language skills or knowledge they have learnt.
 
