@@ -9,9 +9,9 @@ description: ""
 
 ![](/images/PTPS%20Experience/ALP/ALP1.png)
 
-## Objectives of the "PLANET" Programme
+## Objectives
 
-Objectives of PLANET:   
+
 * **Educate** students on the serious implications environmental issues have on mankind and the need for all to play an active role in promoting sustainable living
 * **Expose** them to different approaches to promote sustainable living, focusing on “Reduce, Reuse and Recycle” (3Rs) and reduction of carbon emissions and footprint
 * **Equip** them with the knowledge, skills and competencies to apply STEM concepts and technology in an integrated manner to solve real life problems related to sustainable living. Coding is a key approach to teaching students computational thinking intentionally
