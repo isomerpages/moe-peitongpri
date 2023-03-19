@@ -2,7 +2,6 @@ collections:
   mk:
     output: true
     order:
-      - Highlights/.keep
       - MK@Pei Tong.md
       - About MOE Kindergarten (MK).md
       - Curriculum.md
@@ -14,3 +13,4 @@ collections:
       - Useful Information Links.md
       - Parent Support Group (PSG).md
       - Contact Us.md
+      - Highlights/.keep
