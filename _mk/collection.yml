@@ -2,6 +2,9 @@ collections:
   mk:
     output: true
     order:
+      - MK@Pei Tong.md
+      - About MOE Kindergarten (MK).md
+      - Curriculum.md
       - MK@Pei Tong Virtual Tour.md
       - Our Learning Environment/.keep
       - Our Learning Environment/Our Learning Environment.md
@@ -10,6 +13,3 @@ collections:
       - Useful Information Links.md
       - Parent Support Group (PSG).md
       - Contact Us.md
-      - Curriculum.md
-      - About MOE Kindergarten (MK).md
-      - MK@Pei Tong.md
