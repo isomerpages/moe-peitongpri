@@ -89,22 +89,22 @@ All students are required to report to school by **7.30am** for the flag-raisi
 <table>
 <thead>
   <tr>
-		<td>Gate</td>
-		<td>Morning</td>
-    <td>Dismissal Time</td>
-    <td>Dismissal Time</td>
+		<td><b>Gate</b></td>
+		<td><b>Morning</b></td>
+    <td><b>Dismissal Time</b></td>
+    <td><b>Dismissal Time</b></td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td> </td>
-    <td><b>Monday to Friday</b></td>
-    <td><b>Monday to Wednesday</b></td>
-    <td><b>Thursday and Friday</b></td>
+    <td><b>(Mon to Fri)</b></td>
+    <td><b>(Mon to Wed)</b></td>
+    <td><b>(Thur and Fri)</b></td>
   </tr>
   <tr>
     <td>Gate A</td>
-    <td colspan="3">Open from 7.00am to 7.00pm from Monday to Friday<br>(including school holidays)</td>
+    <td colspan="3">7.00am to 7.00pm from Monday to Friday<br>(including school holidays)</td>
   </tr>
   <tr>
     <td>Gate B &amp; H</td>
