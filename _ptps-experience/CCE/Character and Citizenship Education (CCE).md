@@ -4,9 +4,7 @@ permalink: /ptps-experience/character-and-citizenship-education-cce/
 description: ""
 third_nav_title: CCE
 ---
-
-
-# Character and Citizenship Education (CCE)
+# Overview
 
 Character Education is the cornerstone of every Pei Tong student’s school experience. Here in Pei Tong, we seek to **ground all students in values** and develop them in **Personal Mastery, Resilience, Citizenry** and **Leadership**.
 
