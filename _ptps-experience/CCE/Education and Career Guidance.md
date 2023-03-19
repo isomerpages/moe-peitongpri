@@ -6,7 +6,6 @@ third_nav_title: CCE
 ---
 # Goal
 
-
 To introduce students to a wide array of occupations, including new jobs created in the ever-changing world of work.
 
 Students will become more aware of their interests, abilities and career aspirations in relation to self and to others. Through play, they will learn to incorporate their initial preferences into occupational roles.
