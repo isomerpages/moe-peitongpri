@@ -3,10 +3,6 @@ title: Learning for Life Programme (LLP)
 permalink: /ptps-experience/learning-for-life-programme-llp/
 description: ""
 ---
-
-# Learning for Life Programme (LLP)
-
-
 ## I’MADD- Music, Art, Drama and Dance
 
 
