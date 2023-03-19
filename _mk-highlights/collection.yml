@@ -1,5 +1,4 @@
 collections:
   mk-highlights:
     output: true
-    order:
-      - Previous Years' Highlights/.keep
+    order: []
