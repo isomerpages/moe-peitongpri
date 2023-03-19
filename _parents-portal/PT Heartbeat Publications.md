@@ -3,9 +3,6 @@ title: PT Heartbeat Publications
 permalink: /parents-portal/pt-heartbeat-publications/
 description: ""
 ---
-# "PT Heartbeat" Publications
-
-
 ## Stay in touch with the latest happenings!    
 
 
