@@ -3,9 +3,6 @@ title: Music
 permalink: /ptps-experience/music/
 description: ""
 ---
-
-# Music
-
 ## Melody @ PeiTong
 
 ![](/images/PTPS%20Experience/Music/music%201.png)
