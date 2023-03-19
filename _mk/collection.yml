@@ -2,10 +2,10 @@ collections:
   mk:
     output: true
     order:
-      - Our Learning Environment/Outdoor Environment.md
-      - Our Learning Environment/Indoor Environment.md
-      - Our Learning Environment/Our Learning Environment.md
       - Our Learning Environment/.keep
+      - Our Learning Environment/Our Learning Environment.md
+      - Our Learning Environment/Indoor Environment.md
+      - Our Learning Environment/Outdoor Environment.md
       - MK@Pei Tong Virtual Tour.md
       - Useful Information Links.md
       - Parent Support Group (PSG).md
