@@ -3,10 +3,9 @@ title: Mathematics
 permalink: /ptps-experience/mathematics/
 description: ""
 ---
-# Mathematics
+# Overview
 
-**Our Vision**
-
+**Our Vision**<br>
 _Every student, an engaged Mathematics learner._
 
 Students master mathematical concepts and skills through activity-based lessons using Concrete-Pictorial-Abstract (CPA) approach. They also learn to reason and communicate mathematical ideas during group activities. These approaches help build numeracy skills, foster greater interest in the subject, and develop better problem-solvers to function effectively in everyday life. 
