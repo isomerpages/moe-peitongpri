@@ -3,7 +3,6 @@ title: Useful Information Links
 permalink: /mkpeitong/useful-information-links/
 description: ""
 ---
-
 # Useful Information / Links
 
 
@@ -16,6 +15,7 @@ Download our handbook to know more about MOE Kindergarten.  <br>
 
   
 
+<!-- 
 #### MOE KINDERGARTEN WAITLIST APPLICATION
 
 Please fill out this [waitlist](https://go.gov.sg/mkpt-waitlist) <b>(LINK DOES NOT WORK)</b> if you would like to register your child for 2022/2023 K1/K2 class. 
@@ -26,6 +26,7 @@ Enrolments will be subject to available vacancies.
 <img src="/images/MK@Pei%20Tong/MKPT%20Waitlist_QR%20Code.png"  
      style="width:25%">
 
+-->
 #### MK VACCINATION REQUIREMENTS
 
 Children who wish to enrol in MK from 1 Apr 2020 must have received at least one dose of measles vaccination and have completed three doses (primary series) of diphtheria vaccination (1M3D).<br>
@@ -69,7 +70,7 @@ KiFAS subsidies are available for families where their household income (HHI) do
   
 
 For more information on KiFAS, you may visit <br>
-[https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx#KIFAS](https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx#KIFAS) <b>(LINK DOES NOT WORK)</b>
+[https://www.msf.gov.sg/Comcare/Pages/ComCare-Kindergarten-Subsidies.aspx](https://www.msf.gov.sg/Comcare/Pages/ComCare-Kindergarten-Subsidies.aspx) 
 
   
 
