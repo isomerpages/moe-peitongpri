@@ -3,11 +3,7 @@ title: Information and Communications Technology (ICT)
 permalink: /ptps-experience/information-and-communications-technology-ict/
 description: ""
 ---
-
-# Information and Communications Technology (ICT)
-
-
-## ICT @ Pei Tong
+# Overview
 
 
 ![](/images/PTPS%20Experience/ICT/ICT-framework.png)
