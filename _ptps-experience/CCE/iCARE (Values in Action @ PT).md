@@ -4,10 +4,7 @@ permalink: /ptps-experience/character-and-citizenship-education-cce/icare-values
 description: ""
 third_nav_title: CCE
 ---
-
-
-# iCARE (Values in Action @ PT)
-
+# Overview
 One key platform that drives the desired CCE outcomes is our Values-In-Action (VIA) programme - ‘iCare’. It adopts the ‘3A’ approach of creating ‘**Awareness**’, providing platforms for students to put into ‘**Action**’ to serve, with the intent to develop in them the ‘**Attitude**’ of desiring to give back to the community and serve.
 
 ![](/images/PTPS%20Experience/iCare.png)
