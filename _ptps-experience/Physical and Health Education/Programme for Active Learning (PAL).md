@@ -4,10 +4,7 @@ permalink: /ptps-experience/co-curricular-activities-cca/programme-for-active-le
 description: ""
 third_nav_title: Physical and Health Education
 ---
-
-
-
-# Programme for Active Learning (PAL)
+# Overview
 
 Students in P1 and P2 are engaged in PAL lessons which offer them fun hands-on experiential learning through a broad range of activities in 4 PAL domains. It provides students opportunities to discover new interests, develop character and cultivate social-emotional competencies. In particular, PAL aims to nurture curiosity, confidence and cooperation skills in students.
 
@@ -65,27 +62,21 @@ P1 and P2 classes rotate to experience thematized modules of the different PAL d
 
 
 Group sharing and group work
-
 ![](/images/PTPS%20Experience/CCA%20(PAL)/visual%20art1.png)
 
 Some of their art creations
-
 ![](/images/PTPS%20Experience/CCA%20(PAL)/visual%20art%20creation.png)
 
 
 ## P1 Drama
 
-
 Drama Characterisation
-
 ![](/images/PTPS%20Experience/CCA%20(PAL)/P1%20drama.png)
 
 Exploring actions
-
 ![](/images/PTPS%20Experience/CCA%20(PAL)/Exploring.png)
 
 Creating their own monster with masks and mouth puppets
-
 ![](/images/PTPS%20Experience/CCA%20(PAL)/Create%20.png)
 
 
@@ -93,13 +84,10 @@ Creating their own monster with masks and mouth puppets
 
 
 Playing games
-
-
 ![](/images/PTPS%20Experience/CCA%20(PAL)/Playing%20games.png)
 
 
 Making their own sports equipment
-
 ![](/images/PTPS%20Experience/CCA%20(PAL)/Making%20sports%20equip.png)
 
 
@@ -107,35 +95,26 @@ Making their own sports equipment
 
 
 Shadow Play
-
 ![](/images/PTPS%20Experience/CCA%20(PAL)/Shadow%20play.png)
 
 
 Learning about light and colours
-
 ![](/images/PTPS%20Experience/CCA%20(PAL)/Learning%20about%20lights.png)
 
 I spy! - Exploring the school
-
 ![](/images/PTPS%20Experience/CCA%20(PAL)/i%20spy.png)
 
 Creating a mini-raft
-
 ![](/images/PTPS%20Experience/CCA%20(PAL)/Create%20mini%20raft.png)
 
 Sand Play
-
 ![](/images/PTPS%20Experience/CCA%20(PAL)/Sand%20play.png)
 
 
 ## P2 Music
 
-
 Making Music as a group
-
-
 ![](/images/PTPS%20Experience/CCA%20(PAL)/Making%20music%20as%20a%20group.png)
 
 Using Boomwhackers
-
 ![](/images/PTPS%20Experience/CCA%20(PAL)/Using%20boomw.png)
