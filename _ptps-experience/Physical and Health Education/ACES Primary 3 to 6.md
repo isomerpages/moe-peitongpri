@@ -10,15 +10,12 @@ P3 to P6 programmes progress from lower primary to focus on gross and fine motor
 
 ## P3 Swimsafer
 
-
 As part of the P3 PHE Syllabus, the Swimsafer Programme aims to equip students with basic swimming skills for water survival. Students have the opportunity to develop their swimming skills further at their own pace in a fun yet safe manner. This is also an avenue for students to cultivate self-discipline and sportsmanship.
 
 ![](/images/PTPS%20Experience/Physical%20and%20Health%20Education/p3.jpg)
 
 
 ## P3 Inline Skating
-
-
 This programme covers the fundamentals of inline skating to ensure that students learn it the proper, safe and fun way. Through progressive exercises and drills to help students perform skating skills, students will learn and understand the value of setting goals in small steps, hard work and resilience.
 
 ## P4 Kin-Ball
