@@ -4,7 +4,7 @@ permalink: /ptps-experience/science/
 description: ""
 ---
 # Overview 
-## Promoting the spirit of scientific inquiry 
+
 **Developing Inquiring Learners Through ‘5E’ (DILE) programme** is a school-wide science programme that comprises comprehensive thematic teaching and learning packages for all themes in the Primary 3 to 6 syllabi.  Each package:
 * adopts the **‘5E’ (Engage, Explore, Explain, Evaluate and Extend)** approach as the key pedagogy in the teaching of Science. 
 * incorporates **Assessment for Learning strategies (AfL)** such as ‘Check-In and Check Out’ to ensure that students have the necessary understanding before moving on to the next stage of learning;
