@@ -89,9 +89,9 @@ All students are required to report to school by **7.30am** for the flag-raisi
 <table>
 <thead>
   <tr>
-		<td></td>
 		<td>Gate</td>
-    <td>Morning</td>
+		<td>Morning</td>
+    <td>Dismissal Time</td>
     <td>Dismissal Time</td>
   </tr>
 </thead>
