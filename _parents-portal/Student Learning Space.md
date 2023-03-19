@@ -17,7 +17,7 @@ The SLS is collectively shaped by teachers and students. Taking into considerati
 ## Getting Started
 
 
-1.[Introduction for students](/files/Parents%20Portal/Annexes%20to%20Letter%20to%20Parents.pdf)
+Click here for an [introduction for students](/files/Parents%20Portal/Annexes%20to%20Letter%20to%20Parents.pdf)
 
 ## SLS Helpdesk
 
