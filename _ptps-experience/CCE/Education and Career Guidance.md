@@ -23,7 +23,7 @@ MySkillsFuture Student Portal is accessible to all students from Primary 5 to Pr
 **MySkillsFuture Portal**
 
 [MySkillsFuture Portal (Primary)](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
-<br>[MySkillsFuture Portal (Primary) Introductory Video](https://youtu.be/i9fpBx9xeGU)
+<br>[MySkillsFuture Introductory Video](https://youtu.be/i9fpBx9xeGU)
 
 **More information on various topics can be found below:**
 
