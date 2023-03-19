@@ -4,23 +4,14 @@ permalink: /ptps-experience/physical-and-health-education-phe/
 description: ""
 third_nav_title: Physical and Health Education
 ---
+# Overview
 
 
-
-# Physical and Health Education (PHE)
-
-## Overview
-
-
-**Vision**
-
-Every child a healthy and active individual
+**Vision**<br>Every child a healthy and active individual
 
 ![](/images/PTPS%20Experience/Physical%20and%20Health%20Education/phe1.jpg)
 
-**Mission**
-
-To develop and equip students holistically to be able to demonstrate individually and with others the physical skills, knowledge and values to pursue and enjoy a physically active and healthy lifestyle.
+**Mission**<br>To develop and equip students holistically to be able to demonstrate individually and with others the physical skills, knowledge and values to pursue and enjoy a physically active and healthy lifestyle.
 
 ![](/images/PTPS%20Experience/Physical%20and%20Health%20Education/phe2.jpg)
 
