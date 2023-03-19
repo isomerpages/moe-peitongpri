@@ -3,12 +3,12 @@ title: Publications
 permalink: /parents-portal/publications/
 description: ""
 ---
-
 ## Stay in touch with the latest happenings!    
 
 
 Are you a parent whose child is a student of Pei Tong Primary School?  
-Join us at ClassDojo to view photos and updates on the latest happenings around our school.  
+Join us at [ClassDojo](https://www.classdojo.com/) to view photos and updates on the latest happenings around our school.  
+
 Do contact your child's Form Teacher to find out how to stay connected with us via ClassDojo!  
 
 ## Our "PT Heartbeat" Publications from previous years
