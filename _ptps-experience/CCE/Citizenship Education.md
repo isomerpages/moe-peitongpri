@@ -4,11 +4,6 @@ permalink: /ptps-experience/character-and-citizenship-education-cce/citizenship-
 description: ""
 third_nav_title: CCE
 ---
-
-
-# Citizenship Education
-
-
 ## Citizenship Dispositions
 
 
@@ -34,21 +29,19 @@ Having confidence and optimism in Singapore’s future and the resilience to fac
 **A Will to Act**<br>
 Ultimately, these citizenship dispositions cultivate the will to act: To be active citizens who have a collective resolve and a sense of shared mission towards building a Singapore for all.  
 
-## NE Commemoration
+## NE Commemorative Events
+Beyond the formal Character and Citizenship Education lessons, the four NE Commemorative Days (Total Defence Day, International Friendship Day, Racial Harmony Day and National Day) are an important part of students’ learning experiences in school. 
 
-
-Total Defence Day<br>
-International Friendship Day<br>
-Racial Harmony Day<br>
-National Day
-
+Through these NE commemorative days, students learn important lessons from significant moments in Singapore’s history, and reflect on how they can apply their learning to contribute as active citizens.
   
 
 ## P5 National Education Show
-
+All P5 students will have the opportunity to attend the P5 National Education Show (National Day Parade Preview).
 
 ## Social Studies Learning Journeys
+Authentic learning experience forms part of the teaching and learning of Social Studies. In Pei Tong, each year, students participate in field-based learning through learning journeys that take them to places like the museums and heritage trails. 
 
+These experiences strengthen students’ understanding and appreciation of Singapore and enable them to make connections between knowledge learnt with real, authentic experiences. 
 
 P2: Singapore Discovery Centre and Army Museum<br>
 P3: Orchid Garden<br>
