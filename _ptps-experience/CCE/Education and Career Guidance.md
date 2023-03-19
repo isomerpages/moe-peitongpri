@@ -4,7 +4,7 @@ permalink: /ptps-experience/character-and-citizenship-education-cce/education-an
 description: ""
 third_nav_title: CCE
 ---
-## Goal
+# Goal
 
 
 To introduce students to a wide array of occupations, including new jobs created in the ever-changing world of work.
