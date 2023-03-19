@@ -4,9 +4,7 @@ permalink: /ptps-experience/physical-and-health-education-phe/aces-iace-through-
 description: ""
 third_nav_title: Physical and Health Education
 ---
-## ACES: iACE Through Sports
-
-
+# Overview
 Sport is an excellent platform to develop character excellence. Activities are planned with a focus on students learning and demonstrating Social and Emotional Learning competencies and school values while being physically active. In particular, Pei Tong’s ACES (Achieving Character Excellence through Sports) Programme drives an emphasis on resilience with the key message of  "I ACE through Sports". It aims to challenge students in both physical and affective aspects through the planned activities throughout the year.
 
   
