@@ -4,7 +4,7 @@ permalink: /school-information/school-crest/
 description: ""
 ---
 # School Crest
-
+![](/images/School%20Information/PT%20Logo%20Squared.jpg)
 The letters "PT" stand for Pei Tong ( 培童 ) which means nurturing the young.   
 
   
