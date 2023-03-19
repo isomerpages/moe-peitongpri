@@ -32,5 +32,3 @@ third_nav_title: School Rules
   </tr>
 </tbody>
 </table>
-
-_updated on 29 Dec 2017_
