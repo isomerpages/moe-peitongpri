@@ -4,17 +4,10 @@ permalink: /ptps-experience/physical-and-health-education-phe/mind-our-health-mo
 description: ""
 third_nav_title: Physical and Health Education
 ---
-
-
-
-# Mind Our Health (MOH)
-
-
-OIur Mind Our Health (MOH) programmes aim to enable students to make meaningful connections between health concepts and practical applications. Through MOH, students will acquire an understanding of a range of good health practices and habits, and from understanding to be then be equipped with the knowledge, skills and motivation to make informed personal decisions to stay active and healthy.
+# Overview
+Our Mind Our Health (MOH) programmes aim to enable students to make meaningful connections between health concepts and practical applications. Through MOH, students will acquire an understanding of a range of good health practices and habits, and from understanding to be then be equipped with the knowledge, skills and motivation to make informed personal decisions to stay active and healthy.
 
 ## Annual Health Screening
-
-
 Our school partners with the Health Promotion Board (HPB) School Health Service to conduct annual health screenings and immunisations for our students. The health screening which includes vision and hearing tests is conducted by doctors and nurses from the School Health team who visits our school. The annual screening aims to ensure the protection of health and early detection of health conditions common among the school-going population.
 
 ## CARE Programme
