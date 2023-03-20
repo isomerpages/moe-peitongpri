@@ -1,0 +1,16 @@
+collections:
+  our-people:
+    output: true
+    order:
+      - School Executive Committee.md
+      - Primary 1 Form Teachers.md
+      - Primary 2 Form Teachers.md
+      - Primary 3 Form Teachers.md
+      - Primary 4 Form Teachers.md
+      - Primary 5 Form Teachers.md
+      - Primary 6 Form Teachers.md
+      - Allied Educators (AED).md
+      - Executive and Administrative Staff.md
+      - Our Partners/.keep
+      - Our Partners/Parent Support Group (PSG).md
+      - Our Partners/Pei Tong Alumni.md

@@ -1,0 +1,38 @@
+collections:
+  ptps-experience:
+    output: true
+    order:
+      - PTPS Enriched Total Curriculum (PETC).md
+      - English/.keep
+      - English/Overview.md
+      - English/Read @ PT.md
+      - English/Oral Communication Programme (P1 to P4).md
+      - English/Mindful Reader (P3 to P6).md
+      - English/P5 Literature Programme.md
+      - English/P5 Enrichment Programme (for selected students).md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Chinese Department.md
+      - Mother Tongue/Malay Department.md
+      - Mother Tongue/Tamil Department.md
+      - CCE/.keep
+      - CCE/Character and Citizenship Education (CCE).md
+      - CCE/iCARE (Values in Action @ PT).md
+      - CCE/'I Influence' (Student Leadership @ PT).md
+      - CCE/Education and Career Guidance.md
+      - Physical and Health Education/.keep
+      - Physical and Health Education/Overview of PHE@PT.md
+      - Physical and Health Education/Co Curricular Activities (CCA).md
+      - Physical and Health Education/Programme for Active Learning (PAL).md
+      - "Physical and Health Education/ACES: iACE Through Sports.md"
+      - Physical and Health Education/ACES Primary 1 and 2.md
+      - Physical and Health Education/ACES Primary 3 to 6.md
+      - Physical and Health Education/Mind Our Health (MOH).md
+      - Art/.keep
+      - Art/Overview.md
+      - Art/Art E Gallery.md
+      - Music.md
+      - Information and Communications Technology (ICT).md
+      - Learning for Life Programme (LLP).md
+      - Applied Learning Programme (ALP).md

@@ -1,0 +1,7 @@
+collections:
+  links:
+    output: true
+    order:
+      - Links.md
+      - For Teachers.md
+      - For Students.md

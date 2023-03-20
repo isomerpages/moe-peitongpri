@@ -1,15 +1,65 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo2.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Welcome To Pei Tong
+    collection: welcome-to-pei-tong
+  - title: School Information
+    collection: school-information
+  - title: Our People
+    collection: our-people
+  - title: PTPS Experience
+    url: /ptps-experience/ptps-enriched-total-curriculum-petc
+    sublinks:
+      - title: PTPS Enriched Total Curriculum
+        url: /ptps-experience/ptps-enriched-total-curriculum-petc
+      - title: English
+        url: /ptps-experience/english
+      - title: Mathematics
+        url: /ptps-experience/mathematics
+      - title: Science
+        url: /ptps-experience/science
+      - title: Mother Tongue
+        url: /ptps-experience/mother-tongue/chinese-department-activities/
+      - title: CCE
+        url: /ptps-experience/character-and-citizenship-education-cce/
+      - title: Physical and Health Education
+        url: /ptps-experience/physical-and-health-education-phe
+      - title: Art
+        url: /ptps-experience/art
+      - title: Music
+        url: /ptps-experience/music
+      - title: Co-curricular activities (CCA)
+        url: /ptps-experience/co-curricular-activities-cca
+      - title: ICT
+        url: /ptps-experience/information-and-communications-technology-ict
+      - title: Applied Learning Programme
+        url: /ptps-experience/applied-learning-programme-alp
+      - title: Learning for Life Programme
+        url: /ptps-experience/learning-for-life-programme-llp
+  - title: Our Gallery
+    url: /our-gallery/photo-gallery/
+    sublinks:
+      - title: Photo Gallery
+        url: /our-gallery/photo-gallery/
+      - title: Art E-Gallery
+        url: https://sites.google.com/moe.edu.sg/ptpsart/
+      - title: Videos
+        url: /our-gallery/videos/
+  - title: Parents' Portal
+    collection: parents-portal
+  - title: MK@Pei Tong
+    url: /mkpeitong
+    sublinks:
+      - title: About MOE Kindergarten (MK)
+        url: /mkpeitong/about-moe-kindergarten-mk
+      - title: Curriculum
+        url: /mkpeitong/curriculum
+      - title: Our Learning Environment
+        url: /mkpeitong/our-learning-environment
+      - title: Parent Support Group (PSG)
+        url: /mkpeitong/parent-support-group-psg
+      - title: Contact Us
+        url: /mkpeitong/contact-us
+      - title: Useful Information/Links
+        url: /mkpeitong/useful-information-links
+      - title: Highlights
+        url: /mkpeitong/highlights/2022-term-4

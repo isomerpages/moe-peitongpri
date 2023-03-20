@@ -1,0 +1,12 @@
+collections:
+  welcome-to-pei-tong:
+    output: true
+    order:
+      - Principal's Message.md
+      - Introduction.md
+      - Passionate Learners.md
+      - Resilient Individuals.md
+      - Gracious Citizens.md
+      - Welcoming Our P1 Students.md
+      - Testimonials from Students.md
+      - Testimonials from Parents.md
