@@ -17,6 +17,5 @@ Our school provides leadership training for student leaders so that they can gro
 
 ## Role-specific Student Leadership Training
 
-![](/images/PTPS%20Experience/Student%20leadership%203.jpg)
-
 Role-specific leadership training is provided for our student leaders who are involved in school-based leadership roles. Students are given opportunities to apply their knowledge and skills learnt, through their involvement in class-based group work, Values-In-Action projects and school events.
+![](/images/PTPS%20Experience/Student%20leadership%203.jpg)
