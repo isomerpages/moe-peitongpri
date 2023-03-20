@@ -18,6 +18,10 @@ The key features of PETC are:
 * **Differentiated learning** opportunities to suit and optimise students’ potential
 * **Values-driven** to prepare students to navigate future challenges and contribute positively to the community 
 
+![](/images/Welcome%20to%20Pei%20Tong/A%20HOME%20WHERE%20EVERY%20CHILD%20FLOURISHES%202A_edited_1%20July%202021.jpg)
+
+
+
 ## Talent Programme (TP@PTPS)
 
 ![](/images/PTPS%20Experience/Peitong-StagedShots-164.jpg)
