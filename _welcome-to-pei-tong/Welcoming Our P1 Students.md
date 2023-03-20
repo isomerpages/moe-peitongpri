@@ -12,25 +12,19 @@ Here in Pei Tong, our staff and Parent Support Group (PSG) members work hand-in-
 
 
 Our staff getting ready to welcome our P1 students and parents.
-![](/images/Welcome%20to%20Pei%20Tong/Staff%20ready%20for%20P1.png)
+![](/images/Welcome%20to%20Pei%20Tong/P1%20Day%201%202023%20-%20staff%20ready.png)
 
 Our P1 parents dropping off their children as the children gather with their classmates for the very first time.
-
-![](/images/Welcome%20to%20Pei%20Tong/parents%20drop%20off.png)
+![](/images/Welcome%20to%20Pei%20Tong/P1%20Day%201%202023%20-%20settling%20down.png)
 
 We are mindful that it may difficult for some of our little ones. As such, our staff - teachers, counsellors, principals - are all gathered and ready to help ease the children's fears.
-
-![](/images/Welcome%20to%20Pei%20Tong/parents%20drop%20off%202.png)
-
+![](/images/Welcome%20to%20Pei%20Tong/P1%20Day%201%202023%20-%20staff%20support.png)
 
 ## In the classrooms
-
-
 On the first days of school, our P1 students get to know their new friends and teachers in their classrooms.
+![](/images/Welcome%20to%20Pei%20Tong/P1%20Day%201%202023%20-%20classroom.png)
 
-![](/images/Welcome%20to%20Pei%20Tong/classroom.png)
-
-# Recess time for our P1 students
+## Recess time for our P1 students
 
 Buying food on their own for the first time and having their meals in the canteen. A new experience for our little ones!
 
