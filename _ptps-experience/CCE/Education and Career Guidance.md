@@ -6,7 +6,7 @@ third_nav_title: CCE
 ---
 # Goal
 
-We aim to introduce students to a wide array of occupations, including new jobs created in the ever-changing world of work.
+Through Pei Tong's Education and Career Guidance programme, we aim to introduce students to a wide array of occupations, including new jobs created in the ever-changing world of work.
 
 Through such exposure, students will become more aware of their interests, abilities and career aspirations in relation to self and to others. Through play, they will also learn to incorporate their initial preferences into occupational roles.
 
