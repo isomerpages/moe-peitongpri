@@ -10,7 +10,7 @@ Proprietary Rights
 3. The materials located on this website including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by PTPS.
 
 ## Privacy Policy
-4. Click here to review this website [Privacy Statement](/privacy).
+4. Click here to review this website's [Privacy Statement](/privacy).
 
 ## Restrictions on use of Materials
 5. Except as otherwise provided, the Contents of this website shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of PTPS.
