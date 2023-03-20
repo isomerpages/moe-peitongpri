@@ -6,14 +6,12 @@ description: ""
 # 👋 Welcoming our P1 students
 
 
-Here in Pei Tong, our staff and parent support group members work hand-in-hand to welcome our Primary 1 students and ensure a smooth transition for them. Here are some moments captured on our first day of school these two years.  
+Here in Pei Tong, our staff and Parent Support Group (PSG) members work hand-in-hand to welcome our Primary 1 students and ensure a smooth transition for them. Here are some moments captured on our first day of school these two years.  
 
 ## The arrival of our P1 students and Parents
 
 
 Our staff getting ready to welcome our P1 students and parents.
-
-
 ![](/images/Welcome%20to%20Pei%20Tong/Staff%20ready%20for%20P1.png)
 
 Our P1 parents dropping off their children as the children gather with their classmates for the very first time.
