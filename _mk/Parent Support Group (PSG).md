@@ -3,12 +3,7 @@ title: Parent Support Group (PSG)
 permalink: /mkpeitong/parent-support-group-psg/
 description: ""
 ---
-
-# Parent Support Group (PSG)
-
-
-## MK PSG
-
+# MK Parent Support Group (PSG)
 
 Children learn best when significant adults in their lives (teachers and parents) work together to support them. This bridges the gap between home and school and enhances children’s interest and motivation in learning.   
 
@@ -24,16 +19,14 @@ Our PSG supported in our Racial Harmony Day and Teachers’ Day event preparatio
 
   
 
-_Racial Harmony Day_
-
+#### Racial Harmony Day
 ![](/images/MK@Pei%20Tong/T3%20Racial%20Harmony%20Day.jpeg)
 
-_Teachers’ Day_
-
+#### Teachers’ Day
 ![](/images/MK@Pei%20Tong/T3%20Teachers'%20Day%202.jpg)
 
 ![](/images/MK@Pei%20Tong/T3%20Teachers'%20Day%203.jpg)
 
-_Parent's sharing_
+#### Parent's sharing
 
 ![](/images/MK@Pei%20Tong/Parents'%20Sharing.jpg)
