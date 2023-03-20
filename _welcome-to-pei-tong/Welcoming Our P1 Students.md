@@ -26,14 +26,8 @@ On the first days of school, our P1 students get to know their new friends and t
 
 ## Recess time for our P1 students
 
-Buying food on their own for the first time and having their meals in the canteen. A new experience for our little ones!
-
-![](/images/Welcome%20to%20Pei%20Tong/recess.png)
+Buying food on their own for the first time and having their meals in the canteen. Our PSG and staff were present to help our new students transit to this new environment. A new experience for our little ones!
+![](/images/Welcome%20to%20Pei%20Tong/P1%20Day%201%202023%20-%20canteen.png)
 
 Our P1 students also learn how to clean up after themselves - returning their plates and wiping down their tables.
-
-![](/images/Welcome%20to%20Pei%20Tong/clean%20up.png)
-
-Our staff and PSG members help our new students around the canteen during the first week of school.
-
-![](/images/Welcome%20to%20Pei%20Tong/PSG.png)
+![](/images/Welcome%20to%20Pei%20Tong/P1%20Day%201%202023%20-%20clean%20up.png)
