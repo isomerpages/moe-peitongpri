@@ -2,8 +2,8 @@ collections:
   welcome-to-pei-tong:
     output: true
     order:
-      - Introduction.md
       - Principal's Message.md
+      - Introduction.md
       - Passionate Learners.md
       - Resilient Individuals.md
       - Gracious Citizens.md
