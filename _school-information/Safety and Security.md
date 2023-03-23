@@ -29,13 +29,13 @@ A caring and safe environment is important to enabling all students to have a po
 **4. Policy on school visitation**
 
 *   All walked-in visitors (including parents/guardians) are to enter the school using Gate A. 
-*   Upon entry, visitors are to the register at the Security Counter located in the foyer immediately. Security
-*   Passes will be issued, and these have to be prominently displayed at all times while you are in the school compound. 
+*   Upon entry, visitors are to the register at the Security Counter located in the foyer immediately.
+*   Security Passes will be issued, and these have to be prominently displayed at all times while you are in the school compound. 
 *   Unless authorised, visitors are not allowed to park their vehicles in the school compound. 
 *   For safety and security reasons and to minimise disruption during lessons, parents/guardians are not allowed to enter the teaching blocks at all times.  
 *   No parents/guardians, relatives or any members of the public will be allowed to remain in the school compound at all times without prior approval from the school.
 
-**5\. Policy on students leaving the school compound before dismissal time**
+**5. Policy on students leaving the school compound before dismissal time**
 
 *   Parents/Guardians who wish to take their children/ward home before dismissal time for any valid reasons must inform the teachers. 
 *   Only parents, legal guardians, domestic helpers and authorised members above 18 years old, will be allowed to fetch the child and they are required to sign out for the child in the Early Dismissal Book at the General Office in person before leaving the school.
@@ -45,6 +45,6 @@ A caring and safe environment is important to enabling all students to have a po
 *   It is important for the school to be updated with the latest medical conditions of our students where applicable. A medical update form will be issued at the beginning of the year for parents/guardians to update the school accordingly.Parents/guardians should also update the school of any new medical condition throughout the year.
 *   If any child is down with infectious diseases; e.g. chickenpox, HFMD, H1N1 etc., parents/guardians are to update the school by calling the General Office so that follow up actions can be carried out where necessary. Students should be certified fit for school before resuming school.
 
-**7\. Insurance Coverage**
+**7. Insurance Coverage**
 
 * All students are covered under a basic insurance policy. Payouts of insurance will be subject to policy terms and conditions.
