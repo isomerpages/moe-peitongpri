@@ -75,32 +75,32 @@ description: ""
     <td><a href="mailto:g-ncs1650pde@ncs.com.sg">g-ncs1650pde@ncs.com.sg</a></td>
   </tr>
   <tr>
-    <td><b>Operations Support Officer- OSO</b></td>
+    <td><b>Operations Support Officer - OSO</b></td>
     <td>Mdm Karlinah</td>
     <td>N.A</td>
   </tr>
   <tr>
-    <td><b>Operations Support Officer- OSO</b></td>
+    <td><b>Operations Support Officer - OSO</b></td>
     <td>Mdm Sunarti</td>
     <td>N.A</td>
   </tr>
   <tr>
-    <td><b>Operations Support Officer- OSO</b></td>
+    <td><b>Operations Support Officer - OSO</b></td>
     <td>Mdm Julia</td>
     <td>N.A</td>
   </tr>
   <tr>
-    <td><b>Operations Support Officer- OSO</b></td>
+    <td><b>Operations Support Officer - OSO</b></td>
     <td>Mdm Eswari</td>
     <td>N.A</td>
   </tr>
   <tr>
-    <td><b>Operations Support Officer- OSO</b></td>
+    <td><b>Operations Support Officer - OSO</b></td>
     <td>Mr Teo Soon Hock</td>
     <td>N.A</td>
   </tr>
   <tr>
-    <td><b>Printing Assistant</b></td>
+    <td><b>Operations Support Officer - OSO</b></td>
     <td>Mdm Kamariah Salimin</td>
     <td>N.A</td>
   </tr>
