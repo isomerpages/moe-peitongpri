@@ -2,6 +2,7 @@ collections:
   ptps-experience:
     output: true
     order:
+      - Programme for Active Learning (PAL).md
       - PTPS Enriched Total Curriculum (PETC).md
       - English/.keep
       - English/Overview.md
