@@ -4,8 +4,6 @@ permalink: /ptps-experience/physical-and-health-education-phe/
 description: ""
 third_nav_title: Physical and Health Education
 ---
-
-
 # Overview
 
 
@@ -34,13 +32,3 @@ The seven learning areas are:
 *   Outdoor Education
 *   Physical Health and Fitness
 *   Swimming (P3)
-
-Find out more about the PHE Curriculum here: [https://www.moe.gov.sg/-/media/files/primary/physical\_education\_syllabus\_2014](https://www.moe.gov.sg/-/media/files/primary/physical_education_syllabus_2014)  
-
-## Key Programmes
-
-
-At Pei Tong, students look forward to enhanced learning opportunities that enrich their PHE experience through two key department programmes:
-
-*   [ACES: iACE Through Sports](https://staging.dnwkm7pl2hkf8.amplifyapp.com/ptps-experience/physical-and-health-education-phe/aces-iace-through-sports)
-*   [MOH (Mind Our Health)](https://staging.dnwkm7pl2hkf8.amplifyapp.com/ptps-experience/physical-and-health-education-phe/mind-our-health-moh)
