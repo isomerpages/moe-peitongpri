@@ -81,3 +81,21 @@ In partnership with ActiveSG, our school conducts activities for students based 
   
 
 We also held the I’mPossible Buddy Run for our students during PE lessons in conjunction with the Tokyo 2020 Paralympics to support our para-athletes. In the event, students learnt more about the visually impaired and guided-running and took turns to guide each other in the run/walk event to clock a total distance of 130km. Students were awarded a virtual certificate and medal for completing the activity.
+
+# ACES: Primary 1 & 2
+
+The P1 and P2 programmes focus on fitness, general coordination and fundamental movement. They are integrated with the DISCOVER traits for students to learn self-awareness and self-management, to be able to demonstrate positive values and learning dispositions.
+
+## Mass Dance
+
+
+The P1 and P2 students will learn a dance choreographed and led by our own teachers. Through dance, they will learn to listen and groove to the beat, as well as create some creative moves of their own. This is a great avenue for them to grow in self-awareness of their bodies.
+
+![](/images/PTPS%20Experience/Physical%20and%20Health%20Education/phe%20-%20mass%20dance.png)
+
+## Mini Trampoline (iBounce)
+
+
+The mini trampoline program hopes to acquaint students with different endurance exercises in a fun and informal setting. They will learn to land with proper technique on uneven surfaces. This program incorporates resilience and discipline in a fun way.
+
+![](/images/PTPS%20Experience/Physical%20and%20Health%20Education/P1nP2.jpg)
