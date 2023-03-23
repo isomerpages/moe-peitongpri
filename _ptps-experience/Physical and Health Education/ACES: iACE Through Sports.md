@@ -40,13 +40,13 @@ The Swimsafer Programme aims to equip students with basic swimming skills for wa
 
 
 
-## P4 Resilience Walk
+### P4 Resilience Walk
 
 ![](/images/PTPS%20Experience/Physical%20and%20Health%20Education/resil%20walk.png)
 
 Annually, P4 students embark on a 4km walk from the school to West Coast Park to conclude their year before promoting to P5 - “Resilience”. Through the Resilience Walk, we aim to foster resilience in our students and educate them to be socially and environmentally conscious when using shared spaces. Students will also have opportunities to bond and strengthen friendships as they then engage in outdoor activities and play at the park. As students are also taught healthy eating in school, we also encourage students to demonstrate their learning by bringing healthy snacks for a short picnic at the park.
 
-## P5 Outdoor Adventure Camp
+### P5 Outdoor Adventure Camp
 
 ![](/images/PTPS%20Experience/Physical%20and%20Health%20Education/camp1.jpg)
 
@@ -56,7 +56,7 @@ The signature 3 Day P5 camp aims to cultivate school values such as resilience i
 
 Through challenges experienced in an unfamiliar setting, we hope for students to acquire 21st Century Competencies, foster teamwork, and forge strong bonds with their classmates to become a tightly-knitted P5 cohort.
 
-## P6 Post-PSLE Activities
+### P6 Post-PSLE Activities
 
 
 The sporting highlight for P6 Students after their exams is the I’mPossible Para-sport Engagement session that is held during the I’mPossible Week. P6 students get to learn and play with Para-athletes in a para-sport such as Wheelchair basketball, badminton, and Cerebral Palsy Football. It is an eye-opening experience for students as they get inspired by the attitudes and achievements of the Para-athletes.
@@ -82,4 +82,3 @@ The Upper Primary students take part in Sports Carnival activities that focus on
 Students experience inclusive sports and Para-sports through I’mPossible Week,  a Paralympic Education Programme. They gain awareness and understanding of disability through sports and are inspired with the Paralympic values of courage, determination, inspiration, and equity to be able to achieve the impossible in their lives. 
 
 ![](/images/PTPS%20Experience/Physical%20and%20Health%20Education/aces%20-%20p6%20post%20exam%20impossible.png)
-
