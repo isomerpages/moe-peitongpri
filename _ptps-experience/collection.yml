@@ -2,7 +2,6 @@ collections:
   ptps-experience:
     output: true
     order:
-      - Programme for Active Learning (PAL).md
       - PTPS Enriched Total Curriculum (PETC).md
       - English/.keep
       - English/Overview.md
@@ -31,6 +30,7 @@ collections:
       - Art/Art E Gallery.md
       - Music.md
       - Co Curricular Activities (CCA).md
+      - Programme for Active Learning (PAL).md
       - Information and Communications Technology (ICT).md
       - Learning for Life Programme (LLP).md
       - Applied Learning Programme (ALP).md
