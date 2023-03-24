@@ -3,15 +3,16 @@ title: Homework Policy
 permalink: /parents-portal/homework-policy/
 description: ""
 ---
-# HOMEWORK POLICY (For PARENTS’ INFORMATION)
+# OVERVIEW
 
-#### 1. Purpose of Homework
+## 1. Purpose of Homework
 
 In Pei Tong Primary School, we believe that homework is beneficial to our students as it
 
 *   reinforces learning and deepens understanding of lessons taught
 *   allows students to regularly practise and apply skills and concepts taught
 *   develops good study habits
+*   cultivate a healthy disposition towards learning
 
 #### 2. Types of Homework
 
@@ -71,4 +72,3 @@ We use the following guidelines when assigning homework:
 *   No homework to be given over festive holidays; e.g. Lunar New Year, Deepavali, Hari Raya, Christmas. 
 *  No homework will be given on the eve of tests so as to allow students to revise for their test.
 *   No test or spelling to be conducted on the school day immediately after the festive holiday.
- 
