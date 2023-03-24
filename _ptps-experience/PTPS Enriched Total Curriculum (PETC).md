@@ -19,13 +19,3 @@ The key features of PETC are:
 * **Values-driven** to prepare students to navigate future challenges and contribute positively to the community 
 
 ![](/images/Welcome%20to%20Pei%20Tong/A%20HOME%20WHERE%20EVERY%20CHILD%20FLOURISHES%202A_edited_1%20July%202021.jpg)
-
-
-
-## Talent Programme (TP@PTPS)
-
-![](/images/PTPS%20Experience/Peitong-StagedShots-164.jpg)
-
-We believe that ‘**Every Child Matters and Every Child Can Learn**’. Students can discover their strengths and interest through a wide range of activities and experiences. 
-
-This programme offers broad-based exposure for all students; opportunity for advanced pursuit in areas of choice based on students’ interests; as well as talent grooming and competitive exposure for those who demonstrate skills mastery and aptitude in selected areas.

@@ -2,8 +2,8 @@
 title: Co Curricular Activities (CCA)
 permalink: /ptps-experience/co-curricular-activities-cca/
 description: ""
-third_nav_title: Physical and Health Education
 ---
+
 # Overview
 
 At Pei Tong, we believe in providing a holistic experience for every child. Co-curricular Activities (CCA) allow our students to discover their interests and talents outside of classrooms and promotes interactions and friendships among students from diverse backgrounds. 

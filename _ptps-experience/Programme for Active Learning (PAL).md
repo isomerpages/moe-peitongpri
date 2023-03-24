@@ -2,8 +2,8 @@
 title: Programme for Active Learning (PAL)
 permalink: /ptps-experience/co-curricular-activities-cca/programme-for-active-learning-pal/
 description: ""
-third_nav_title: Physical and Health Education
 ---
+
 # Overview
 
 Students in P1 and P2 are engaged in PAL lessons which offer them fun hands-on experiential learning through a broad range of activities in 4 PAL domains. It provides students opportunities to discover new interests, develop character and cultivate social-emotional competencies. In particular, PAL aims to nurture curiosity, confidence and cooperation skills in students.
