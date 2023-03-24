@@ -5,7 +5,7 @@ description: ""
 ---
 # OVERVIEW
 
-## 1. Purpose of Homework
+#### 1. Purpose of Homework
 
 In Pei Tong Primary School, we believe that homework is beneficial to our students as it
 
