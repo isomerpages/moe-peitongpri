@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - 2022/.keep
       - Photo Gallery.md
       - 2023 Kinball Activity.md
       - 2023 P6 VIA.md
