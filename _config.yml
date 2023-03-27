@@ -1,6 +1,6 @@
 title: Pei Tong Primary School
 url: https://peitongpri.moe.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/logo2.png
 colors:
   primary-color: "#7cbc44"
   secondary-color: "#1cac84"
@@ -54,5 +54,5 @@ prod: https://master.dnwkm7pl2hkf8.amplifyapp.com
 shareicon: /images/logo2.png
 is_government: false
 facebook-pixel: ""
-google_analytics: ""
+google_analytics: G-EW3FRXGYRG
 linkedin-insights: ""

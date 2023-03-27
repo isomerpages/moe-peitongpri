@@ -3,9 +3,6 @@ title: Information For Parents
 permalink: /parents-portal/information-for-parents/
 description: ""
 ---
-# Information For Parents
-
-
 ## All Parents
 
 
