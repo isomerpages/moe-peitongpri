@@ -2,6 +2,7 @@ collections:
   welcome-to-pei-tong:
     output: true
     order:
+      - Take a look around.md
       - Principal's Message.md
       - Introduction.md
       - Passionate Learners.md
