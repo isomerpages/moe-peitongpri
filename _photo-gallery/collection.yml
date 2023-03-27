@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - 2021/2021 Sports Carnival.md
       - 2021/2021 Parent Support Group.md
       - 2021/2021 International Friendship Day.md
       - 2021/2021 Chinese New Year & Total Defence Day.md
