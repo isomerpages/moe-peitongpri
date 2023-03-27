@@ -21,6 +21,6 @@ If you are a visitor, check outÂ [our Photo Gallery](our-gallery/photo-gallery)Â
 [Take a look around Pei Tong Primary School!](https://youtu.be/Don7ZQ-2gwI)
 
 <img src="/images/Highlights/2587140f0_4859.png"  
-     style="width:55%">
+     style="width:100%">
 
 ----
