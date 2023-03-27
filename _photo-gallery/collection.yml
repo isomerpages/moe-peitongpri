@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - 2021/2021 Teachers' Day.md
       - 2021/2021 Values In Action.md
       - 2021/2021 Prefects Investiture.md
       - 2021/2021 Racial Harmony Day.md
