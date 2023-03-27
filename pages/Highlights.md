@@ -18,9 +18,8 @@ If you are a visitor, check outÂ [our Photo Gallery](our-gallery/photo-gallery)Â
 
 ----
 ## Take a look around our school
-[Take a look around Pei Tong Primary School!](https://youtu.be/Don7ZQ-2gwI)
+Come join us as our student leaders take you on a virtual tour around Pei Tong Primary School!
 
-<img src="/images/Highlights/2587140f0_4859.png"  
-     style="width:100%">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Don7ZQ-2gwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ----
