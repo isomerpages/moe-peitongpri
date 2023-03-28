@@ -3,7 +3,7 @@ title: Photo Gallery
 permalink: /our-gallery/photo-gallery/
 description: ""
 ---
-# Photo Gallery
+# 📸 Photo Gallery
 
 Click on the following links for photographs of our various school activities!
 
