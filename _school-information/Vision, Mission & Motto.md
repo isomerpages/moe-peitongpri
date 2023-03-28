@@ -6,7 +6,7 @@ description: ""
 # Vision, Mission and Motto
 
 ## Vision
-Every child a **passionate learner**, a **resilient** and **gracious citizen**
+Every child a **passionate learner**, a **resilient individual** and **gracious citizen**
 
 ## Mission
 Nurturing and inspiring every child to be an engaged learner who is holistically developed, future-ready and anchored in values  in a caring environment.
