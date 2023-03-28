@@ -11,6 +11,8 @@ Are you a parent whose child is a student of Pei Tong Primary School?
 Join us at ClassDojo to view photos and updates on the latest happenings around our school.  
 Do contact your child's Form Teacher to find out how to stay connected with us via ClassDojo!  
 
+# Photo Gallery
+
 <img src="/images/Highlights/ca4c37eb0_5002.png"  
      style="width:55%">
 
