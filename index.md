@@ -9,13 +9,16 @@ sections:
   - hero:
       background: /images/Website Hero.gif
       key_highlights:
-        - title: Events
-          description: ""
-          url: /events
         - title: Highlights
           description: ""
           url: /highlights
-        - title: Links
+        - title: FOR PARENTS
           description: ""
-          url: /links
+          url: /parents-portal/school-terms-and-holidays/
+        - title: FOR STUDENTS
+          description: ""
+          url: /ptps/links/for-students/
+        - title: FOR STAFF
+          description: ""
+          url: /ptps/links/for-teachers/
 ---
