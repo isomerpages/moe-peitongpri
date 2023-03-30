@@ -8,7 +8,8 @@ Check back this space for event highlights.
 
 ----
 # Get connected
-Is your child/ward a current student of Pei Tong Primary School? Join us at ClassDojo to view photos and updates on the latest happenings around our school. 
+Is your child/ward a current student of Pei Tong Primary School? 
+Join us at ClassDojo to view photos and updates on the latest happenings around our school. 
 Contact your child's Form Teacher to find out more!  
 
 ----
