@@ -2,7 +2,6 @@ collections:
   parents-portal:
     output: true
     order:
-      - Parent Support Group (PSG).md
       - School Terms and Holidays.md
       - Information For Parents.md
       - 2023 Booklists.md
@@ -11,3 +10,4 @@ collections:
       - Sexuality Education.md
       - Family Matters @ School.md
       - Publications.md
+      - Parent Support Group (PSG).md
