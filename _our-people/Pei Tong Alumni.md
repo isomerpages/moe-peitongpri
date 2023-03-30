@@ -2,12 +2,11 @@
 title: Pei Tong Alumni
 permalink: /our-people/our-partners/pei-tong-alumni/
 description: ""
-third_nav_title: Our Partners
 ---
 # Pei Tong Alumni
 
 <p><a href="https://form.gov.sg/6194842ecdad6700144e5155">
-<img src="/images/Our%20Partners/292220_234201243281995_1955975_n.jpg" style="width:25%">
+<img src="/images/Our%20Partners/292220_234201243281995_1955975_n.jpg" style="width:50%">
 </a></p>
 
 
