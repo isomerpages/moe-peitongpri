@@ -1,8 +1,9 @@
 ---
 title: Pei Tong Alumni
-permalink: /our-people/our-partners/pei-tong-alumni/
+permalink: /our-people/pei-tong-alumni/
 description: ""
 ---
+
 # Pei Tong Alumni
 
 <p><a href="https://form.gov.sg/6194842ecdad6700144e5155">
