@@ -3,7 +3,6 @@ title: Parent Support Group (PSG)
 permalink: /our-people/our-partners/parent-support-group-psg/
 description: ""
 ---
-
 # Parent Support Group (PSG)
 
 <img src="/images/Our%20Partners/PTPS%20PSG%20logo_high%20res.png"  
@@ -16,7 +15,7 @@ Our Pei Tong Parent Support Group (PSG) consists of parents with varied interest
 
 <figure>
 <img src="/images/Our%20Partners/0CFE4C62-B2B4-489A-9EF6-F24C15D70CC8-95692-000010070C6CE10B.jpg"
-		 style="width:75%">
+		 style="width:100%">
 <figcaption> <strong> (Photo of some of our PSG Exco members who volunteered their time to help out during our 2023 1st week of school.) </strong> </figcaption>
 </figure>
 
