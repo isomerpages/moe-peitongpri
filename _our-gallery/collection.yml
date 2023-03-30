@@ -1,5 +1,5 @@
 collections:
-  photo-gallery:
+  our-gallery:
     output: true
     order:
       - Videos.md
