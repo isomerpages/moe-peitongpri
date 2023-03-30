@@ -5,7 +5,7 @@ description: ""
 ---
 # School Song
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nF5D1i3uR-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/nF5D1i3uR-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Let us grow in strength and wisdom<br>
 With heart and soul, we do our best<br>
