@@ -21,5 +21,6 @@ sections:
         - title: FOR STAFF
           description: ""
           url: /ptps/links/for-teachers/
+      button: Photos of the latest happenings
+      url: https://www.peitongpri.moe.edu.sg/our-gallery/photo-gallery/
 ---
-
