@@ -31,5 +31,6 @@ description: ""
 
   
 ## NLB
-*   [NLB Reading D.I.Y. Resources](https://childrenandteens.nlb.gov.sg/diy-resources/primary/primary-main/)
+
 *   [NLB Book Recommendations](https://childrenandteens.nlb.gov.sg/book-recommendations/recommend-primary/)
+*   [NLB Reading D.I.Y. Resources](https://childrenandteens.nlb.gov.sg/diy-resources/primary/primary-main/)
