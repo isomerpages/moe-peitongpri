@@ -46,20 +46,5 @@ links:
         url: /our-gallery/videos/
   - title: Parents' Portal
     collection: parents-portal
-  - title: MK@Pei Tong
-    url: /mkpeitong
-    sublinks:
-      - title: About MOE Kindergarten (MK)
-        url: /mkpeitong/about-moe-kindergarten-mk
-      - title: Curriculum
-        url: /mkpeitong/curriculum
-      - title: Our Learning Environment
-        url: /mkpeitong/our-learning-environment
-      - title: MK Parent Support Group (PSG)
-        url: /mkpeitong/mk-psg
-      - title: Contact Us
-        url: /mkpeitong/contact-us
-      - title: Useful Information/Links
-        url: /mkpeitong/useful-information-links
-      - title: Highlights
-        url: /mkpeitong/highlights/2022-term-4
+  - title: MK@PEI TONG
+    collection: mk
