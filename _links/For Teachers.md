@@ -3,9 +3,7 @@ title: For Teachers
 permalink: /ptps/links/for-teachers/
 description: ""
 ---
-# For Teachers
-
-## Quick Links
+# Quick Links
 
 
 * [Google Workspace (Previously iCON 2.0)](https://workspace.google.com/dashboard)
@@ -22,7 +20,7 @@ description: ""
 *   [School Cockpit (Old) - Admin & Reports](https://schoolcockpit.moe.gov.sg/)
 *   [School Cockpit (New) - Results/Learning Outcomes](https://schoolcockpit.moe.gov.sg/academic)
 
-## MOE/SSOE 2
+# MOE/SSOE 2
 
 
 *   [OPAL 2.0](https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F)
@@ -42,7 +40,7 @@ description: ""
 *   [OLIVE (Staff Well Being)](https://www.olive.moe.edu.sg/)
 *   [MOE Sports and Recreational Club](https://www.mesrc.net/)
 
-## PD
+# Professional Development (PD)
 
 
 *   [OPAL 2.0](https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F)
@@ -50,11 +48,10 @@ description: ""
 *   [HBL PD for Students](https://go.gov.sg/junehbljittrainingforstudents) 
 *   [SG Learning Designers Circle](https://www.facebook.com/groups/sglearningdesigners)
 
-## Others
-
+# Others
 
 *   [KooBits](https://member.koobits.com/)
 *   [Myskillsfuture (Pri)](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
+*   [PTPS Photo Gallery](https://www.peitongpri.moe.edu.sg/our-gallery/photo-gallery/)
 *   [PTPS Art E-Gallery](https://sites.google.com/moe.edu.sg/ptpsart)  
-    
-*   [PTPS Library OPAC](https://schoolibrary.moe.edu.sg/peitongpri/)
+*   [PTPS Library](https://schoolibrary.moe.edu.sg/peitongpri/)
