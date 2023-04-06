@@ -17,8 +17,8 @@ description: ""
 
   
 
-*   [School Cockpit (Old) - Admin & Reports](https://schoolcockpit.moe.gov.sg/)
-*   [School Cockpit (New) - Results/Learning Outcomes](https://schoolcockpit.moe.gov.sg/academic)
+*   [School Cockpit - Admin & Reports](https://schoolcockpit.moe.gov.sg/)
+*   [School Cockpit - Results/Learning Outcomes](https://schoolcockpit.moe.gov.sg/academic)
 
 # MOE/SSOE 2
 
