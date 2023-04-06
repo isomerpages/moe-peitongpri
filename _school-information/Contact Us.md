@@ -3,14 +3,13 @@ title: Contact Us
 permalink: /contact-us/
 description: ""
 ---
-
 # Contact Us
 
 
 ## School Office
 
 
-**Tel: 6777 5458**     <br>
+**Tel: 6777 5458**&nbsp; &nbsp; &nbsp;<br>
 **Fax: 6778 9784**
 
   
@@ -21,7 +20,7 @@ School Holiday:7.30am - 6pm
 
   
 
-Email: [ptps@moe.edu.sg](mailto:ptps@moe.edu.sg)
+Email:&nbsp;[ptps@moe.edu.sg](mailto:ptps@moe.edu.sg)
 
 ## School Dental Clinic
 
@@ -31,15 +30,15 @@ Email: [ptps@moe.edu.sg](mailto:ptps@moe.edu.sg)
 
   
 
-The date of opening in Mar are: <br>
-1, 3, 13 to 17, 27, 28, 30 and 31 Mar
+The date of opening in Apr are::&nbsp;<br>
+12, 13, 25 to 28 Apr 2023
 
   
 
 Opening hours:<br>
 Monday to Thursday: 8am - 5.30pm<br>
 Fri: 8am - 5pm<br>
-Lunch Break: 1pm - 2pm 
+Lunch Break: 1pm - 2pm&nbsp;
 
 ## School Bus Vendor
 
@@ -57,7 +56,7 @@ Lunch Break: 1pm - 2pm 
 
 Operating hours during school term:<br>
 For Students: 8.30am - 4pm<br>
-For Parents/guardians: 2pm-4pm only 
+For Parents/guardians: 2pm-4pm only&nbsp;
 
 ## School uniform
 
@@ -66,7 +65,7 @@ For Parents/guardians: 2pm-4pm only 
 
   
 
-Beauty World Centre #B1-03144 <br>
+Beauty World Centre #B1-03144&nbsp;<br>
 Upper Bukit Timah Road Singapore 588177
 
   

@@ -1,6 +1,6 @@
 ---
-title: Parent Support Group (PSG)
-permalink: /mkpeitong/parent-support-group-psg/
+title: MK Parent Support Group (PSG)
+permalink: /mkpeitong/mk-psg/
 description: ""
 ---
 # MK Parent Support Group (PSG)
