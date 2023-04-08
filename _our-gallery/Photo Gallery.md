@@ -10,6 +10,7 @@ Click on the following links for photographs of our various school activities!
 * [2023 International Friendship Day](https://photos.app.goo.gl/vHxY2fCNq72RGbSd6)
 * [2023 P3 Kinball](https://photos.app.goo.gl/4qk2hwKR1xjTc8Sm7)
 * [2023 P5 Literature Programme](https://photos.app.goo.gl/df2Ekx9YFJJyv3AJ9)
+* [2023 P6 VIA Project](https://photos.app.goo.gl/KJMAgVSpqMiNAfUy9)
 * [2023 Joy Of Learning Science](https://photos.app.goo.gl/sjLYuH2fZUDYG8SA6)
 * [2023 P4 Code For Fun](https://photos.app.goo.gl/9oTCfgh9s5Tdc4z5A)
 * [2023 PAL](https://photos.app.goo.gl/hK9jJcYDawzRXYtQ7)
