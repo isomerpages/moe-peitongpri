@@ -8,4 +8,4 @@ Your words of appreciation will serve as an encouragement, motivation and positi
 
 [Click here](https://go.gov.sg/saythanksptps) to complete the information and submit it to the school.
 
-For feedback, please email directly to ptps@moe.edu.sg.
+For feedback, please email directly to [ptps@moe.edu.sg](mailto:ptps@moe.edu.sg).
