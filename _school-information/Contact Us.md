@@ -30,10 +30,8 @@ Email:&nbsp;[ptps@moe.edu.sg](mailto:ptps@moe.edu.sg)
 
   
 
-The date of opening in Apr are::&nbsp;<br>
-12, 13, 25 to 28 Apr 2023
-
-  
+The date of opening in May:<br>
+8, 9, 10 (morning), 11, 22 to 25, 26 (morning)
 
 Opening hours:<br>
 Monday to Thursday: 8am - 5.30pm<br>
