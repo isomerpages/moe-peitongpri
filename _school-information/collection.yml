@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - School Services.md
       - Vision, Mission & Motto.md
       - School History/.keep
       - School History/School History.md
@@ -15,4 +14,5 @@ collections:
       - School Rules/School Rules.md
       - School Rules/Attire and Personal Appearance.md
       - Safety and Security.md
+      - School Services.md
       - Contact Us.md
