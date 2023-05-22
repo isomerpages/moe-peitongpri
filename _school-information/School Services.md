@@ -30,7 +30,7 @@ Lunch Break: 1pm - 2pm&nbsp;
 
 
 **School Bus Services**<br>
-School Bus Operator and Bus Fare
+[School Bus Operator and Bus Fare](/files/School%20Information/School%20Services/2023%20school%20bus%20fare.pdf)
 
 ## School Bookshop
 
