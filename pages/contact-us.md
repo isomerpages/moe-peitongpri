@@ -26,10 +26,7 @@ contacts:
   - content:
       - phone: +65 8909 1679
       - email: ""
-      - other: "Please call or send a WhatsApp message for an appointment before
-          visiting.  <br><br>The date of opening in Mar are:  1, 3, 13 to 17,
-          27, 28, 30 and 31 Mar  <br><br>Opening hours: <br>Monday to Thursday:
-          8am - 5.30pm <br>Fri: 8am - 5pm Lunch Break: 1pm - 2pm "
+      - other: ""
     title: School Dental Clinic
   - content:
       - phone: +65 9743 9235
@@ -40,7 +37,7 @@ contacts:
       - phone: +65 6592 5713
       - email: ""
       - other: "Popular Book Co<br><br>Operating hours during school term:<br>For
-          Students: 8.30am - 4pm <br>For Parents/guardians: 2pm-4pm only "
+          Students: 8.30am - 4pm <br>For Parents/guardians: 2pm-4pm only"
     title: School Bookshop
   - content:
       - phone: +65 6466 5697
@@ -50,4 +47,5 @@ contacts:
           attire are available for purchase at the school bookshop from 2pm -
           4pm on school days."
     title: School uniform
+feedback: /our-people/saythanksptps/
 ---
