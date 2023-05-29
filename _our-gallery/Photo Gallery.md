@@ -7,6 +7,11 @@ description: ""
 
 Click on the following links for photographs of our various school activities!
 
+* [2023 ALP Changemakers Project](https://photos.app.goo.gl/LfNhtLGtdUNhRLKZ9)
+* [2023 Arts Fest](https://photos.app.goo.gl/nuvmCSuVRT3RucL96)
+* [2023 P4 SS Learning Journey to Geylang Serai](https://photos.app.goo.gl/oqrSmmTVgHZrr6xb7)
+* [2023 P6 SS Learning Journey to ACM](https://photos.app.goo.gl/PN3v1XPTc9KEkofC9)
+* [2023 Hari Raya](https://photos.app.goo.gl/tMAHJS8Nvh4A65GZ7)
 * [2023 International Friendship Day](https://photos.app.goo.gl/vHxY2fCNq72RGbSd6)
 * [2023 P3 Kinball](https://photos.app.goo.gl/4qk2hwKR1xjTc8Sm7)
 * [2023 P5 Literature Programme](https://photos.app.goo.gl/df2Ekx9YFJJyv3AJ9)
