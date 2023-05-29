@@ -7,6 +7,7 @@ description: ""
 
 Click on the following links for photographs of our various school activities!
 
+* [2023 Arts Fest](https://photos.app.goo.gl/nuvmCSuVRT3RucL96)
 * [2023 P4 SS Learning Journey to Geylang Serai](https://photos.app.goo.gl/oqrSmmTVgHZrr6xb7)
 * [2023 P6 SS Learning Journey to ACM](https://photos.app.goo.gl/PN3v1XPTc9KEkofC9)
 * [2023 Hari Raya](https://photos.app.goo.gl/tMAHJS8Nvh4A65GZ7)
