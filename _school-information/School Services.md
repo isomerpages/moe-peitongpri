@@ -14,8 +14,9 @@ description: ""
 
   
 
-The date of opening in May:<br>
-8, 9, 10 (morning), 11, 22 to 25, 26 (morning)
+The date of opening in June:<br>
+Afternoon 5,6,7,9,19,20 (afternoon)  
+8,21,22,23 (whole day)
 
 Opening hours:<br>
 Monday to Thursday: 8am - 5.30pm<br>
