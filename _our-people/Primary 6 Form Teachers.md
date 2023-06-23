@@ -39,8 +39,8 @@ description: ""
     <td><a href="mailto:clarissa_choi_ming_yee@moe.edu.sg">clarissa_choi_ming_yee@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td>Miss Juliet Khoo<br>Mdm Quek Tinghui</td>
-    <td><a href="mailto:khoo_juliet@moe.edu.sg">khoo_juliet@moe.edu.sg</a><br><a href="mailto:quek_tinghui@moe.edu.sg">quek_tinghui@moe.edu.sg</a></td>
+    <td>Miss Juliet Khoo</td>
+    <td><a href="mailto:khoo_juliet@moe.edu.sg">khoo_juliet@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td rowspan="2"><b>Excellence 4</b></td>
