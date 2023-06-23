@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Pei Tong Primary School
-description: An Isomer site of the Singapore Government
+description: The official school website of Pei Tong Primary School
 image: /images/PTwebsiteLogo2.png
 permalink: /
 notification: ""

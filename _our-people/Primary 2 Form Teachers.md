@@ -33,13 +33,17 @@ description: ""
     <td><a href="mailto:au_chuin_yin@moe.edu.sg">au_chuin_yin@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td rowspan="2"><b>Respect 3</b></td>
+    <td rowspan="3"><b>Respect 3</b></td>
     <td>Mrs Chan–Lee Su Wei Rebecca</td>
     <td><a href="mailto:lee_su_wei_rebecca@moe.edu.sg">lee_su_wei_rebecca@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td>Miss Yao Linxiu<br><br>Mdm Tan Sen Lee</td>
-    <td><a href="mailto:yao_linxiu@moe.edu.sg">yao_linxiu@moe.edu.sg</a><br><br><a href="mailto:tan_sen_lee@moe.edu.sg">tan_sen_lee@moe.edu.sg</a></td>
+    <td>Miss Yao Linxiu</td>
+    <td><a href="mailto:yao_linxiu@moe.edu.sg">yao_linxiu@moe.edu.sg</a><br></td>
+  </tr>
+<tr>
+    <td>Mdm Tan Sen Lee</td>
+    <td><a href="mailto:tan_sen_lee@moe.edu.sg">tan_sen_lee@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td rowspan="2"><b>Respect 4</b></td>
@@ -47,8 +51,8 @@ description: ""
     <td><a href="mailto:shanthi_chandramohan@moe.edu.sg">shanthi_chandramohan@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td>Ms Soh Pei Wen</td>
-    <td><a href="mailto:soh_pei_wen@moe.edu.sg">soh_pei_wen@moe.edu.sg</a></td>
+    <td>Mdm Siti Mariam</td>
+    <td><a href="mailto:siti_mariam_manshor@moe.edu.sg">siti_mariam_manshor@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td rowspan="2"><b>Respect 5</b></td>
@@ -88,8 +92,8 @@ description: ""
   </tr>
   <tr>
     <td rowspan="2"><b>Respect 9</b></td>
-    <td>Mrs Feng–Tham Irene</td>
-    <td><a href="mailto:tham_irene@moe.edu.sg">tham_irene@moe.edu.sg</a> </td>
+    <td>Mrs Tan-Chen Chai Kim</td>
+    <td><a href="mailto:chen_chai_kim@moe.edu.sg">chen_chai_kim@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td>Miss Farhana Damli</td>
