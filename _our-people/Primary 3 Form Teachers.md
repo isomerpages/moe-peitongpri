@@ -29,8 +29,8 @@ description: ""
     <td><a href="mailto:low_thiam_chye@moe.edu.sg">low_thiam_chye@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td>Mdm Meena</td>
-    <td><a href="mailto:muthurajamurthy_meenakumari@moe.edu.sg">muthurajamurthy_meenakumari@moe.edu.sg</a></td>
+    <td>Ms Karen Kong</td>
+    <td><a href="mailto:kong_yanli_karen@moe.edu.sg">kong_yanli_karen@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td rowspan="2"><b>Integrity 3</b></td>
@@ -74,8 +74,8 @@ description: ""
     <td><a href="mailto:clarissa_lim_jia_yin@moe.edu.sg">clarissa_lim_jia_yin@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td>Mr Tan Jit Hong</td>
-    <td><a href="mailto:tan_jit_hong@moe.edu.sg">tan_jit_hong@moe.edu.sg</a></td>
+    <td>Mdm Quek Ting Hui</td>
+    <td><a href="mailto:quek_tinghui@moe.edu.sg">quek_tinghui@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
