@@ -38,8 +38,8 @@ description: ""
     <td><a href="mailto:yu_siew_hui@moe.edu.sg">yu_siew_hui@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td>Mdm Zakiah</td>
-    <td><a href="mailto:nor_zakiah_arif@moe.edu.sg">nor_zakiah_arif@moe.edu.sg</a></td>
+    <td>Mdm Low Shu Min</td>
+    <td><a href="mailto:low_shu_min@moe.edu.sg">low_shu_min@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td rowspan="2"><b>Care 4</b></td>
@@ -69,7 +69,7 @@ description: ""
     <td><a href="mailto:tan_siau_hoon@moe.edu.sg">tan_siau_hoon@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td rowspan="2"><b>Care 7</b></td>
+    <td rowspan="3"><b>Care 7</b></td>
     <td>Mdm Yar King Looi</td>
     <td><a href="mailto:yar_king_looi@moe.edu.sg">yar_king_looi@moe.edu.sg</a></td>
   </tr>
@@ -77,10 +77,14 @@ description: ""
     <td>Mdm Abitha Begum</td>
     <td><a href="mailto:abitha_begum_meerashahib@moe.edu.sg">abitha_begum_meerashahib@moe.edu.sg</a></td>
   </tr>
+<tr>
+    <td>Mdm Meena</td>
+    <td><a href="mailto:muthurajamurthy_meenakumari@moe.edu.sg">muthurajamurthy_meenakumari@moe.edu.sg</a></td>
+  </tr>
   <tr>
     <td rowspan="2"><b>Care 8</b></td>
-    <td>Mdm Azlinda Bakar</td>
-    <td><a href="mailto:azlinda_bakar@moe.edu.sg">azlinda_bakar@moe.edu.sg</a></td>
+    <td>Mr Lim Zi Kai</td>
+    <td><a href="mailto:lim_zi_kai@moe.edu.sg">lim_zi_kai@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Mdm Kanmani</td>
