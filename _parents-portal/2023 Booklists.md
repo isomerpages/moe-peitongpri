@@ -3,18 +3,4 @@ title: 2023 Booklists
 permalink: /parents-portal/2023-booklists/
 description: ""
 ---
-[P1 Booklist 2023](/files/Parents%20Portal/Booklists/P1%20Booklist%202023.pdf)
-
-[P2 Booklist 2023](/files/Parents%20Portal/Booklists/P2%20Booklist%202023.pdf)
-
-[P3 Booklist 2023](/files/Parents%20Portal/Booklists/P3%20Booklist%202023.pdf)
-
-[P4 Booklist 2023](/files/Parents%20Portal/Booklists/P4%20Booklist%202023.pdf)
-
-[P5 Booklist 2023 (Standard)](/files/Parents%20Portal/Booklists/P5%20Standard%20Booklist%202023.pdf)
-
-[P5 Booklist 2023 (Foundation)](/files/Parents%20Portal/Booklists/P5%20Foundation%20Booklist%202023.pdf)
-
-[P6 Booklist 2023 (Standard)](/files/Parents%20Portal/Booklists/P6%20Standard%20Booklist%202023.pdf)
-
-[P6 Booklist 2023 (Foundation)](/files/Parents%20Portal/Booklists/P6%20Foundation%20Booklist%202023.pdf)
+Pending updated booklists from Pacific Bookstore.
