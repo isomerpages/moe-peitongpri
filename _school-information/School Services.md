@@ -14,9 +14,8 @@ description: ""
 
   
 
-The date of opening in June:<br>
-Afternoon 5,6,7,9,19,20 (afternoon)  
-8,21,22,23 (whole day)
+The date of opening in July:<br>
+04-06, 18 -21 and 31
 
 Opening hours:<br>
 Monday to Thursday: 8am - 5.30pm<br>
@@ -36,14 +35,15 @@ Lunch Break: 1pm - 2pm&nbsp;
 ## School Bookshop
 
 
-**Popular Book Co**<br>
-**Tel: 6592 5713**
+**Pacific Bookstore**<br>
+**Tel: 9365 4839**
 
   
 
 Operating hours during school term:<br>
-For Students: 8.30am - 4pm<br>
-For Parents/guardians: 2pm-4pm only&nbsp;
+Mon/Tues/Thurs/Fri - 8.30am-4pm <br>
+Wed: 8.30am to 3.30pm <br>
+Lunch Hours - 11.30am to 12.30pm
 
 ## School uniform
 
