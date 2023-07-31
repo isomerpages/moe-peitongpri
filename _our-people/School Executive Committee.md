@@ -167,11 +167,7 @@ description: ""
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td><b>SH Corporate Communications &amp; Partnership</b></td>
-    <td>Ms Soh Pei Wen</td>
-    <td><a href="mailto:soh_pei_wen@moe.edu.sg">soh_pei_wen@moe.edu.sg</a></td>
-  </tr>
+ 
   <tr>
     <td><b>SH MT (Malay &amp; Tamil Language)</b></td>
     <td>Mdm Nor Zakiah</td>

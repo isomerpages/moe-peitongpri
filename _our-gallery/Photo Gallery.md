@@ -7,6 +7,7 @@ description: ""
 
 Click on the following links for photographs of our various school activities!
 
+* [2023 P5 NE Show](https://photos.app.goo.gl/wSGpZamfmuNK5v4q8)
 * [2023 ALP Changemakers Project](https://photos.app.goo.gl/LfNhtLGtdUNhRLKZ9)
 * [2023 Arts Fest](https://photos.app.goo.gl/nuvmCSuVRT3RucL96)
 * [2023 P4 SS Learning Journey to Geylang Serai](https://photos.app.goo.gl/oqrSmmTVgHZrr6xb7)
