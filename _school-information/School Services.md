@@ -14,8 +14,9 @@ description: ""
 
   
 
-The date of opening in July:<br>
-04-06, 18 -21 and 31
+The date of opening in August:<br>
+1 to 4, 14 (morning session) <br>
+17, 18, 28 to 31 Aug
 
 Opening hours:<br>
 Monday to Thursday: 8am - 5.30pm<br>
