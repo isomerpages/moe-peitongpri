@@ -15,8 +15,8 @@ description: ""
   
 
 The date of opening in August:<br>
-1 to 4, 14 (morning session) <br>
-17, 18, 28 to 31 Aug
+ 1 to 4, 14 (morning session)<br>
+ 17 to 31 Aug (except weekends)
 
 Opening hours:<br>
 Monday to Thursday: 8am - 5.30pm<br>
