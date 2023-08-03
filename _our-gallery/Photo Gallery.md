@@ -7,6 +7,9 @@ description: ""
 
 Click on the following links for photographs of our various school activities!
 
+* [2023 Racial Harmony Day](https://photos.app.goo.gl/TXmGWxWtphn3LJJHA)
+* [2023 P5 Camp Resilience](https://photos.app.goo.gl/mbDm4hcCjsv7C1UX9)
+* [2023 Student Leaders Investiture](https://photos.app.goo.gl/qusDTK6NGmn4iEi86)
 * [2023 P5 NE Show](https://photos.app.goo.gl/wSGpZamfmuNK5v4q8)
 * [2023 ALP Changemakers Project](https://photos.app.goo.gl/LfNhtLGtdUNhRLKZ9)
 * [2023 Arts Fest](https://photos.app.goo.gl/nuvmCSuVRT3RucL96)
