@@ -7,7 +7,9 @@ description: ""
 
 Click on the following links for photographs of our various school activities!
 
+* [2023 National Day](https://photos.app.goo.gl/jfCypAgcEnBP7MMb7)
 * [2023 P3 NE Musical](https://photos.app.goo.gl/5cnVwqhsrMDvZgXZ7)
+* [2023 Lower Primary Sports Carnival](https://photos.app.goo.gl/WBU48CcXchMkCZzq6)
 * [2023 Racial Harmony Day](https://photos.app.goo.gl/TXmGWxWtphn3LJJHA)
 * [2023 P5 Camp Resilience](https://photos.app.goo.gl/mbDm4hcCjsv7C1UX9)
 * [2023 Student Leaders Investiture](https://photos.app.goo.gl/qusDTK6NGmn4iEi86)
