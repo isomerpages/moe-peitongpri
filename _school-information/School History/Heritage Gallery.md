@@ -15,13 +15,7 @@ The Pei Tong Primary School and Clementi Community Heritage Gallery was official
 The gallery features the history of Clementi and our school. There are also nostalgic photographs and items from the past on display. This gallery serves to enrich the learning experience for our students and inculcate a sense of rootedness and belonging to our country.
 
   
-
-Our students do get to visit this gallery for some of their Social Studies lessons pertaining to our school as well as our community, Clementi. The gallery is also open during our school open house and kindergarten visits. Members of the public are also welcome to visit the gallery. 
-
-  
-
-Should you be interested to visit us or find out more, please fill in the form below and we will be in touch with you.
+Our students do get to visit this gallery for some of their Social Studies lessons pertaining to our school as well as our community, Clementi. The gallery is also open during our school open house and kindergarten visits.
 
 
-
-<iframe style="width: 820px; height: 461px;" class="ive_eobj_center" marginwidth="0" marginheight="0" frameborder="0" height="500" width="760" src="https://docs.google.com/forms/d/1eBUAKltP4Y6rM2pRHJpomiP8fWaeWZv98NG4dVJ3Bo0/viewform?embedded=true](https://docs.google.com/forms/d/1eBUAKltP4Y6rM2pRHJpomiP8fWaeWZv98NG4dVJ3Bo0/viewform?embedded=true)"></iframe><div style="text-align: justify;"><br></div>
+Should you be interested to find out more, please send an email to liow_zhong_fa@moe.edu.sg or contact us [here](https://www.peitongpri.moe.edu.sg/contact-us/).

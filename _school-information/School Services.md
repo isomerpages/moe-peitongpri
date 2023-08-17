@@ -1,6 +1,6 @@
 ---
 title: School Services
-permalink: /school-information/permalink/
+permalink: /school-services/
 description: ""
 ---
 # School Services
