@@ -18,4 +18,4 @@ The gallery features the history of Clementi and our school. There are also nost
 Our students do get to visit this gallery for some of their Social Studies lessons pertaining to our school as well as our community, Clementi. The gallery is also open during our school open house and kindergarten visits.
 
 
-Should you be interested to find out more, please send an email to liow_zhong_fa@moe.edu.sg or contact us [here](https://www.peitongpri.moe.edu.sg/contact-us/).
+Should you be interested to find out more, please send an email to [liow_zhong_fa@moe.edu.sg](mailto:liow_zhong_fa@moe.edu.sg) or contact us [here](https://www.peitongpri.moe.edu.sg/contact-us/).
