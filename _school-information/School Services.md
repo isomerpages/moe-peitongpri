@@ -20,7 +20,7 @@ The date of opening in August:<br>
 
 Opening hours:<br>
 Monday to Thursday: 8am - 5.30pm<br>
-Fri: 8am - 5pm<br>
+Fri: 8am - 4.30pm<br> 
 Lunch Break: 1pm - 2pm&nbsp;
 
 ## School Bus Vendor
