@@ -46,7 +46,7 @@ Mon/Tues/Thurs/Fri - 8.30am-4pm <br>
 Wed: 8.30am to 3.30pm <br>
 Lunch Hours - 11.30am to 12.30pm
 
-## School uniform
+## School Uniform 
 
 **Finest Fashion Centre**<br>
 **Tel: 64665697**
@@ -60,7 +60,7 @@ Upper Bukit Timah Road Singapore 588177
 
 School uniform and PE attire are available for purchase at the school bookshop from 2pm - 4pm on school days.
 
-## SCHOOL STUDENT CARE
+## School Student Care
 
 **NASCANS**<br>
 **Tel: 8298 8501**<br>
