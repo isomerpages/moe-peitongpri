@@ -60,15 +60,14 @@ Upper Bukit Timah Road Singapore 588177
 
 School uniform and PE attire are available for purchase at the school bookshop from 2pm - 4pm on school days.
 
-## School Student Care
+## School Student Care (Primary)
 
 **NASCANS**<br>
 **Tel: 8298 8501**<br>
 **Email: [ptscc@nascans.com](ptscc@nascans.com)**
 
 
-## KCare Hotline
+## KCare (Kindergarten)
 
-MOE Kindergarten KCare<br>
 **Tel: 8298 8518**<br>
 **Email: [ptkcc@nascans.com](ptkcc@nascans.com)**
