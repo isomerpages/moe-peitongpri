@@ -120,6 +120,6 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Educ
 
 8.&nbsp; &nbsp; Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here](/files/Parents%20Portal/Annex%20A%20-%20Opt%20Out%20Form%202023.pdf)). The completed opt-out form is to be submitted by&nbsp;**28 February 2023**.
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here](/files/Parents%20Portal/For%20Parents/Annex%20A%20-%20Opt%20Out%20Form%202023.pdf). The completed opt-out form is to be submitted by&nbsp;**28 February 2023**.
 
 10.&nbsp; &nbsp; &nbsp;Parents can contact the school at 6777 5458 for discussion or to seek clarification about the school’s sexuality education programme.</b></b>
