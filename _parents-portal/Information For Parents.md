@@ -17,7 +17,7 @@ description: ""
 
 *   [P1 Orientation 2022 - Principal's Address](/files/Parents%20Portal/P1%20Orientation%202022%20-%20Principals%20Address.pdf)
 *   [Lower Primary Assistant Year Head Welcome - Transition to P1](/files/Parents%20Portal/Lower%20Primary%20Assistant%20Year%20Head%20Welcome%20-%20Transition%20to%20P1.pdf)
-*   [Interactive Resource for Parent-Child (Best downloaded and viewed on PC)](https://drive.google.com/file/d/1EaeY-PrxQo9MnUYvmjV0NsMqR0vVIEVO/view?usp=sharing)
+
 
 ## Primary 2
 * T1 Parents' Briefing slides can be viewed at [Parents Gateway (PG)](https://pg.moe.edu.sg/)

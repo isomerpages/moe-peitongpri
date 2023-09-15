@@ -26,12 +26,12 @@ description: ""
 
 (iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click&nbsp;[here](https://www.moe.gov.sg/programmes/sexuality-education)&nbsp;for more information on MOE Sexuality Education.&nbsp;<b>LINK DOES NOT WORK</b>
+You may click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)&nbsp;for more information on MOE Sexuality Education.&nbsp;
 
 ## Overview of PEI TONG Primary School’s Sexuality Education Programme for 2023
 
 
-4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](http://www.moe.gov.sg/education/programmes/social-emotional-learning/sexuality-education/scope/)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics on sexuality include:<br>
 a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science<br>
@@ -120,6 +120,6 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Educ
 
 8.&nbsp; &nbsp; Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here](/files/Parents%20Portal/Annex%20A%20-%20Opt%20Out%20Form%202023.pdf)). The completed opt-out form is to be submitted by&nbsp;**28 February 2023**.
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here](/files/Parents%20Portal/For%20Parents/Annex%20A%20-%20Opt%20Out%20Form%202023.pdf). The completed opt-out form is to be submitted by&nbsp;**28 February 2023**.
 
 10.&nbsp; &nbsp; &nbsp;Parents can contact the school at 6777 5458 for discussion or to seek clarification about the school’s sexuality education programme.</b></b>
