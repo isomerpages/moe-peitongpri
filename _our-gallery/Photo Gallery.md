@@ -7,6 +7,9 @@ description: ""
 
 Click on the following links for photographs of our various school activities!
 
+* [2023 P2 VIA Project](https://photos.app.goo.gl/95zUD1GabYfE8TZE8)
+* [2023 Teachers' Day](https://photos.app.goo.gl/nWc8LQdpVL8tk7AM8)
+* [2023 P5 VIA Project](https://photos.app.goo.gl/bCNmTwD7hoydUQw96)
 * [2023 National Day](https://photos.app.goo.gl/jfCypAgcEnBP7MMb7)
 * [2023 P3 NE Musical](https://photos.app.goo.gl/5cnVwqhsrMDvZgXZ7)
 * [2023 Lower Primary Sports Carnival](https://photos.app.goo.gl/WBU48CcXchMkCZzq6)
