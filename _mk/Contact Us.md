@@ -5,7 +5,32 @@ description: ""
 ---
 # Contact Us
 
-
+<table>
+<tbody><tr>
+<th>Address:</th>
+<td>15 Clementi Ave 5, Pei Tong Primary School , Singapore 129857</td>
+</tr>
+<tr>
+<th>Operation Hours:</th>
+<td>Monday - Friday :<br>
+8.00 a.m. - 5.00 p.m. (MK@Pei Tong)<br>
+7.00 a.m. - 7.00 p.m. (KCare@Pei Tong)<br>
+Closed on Saturday &amp; Sunday
+</td>
+</tr>
+<tr>
+<th>Tell</th>
+<td>67775458</td>
+</tr>
+	<tr>
+<th>Responsibility</th>
+<td>Be able to take ownership of own learning, develop greater independence</td>
+</tr>
+		<tr>
+<th>Respect</th>
+<td>Be appreciative and respectful to own self and others</td>
+</tr>
+	</tbody></table>
 
 For further enquiries about MOE Kindergarten @ Pei Tong, you may contact us at the following:
 
