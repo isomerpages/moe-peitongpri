@@ -32,4 +32,3 @@ Children learn best when significant adults in their lives (teachers and parents
   ![](/images/MK@Pei%20Tong/parents%20support%20group%20(psg).jpg)
 
 At MK@PT, our Parents Support Group (PSG) aims to foster a closer collaborative relationship between families and the school. Parents volunteered in event preparations, sharing sessions and various activities.
-
