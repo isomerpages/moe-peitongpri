@@ -29,7 +29,7 @@ Enrolments will be subject to available vacancies.
 -->
 #### MK VACCINATION REQUIREMENTS
 
-Children who wish to enrol in MK from 1 Apr 2020 must have received at least one dose of measles vaccination and have completed three doses (primary series) of diphtheria vaccination (1M3D).<br>
+Children who wish to enrol in MK from 1 Apr 2020 must have received at least one dose of measles&nbsp;vaccination and have completed three doses (primary series) of diphtheria vaccination (1M3D).<br>
 [FAQ - MK Vaccination requirements.pdf](/files/MK@Pei%20Tong/FAQ%20-%20MK%20Vaccination%20requirements.pdf)
 
   
@@ -69,19 +69,18 @@ KiFAS subsidies are available for families where their household income (HHI) do
 
   
 
-For more information on KiFAS, you may visit <br>
+For more information on KiFAS, you may visit&nbsp;<br>
 [https://www.msf.gov.sg/Comcare/Pages/ComCare-Kindergarten-Subsidies.aspx](https://www.msf.gov.sg/Comcare/Pages/ComCare-Kindergarten-Subsidies.aspx) 
 
   
 
 #### UNIFORM MATTERS
 
-Beau Voix Uniform and Jeep Sing Fashion are the appointed suppliers for MK uniforms. <br>
+Beau Voix Uniform and Jeep Sing Fashion are the appointed suppliers for MK uniforms.&nbsp;<br>
 Please refer to the below image for more information on how to purchase the uniform.
 
 ![](/images/MK@Pei%20Tong/Uniform%20Suppliers_Flyer.jpg)
 
-(Note: Should you wish to purchase the uniform from Pei Tong Primary School's bookshop, you may do so during curriculum time, between 2 pm and 4 pm. You are encouraged to contact the bookshop vendor at 6592 5713 to check for the available sizes before heading down to the bookshop.)  
 
   
 
@@ -92,3 +91,12 @@ Please refer to the below image for more information on how to purchase the unif
 Authorisation Passes are required for Parents/Guardians/Caregivers who frequently fetch the child from the MOE Kindergarten or KCare. Each child is entitled to 2 Authorisation Passes. If you require more than 2 passes, please submit another form, subject to approval.
 
 [MK AUTHORISATION PASS 1.pdf](/files/MK@Pei%20Tong/MK%20AUTHORISATION%20PASS%201.pdf)
+
+#### Primary 1 Registration
+
+MK students are eligible for P1 phase 2A registration.
+
+Depending on the availability of P1 vacancies during phase 2A, your child may or may not be admitted to Pei Tong Primary School.
+
+For information on Primary 1 Registration Exercise, please visit:
+https://www.moe.gov.sg/primary/p1-registration
