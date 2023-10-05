@@ -23,16 +23,12 @@ Closed on Saturday &amp; Sunday
 <td>67775458</td>
 </tr>
 	<tr>
-<th>Responsibility</th>
-<td>Be able to take ownership of own learning, develop greater independence</td>
-</tr>
-		<tr>
-<th>Respect</th>
-<td>Be appreciative and respectful to own self and others</td>
+<th>Email</th>
+<td>mk_peitong@moe.edu.sg</td>
 </tr>
 	</tbody></table>
 
-For further enquiries about MOE Kindergarten @ Pei Tong, you may contact us at the following:
+
 
   
 
