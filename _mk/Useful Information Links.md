@@ -81,13 +81,18 @@ Please refer to the below image for more information on how to purchase the unif
 
 ![](/images/MK@Pei%20Tong/Uniform%20Suppliers_Flyer.jpg)
 
-(Note: To purchase the uniform from Pei Tong Primary School's bookshop, you may do so during curriculum time, between 2 pm and 4 pm. You are encouraged to contact the bookshop vendor at 6592 5713 to check for the available sizes before heading down to the bookshop.)  
 
   
 
   
 
 #### AUTHORISATION PASS APPLICATION
+
+Authorisation Passes are required for Parents/Guardians/Caregivers who frequently fetch the child from the MOE Kindergarten or KCare. Each child is entitled to 2 Authorisation Passes. If you require more than 2 passes, please submit another form, subject to approval.
+
+[MK AUTHORISATION PASS 1.pdf](/files/MK@Pei%20Tong/MK%20AUTHORISATION%20PASS%201.pdf)
+
+#### Primary 1 Registration
 
 Authorisation Passes are required for Parents/Guardians/Caregivers who frequently fetch the child from the MOE Kindergarten or KCare. Each child is entitled to 2 Authorisation Passes. If you require more than 2 passes, please submit another form, subject to approval.
 
