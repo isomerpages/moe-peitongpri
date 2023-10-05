@@ -2,13 +2,13 @@ collections:
   mk:
     output: true
     order:
-      - MK Initiatives.md
       - MK@Pei Tong.md
       - About MOE Kindergarten (MK).md
       - Curriculum.md
       - Our Learning Environment/.keep
       - Our Learning Environment/Indoor & Outdoor Spaces.md
       - Our Learning Environment/MK@Pei Tong Virtual Tour.md
+      - MK Initiatives.md
       - Useful Information Links.md
       - MK Parent Support Group (PSG).md
       - Contact Us.md
