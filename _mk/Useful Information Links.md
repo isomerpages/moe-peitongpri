@@ -29,7 +29,7 @@ Enrolments will be subject to available vacancies.
 -->
 #### MK VACCINATION REQUIREMENTS
 
-Children who wish to enrol in MK from 1 Apr 2020 must have received at least one dose of measles vaccination and have completed three doses (primary series) of diphtheria vaccination (1M3D).<br>
+Children who wish to enrol in MK from 1 Apr 2020 must have received at least one dose of measles&nbsp;vaccination and have completed three doses (primary series) of diphtheria vaccination (1M3D).<br>
 [FAQ - MK Vaccination requirements.pdf](/files/MK@Pei%20Tong/FAQ%20-%20MK%20Vaccination%20requirements.pdf)
 
   
@@ -69,19 +69,19 @@ KiFAS subsidies are available for families where their household income (HHI) do
 
   
 
-For more information on KiFAS, you may visit <br>
+For more information on KiFAS, you may visit&nbsp;<br>
 [https://www.msf.gov.sg/Comcare/Pages/ComCare-Kindergarten-Subsidies.aspx](https://www.msf.gov.sg/Comcare/Pages/ComCare-Kindergarten-Subsidies.aspx) 
 
   
 
 #### UNIFORM MATTERS
 
-Beau Voix Uniform and Jeep Sing Fashion are the appointed suppliers for MK uniforms. <br>
+Beau Voix Uniform and Jeep Sing Fashion are the appointed suppliers for MK uniforms.&nbsp;<br>
 Please refer to the below image for more information on how to purchase the uniform.
 
 ![](/images/MK@Pei%20Tong/Uniform%20Suppliers_Flyer.jpg)
 
-(Note: Should you wish to purchase the uniform from Pei Tong Primary School's bookshop, you may do so during curriculum time, between 2 pm and 4 pm. You are encouraged to contact the bookshop vendor at 6592 5713 to check for the available sizes before heading down to the bookshop.)  
+(Note: To purchase the uniform from Pei Tong Primary School's bookshop, you may do so during curriculum time, between 2 pm and 4 pm. You are encouraged to contact the bookshop vendor at 6592 5713 to check for the available sizes before heading down to the bookshop.)  
 
   
 
