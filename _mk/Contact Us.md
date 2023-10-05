@@ -36,16 +36,25 @@ Closed on Saturday &amp; Sunday
 Tel: 6777 5458 (8.00am - 5.00pm, school hours only)<br>
 Email:&nbsp;[mk\_peitong@moe.edu.sg](mailto:mk_peitong@moe.edu.sg)  
 
-  
-
-<b><u>ADDRESS</u></b><br>
-15 Clementi Ave 5, Pei Tong Primary School, Singapore 129857
+  ![](/images/MK@Pei%20Tong/Contact%20us/school%20map.png)
 
 
-![](/images/MK@Pei%20Tong/Map.png)
 
-### KCare Hotline
 
-MOE Kindergarten KCare<br>
-**Tel: 8298 8518**<br>
-**Email: [ptkcc@nascans.com](ptkcc@nascans.com)**
+### KINDERGARTEN CARE (KCARE)
+
+We offer Kindergarten Care (KCare), a full day childcare programme, 7 a.m. to 7 p.m.
+
+If you register, your child will be in KCare before and after your child’s MK session, providing the convenience of a full-day service.
+
+
+### NUSCANS
+
+<table>
+<tbody><tr>
+<th>Tel:</th>
+<td>82988518</td>
+</tr>
+	<tr><th>Email:</th>
+<td>supervisor.ptkcc@nascans.com</td><td>
+</td></tr></tbody></table>
