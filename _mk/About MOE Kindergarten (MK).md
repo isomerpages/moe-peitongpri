@@ -143,4 +143,3 @@ Their thinking and reasoning skills evolve over time as they build new knowledge
 <td>Be appreciative and respectful to own self and others</td>
 </tr>
 	</tbody></table>
-
