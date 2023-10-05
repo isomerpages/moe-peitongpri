@@ -3,7 +3,7 @@ title: MK Parent Support Group (PSG)
 permalink: /mkpeitong/mk-psg/
 description: ""
 ---
-# MK Parent Support Group (PSG)
+# Our Partners
 
 Children learn best when significant adults in their lives (teachers and parents) work together to support them. This bridges the gap between home and school and enhances children’s interest and motivation in learning.   
 
