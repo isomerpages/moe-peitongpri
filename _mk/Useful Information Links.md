@@ -94,6 +94,9 @@ Authorisation Passes are required for Parents/Guardians/Caregivers who frequentl
 
 #### Primary 1 Registration
 
-Authorisation Passes are required for Parents/Guardians/Caregivers who frequently fetch the child from the MOE Kindergarten or KCare. Each child is entitled to 2 Authorisation Passes. If you require more than 2 passes, please submit another form, subject to approval.
+MK students are eligible for P1 phase 2A registration.
 
-[MK AUTHORISATION PASS 1.pdf](/files/MK@Pei%20Tong/MK%20AUTHORISATION%20PASS%201.pdf)
+Depending on the availability of P1 vacancies during phase 2A, your child may or may not be admitted to Pei Tong Primary School.
+
+For information on Primary 1 Registration Exercise, please visit:
+https://www.moe.gov.sg/primary/p1-registration
