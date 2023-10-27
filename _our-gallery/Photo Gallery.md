@@ -7,6 +7,9 @@ description: ""
 
 Click on the following links for photographs of our various school activities!
 
+* [2023 Children's Day](https://photos.app.goo.gl/wCntXLqRQiwWCMMp9)
+<!-- * [2023 P1 Learning Journey to the Zoo ](https://photos.app.goo.gl/rAYKxfgH1oc8JFG86) -->
+<!-- * [2023 P2 Learning Journey to Marina Barrage](https://photos.app.goo.gl/i4E94yGUi9VeGnvx9) -->
 * [2023 P5 CL Gameshow](https://photos.app.goo.gl/brTetDwxVjffHFix5)
 * [2023 P2 VIA Project](https://photos.app.goo.gl/95zUD1GabYfE8TZE8)
 * [2023 Teachers' Day](https://photos.app.goo.gl/nWc8LQdpVL8tk7AM8)
@@ -33,6 +36,6 @@ Click on the following links for photographs of our various school activities!
 * [2023 Total Defence Day](https://photos.app.goo.gl/b4CfGsduMv4uLzaR7)
 * [2023 Swimsafer](https://photos.app.goo.gl/kw9zEVpSs3L4fXit9)
 * [2023 First Assembly Of The Year](https://photos.app.goo.gl/LArc6EkPoZw28vTg8)
-* [2023 P1 & P4 Buddy Pairing](https://photos.app.goo.gl/ncPC8kdhXxg8JUcS8)
+* [2023 P1 &amp; P4 Buddy Pairing](https://photos.app.goo.gl/ncPC8kdhXxg8JUcS8)
 * [2023 P2-P6 First Day](https://photos.app.goo.gl/o2Rxawyb9nEGogVc7)
 * [2023 P1 First Day](https://photos.app.goo.gl/GJacZMyENCGM5CmS9)
