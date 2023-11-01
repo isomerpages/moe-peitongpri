@@ -14,14 +14,14 @@ description: ""
 
   
 
-The date of opening in August:<br>
- 1 to 4, 14 (morning session)<br>
- 17 to 31 Aug (except weekends)
+The date of opening in November:<br>
+6 to 10 November
+20 to  24 November
+29 and 30 November
 
 Opening hours:<br>
-Monday to Thursday: 8am - 5.30pm<br>
-Fri: 8am - 4.30pm<br> 
-Lunch Break: 1pm - 2pm&nbsp;
+Tues, Thurs : 8am-5.30pm
+Mon, Wed, Fri: 8am - 5pm
 
 ## School Bus Vendor
 
