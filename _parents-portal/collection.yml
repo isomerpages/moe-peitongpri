@@ -2,6 +2,7 @@ collections:
   parents-portal:
     output: true
     order:
+      - Join our Pei Tong Parents Community.md
       - School Terms and Holidays.md
       - Information For Parents.md
       - 2023 Booklists.md
