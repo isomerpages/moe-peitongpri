@@ -6,6 +6,7 @@ description: ""
 ## All Parents
 
 
+*   [Join our Parent Support Group (PSG)/ serve as an ad-hoc parent volunteer](https://www.peitongpri.moe.edu.sg/our-people/parent-support-group-psg/)
 *   [Canteen Menu and Pricing](https://go.gov.sg/ptpscanteen)  
     
 *   [CCA Information](https://staging.dnwkm7pl2hkf8.amplifyapp.com/ptps-experience/co-curricular-activities-cca/)
