@@ -2,8 +2,8 @@ collections:
   parents-portal:
     output: true
     order:
-      - School Terms and Holidays.md
       - Information For Parents.md
+      - School Terms and Holidays.md
       - 2023 Booklists.md
       - Useful Links for Parents.md
       - Student Learning Space.md
