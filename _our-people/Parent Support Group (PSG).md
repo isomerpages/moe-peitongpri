@@ -23,8 +23,7 @@ Other than providing feedback, our PSG has helped to support the school in progr
 
   
 ### Join us
-We welcome all parents to join our PSG or to serve as Parent Volunteers on an ad-hoc basis!
-
+We welcome all parents to join our <b>PSG</b> or to serve as <b>Parent Volunteers on an ad hoc basis</b>!
 To sign up, [click on this link](https://go.gov.sg/peitongparents).
 
 
