@@ -16,8 +16,6 @@ variant: markdown
 
 ## Primary 1
 
-
-*   [P1 Orientation 2022 - Principal's Address](/files/Parents%20Portal/P1%20Orientation%202022%20-%20Principals%20Address.pdf)
 *   [Lower Primary Assistant Year Head Welcome - Transition to P1](/files/Parents%20Portal/Lower%20Primary%20Assistant%20Year%20Head%20Welcome%20-%20Transition%20to%20P1.pdf)
 
 
