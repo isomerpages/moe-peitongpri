@@ -2,8 +2,8 @@
 title: Pei Tong Alumni
 permalink: /our-people/pei-tong-alumni/
 description: ""
+variant: markdown
 ---
-
 # Pei Tong Alumni
 
 <p><a href="https://form.gov.sg/6194842ecdad6700144e5155">
@@ -11,6 +11,10 @@ description: ""
 </a></p>
 
 
-To join our PTPS Alumni, please [complete this form](https://go.gov.sg/ptpsalumniregistration).
+## Join Alumni 
+To join our PTPS Alumni officially, please&nbsp;[complete this form](https://go.gov.sg/ptpsalumniregistration).
 
-If you have trouble submitting the online form, please contact us at [ptps@moe.edu.sg](mailto:ptps@moe.edu.sg).
+If you have trouble submitting the online form, please contact us at&nbsp;[ptps@moe.edu.sg](mailto:ptps@moe.edu.sg).
+
+## Stay connected
+To join our PTPS Alumni Mailing list to stay connected, please [complete this form](https://go.gov.sg/ptpsalumnimailinglist).
