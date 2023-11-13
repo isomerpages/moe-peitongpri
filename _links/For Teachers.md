@@ -2,6 +2,7 @@
 title: For Teachers
 permalink: /ptps/links/for-teachers/
 description: ""
+variant: markdown
 ---
 # Quick Links
 
@@ -37,7 +38,6 @@ description: ""
 
   
 
-*   [OLIVE (Staff Well Being)](https://www.olive.moe.edu.sg/)
 *   [MOE Sports and Recreational Club](https://www.mesrc.net/)
 
 # Professional Development (PD)
