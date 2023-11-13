@@ -2,14 +2,19 @@
 title: Photo Gallery
 permalink: /our-gallery/photo-gallery/
 description: ""
+variant: markdown
 ---
 # 📸 Photo Gallery
 
 Click on the following links for photographs of our various school activities!
 
+* [2023 P3 In-line skating](https://photos.app.goo.gl/7trNkk5EP1m7jXTF9)
+* [2023 Dialogue with Time - Science Centre](https://photos.app.goo.gl/J5TiH8nzeUNRtBGu9)
+* [2023 I'm Possible](https://photos.app.goo.gl/K8amrvVGG4ePX4KBA)
+* [2023 Parents Recognition Day](https://photos.app.goo.gl/a6gzyDF2gYCyRRt37)
 * [2023 Children's Day](https://photos.app.goo.gl/wCntXLqRQiwWCMMp9)
-<!-- * [2023 P1 Learning Journey to the Zoo ](https://photos.app.goo.gl/rAYKxfgH1oc8JFG86) -->
-<!-- * [2023 P2 Learning Journey to Marina Barrage](https://photos.app.goo.gl/i4E94yGUi9VeGnvx9) -->
+* [2023 P1 Learning Journey to the Zoo ](https://photos.app.goo.gl/rAYKxfgH1oc8JFG86)
+* [2023 P2 Learning Journey to Marina Barrage](https://photos.app.goo.gl/i4E94yGUi9VeGnvx9)
 * [2023 P5 CL Gameshow](https://photos.app.goo.gl/brTetDwxVjffHFix5)
 * [2023 P2 VIA Project](https://photos.app.goo.gl/95zUD1GabYfE8TZE8)
 * [2023 Teachers' Day](https://photos.app.goo.gl/nWc8LQdpVL8tk7AM8)
