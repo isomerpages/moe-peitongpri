@@ -2,6 +2,7 @@
 title: Useful Information Links
 permalink: /mkpeitong/useful-information-links/
 description: ""
+variant: markdown
 ---
 # Useful Information / Links
 
@@ -70,7 +71,7 @@ KiFAS subsidies are available for families where their household income (HHI) do
   
 
 For more information on KiFAS, you may visit&nbsp;<br>
-[https://www.msf.gov.sg/Comcare/Pages/ComCare-Kindergarten-Subsidies.aspx](https://www.msf.gov.sg/Comcare/Pages/ComCare-Kindergarten-Subsidies.aspx) 
+[https://www.msf.gov.sg/Comcare/Pages/ComCare-Kindergarten-Subsidies.aspx](https://www.ecda.gov.sg/parents/subsidies-financial-assistance#KIFAS) 
 
   
 

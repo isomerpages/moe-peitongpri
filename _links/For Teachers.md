@@ -2,6 +2,7 @@
 title: For Teachers
 permalink: /ptps/links/for-teachers/
 description: ""
+variant: markdown
 ---
 # Quick Links
 
@@ -26,7 +27,7 @@ description: ""
 *   [OPAL 2.0](https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F)
 *   [iEXAMS 2](https://iexams.seab.gov.sg/)
 *   [MOE Intranet](https://intranet.moe.gov.sg/)
-*   [HR Online Portal](http://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
+*   [HR Online Portal](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
 *   [SEN Resource Portal](https://intranet.moe.gov.sg/send/Pages/SEN_Resource_Portal.aspx)
 
   
@@ -37,7 +38,6 @@ description: ""
 
   
 
-*   [OLIVE (Staff Well Being)](https://www.olive.moe.edu.sg/)
 *   [MOE Sports and Recreational Club](https://www.mesrc.net/)
 
 # Professional Development (PD)
