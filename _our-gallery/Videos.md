@@ -13,7 +13,7 @@ Catch a glimpse of school life in Pei Tong in the videos below! 📺
 ## 👀 First Look
 
 
-Take a look around at some of the facilities offered in Pei Tong Primary School.
+Take a look around Pei Tong Primary School.
 
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Don7ZQ-2gwI" title="Pei Tong - First Look" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
