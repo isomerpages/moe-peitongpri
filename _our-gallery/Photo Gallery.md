@@ -8,6 +8,10 @@ variant: markdown
 
 Click on the following links for photographs of our various school activities!
 
+* [2023 Lower Primary Recognition Day](https://photos.app.goo.gl/JeNZbacuofpwaSjL9)
+* [2023 P4 Resilience Walk](https://photos.app.goo.gl/u2dcTM8CvCG6fpY36)
+<!-- * [2023 P4 Museum-Based Learning]() -->
+* [2023 Deepavali](https://photos.app.goo.gl/dmWgooZjeFurn3Hy8)
 * [2023 P3 In-line skating](https://photos.app.goo.gl/7trNkk5EP1m7jXTF9)
 * [2023 Dialogue with Time - Science Centre](https://photos.app.goo.gl/J5TiH8nzeUNRtBGu9)
 * [2023 I'm Possible](https://photos.app.goo.gl/K8amrvVGG4ePX4KBA)
