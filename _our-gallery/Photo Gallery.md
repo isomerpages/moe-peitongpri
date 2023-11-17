@@ -8,6 +8,7 @@ variant: markdown
 
 Click on the following links for photographs of our various school activities!
 
+* [2023 Recognition Day](https://photos.app.goo.gl/uJhhKc8vNNLRtXfn8)
 * [2023 Lower Primary Recognition Day](https://photos.app.goo.gl/JeNZbacuofpwaSjL9)
 * [2023 P4 Resilience Walk](https://photos.app.goo.gl/u2dcTM8CvCG6fpY36)
 <!-- * [2023 P4 Museum-Based Learning]() -->
