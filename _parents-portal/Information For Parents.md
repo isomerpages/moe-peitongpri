@@ -16,20 +16,23 @@ variant: markdown
 
 ## Primary 1
 
-*   [Lower Primary Assistant Year Head Welcome - Transition to P1](/files/Parents%20Portal/Lower%20Primary%20Assistant%20Year%20Head%20Welcome%20-%20Transition%20to%20P1.pdf)
+*  [ P1 Orientation 2023 for P1 2024 : Slide 1](https://docs.google.com/presentation/d/e/2PACX-1vQUO4NCZHcr-hHFWUs2E1KMCYdgqKCp2BzNWSrgm3U0KJXFX1SMCxYnHFCitm6iCzy0aoKdjGNuj1Vb/pub?start=false&amp;loop=true&amp;delayms=15000)
+*  [ P1 Orientation 2023 for P1 2024 : Slide 2](https://docs.google.com/presentation/d/e/2PACX-1vTUA1DwhVWftzIscEABGTGtxTUUFNgbcpqg0jcIg-bj-pNsIaeb3IQFcZ1WaMGqOV9JnO8XkgSto0oP/pub?start=false&amp;loop=true&amp;delayms=15000)
+*   [P1 Orientation 2023 for P1 2024 : Slide 3](https://docs.google.com/presentation/d/e/2PACX-1vQJTonh-KyPrsTrOGg6ohzzNzYpDXpo11EgJlBlU0ZKF8MfyZRlbpHg6xZSfBGjgEvTZqWnL-mBPx-L/pub?start=false&amp;loop=true&amp;delayms=15000)
+*  [ P1 Orientation 2023 for P1 2024 : Slide 4](https://docs.google.com/presentation/d/e/2PACX-1vQZ8uOav3gGqFkSWcXbvl4uN-yK3M7ic-XoVEs6OVef3iHma8Yamrsje5VcpVk7TaNjHIkICyDn7ypS/pub?start=false&amp;loop=true&amp;delayms=15000)
 
 
 ## Primary 2
-* T1 Parents' Briefing slides can be viewed at [Parents Gateway (PG)](https://pg.moe.edu.sg/)
+* Please anticipate forthcoming updates and additional information
 
 ## Primary 3
-* T1 Parents' Briefing slides can be viewed at [Parents Gateway (PG)](https://pg.moe.edu.sg/)
+*Please anticipate forthcoming updates and additional information
 
 ## Primary 4
-* T1 Parents' Briefing slides can be viewed at [Parents Gateway (PG)](https://pg.moe.edu.sg/)
+* Please anticipate forthcoming updates and additional information
 
 ## Primary 5
-* T1 Parents' Briefing slides can be viewed at [Parents Gateway (PG)](https://pg.moe.edu.sg/)
+* Please anticipate forthcoming updates and additional information
 
 ## Primary 6
-* T1 Parents' Briefing slides can be viewed at [Parents Gateway (PG)](https://pg.moe.edu.sg/)
+* Please anticipate forthcoming updates and additional information
