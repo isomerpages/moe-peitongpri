@@ -12,9 +12,9 @@ Catch a glimpse of school life in Pei Tong in the videos below! 📺
 
 ## 2023 Highlights
 
-Check out our 2023 level highlights! 
+Check out our P1 2023 level highlights! For more videos, [click here!](https://www.youtube.com/watch?v=B5RjeFjznP0&amp;list=PLMqAnzSGDRwyCSxok-hJAhUXkf_LAOEhb&amp;ab_channel=PeiTongPrimarySchool) 
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/watch?v=B5RjeFjznP0&amp;list=PLMqAnzSGDRwyCSxok-hJAhUXkf_LAOEhb&amp;ab_channel=PeiTongPrimarySchool" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/B5RjeFjznP0?si=1MAlEU8h1IVbKUGO" height="315" width="560"></iframe>
 
 
 ## 👀 First Look
