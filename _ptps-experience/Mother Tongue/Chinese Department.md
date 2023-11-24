@@ -14,51 +14,45 @@ Authentic Learning allows students to learn Chinese through authentic learning e
 
 
 #### P2 Show & Tell – Sharing of favourite vegetable.
-
-Photo 1
+![](/images/PTPS%20Experience/Mother%20Tongue/Photograph_1.jpg)
 #### P3 Growing green beans and documenting their growth 
-
-Photo 2
+![](/images/PTPS%20Experience/Mother%20Tongue/Photograph_2.jpg)
 
 #### P4 Writing and mailing a letter to a friend
-
-Photo3
+![](/images/PTPS%20Experience/Mother%20Tongue/Photograph_3.jpg)
 
 #### P5 Revamping recipes and crafting personalized sandwiches
-
-Photo4
+![](/images/PTPS%20Experience/Mother%20Tongue/Photograph_4.jpg)
 
 ## Authentic Learning
 Mother Tongue Fortnight aims to arouse student’s interest in learning Mother Tongue Languages. Students are exposed to a range of cultural activities while using the language. In line with the Mid-Autumn Festival, students learnt more about the festival and enjoyed the cultural activities arranged for them.
 
 #### P1 Lantern Making （灯笼制作）
-Photo5
-
+![](/images/PTPS%20Experience/Mother%20Tongue/Photograph_5.jpg)
 #### P2 Clay Modelling （泥塑）
-Photo6
+![](/images/PTPS%20Experience/Mother%20Tongue/Photograph_6.jpg)
 
 #### P3 Blue & White Porcelain Painting （青花瓷彩绘）
-Photo7
-
+![](/images/PTPS%20Experience/Mother%20Tongue/Photograph_7.jpg)
 #### P4 Rod Puppet （棒偶制作）
-Photo8
+![](/images/PTPS%20Experience/Mother%20Tongue/Photograph_8.jpg)
 
 
 #### P5 Chinese Painting （国画）
-Photo9
+![](/images/PTPS%20Experience/Mother%20Tongue/Photograph_9.jpg)
 
 
 ## Joy Of Learning 
 To instil the joy of learning Chinese in the students, the Chinese Department went beyond the textbooks and designed a series of language games and activities well-liked by the students. 
 
 #### P2 Scrabble Competition（拼字大比拼） 
-Photo10
+![](/images/PTPS%20Experience/Mother%20Tongue/Photograph_10.jpg)
 
 #### P3 & P4 Tongue Twisters Challenge（绕口令挑战)
-Photo10
+![](/images/PTPS%20Experience/Mother%20Tongue/Photograph_11.jpg)Photo10
 
 #### P5 Chinese Language Game Show（语文大比拼）
-Photo12
+![](/images/PTPS%20Experience/Mother%20Tongue/Photograph_12.jpg)
 
 #### Chinese E-Gallery
 
