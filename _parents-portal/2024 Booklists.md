@@ -2,6 +2,5 @@
 title: 2024 Booklists
 permalink: /parents-portal/2024-booklists/
 description: ""
-variant: tiptap
+variant: markdown
 ---
-Pending updated booklists from Pacific Bookstore.
