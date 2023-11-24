@@ -13,6 +13,7 @@ variant: markdown
 *   [CCA Information](https://staging.dnwkm7pl2hkf8.amplifyapp.com/ptps-experience/co-curricular-activities-cca/)
 *   [A Parent’s Guide to Keeping Children Safe &amp; Smart Online](/files/Parents%20Portal/Safe%20and%20Smart%20Online%20Parent%20Guide.pdf)
 *   [Helping Your Children with Appropriate Online Expression](/files/Parents%20Portal/Parents%20Tipsheet%20-%20Appropriate%20Online%20Expression.pdf)
+*   [Ordering guide for School Uniform 2024](/files/Parents%20Portal/For%20Parents/Uniform_Online_Ordering_guide.pdf)
 
 ## Primary 1
 
