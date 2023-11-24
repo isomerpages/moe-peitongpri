@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 # Overview
-The ICT Programmes in Pei Tong Primary School are planned in mind to support a community of curious and self-directed learners empowered with technology tools. This is done through a 3-pronged approach of Equipping and allowing the Achievement of digital literacy and technological skills as well as Enthusing students to explore new ICT skills.
+The ICT Programmes in Pei Tong Primary School are planned to support a community of curious and self-directed learners empowered with technology tools. This is done through a 3-pronged approach of equipping and allowing the achievement of digital literacy and technological skills and enthusing students to explore new ICT skills.
 
 #### P1 Screen-less Coding      
 ![](/images/PTPS%20Experience/ICT/P1_Coding.png)
