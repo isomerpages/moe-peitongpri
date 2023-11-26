@@ -24,8 +24,8 @@ Authentic Learning allows students to learn Chinese through authentic learning e
 #### P5 Revamping recipes and crafting personalized sandwiches
 ![](/images/PTPS%20Experience/Mother%20Tongue/Photograph_4.jpg)
 
-## Authentic Learning
-Mother Tongue Fortnight aims to arouse student’s interest in learning Mother Tongue Languages. Students are exposed to a range of cultural activities while using the language. In line with the Mid-Autumn Festival, students learnt more about the festival and enjoyed the cultural activities arranged for them.
+## Mother Tongue Fortnight
+Mother Tongue Fortnight aims to arouse student’s interest in learning Mother Tongue Languages. Students are exposed to a range of cultural activities while using the language. In line with the Mid-Autumn Festival, students learned more about the festival and enjoyed the cultural activities arranged for them.
 
 #### P1 Lantern Making （灯笼制作）
 ![](/images/PTPS%20Experience/Mother%20Tongue/Photograph_5.jpg)

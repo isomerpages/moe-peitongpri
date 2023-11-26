@@ -2,6 +2,7 @@
 title: School Services
 permalink: /school-services/
 description: ""
+variant: markdown
 ---
 # School Services
 
@@ -15,9 +16,8 @@ description: ""
   
 
 The date of opening in November:<br>
-6 to 10 November
-20 to  24 November
-29 and 30 November
+1, 4-6 December 2023<br>
+11,18-22 December 2023
 
 Opening hours:<br>
 Tues, Thurs : 8am-5.30pm
