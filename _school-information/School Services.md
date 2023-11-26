@@ -16,7 +16,7 @@ variant: markdown
   
 
 The date of opening in November:<br>
-1, 4-6 December 2023
+1, 4-6 December 2023<br>
 11,18-22 December 2023
 
 Opening hours:<br>
