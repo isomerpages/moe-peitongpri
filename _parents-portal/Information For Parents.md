@@ -17,10 +17,10 @@ variant: markdown
 
 ## Primary 1
 
-* [P1 Orientation 2023 for P1 2024-Slide 1](https://docs.google.com/presentation/d/e/2PACX-1vQZ8uOav3gGqFkSWcXbvl4uN-yK3M7ic-XoVEs6OVef3iHma8Yamrsje5VcpVk7TaNjHIkICyDn7ypS/pub?start=false&amp;loop=false&amp;delayms=3000)
-* [P1 Orientation 2023 for P1 2024- Slide 2](https://docs.google.com/presentation/d/e/2PACX-1vS19d-0nW1FcM2zA4c9Cymbck7O1hxSFH9ESJFDcT1eugHuFHWWQyptTbImxg5IsA/pub?start=false&amp;loop=true&amp;delayms=3000)
-*  [P1 Orientation 2023 for P1 2024- Slide 3](https://docs.google.com/presentation/d/e/2PACX-1vTeMN5K94VhxZubkoR55crbiGvogxgQ6PLPGvL4Urjg8TSPPz1D19L3bGREv7Wtqg/pub?start=false&amp;loop=true&amp;delayms=3000)
-*  [ P1 Orientation 2023 for P1 2024 : Slide 4](https://docs.google.com/presentation/d/e/2PACX-1vQZ8uOav3gGqFkSWcXbvl4uN-yK3M7ic-XoVEs6OVef3iHma8Yamrsje5VcpVk7TaNjHIkICyDn7ypS/pub?start=false&amp;loop=true&amp;delayms=15000)
+* [School Leaders' Address](https://docs.google.com/presentation/d/e/2PACX-1vQJ9w_aPgODcv4Is5obyHZWdWJtrLh3tYm9K5SfFRO4t0Axiwt9s8vXAnbm2-6Cgg/pub?start=false&amp;loop=false&amp;delayms=3000)
+* [Year Head's Address](https://docs.google.com/presentation/d/e/2PACX-1vS19d-0nW1FcM2zA4c9Cymbck7O1hxSFH9ESJFDcT1eugHuFHWWQyptTbImxg5IsA/pub?start=false&amp;loop=true&amp;delayms=3000)
+*  [Interative Resource For Parent-Child](https://docs.google.com/presentation/d/e/2PACX-1vTeMN5K94VhxZubkoR55crbiGvogxgQ6PLPGvL4Urjg8TSPPz1D19L3bGREv7Wtqg/pub?start=false&amp;loop=true&amp;delayms=3000)
+*  [ P1 Transition Preparations](https://docs.google.com/presentation/d/e/2PACX-1vQZ8uOav3gGqFkSWcXbvl4uN-yK3M7ic-XoVEs6OVef3iHma8Yamrsje5VcpVk7TaNjHIkICyDn7ypS/pub?start=false&amp;loop=true&amp;delayms=15000)
 
 
 ## Primary 2
