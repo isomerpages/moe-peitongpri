@@ -2,6 +2,7 @@
 title: School Advisory Committee
 permalink: /our-people/school-advisory-committee/
 description: ""
+variant: markdown
 ---
 The purpose of the School Advisory Committee (SAC) is to provide an opportunity for citizens and permanent residents to participate actively in the Government’s education policy of building a dynamic, strong and self-reliant generation.
 
@@ -40,7 +41,7 @@ The Pei Tong Primary Schooll’s SAC comprises the following members:
   </tr>
   <tr>
     <td><b>Member</b></td>
-    <td>Mr Lee Ren DE</td>
+    <td>Mr Lee Ren De</td>
   
   </tr>
 	 <tr>
