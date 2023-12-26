@@ -3,13 +3,7 @@ collections:
     output: true
     order:
       - School Executive Committee.md
-      - Primary 1 Form Teachers.md
-      - Primary 2 Form Teachers.md
-      - Primary 3 Form Teachers.md
-      - Primary 4 Form Teachers.md
-      - Primary 5 Form Teachers.md
-      - Primary 6 Form Teachers.md
-      - Allied Educators (AED).md
+      - Teaching Staff.md
       - Executive and Administrative Staff.md
       - School Advisory Committee.md
       - Pei Tong Alumni.md
