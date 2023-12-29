@@ -2,16 +2,6 @@
 title: Co Curricular Activities (CCA)
 permalink: /ptps-experience/co-curricular-activities-cca/
 description: ""
+variant: tiptap
 ---
-
-# Overview
-
-At Pei Tong, we believe in providing a holistic experience for every child. Co-curricular Activities (CCA) allow our students to discover their interests and talents outside of classrooms and promotes interactions and friendships among students from diverse backgrounds. 
-
-Through CCA, discover more about themselves - their strengths, their values, their ability to rise up to challenges and to stretch beyond their ‘limits’.  All Primary 3 to Primary 6 students are encouraged to participate in a CCA.
-
-## CCA Google Site
-Click [here to access our CCA Google Site](https://sites.google.com/moe.edu.sg/ptpscca/home) for more information regarding our CCAs. 
-
-## CCA Updates and Schedule  
-Click [here for our latest CCA Updates and Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vTNNsckOs_6Et0wlUg06EjQwvTrE3WGFubY85oz4EFg5Dy_ILTMcV0nycDn17AMcAQLf4yz3-Uqo-Oq/pubhtml).
+<h2>CCA Google Site</h2><p><a href="https://sites.google.com/moe.edu.sg/ptpscca/home" rel="noopener noreferrer nofollow" target="_blank">Click here or the image below to access our CCA Google Site</a>&nbsp;for more information regarding our CCAs, updates and schedules. </p><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/ptpscca/home"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_button.png"></a><p></p>
