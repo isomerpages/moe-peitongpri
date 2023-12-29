@@ -46,6 +46,6 @@ contacts:
           Bukit Timah Road Singapore 588177  <br><br>School uniform and PE
           attire are available for purchase at the school bookshop from 2pm -
           4pm on school days."
-    title: School uniform
+    title: School Uniform
 feedback: /our-people/saythanksptps/
 ---
