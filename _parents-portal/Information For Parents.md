@@ -7,12 +7,12 @@ variant: markdown
 ## All Parents
 
 
-*   **[🖐️Join our Parent Support Group (PSG)/ serve as an ad-hoc parent volunteer](https://peitongpri.moe.edu.sg/our-people/psg/)**<br><br>
+*   [🖐️Join our Parent Support Group (PSG)/ serve as an ad-hoc parent volunteer](https://peitongpri.moe.edu.sg/our-people/psg/)
 *   [Canteen Menu and Pricing](https://go.gov.sg/ptpscanteen)  
     
-*   [CCA Information](https://staging.dnwkm7pl2hkf8.amplifyapp.com/ptps-experience/co-curricular-activities-cca/)
-*   [A Parent’s Guide to Keeping Children Safe &amp; Smart Online](/files/Parents%20Portal/Safe%20and%20Smart%20Online%20Parent%20Guide.pdf)
-*   [Helping Your Children with Appropriate Online Expression](/files/Parents%20Portal/Parents%20Tipsheet%20-%20Appropriate%20Online%20Expression.pdf)
+*   [CCA Information](https://sites.google.com/moe.edu.sg/ptpscca/home)
+*   [A Parent’s Guide to Keeping Children Safe &amp; Smart Online](https://www.betterinternet.sg/-/media/Resources/PDFs/Parents-Guides/Safe-and-Smart-Online-Parent-Guide.pdf)
+<!--*   [Helping Your Children with Appropriate Online Expression](/files/Parents%20Portal/Parents%20Tipsheet%20-%20Appropriate%20Online%20Expression.pdf) -->
 *   [Ordering guide for School Uniform 2024](/files/Parents%20Portal/For%20Parents/Uniform_Online_Ordering_guide.pdf)
 
 ## Primary 1
@@ -24,16 +24,16 @@ variant: markdown
 
 
 ## Primary 2
-* Please anticipate forthcoming updates and additional information
+* Please anticipate forthcoming updates and additional information.
 
 ## Primary 3
-*Please anticipate forthcoming updates and additional information
+* Please anticipate forthcoming updates and additional information.
 
 ## Primary 4
-* Please anticipate forthcoming updates and additional information
+* Please anticipate forthcoming updates and additional information.
 
 ## Primary 5
-* Please anticipate forthcoming updates and additional information
+* Please anticipate forthcoming updates and additional information.
 
 ## Primary 6
-* Please anticipate forthcoming updates and additional information
+* Please anticipate forthcoming updates and additional information.
