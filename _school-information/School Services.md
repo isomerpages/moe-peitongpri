@@ -15,9 +15,9 @@ variant: markdown
 
   
 
-The date of opening in November:<br>
-1, 4-6 December 2023<br>
-11,18-22 December 2023
+The date of opening in January:<br>
+2-3 Jan, 15-19 Jan 2024<br>
+29-31 Jan 2024
 
 Opening hours:<br>
 Tues, Thurs : 8am-5.30pm
