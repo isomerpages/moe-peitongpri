@@ -24,16 +24,16 @@ variant: markdown
 
 
 ## Primary 2
-* Please anticipate forthcoming updates and additional information.
+* Kindly anticipate forthcoming updates and additional information. Thank you for your patience.
 
 ## Primary 3
-* Please anticipate forthcoming updates and additional information.
+* Kindly anticipate forthcoming updates and additional information. Thank you for your patience.
 
 ## Primary 4
-* Please anticipate forthcoming updates and additional information.
+* Kindly anticipate forthcoming updates and additional information. Thank you for your patience.
 
 ## Primary 5
-* Please anticipate forthcoming updates and additional information.
+* Kindly anticipate forthcoming updates and additional information. Thank you for your patience.
 
 ## Primary 6
-* Please anticipate forthcoming updates and additional information.
+* Kindly anticipate forthcoming updates and additional information. Thank you for your patience.
