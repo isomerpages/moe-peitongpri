@@ -8,7 +8,7 @@ variant: markdown
 
 
 * [Google Workspace (Previously iCON 2.0)](https://workspace.google.com/dashboard)
-*   [Daily Devices Overall Schedule](https://docs.google.com/spreadsheets/d/1DJIPM4cHFhWqYK0-upVWzAzrZCzpX7i0SP-_wK7cmkc/edit#gid=215012708)  
+ 
     
 *   [Resource Booking Service (RBS)](https://rbs.avero-tech.com/) 
 *   [SC Mobile](https://scmobile.moe.edu.sg/)
