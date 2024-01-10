@@ -2,31 +2,27 @@
 title: Sexuality Education
 permalink: /parents-portal/sexuality-education/
 description: ""
+variant: markdown
 ---
 ## MOE SEXUALITY EDUCATION IN SCHOOLS
 
+1.&nbsp;	Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
-1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
+2.&nbsp;	The Goals of Sexuality Education are:
+(a)	Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships. 
+(b)	Guide students to make wise, informed and responsible decisions on sexuality matters. 
+(c)	Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society. 
 
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The&nbsp;**Goals**&nbsp;of Sexuality Education are:
+3.&nbsp;	The Key Messages of Sexuality Education are:
 
-(i)&nbsp;&nbsp;&nbsp;&nbsp;To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;knowledge&nbsp;on human sexuality and the consequences of sexual activity;
+(a)	Love and respect yourself as you love and respect others
+b)	Build positive relationships based on love and respect (which are the foundation for strong families);
+		 
+  
+   (c)	Make responsible decisions for yourself, your family and society; and
+   (d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;<u>social and emotional skills</u>&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
 
-(iii)&nbsp;&nbsp;&nbsp;&nbsp;To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;<u>positive mainstream values and attitudes</u>&nbsp;about sexuality.
-
-3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The&nbsp;**Key Messages**&nbsp;of Sexuality Education are:
-
-(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Love and respect yourself as you love and respect others;
-
-(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build positive relationships based on love and respect (which are the foundation for strong families);
-
-(iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Make responsible decisions for yourself, your family and society; and
-
-(iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
-
-You may click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)&nbsp;for more information on MOE Sexuality Education.&nbsp;
 
 ## Overview of PEI TONG Primary School’s Sexuality Education Programme for 2023
 
