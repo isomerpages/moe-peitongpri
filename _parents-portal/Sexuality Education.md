@@ -4,34 +4,60 @@ permalink: /parents-portal/sexuality-education/
 description: ""
 variant: markdown
 ---
-## MOE SEXUALITY EDUCATION IN SCHOOLS
+## **MOE SEXUALITY EDUCATION IN SCHOOLS**
 
-1.&nbsp;	Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
+1. &nbsp;&nbsp;&nbsp;Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
+2. &nbsp;&nbsp;&nbsp;The Goals of Sexuality Education are:<br>
+a. &nbsp;&nbsp;&nbsp;Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships. <br>
+b.&nbsp;&nbsp;&nbsp;Guide students to make wise, informed and responsible decisions on sexuality matters. <br>
+c. &nbsp;&nbsp;&nbsp;Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society. <br>
+3.  &nbsp;&nbsp;&nbsp;The Key Messages of Sexuality Education are:<br>
+a. &nbsp;&nbsp;&nbsp;Love and respect yourself as you love and respect others;<br>
+b. &nbsp;&nbsp;&nbsp;Build positive relationships based on love and respect (which are the foundation for strong families);<br>
+c. &nbsp;&nbsp;&nbsp;Make responsible decisions for yourself, your family and society; and<br>
+d. &nbsp;&nbsp;&nbsp;Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.<br><br><br>
+You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.<br>
+#### **OVERVIEW PEI TONG PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024**
+4.   &nbsp;&nbsp;&nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click[here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
+5.  &nbsp;&nbsp;&nbsp; The subjects that incorporate topics on sexuality include:<br>
+a.	&nbsp;&nbsp;&nbsp;Science <br>
+b.	&nbsp;&nbsp;&nbsp;Character and Citizenship Education (CCE)<br>
+#### **Sexuality Education Lessons:**
+6.   &nbsp;&nbsp;&nbsp;The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require close guidance so that they can respond with discernment to the sexual messages in the media and other sources. 
+7.   &nbsp;&nbsp;&nbsp; Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks. <br><br>  
 
-2.&nbsp;	The Goals of Sexuality Education are:
-(a)	Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships. 
-(b)	Guide students to make wise, informed and responsible decisions on sexuality matters. 
-(c)	Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society. 
+#### **At Pei Tong Primary School, the following Sexuality Education lessons will be taught in 2024:**
 
-3.&nbsp;	The Key Messages of Sexuality Education are:
+##### **2024 SEXUALITY EDUCATION LESSONS IN CCE 2021**
 
-(a)	Love and respect yourself as you love and respect others
-b)	Build positive relationships based on love and respect (which are the foundation for strong families);
+
+
+
+8.   cdcf
+9.   cdsdc
+10.   &nbsp;&nbsp;&nbsp; asdfsdfsa
+11.   &nbsp;&nbsp;&nbsp; asfsdf
+12.  &nbsp;&nbsp;&nbsp;  asfasfds
+13.  &nbsp;&nbsp;&nbsp; asfdsfsa
+14.  &nbsp;&nbsp;&nbsp; asdfsdafsd
+15.  &nbsp;&nbsp;&nbsp; asfds
+16.   &nbsp;&nbsp;&nbsp;
+17.   &nbsp;&nbsp;&nbsp;
+18.   &nbsp;&nbsp;&nbsp;
+19.   
+
+
+
+
+
+
+
 		 
-  
-   (c)	Make responsible decisions for yourself, your family and society; and
-   (d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
 
 
-## Overview of PEI TONG Primary School’s Sexuality Education Programme for 2023
 
 
-4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
-
-5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics on sexuality include:<br>
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science<br>
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education (CCE)
 
 ## Sexuality Education Lessons
 
