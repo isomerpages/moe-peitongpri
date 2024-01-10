@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - School Policy/Homework Policy.md
       - School Policy/.keep
       - Vision, Mission & Motto.md
       - School History/.keep
