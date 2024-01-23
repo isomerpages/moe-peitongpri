@@ -1,7 +1,8 @@
 ---
 title: Contact Us
-permalink: /mkpeitong/contact-us/
+permalink: /mk/contact/
 description: ""
+variant: tiptap
 ---
 # Contact Us
 

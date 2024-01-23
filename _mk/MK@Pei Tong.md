@@ -2,8 +2,8 @@
 title: MK@Pei Tong
 permalink: /mkpeitong/
 description: ""
+variant: tiptap
 ---
-
 # MK@Pei Tong
 
 

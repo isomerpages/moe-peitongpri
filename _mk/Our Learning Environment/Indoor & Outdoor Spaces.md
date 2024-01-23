@@ -1,10 +1,10 @@
 ---
 title: Indoor & Outdoor Spaces
-permalink: /mkpeitong/our-learning-environment/
+permalink: /mk/our-learning-environment/
 description: ""
 third_nav_title: Our Learning Environment
+variant: tiptap
 ---
-
 # Overview
 
 The MOE Kindergarten learning environment is designed with the child in mind. The classroom provides space for children to interact with one another and allows them to transit seamlessly from one activity to the next. Learning resources are placed within easy reach of the children to encourage exploration and discovery. Besides creating inviting indoor spaces to support teaching and learning, we have also designed outdoor spaces to excite and engage children.  

@@ -1,7 +1,8 @@
 ---
 title: About MOE Kindergarten (MK)
-permalink: /mkpeitong/about-moe-kindergarten-mk/
+permalink: /mk/about/
 description: ""
+variant: tiptap
 ---
 # About MOE Kindergarten (MK)
 

@@ -1,6 +1,6 @@
 ---
 title: Useful Information Links
-permalink: /mkpeitong/useful-information-links/
+permalink: /mk/useful-information-links/
 description: ""
 variant: markdown
 ---
