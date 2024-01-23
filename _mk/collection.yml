@@ -2,8 +2,8 @@ collections:
   mk:
     output: true
     order:
-      - MK@ PT Open House 3 Feb 2024.md
       - MK@Pei Tong.md
+      - MK@ PT Open House 3 Feb 2024.md
       - About MOE Kindergarten (MK).md
       - Curriculum.md
       - Our Learning Environment/.keep
