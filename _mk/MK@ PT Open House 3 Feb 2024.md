@@ -1,6 +1,6 @@
 ---
 title: MK@ PT Open House 3 Feb 2024
-permalink: /mk/permalink/
+permalink: /mk/openhouse/
 variant: tiptap
 description: ""
 ---

@@ -1,7 +1,8 @@
 ---
 title: MK Initiatives
-permalink: /mk/permalink/
+permalink: /mk/initiatives/
 description: ""
+variant: tiptap
 ---
 ## PARTNERSHIP WITH PEI TONG PRIMARY
 
