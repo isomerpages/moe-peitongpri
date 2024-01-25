@@ -1,0 +1,21 @@
+collections:
+  our-gallery:
+    output: true
+    order:
+      - Photo Gallery.md
+      - 2023.md
+      - 2022/.keep
+      - 2022/2022 1st Week of School.md
+      - 2022/2022 Total Defence Day.md
+      - 2022/2022 Dengue Prevention (Visit by SPS MSE Baey Yam Keng).md
+      - 2022/2022 Student Leaders Investiture.md
+      - 2022/2022 P5 NE Show.md
+      - 2022/2022 Mobile Library.md
+      - 2022/2022 Lower Primary Trampoline.md
+      - 2022/2022 P4 Coding.md
+      - 2022/2022 P5 IPW.md
+      - 2022/2022 Hari Raya.md
+      - 2022/2022 Sports Carnival.md
+      - 2022/2022 Recognition Day.md
+      - 2022/2022 CCA Awards.md
+      - Videos.md

@@ -1,0 +1,25 @@
+logo: /images/PTwebsiteLogo2.png
+links:
+  - title: Welcome To Pei Tong
+    collection: welcome-to-pei-tong
+  - title: School Information
+    collection: school-information
+  - title: Our People
+    collection: our-people
+  - title: PTPS Experience
+    collection: ptps-experience
+  - title: Our Gallery
+    url: /our-gallery/photo-gallery/
+    sublinks:
+      - title: Photo Gallery
+        url: /our-gallery/photo-gallery/
+      - title: Videos
+        url: /our-gallery/videos/
+      - title: Art E-Gallery
+        url: https://sites.google.com/moe.edu.sg/ptpsart/
+      - title: Chinese E-Gallery
+        url: https://sites.google.com/moe.edu.sg/studentsportfolio/home
+  - title: Parents' Portal
+    collection: parents-portal
+  - title: MK@PEI TONG
+    collection: mk

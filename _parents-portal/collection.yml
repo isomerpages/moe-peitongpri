@@ -1,0 +1,11 @@
+collections:
+  parents-portal:
+    output: true
+    order:
+      - Information For Parents.md
+      - School Terms and Holidays.md
+      - 2024 Booklists.md
+      - Useful Links for Parents.md
+      - Student Learning Space.md
+      - Sexuality Education.md
+      - Publications.md
