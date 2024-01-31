@@ -14,10 +14,12 @@ variant: markdown
 **Please call or send a WhatsApp message for an appointment before visiting.**
 
   
+The opening dates in February are:
 
-The date of opening in January:<br>
-2-3 Jan, 15-19 Jan 2024<br>
-29-31 Jan 2024
+- February 2nd
+- February 14th to 16th
+- February 26th and 27th
+
 
 Opening hours:<br>
 Tues, Thurs : 8am-5.30pm
