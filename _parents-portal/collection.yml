@@ -2,7 +2,6 @@ collections:
   parents-portal:
     output: true
     order:
-      - Nominations.md
       - Information For Parents.md
       - School Terms and Holidays.md
       - 2024 Booklists.md
@@ -10,3 +9,4 @@ collections:
       - Student Learning Space.md
       - Sexuality Education.md
       - Publications.md
+      - Nominations.md
