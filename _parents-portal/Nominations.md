@@ -26,7 +26,7 @@ for the Teaching Award to the school by <strong>6pm on 25 March 2024</strong>.&n
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Portal/Tamil_Teacher.jpg">
 </div>
 <p></p>
-<p><strong>MOST INSPIRING TAMIL TEACHERS’ AWARD 2024 </strong>
+<p><strong>MOST INSPIRING TAMIL TEACHERS’ AWARD 2024</strong>
 </p>
 <p>From 15 January to 1 April 2024, students, educators, parents, and members
 of the public are invited to nominate Tamil Language (TL) teachers for
@@ -35,7 +35,7 @@ the Most Inspiring Tamil Teachers’ (MITT) Award 2024.</p>
 junior colleges and Millennia Institute who have made significant contributions
 to the teaching and learning of TL.</p>
 <p>Nominations can also be made online at</p>
-<p> <a href="https://go.gov.sg/mitt2024nominationform" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mitt2024nominationform</a> (
+<p><a href="https://go.gov.sg/mitt2024nominationform" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mitt2024nominationform</a> (
 Tamil) <a href="https://go.gov.sg/mitt2024nominationformel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mitt2024nominationformel</a>.
 (English)</p>
 <p></p>
