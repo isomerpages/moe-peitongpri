@@ -105,6 +105,15 @@ Outcomes of Education; and</p>
 <p>Mr Teo Yep Hao</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Member</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Kenneth Tong</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
