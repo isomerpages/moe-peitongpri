@@ -36,7 +36,7 @@ six years.</p>
 </p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width:45%;margin-right:15px;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/Rynna%20Tan%20en%20qi%20Hyss.jpeg">
+<img style="width:45%;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/Rynna%20Tan%20en%20qi%20Hyss.jpeg">
 </div>
 <p>Pei Tong is special to me because it is a place where we students can
 enjoy, play, study and make new friends. It is also a place where care
@@ -81,7 +81,7 @@ Primary School.</p>
 </p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width:45%;margin-right:15px;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/testimonial%20-%20Raeann%20Goh%20jing%20en%20Krss.jpeg">
+<img style="width:45%;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/testimonial%20-%20Raeann%20Goh%20jing%20en%20Krss.jpeg">
 </div>
 <p>Pei Tong is a special school to me as it is a place that holds many precious
 memories for me.&nbsp;</p>
@@ -103,7 +103,7 @@ and enjoyable experience being at Pei Tong for 6 years!</p>
 </p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width:35%;margin-right:15px;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/rynna%20give%20rice%20-%20Rynna%20Tan.jpg">
+<img style="width:35%;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/rynna%20give%20rice%20-%20Rynna%20Tan.jpg">
 </div>
 <p>Pei Tong is special to me because it’s a place full of memories and a
 place that made me feel like it was a place where I belonged.&nbsp;</p>
@@ -128,7 +128,7 @@ soon!</p>
 </p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width:45%;margin-right:15px;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/min%20yi%20ong.jpeg">
+<img style="width:45%;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/min%20yi%20ong.jpeg">
 </div>
 <p>Pei Tong has given me a conducive environment and opportunities to succeed,
 learn new skills, as well as make new friends.&nbsp;</p>
@@ -168,7 +168,7 @@ I would not have been the person that I am today.&nbsp;</p>
 </p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width:20%;margin-right:15px;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/nurin%20batrisyia%20Mohamed%20ali%20Ctss.jpg">
+<img style="width:20%;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/nurin%20batrisyia%20Mohamed%20ali%20Ctss.jpg">
 </div>
 <p>Pei Tong is special to me because when I moved to the west side of Singapore,
 I did not have many friends. Pei Tong has helped me meet new people whom
@@ -192,9 +192,7 @@ to go back to visit the school when this Covid-19 situation improves.</p>
 <br><strong><em>Class of 2018</em></strong>
 </p>
 <hr>
-<div class="isomer-image-wrapper">
-<img style="width:15%;margin-right:15px;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/sze%20yeeng%20tan.jpeg">
-</div>
+
 <p>Pei Tong is special to me as it is a place where many important values
 had been instilled in me. Pei Tong has many fun, engaging as well as bonding
 activities and excursions for all the students. Nonetheless, Pei Tong offers
