@@ -43,7 +43,7 @@ the strong bonds formed at the school.</p>
 <hr>
 <blockquote>
 <div class="isomer-image-wrapper">
-<img style="width:45%;margin-right:15px;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/F7065FD0-4448-4B47-87E1-DC0A12ED9028%20-%20Min%20lee.jpeg">
+<img style="width:45%;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/F7065FD0-4448-4B47-87E1-DC0A12ED9028%20-%20Min%20lee.jpeg">
 </div>
 </blockquote>
 <p>To be honest, my child entered Pei Tong Primary School (PTPS) through
@@ -68,7 +68,7 @@ amazing curry rice!</p>
 <hr>
 <blockquote>
 <div class="isomer-image-wrapper">
-<img style="width:45%;margin-right:15px;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/ryantan.jpeg">
+<img style="width:45%;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/ryantan.jpeg">
 </div>
 </blockquote>
 <p>Our son Ryan Tan Zhiwen is a graduate of Pei Tong Primary and is currently
@@ -108,7 +108,7 @@ other students as well.&nbsp;&nbsp;</p>
 <hr>
 <blockquote>
 <div class="isomer-image-wrapper">
-<img style="width:45%;margin-right:15px;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/miny.jpg">
+<img style="width:45%;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/miny.jpg">
 </div>
 </blockquote>
 <p>Sending my 2 girls to Pei Tong brings back fond memories as I was a former
@@ -144,7 +144,7 @@ talents, and not be bogged down by the continuous chase after grades.</p>
 <hr>
 <blockquote>
 <div class="isomer-image-wrapper">
-<img style="width:35%;margin-right:15px;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/fangfang%20Huang.jpg">
+<img style="width:35%;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/fangfang%20Huang.jpg">
 </div>
 </blockquote>
 <p>My children are from the graduating classes of 2016 and 2019. My children
@@ -170,7 +170,7 @@ wholesome experience.&nbsp;</p>
 <hr>
 <blockquote>
 <div class="isomer-image-wrapper">
-<img style="width:35%;margin-right:15px;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/nicole.png">
+<img style="width:35%;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/nicole.png">
 </div>
 </blockquote>
 <p>Our daughter, Lim HuaMing, Nicole, graduated from Pei Tong Primary School
