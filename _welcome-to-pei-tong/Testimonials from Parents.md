@@ -2,7 +2,7 @@
 title: Testimonials from Parents
 permalink: /welcome-to-pei-tong/testimonials-from-parents/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h1>📢 Testimonials from Parents</h1>
 <p>My daughter was part of the graduating class of 2023 at Pei Tong Primary
