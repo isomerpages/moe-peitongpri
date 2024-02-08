@@ -5,6 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>📣 Testimonials from Students</h1>
+<p></p>
 <p>Pei Tong Primary School has been a significant part of my life, shaping
 me into the person I am today. Over the six years I spent there, I learned
 and grew immensely, thanks to the support of my friends and teachers.</p>
@@ -20,7 +21,48 @@ Tong. It has had a profound impact on my life, and I am thankful for the
 valuable lessons and experiences that have contributed to my personal growth.</p>
 <p><strong><em>Ng Yu Jay<br>Class of 2022</em></strong>
 </p>
-<p></p>
+<hr>
+<p>During my six years at Pei Tong Primary School, I formed a deep appreciation
+for the dedicated teachers who guided me through each level. They not only
+imparted knowledge but also created lasting memories and supported me both
+academically and personally.</p>
+<p>Their commitment to teaching, their availability whenever I needed assistance,
+and their efforts in nurturing my leadership skills and academic growth
+have left a significant impact on me. The teachers at Pei Tong were truly
+one of the highlights of my primary school experience, and I am immensely
+grateful for all the teachers who contributed to my journey during those
+six years.</p>
+<p><strong><em>Fiona Yap<br>Class of 2021</em></strong>
+</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width:45%;margin-right:15px;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/Rynna%20Tan%20en%20qi%20Hyss.jpeg">
+</div>
+<p>Pei Tong is special to me because it is a place where we students can
+enjoy, play, study and make new friends. It is also a place where care
+is readily provided whenever we need it.</p>
+<p>When I was in Primary 1, I was rather mischievous back then. My Primary
+1 form teacher, Mr Jonah Lim, was always there for me whenever I got into
+trouble or when I needed someone. Our friendly school counsellor, Ms Eileen,
+was also very caring and helpful in guiding me along the way. Despite the
+challenges, they have all been very lenient and patient toward me.</p>
+<p>Another special teacher I remember fondly is my Primary 6 math teacher,
+Mrs Yeo. Math was difficult, but she ensured that we learned well as we
+prepared for PSLE. On the day we received our PSLE results, I was pleasantly
+surprised to find out that she had waited along the staircase to find out
+how we fared. I was touched at that moment when she asked me how I did
+and whether I was okay.&nbsp;</p>
+<p>Now that I am in Hua Yi Secondary School, I look back and am incredibly
+grateful to them for their patience and how they have played an important
+part to shape me into who I am today. As I recall these fond memories now,
+how I wish I could return to Pei Tong and reunite with my friends and teachers
+soon.&nbsp;</p>
+<p>Thank you to the teachers and staff who have done so much for me, and
+I really hope to be able to see all of you again soon!</p>
+<p><strong><em>Raynr Tan En Quan</em></strong> 
+<br><strong><em>Class of 2021</em></strong>
+</p>
+<hr>
 <p>My experience at Pei Tong Primary School was filled with fond memories
 of engaging events and supportive teachers. Looking back, I realize I didn't
 fully appreciate everything at the time. However, the patience and encouragement
@@ -37,7 +79,7 @@ opportunity to create lasting memories and enjoy their time at Pei Tong
 Primary School.</p>
 <p><strong><em>Ee Arwen Elizabeth<br>Class of 2021</em></strong>
 </p>
-<p></p>
+<hr>
 <div class="isomer-image-wrapper">
 <img style="width:45%;margin-right:15px;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/testimonial%20-%20Raeann%20Goh%20jing%20en%20Krss.jpeg">
 </div>
@@ -56,10 +98,10 @@ spent there. I am grateful for everything that the school has done for
 me.&nbsp;</p>
 <p>Thank you to all my teachers and staff for everything! It was a great
 and enjoyable experience being at Pei Tong for 6 years!</p>
-<p><strong><em>Raeann Goh</em></strong>
+<p><strong><em>Raeann Goh</em></strong> 
 <br><strong><em>Class of 2020</em></strong>
 </p>
-<p></p>
+<hr>
 <div class="isomer-image-wrapper">
 <img style="width:35%;margin-right:15px;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/rynna%20give%20rice%20-%20Rynna%20Tan.jpg">
 </div>
@@ -81,10 +123,10 @@ even my previous classmates and friends there.&nbsp;</p>
 <p>Thank you to all teachers and staff for everything that you have done
 for me! I really hope that I would be able to go back and visit Pei tong
 soon!</p>
-<p><strong><em>Rynna Tan En Qi</em></strong>
+<p><strong><em>Rynna Tan En Qi</em></strong> 
 <br><strong><em>Class of 2020</em></strong>
 </p>
-<p></p>
+<hr>
 <div class="isomer-image-wrapper">
 <img style="width:45%;margin-right:15px;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/min%20yi%20ong.jpeg">
 </div>
@@ -121,38 +163,10 @@ developed my character in my formative years. My teachers were caring and
 highly involved in ensuring the students’ development. Without these opportunities
 and guidance that the school has offered in its nurturing environment,
 I would not have been the person that I am today.&nbsp;</p>
-<p><strong><em>Ong Min Yi</em></strong>
+<p><strong><em>Ong Min Yi</em></strong> 
 <br><strong><em>Class of 2018</em></strong>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:45%;margin-right:15px;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/Rynna%20Tan%20en%20qi%20Hyss.jpeg">
-</div>
-<p>Pei Tong is special to me because it is a place where we students can
-enjoy, play, study and make new friends. It is also a place where care
-is readily provided whenever we need it.</p>
-<p>When I was in Primary 1, I was rather mischievous back then. My Primary
-1 form teacher, Mr Jonah Lim, was always there for me whenever I got into
-trouble or when I needed someone. Our friendly school counsellor, Ms Eileen,
-was also very caring and helpful in guiding me along the way. Despite the
-challenges, they have all been very lenient and patient toward me.</p>
-<p>Another special teacher I remember fondly is my Primary 6 math teacher,
-Mrs Yeo. Math was difficult, but she ensured that we learned well as we
-prepared for PSLE. On the day we received our PSLE results, I was pleasantly
-surprised to find out that she had waited along the staircase to find out
-how we fared. I was touched at that moment when she asked me how I did
-and whether I was okay.&nbsp;</p>
-<p>Now that I am in Hua Yi Secondary School, I look back and am incredibly
-grateful to them for their patience and how they have played an important
-part to shape me into who I am today. As I recall these fond memories now,
-how I wish I could return to Pei Tong and reunite with my friends and teachers
-soon.&nbsp;</p>
-<p>Thank you to the teachers and staff who have done so much for me, and
-I really hope to be able to see all of you again soon!</p>
-<p><strong><em>Raynr Tan En Quan</em></strong>
-<br><strong><em>Class of 2021</em></strong>
-</p>
-<p></p>
+<hr>
 <div class="isomer-image-wrapper">
 <img style="width:20%;margin-right:15px;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/nurin%20batrisyia%20Mohamed%20ali%20Ctss.jpg">
 </div>
@@ -174,9 +188,10 @@ km run out at the Ulu Pandan Canal, which was part of our NAPFA test, was
 fun and memorable, as we completed it in the company of friends and teachers.&nbsp;</p>
 <p>I am thankful for my learning experience in Pei Tong and I would like
 to go back to visit the school when this Covid-19 situation improves.</p>
-<p><strong><em>Nurin Batrisyia Binte Mohamed Ali</em></strong>
+<p><strong><em>Nurin Batrisyia Binte Mohamed Ali</em></strong> 
 <br><strong><em>Class of 2018</em></strong>
 </p>
+<hr>
 <div class="isomer-image-wrapper">
 <img style="width:15%;margin-right:15px;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/sze%20yeeng%20tan.jpeg">
 </div>
@@ -192,6 +207,6 @@ friends across all classes.&nbsp;</p>
 <p>Every bit of my Pei Tong experience was memorable to me as I am always
 surrounded by helpful and kind teachers, working staff and my fellow schoolmates.&nbsp;
 Pei Tong had indeed brought me to greater heights.</p>
-<p><strong><em>Tan Sze Yeeng</em></strong>
+<p><strong><em>Tan Sze Yeeng</em></strong> 
 <br><strong><em>Class of 2018</em></strong>
 </p>
