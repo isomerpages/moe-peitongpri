@@ -10,8 +10,7 @@ School, and I couldn't be more impressed with the teachers, especially
 Mr. Husni and Mr. Chua. Their dedication and professionalism in providing
 support and guidance, not only to the children but also to us, the 'gan
 cheong' parents, have been truly amazing. They go above and beyond by making
-themselves available not just during school hours but also outside typical
-school hours.</p>
+themselves available - something we truly appreciate.</p>
 <p>Since moving on to the next chapter of her education in 2024, there hasn't
 been a single day where my daughter hasn't expressed how much she misses
 her teachers at Pei Tong. Their impact on her goes beyond the classroom,
