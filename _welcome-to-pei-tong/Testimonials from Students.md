@@ -6,6 +6,41 @@ variant: tiptap
 ---
 <h1>📣 Testimonials from Students</h1>
 <p></p>
+<blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Kaeden.JPG">
+</div>
+</blockquote>
+<p>I am a proud graduate of Pei Tong Primary School from the class of 2022,
+currently pursuing my studies at NUS High School of Mathematics and Science.</p>
+<p>During my six-year academic journey at Pei Tong, I had the privilege of
+learning from dedicated teachers and alongside supportive peers. These
+invaluable experiences have significantly contributed to the development
+of my character and leadership qualities.</p>
+<p>As Pei Tong students, we uphold six core values: Care, Respect, Integrity,
+Responsibility, Resilience, and Excellence. These values have not only
+shaped my character but also instilled in me a sense of social awareness,
+pride in my work, and a commitment to kindness towards others.</p>
+<p>One of the most memorable aspects of my time at Pei Tong was my leadership
+journey. It began in Primary 3 when I was nominated as a junior prefect,
+providing me with opportunities to develop essential leadership skills
+through duty roles and training sessions. In Primary 5, I was honored to
+be nominated as Vice-Head Prefect through the Head Prefect Election process.
+This journey taught me the importance of public speaking, teamwork, and
+leading by example, which have all contributed to my personal growth and
+prepared me for future leadership roles.</p>
+<p>I am also immensely grateful for the unwavering support and guidance provided
+by my teachers, especially during challenging times such as the COVID-19
+Circuit Breaker period. Despite the difficulties of transitioning to Home-Based
+Learning, my teachers went above and beyond to ensure our academic progress
+and well-being through platforms like WhatsApp and online meetings.</p>
+<p>Overall, my experience at Pei Tong has not only enriched my academic knowledge
+but also imparted valuable life lessons and moral values. I am deeply thankful
+for the supportive environment and dedicated teachers who have played a
+significant role in shaping me into the person I am today.</p>
+<p><strong><em>Kaeden Niam<br>Class of 2022</em></strong>
+</p>
+<hr>
 <p>Pei Tong Primary School has been a significant part of my life, shaping
 me into the person I am today. Over the six years I spent there, I learned
 and grew immensely, thanks to the support of my friends and teachers.</p>
@@ -22,6 +57,12 @@ valuable lessons and experiences that have contributed to my personal growth.</p
 <p><strong><em>Ng Yu Jay<br>Class of 2022</em></strong>
 </p>
 <hr>
+<p></p>
+<blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Fiona.jpg">
+</div>
+</blockquote>
 <p>During my six years at Pei Tong Primary School, I formed a deep appreciation
 for the dedicated teachers who guided me through each level. They not only
 imparted knowledge but also created lasting memories and supported me both
