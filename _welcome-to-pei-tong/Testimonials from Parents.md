@@ -15,7 +15,7 @@ themselves available - something we truly appreciate.</p>
 been a single day where my daughter hasn't expressed how much she misses
 her teachers at Pei Tong. Their impact on her goes beyond the classroom,
 and I am deeply grateful for the positive influence they've had on her.</p>
-<p><strong><em>Ms Tan Wei Hsuan</em></strong>
+<p><strong><em>Mr Tan Wei Hsuan</em></strong>
 </p>
 <hr>
 <p>My son had the privilege of being taught by some of the finest educators
