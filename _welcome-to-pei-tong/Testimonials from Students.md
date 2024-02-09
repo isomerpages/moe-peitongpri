@@ -8,7 +8,7 @@ variant: tiptap
 <p></p>
 <blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Kaeden.JPG">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Kaeden.JPG">
 </div>
 </blockquote>
 <p>I am a proud graduate of Pei Tong Primary School from the class of 2022,
@@ -60,7 +60,7 @@ valuable lessons and experiences that have contributed to my personal growth.</p
 <p></p>
 <blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Fiona.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Fiona.jpg">
 </div>
 </blockquote>
 <p>During my six years at Pei Tong Primary School, I formed a deep appreciation
@@ -176,7 +176,7 @@ soon!</p>
 <hr>
 <blockquote>
 <div class="isomer-image-wrapper">
-<img style="width:45%;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/min%20yi%20ong.jpeg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/min%20yi%20ong.jpeg">
 </div>
 </blockquote>
 <p>Pei Tong has given me a conducive environment and opportunities to succeed,
