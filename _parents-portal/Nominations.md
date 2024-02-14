@@ -40,3 +40,21 @@ Tamil) <a href="https://go.gov.sg/mitt2024nominationformel" rel="noopener norefe
 (English)</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Portal/Arief_Budiman_Award.png">
+</div>
+<p></p>
+<p><strong>Arif Budiman Malay Language Teacher Award 2024</strong>
+</p>
+<p>Students, educators, parents, and members of the public are invited to
+nominate outstanding Malay Language teachers for the <em>Arif Budiman </em>Malay
+Language Teacher Award (AGAB) 2024.</p>
+<p></p>
+<p>The Arif Budiman Malay Language Teacher Award recognises Malay Language
+teachers from primary and secondary schools, junior colleges, and Millennia
+Institute who have made significant contributions to the teaching of the
+Malay Language.</p>
+<p></p>
+<p></p>
+<p>Nominations can also be made online via <a href="https://go.gov.sg/agab2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/agab2024</a>
+</p>
