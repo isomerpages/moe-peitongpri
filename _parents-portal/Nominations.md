@@ -36,7 +36,8 @@ junior colleges and Millennia Institute who have made significant contributions
 to the teaching and learning of TL.</p>
 <p>Nominations can also be made online at</p>
 <p><a href="https://go.gov.sg/mitt2024nominationform" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mitt2024nominationform</a> (
-Tamil) <a href="https://go.gov.sg/mitt2024nominationformel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mitt2024nominationformel</a>.
+Tamil)</p>
+<p> <a href="https://go.gov.sg/mitt2024nominationformel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mitt2024nominationformel</a>.
 (English)</p>
 <p></p>
 <p></p>
