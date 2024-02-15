@@ -27,5 +27,10 @@ variant: tiptap
 <p><a href="https://photos.app.goo.gl/AL7J1e9yWJWPZ19u7" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Making ice cream</a>
 </p>
 </li>
+<li>
+<p><a href="https://photos.app.goo.gl/anGsAgkBNZYHkEgi9" rel="noopener noreferrer nofollow" target="_blank">2024 Chinese New Year Celebrations</a>
+</p>
+</li>
 </ul>
+<p></p>
 <p></p>
