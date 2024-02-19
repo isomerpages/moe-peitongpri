@@ -8,6 +8,10 @@ variant: tiptap
 <p>Watch this space! We will be updating this year's photos soon!</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://photos.app.goo.gl/zftvuoeoNNLCcu6DA" rel="noopener noreferrer nofollow" target="_blank">2024 Total Defence Day (TD40)</a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/anGsAgkBNZYHkEgi9" rel="noopener noreferrer nofollow" target="_blank">2024 Chinese New Year Celebrations</a>
 </p>
 </li>
