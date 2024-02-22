@@ -42,7 +42,7 @@ life, and I am truly fortunate to have been under their guidance.</p>
 <p></p>
 <blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Kaeden.JPG">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/kaeden.jpg">
 </div>
 </blockquote>
 <p>I am a proud graduate of Pei Tong Primary School from the class of 2022,
