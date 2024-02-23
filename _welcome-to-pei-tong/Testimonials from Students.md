@@ -75,6 +75,12 @@ significant role in shaping me into the person I am today.</p>
 <p><strong><em>Kaeden Niam<br>Class of 2022</em></strong>
 </p>
 <hr>
+<p></p>
+<blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/yujay.jpg">
+</div>
+</blockquote>
 <p>Pei Tong Primary School has been a significant part of my life, shaping
 me into the person I am today. Over the six years I spent there, I learned
 and grew immensely, thanks to the support of my friends and teachers.</p>
