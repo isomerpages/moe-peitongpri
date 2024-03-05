@@ -14,11 +14,10 @@ variant: markdown
 **Please call or send a WhatsApp message for an appointment before visiting.**
 
   
-The opening dates in February are:
+The opening dates in March are:
 
-- February 2nd
-- February 14th to 16th
-- February 26th and 27th
+- March 11th to 14th
+- March 25th to 28th
 
 
 Opening hours:<br>
