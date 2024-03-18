@@ -8,6 +8,14 @@ variant: tiptap
 <p>Watch this space! We will be updating this year's photos soon!</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://photos.app.goo.gl/bLLM9CZNRtTmvze46" rel="noopener noreferrer nofollow" target="_blank">2024 P6 VIA</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/7DJDU4jKLYCCaP6K6" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Coding</a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/cP8aK9kC88zHcwtF9" rel="noopener noreferrer nofollow" target="_blank">2024 Joy Of Learning @ Active Recess (Science)</a>
 </p>
 </li>
