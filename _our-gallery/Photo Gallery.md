@@ -16,6 +16,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://photos.app.goo.gl/NAUMDnczJuiq5nDN6" rel="noopener noreferrer nofollow" target="_blank">2024 Chinese Joy Of Learning </a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/cP8aK9kC88zHcwtF9" rel="noopener noreferrer nofollow" target="_blank">2024 Joy Of Learning @ Active Recess (Science)</a>
 </p>
 </li>
