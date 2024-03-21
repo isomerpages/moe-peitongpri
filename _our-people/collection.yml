@@ -2,7 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - Nominations.md
       - School Executive Committee.md
       - Teaching Staff.md
       - Executive and Administrative Staff.md
@@ -10,3 +9,4 @@ collections:
       - Pei Tong Alumni.md
       - Parent Support Group (PSG).md
       - Appreciation & Feedback.md
+      - Nominations.md
