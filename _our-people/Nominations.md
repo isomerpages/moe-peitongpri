@@ -1,6 +1,6 @@
 ---
 title: Nominations
-permalink: /parents-portal/permalink/
+permalink: /our-people/nominate/
 variant: tiptap
 description: ""
 ---
