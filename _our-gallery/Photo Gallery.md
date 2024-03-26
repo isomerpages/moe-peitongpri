@@ -8,6 +8,10 @@ variant: tiptap
 <p>Watch this space! We will be updating this year's photos soon!</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://photos.app.goo.gl/ej2ggv2TNi6W6a8q9" rel="noopener noreferrer nofollow" target="_blank">2024 Student Leaders Training</a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/bLLM9CZNRtTmvze46" rel="noopener noreferrer nofollow" target="_blank">2024 P6 VIA</a>
 </p>
 </li>
