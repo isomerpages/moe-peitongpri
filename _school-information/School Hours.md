@@ -79,7 +79,7 @@ All students are required to report to school by&nbsp;**7.30 am**&nbsp;for the f
   </tr>
   <tr>
     <td>P5 &amp; P6</td>
-    <td>10.30am – 11.00am</td>
+    <td>10.30 am – 11.00 am</td>
   </tr>
 </tbody>
 </table>
@@ -105,7 +105,7 @@ All students are required to report to school by&nbsp;**7.30 am**&nbsp;for the f
   </tr>
   <tr>
     <td>Gate A</td>
-    <td colspan="3">7.00am to 7.00pm from Monday to Friday<br>(including school holidays)</td>
+    <td colspan="3">7.00 am to 7.00 pm <br>from Monday to Friday<br>(including school holidays)</td>
   </tr>
   <tr>
     <td>Gate B &amp; H</td>
@@ -127,4 +127,3 @@ All students are required to report to school by&nbsp;**7.30 am**&nbsp;for the f
   </tr>
 </tbody>
 </table>
-
