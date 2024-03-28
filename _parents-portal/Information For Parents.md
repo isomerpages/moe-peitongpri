@@ -12,7 +12,7 @@ variant: markdown
     
 *   [CCA Information](https://sites.google.com/moe.edu.sg/ptpscca/home)
 *   [A Parent’s Guide to Keeping Children Safe &amp; Smart Online](https://www.betterinternet.sg/-/media/Resources/PDFs/Parents-Guides/Safe-and-Smart-Online-Parent-Guide.pdf)
-<!--*   [Helping Your Children with Appropriate Online Expression](/files/Parents%20Portal/Parents%20Tipsheet%20-%20Appropriate%20Online%20Expression.pdf) -->
+
 *   [Ordering guide for School Uniform 2024](/files/Parents%20Portal/For%20Parents/Uniform_Online_Ordering_guide.pdf)
 
 ## Primary 1
