@@ -7,7 +7,7 @@ variant: markdown
 # Curriculum
 
 
-## OUR PROGRAMME
+## Our Programme
 
 <table>
 <thead>
@@ -45,7 +45,7 @@ variant: markdown
 </tbody>
 </table>
 
-## OUR CURRICULUM
+## Our Curriculum
 
 
 Our curriculum comprises 2 flagship programmes, the HI-Light Programme and Starlight Literacy Programme for English and MTL. In addition, each term at MK will conclude in a Weeks of Wonder project.  

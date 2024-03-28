@@ -16,8 +16,9 @@ variant: markdown
   
 The opening dates in March are:
 
-- March 11th to 14th
-- March 25th to 28th
+- April 8th to 9th
+- April 11th to12th
+- April 22th to 26th
 
 
 Opening hours:<br>
@@ -31,8 +32,8 @@ Mon, Wed, Fri: 8.00 am - 5.00 pm
 **Tel: 97439235**
 
 
-**School Bus Services**<br>
-[School Bus Operator and Bus Fare](/files/School%20Information/School%20Services/2023%20school%20bus%20fare.pdf)
+**School Bus Services**<br>[School Bus Fare 2024](/files/School%20Information/School%20Services/2024_School_Bus_Fare.pdf)
+
 
 ## School Bookshop
 
