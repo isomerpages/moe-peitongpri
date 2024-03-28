@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /ptps-experience/mathematics/
 description: ""
+variant: markdown
 ---
 # Overview
 
@@ -12,7 +13,7 @@ Students master mathematical concepts and skills through activity-based lessons 
 
 ## Mathematics Made Meaningful (M³)
 
-![](/images/PTPS%20Experience/math%202.jpg)
+
 
 A child learns best through ‘play’. Students experience authentic learning experiences to make learning of  mathematical concepts more joyful. Their conceptual understanding is enhanced through manipulatives and/ or technology. During group work, teachers use Talk Moves to encourage and guide students to reason and communicate their thinking, so that they become confident problem-solvers.
 
