@@ -2,6 +2,7 @@
 title: Curriculum
 permalink: /mkpeitong/curriculum/
 description: ""
+variant: markdown
 ---
 # Curriculum
 
@@ -17,11 +18,11 @@ description: ""
 <tbody>
   <tr>
     <td>AM session</td>
-    <td>8.00am - 12.00pm</td>
+    <td>8.00 am - 12.00 pm</td>
   </tr>
   <tr>
     <td>PM session</td>
-    <td>1.00pm - 5.00pm</td>
+    <td>1.00 pm - 5.00 pm</td>
   </tr>
 </tbody>
 </table>
@@ -35,11 +36,11 @@ description: ""
 <tbody>
   <tr>
     <td>AM session</td>
-    <td>7.50am - 11.50pm</td>
+    <td>7.50 am - 11.50 pm</td>
   </tr>
   <tr>
     <td>PM session</td>
-    <td>12.50pm - 4.50pm</td>
+    <td>12.50 pm - 4.50 pm</td>
   </tr>
 </tbody>
 </table>
@@ -68,4 +69,4 @@ In these projects, children work together to investigate topics that interest th
 
 ![](/images/MK@Pei%20Tong/Curriculum%201.jpg)
 
-For more information on MK Curriculum, visit this website [https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum](https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum).
+For more information on MK Curriculum, visit this website&nbsp;[https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum](https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum).
