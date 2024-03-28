@@ -21,8 +21,8 @@ The opening dates in March are:
 
 
 Opening hours:<br>
-Tues, Thurs : 8am-5.30pm
-Mon, Wed, Fri: 8am - 5pm
+Tues, Thurs : 8.00 am -5.30 pm
+Mon, Wed, Fri: 8.00 am - 5.00 pm
 
 ## School Bus Vendor
 
@@ -43,9 +43,9 @@ Mon, Wed, Fri: 8am - 5pm
   
 
 Operating hours during school term:<br>
-Mon/Tues/Thurs/Fri - 8.30am-4pm <br>
-Wed: 8.30am to 3.30pm <br>
-Lunch Hours - 11.30am to 12.30pm
+Mon/Tues/Thurs/Fri - 8.30 am - 4.00 pm <br>
+Wed: 8.30 am - 3.30 pm <br>
+Lunch Hours - 11.30 am - 12.30 pm
 
 ## School Uniform 
 
@@ -59,7 +59,7 @@ Upper Bukit Timah Road Singapore 588177
 
   
 
-School uniform and PE attire are available for purchase at the school bookshop from 2pm - 4pm on school days.
+School uniform and PE attire are available for purchase at the school bookshop from 2.00 pm - 4.00 pm on school days.
 
 ## School Student Care (Primary)
 
