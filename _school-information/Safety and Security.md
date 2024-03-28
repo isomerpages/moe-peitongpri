@@ -2,6 +2,7 @@
 title: Safety and Security
 permalink: /school-information/safety-and-security/
 description: ""
+variant: markdown
 ---
 # Safety and Security
 
@@ -9,7 +10,7 @@ A caring and safe environment is important to enabling all students to have a po
 
 **1. Rules and driving into the school**
 
-*   Parents/Guardians are allowed to drive in and alight their children/ward at the front porch only in the morning up to 7:30 am.
+*   Parents/Guardians are allowed to drive in and alight their children/ward at the front porch only in the morning up to 7.30 am.
 *   For pick up at dismissal time, parents/guardians are requested to park at the HDB carpark and pick up their children/ward near Gate A, Gate B or Gate D.
 *   Parents/Guardians can only drive in to pick up their children/ward on rainy days, 30 minutes after dismissal time. 
 *   Parents/Guardians are to observe the speed limit of 15 km/h inside the school compound. 

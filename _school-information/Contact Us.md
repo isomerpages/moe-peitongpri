@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /contact-us/
 description: ""
+variant: markdown
 ---
 # Contact Us
 
@@ -15,8 +16,8 @@ description: ""
   
 
 Operating hours:<br>
-School Term: 7am - 6pm<br>
-School Holiday:7.30am - 6pm
+School Term: 7.00 am - 6.00 pm<br>
+School Holiday: 7.30 am - 6.00 pm
 
   
 

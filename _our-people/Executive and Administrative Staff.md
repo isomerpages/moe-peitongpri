@@ -36,7 +36,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ho Lee Phui Ruth</p>
+<p>Ms Ho Ruth</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +72,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rosa Yim</p>
+<p>Mdm Yim Rosa</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +81,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Allison Yap</p>
+<p>Mdm Yap Allison</p>
 </td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norazlin Bte Mohamed Amin</p>
+<p>Mdm Norazlin</p>
 </td>
 </tr>
 <tr>
@@ -99,7 +99,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jessica Goh Seow Chee</p>
+<p>Mdm Goh Jessica</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +108,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Charlotte Lee</p>
+<p>Mdm Lee Charlotte</p>
 </td>
 </tr>
 <tr>
@@ -180,7 +180,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kamariah Salimin</p>
+<p>Mdm Kamariah</p>
 </td>
 </tr>
 </tbody>
