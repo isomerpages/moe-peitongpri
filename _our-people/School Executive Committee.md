@@ -22,7 +22,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ong-Chew Lu See</p>
+<p>Mrs Ong - Chew Lu See</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong ason</p>
+<p>Mr Wong Jason</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +71,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan-Chen Chai Kim</p>
+<p>Mrs Tan - Chen Chai Kim</p>
 </td>
 </tr>
 <tr>
@@ -125,7 +125,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chang</p>
+<p>Ms Chang Diana</p>
 </td>
 </tr>
 <tr>
