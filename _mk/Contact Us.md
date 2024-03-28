@@ -44,7 +44,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong><u>CONTACT DETAILS</u></strong>
+<p><strong><u>CONTACT DETAILS</u></strong> 
 <br>Tel: 6777 5458 (8.00 am - 5.00 pm, school hours only)
 <br>Email:&nbsp;<a href="mailto:mk_peitong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_peitong@moe.edu.sg</a>
 </p>
@@ -63,23 +63,17 @@ MK session, providing the convenience of a full-day service.</p>
 <th rowspan="1" colspan="1">
 <p>Tel:</p>
 </th>
-<th rowspan="1" colspan="1">
-<p><strong>82988518</strong>
-</p>
-</th>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>82988518</p>
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Email:</p>
-</th>
 <td rowspan="1" colspan="1">
-<p>supervisor.ptkcc@nascans.com</p>
+<p><strong>Email:</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>supervisor.ptkcc@nascans.com</p>
 </td>
 </tr>
 </tbody>
