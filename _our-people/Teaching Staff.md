@@ -77,7 +77,7 @@ Gateway App (refer to image below for a guide).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chan–Lee Rebecca</p>
+<p>Mrs Chan – Lee Rebecca</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Syafinah</p>
@@ -104,7 +104,7 @@ Gateway App (refer to image below for a guide).</p>
 <p>Mrs Lim – Ang Bee Kuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Leow-Chia Pei San</p>
+<p>Mrs Leow - Chia Pei San</p>
 </td>
 </tr>
 <tr>
@@ -558,10 +558,10 @@ Gateway App (refer to image below for a guide).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Yeo-Ng Lai Peng</p>
+<p>Mrs Yeo - Ng Lai Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ho-Sek Yee Yong</p>
+<p>Mrs Ho - Sek Yee Yong</p>
 </td>
 </tr>
 <tr>
@@ -629,7 +629,7 @@ Gateway App (refer to image below for a guide).</p>
 <p>Ms Sim Huili</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan-Chen Chai Kim</p>
+<p>Mrs Tan - Chen Chai Kim</p>
 </td>
 </tr>
 <tr>
@@ -682,7 +682,7 @@ Gateway App (refer to image below for a guide).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Koh-Ong Karen</p>
+<p>Mrs Koh - Ong Karen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Cheong Hui Leng</p>
