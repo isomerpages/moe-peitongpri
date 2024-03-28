@@ -2,10 +2,11 @@
 title: School Hours
 permalink: /school-information/school-hours/
 description: ""
+variant: markdown
 ---
 # School Hours
 
-All students are required to report to school by **7.30am** for the flag-raising ceremony. CCA will be on Tuesday/ Thursday for Primary 3 to Primary 6 students.
+All students are required to report to school by&nbsp;**7.30 am**&nbsp;for the flag-raising ceremony.&nbsp;CCA will be on Tuesday/ Thursday for Primary 3 to Primary 6 students.
 
 <table>
 <thead>
@@ -66,15 +67,15 @@ All students are required to report to school by **7.30am** for the flag-raisi
 <tbody>
   <tr>
     <td>P1</td>
-    <td>9.00am – 9.30am</td>
+    <td>9.00 am – 9.30 am</td>
   </tr>
   <tr>
     <td>P2</td>
-    <td>9.30am – 10.00am</td>
+    <td>9.30 am – 10.00 am</td>
   </tr>
   <tr>
     <td>P3 &amp; P4</td>
-    <td>10.00am – 10.30am</td>
+    <td>10.00 am – 10.30 am</td>
   </tr>
   <tr>
     <td>P5 &amp; P6</td>
@@ -108,23 +109,22 @@ All students are required to report to school by **7.30am** for the flag-raisi
   </tr>
   <tr>
     <td>Gate B &amp; H</td>
-    <td>7.00am – 7.30am</td>
-    <td>1.30pm – 1.50pm</td>
-    <td>1.00pm – 1.20pm</td>
+    <td>7.00 am – 7.30 am</td>
+    <td>1.30 pm – 1.50 pm</td>
+    <td>1.00 pm – 1.20 pm</td>
   </tr>
   <tr>
     <td>Gate D</td>
-    <td>7.00am – 7.30am</td>
-    <td>1.30pm – 1.50pm</td>
-    <td>1.00pm – 1.20pm</td>
+    <td>7.00 am – 7.30 am</td>
+    <td>1.30 pm – 1.50 pm</td>
+    <td>1.00 pm – 1.20 pm</td>
   </tr>
   <tr>
     <td>Gate D/ H<br>(CCA Days)</td>
     <td> </td>
-    <td>4.00pm – 4.20pm<br>(Tuesday only)</td>
-    <td>3.30pm – 3.50pm<br>(Thursday only)</td>
+    <td>4.00 pm – 4.20 pm<br>(Tuesday only)</td>
+    <td>3.30 pm – 3.50 pm<br>(Thursday only)</td>
   </tr>
 </tbody>
 </table>
 
-_updated 11 Jan 2023_
