@@ -33,7 +33,7 @@ Mon, Wed, Fri: 8.00 am - 5.00 pm
 
 
 **School Bus Services**<br>
-[School Bus Operator and Bus Fare](/files/School%20Information/School%20Services/2023%20school%20bus%20fare.pdf)
+
 
 ## School Bookshop
 
