@@ -32,7 +32,7 @@ Mon, Wed, Fri: 8.00 am - 5.00 pm
 **Tel: 97439235**
 
 
-**School Bus Services**<br>
+**School Bus Services**<br>[School Bus Fare 2024](/files/School%20Information/School%20Services/2024_School_Bus_Fare.pdf)
 
 
 ## School Bookshop
