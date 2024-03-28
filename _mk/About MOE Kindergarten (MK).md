@@ -7,12 +7,12 @@ variant: markdown
 # About MOE Kindergarten (MK)
 
 
-## MK VISION AND MISSION
+## MK Vision and Mission
 
 
 To provide a strong start for every child. We seek to do so through providing quality preschool education that is affordable to Singaporeans and catalysing quality improvements in the sector
 
-## BELIEFS
+## Beliefs
 
 
 **Children are curious learners.**
@@ -31,7 +31,7 @@ They learn by doing. They are also more likely to&nbsp;understand and remember s
 
 Their thinking and reasoning skills evolve over time as they build new knowledge upon their existing knowledge and experiences. Through constantly thinking and reflecting about their learning, children deepen their understanding of how the world works.
 
-##  OUR VALUES
+##  Our Values
 
 
 <table>
@@ -57,7 +57,7 @@ Their thinking and reasoning skills evolve over time as they build new knowledge
 </tr>
 	</tbody></table>
 	
-## LEARNING DOMAINS
+## Learning Domains
 
 
 <table>
@@ -115,7 +115,7 @@ Their thinking and reasoning skills evolve over time as they build new knowledge
 
 
 
-##  OUR LEARNING DISPOSITIONS (P.R.A.I.S.E)
+##  Our Learning Dispositions (P.R.A.I.S.E.)
 
 
 <table>
