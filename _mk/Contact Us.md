@@ -52,8 +52,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@Pei%20Tong/Contact%20us/school%20map.png">
 </div>
 <h3>KINDERGARTEN CARE (KCARE)</h3>
-<p>We offer Kindergarten Care (KCare), a full-day childcare programme, 7
-a.m. to 7 p.m.</p>
+<p>We offer Kindergarten Care (KCare), a full-day childcare programme, 7.00
+am -7.00 pm.</p>
 <p>If you register, your child will be in KCare before and after your child’s
 MK session, providing the convenience of a full-day service.</p>
 <h3>NASCANS</h3>
