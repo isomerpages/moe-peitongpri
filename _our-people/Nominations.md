@@ -4,23 +4,6 @@ permalink: /our-people/nominate/
 variant: tiptap
 description: ""
 ---
-<h3><strong>INSPIRING TEACHER OF ENGLISH AWARD 2024</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Portal/English_Teacher.jpg">
-</div>
-<p></p>
-<p>Nominations for the annual <em>Inspiring Teacher of English</em>  <em>Award</em> are
-now open.&nbsp;&nbsp;</p>
-<p>The Award is open to all in-service teachers of English Language.</p>
-<p>&nbsp;Nomination forms for the Teaching Award can be downloaded&nbsp;
-from this link <a href="https://form.gov.sg/65bca0fec4cd4eb06784ac14" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/65bca0fec4cd4eb06784ac14</a>
-</p>
-<p><strong>Please submit your completed form via the same link <br></strong>All
-students, their parents, and teachers are invited to send in nominations
-for the Teaching Award to the school by <strong>6pm on 25 March 2024</strong>.&nbsp;</p>
-<p></p>
-<p></p>
-<p></p>
 <h3><strong>MOST INSPIRING TAMIL TEACHERS’ AWARD 2024</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Portal/Tamil_Teacher.jpg">
@@ -57,3 +40,21 @@ Malay Language.</p>
 <p></p>
 <p>Nominations can also be made online via <a href="https://go.gov.sg/agab2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/agab2024</a>
 </p>
+<p></p>
+<h3><strong>DISTINGUISHED CHINESE LANGUAGE TEACHERS AWARDS 2024</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL_Awards_Nomination.jpg">
+</div>
+<p></p>
+<p></p>
+<p>Students, parents, fellow teachers and school leaders are invited to nominate
+Chinese Language Teachers for the Distinguished Chinese Language Teachers
+Awards 2024.</p>
+<p></p>
+<p>The awards aim to give due recognition to deserving Chinese Language teachers
+who have shown exemplary efforts towards the teaching of Chinese language
+and culture in the past year. The awards also affirm the efforts of teachers
+who have successfully inculcated in their students an appreciation for
+Chinese language and culture.</p>
+<p></p>
