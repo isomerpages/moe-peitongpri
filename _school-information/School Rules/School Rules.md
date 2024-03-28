@@ -3,6 +3,7 @@ title: School Rules
 permalink: /school-information/school-rules/
 description: ""
 third_nav_title: School Rules
+variant: markdown
 ---
 # School Rules
 
@@ -131,7 +132,7 @@ third_nav_title: School Rules
 </tbody>
 </table>
 
-**F. Loan of Library materials/Tablet**
+**F. Loan of Library materials**
 
 <table>
 <tbody>
