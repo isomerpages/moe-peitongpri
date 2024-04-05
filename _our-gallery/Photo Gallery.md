@@ -16,10 +16,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://photos.app.goo.gl/awMmviTtLX8Lh6ap6" rel="noopener noreferrer nofollow" target="_blank">2024 P3/P4 Baseline ICT Lessons</a>
-</p>
-</li>
-<li>
 <p><a href="https://photos.app.goo.gl/4vKhrNRoN2pW5FVB6" rel="noopener noreferrer nofollow" target="_blank">2024 CNB Recess Booth</a>
 </p>
 </li>
