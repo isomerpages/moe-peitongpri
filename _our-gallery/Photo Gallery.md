@@ -8,6 +8,14 @@ variant: tiptap
 <p>Watch this space! We will be updating this year's photos soon!</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://photos.app.goo.gl/TEEhjzXS7uYk5eVN7" rel="noopener noreferrer nofollow" target="_blank">2024 International Friendship Day</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/rRgY4jWtAFGBaAfy9" rel="noopener noreferrer nofollow" target="_blank">2024 Joy Of Learning @ Active Recess (STEM)</a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/r5bEakx32GHgBpMTA" rel="noopener noreferrer nofollow" target="_blank">2024 P5 SS Learning Journey</a>
 </p>
 </li>
