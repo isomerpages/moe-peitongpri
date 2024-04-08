@@ -12,6 +12,10 @@ variant: tiptap
 <p>Inspire, Inquire and Innovate represents the vision for Science Education
 and encapsulates the overall experience of our students in Science education:</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/Science/science_overview.png">
+</div>
+<p></p>
 <p><strong>Developing Inquiring Learners Through ‘5E’ (DILE) programme</strong> is
 a school-wide Science programme that comprises comprehensive thematic teaching
 and learning packages for all themes in the Primary 3 to 6 syllabi. Each
@@ -48,6 +52,10 @@ more about their characteristics and life cycles during recess.</p>
 <p>JoL@AR Science also engages students to immerse themselves in hands-on
 STEM activities. These activities foster their creativity and enhance their
 problem-solving skills.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/Science/science_jolar.png">
+</div>
 <p></p>
 <h2>E2K Science Programme</h2>
 <p>Upper primary students who demonstrate interest and ability in Science
