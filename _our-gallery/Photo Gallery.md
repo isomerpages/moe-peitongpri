@@ -8,6 +8,10 @@ variant: tiptap
 <p>Watch this space! We will be updating this year's photos soon!</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://photos.app.goo.gl/kKL8c8Utzmc1d8a28" rel="noopener noreferrer nofollow" target="_blank">2024 Hari Raya Celebrations</a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/TEEhjzXS7uYk5eVN7" rel="noopener noreferrer nofollow" target="_blank">2024 International Friendship Day</a>
 </p>
 </li>
