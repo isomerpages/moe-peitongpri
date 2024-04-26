@@ -69,4 +69,4 @@ In these projects, children work together to investigate topics that interest th
 
 ![](/images/MK@Pei%20Tong/Curriculum%201.jpg)
 
-For more information on MK Curriculum, visit this website&nbsp;[https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum](https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum).
+For more information on MK Curriculum, visit this [website](https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment)
