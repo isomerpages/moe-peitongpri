@@ -16,9 +16,12 @@ variant: markdown
   
 The opening dates in March are:
 
-- April 8th to 9th
-- April 11th to12th
-- April 22th to 26th
+- My 6th,
+- May 7th (PM CLOSE)
+- May 8th - 10th 
+- May 20 &amp; 21
+- May 23 &amp; 24
+
 
 
 Opening hours:<br>
