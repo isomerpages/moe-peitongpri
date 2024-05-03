@@ -16,7 +16,7 @@ variant: markdown
   
 The opening dates in March are:
 
-- My 6th,
+- My 6th
 - May 7th (PM CLOSE)
 - May 8th - 10th 
 - May 20 &amp; 21
