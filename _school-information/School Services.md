@@ -14,7 +14,7 @@ variant: markdown
 **Please call or send a WhatsApp message for an appointment before visiting.**
 
   
-The opening dates in March are:
+The opening dates in May are:
 
 - My 6th
 - May 7th (PM CLOSE)
