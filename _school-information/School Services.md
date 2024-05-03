@@ -14,15 +14,18 @@ variant: markdown
 **Please call or send a WhatsApp message for an appointment before visiting.**
 
   
-The opening dates in March are:
+The opening dates in May are:
 
-- April 8th to 9th
-- April 11th to12th
-- April 22th to 26th
+- My 6th
+- May 7th (PM CLOSE)
+- May 8th - 10th 
+- May 20 &amp; 21
+- May 23 &amp; 24
+
 
 
 Opening hours:<br>
-Tues, Thurs : 8.00 am -5.30 pm
+Tues, Thurs : 8.00 am -5.30 pm<br>
 Mon, Wed, Fri: 8.00 am - 5.00 pm
 
 ## School Bus Vendor
