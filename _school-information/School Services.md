@@ -25,7 +25,7 @@ The opening dates in May are:
 
 
 Opening hours:<br>
-Tues, Thurs : 8.00 am -5.30 pm
+Tues, Thurs : 8.00 am -5.30 pm<br>
 Mon, Wed, Fri: 8.00 am - 5.00 pm
 
 ## School Bus Vendor
