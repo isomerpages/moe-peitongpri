@@ -51,7 +51,7 @@ variant: markdown
 Our curriculum comprises 2 flagship programmes, the HI-Light Programme and Starlight Literacy Programme for English and MTL. In addition, each term at MK will conclude in a Weeks of Wonder project.  
   
 
-<b><u>HI-Light Programme</u></b>  
+<b><u>Hi-Light Programme (English Language)</u></b>  
 
 The HI-Light Programme supports the holistic development of MOE kindergarten children through an integrated approach to learning.
 
