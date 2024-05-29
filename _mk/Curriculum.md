@@ -57,13 +57,15 @@ The HI-Light Programme supports the holistic development of MOE kindergarten chi
 
 ![](/images/MK@Pei%20Tong/Curriculum%202.jpg)
 
-<b><u>Starlight Literacy Programme for English and MTL</u></b>  
+<b><u>Starlight Literacy Programme for English
+and Mother Tongue Language</u></b>  
 
 The Starlight Literacy Programme nurtures your child’s language skills through Big Books, rhymes and games set in the local context.
 
 ![](/images/MK@Pei%20Tong/Curriculum%203.jpg)
 
-<b><u>Weeks of Wonders (WoW) ProjectsMTL</u></b>  
+<b><u>Weeks of Wonders (WoW) Projects for
+English and Mother Tongue Language</u></b>  
 
 In these projects, children work together to investigate topics that interest them.
 
