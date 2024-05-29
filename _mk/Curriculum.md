@@ -70,3 +70,6 @@ In these projects, children work together to investigate topics that interest th
 ![](/images/MK@Pei%20Tong/Curriculum%201.jpg)
 
 For more information on MK Curriculum, visit this [website](https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment)
+
+<b><u>Our Snack Menu</u></b>  
+At MK@Pei Tong, children will have a mid-day snack time at MK and snacks will be served daily. All snacks served will be nutritious, healthy, with minimal oil and salt. The food will not contain pork, beef and lard. Snacks served follow Health Promotion Board guidelines, e.g., “Healthier Choice” symbol. If your child has other dietary requirements, please inform the kindergarten.
