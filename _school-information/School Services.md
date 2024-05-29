@@ -14,13 +14,15 @@ variant: markdown
 **Please call or send a WhatsApp message for an appointment before visiting.**
 
   
-The opening dates in May are:
+The opening dates in June are:
 
-- My 6th
-- May 7th (PM CLOSE)
-- May 8th - 10th 
-- May 20 &amp; 21
-- May 23 &amp; 24
+- June 3-7: OPEN
+- June 10-14: CLOSED
+- June 17: Public Holiday
+- June 18 &amp; 19 (AM): OPEN
+- June 20: CLOSED
+- June 21 (AM): OPEN
+- June 24-28: CLOSED
 
 
 
