@@ -6,6 +6,22 @@ variant: markdown
 ---
 # Useful Information / Links
 
+#### MOE Kindergarten Registration Exercise
+For MK Registration Exercise (only available to register during MK RE period in Feb)
+
+Please visit the website:
+https://www.moe.gov.sg/preschool/moe-kindergarten/register
+
+##### Partner Early Years Centres
+Children aged two months to four years attend the partner EYC(s) offered by MFS or PCF. Eligible Nursery 2 (N2) children enrolled in our partner EYC(s) are guaranteed a place at MK@Pei Tong and can choose to enroll at MK@Pei Tong to continue their K1 and K2 programme.
+
+
+
+| PCF Sparkletots Preschool <br>@ Bukit Timah Blk 319 |PCF Sparkletots Preschool <br> @ Clementi Blk 462A | PCF Sparkletots Preschool <br>@ Clementi Blk 445 |
+| -------- | -------- | -------- |
+|Blk 319 Clementi Avenue 4 #01-55, S120319<br> 6777 0864   | Blk 462A Clementi Avenue 3 #01-01, S121462 <br> 6779 3135  | Blk 445 Clementi Avenue 3 #01-01, S120445  <br> 6972 3847  |
+
+
 
 #### MOE Kindergarten Family Handbook
 
