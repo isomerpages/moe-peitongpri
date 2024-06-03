@@ -45,6 +45,7 @@ variant: markdown
 </tbody>
 </table>
 
+![](/images/MK@Pei%20Tong/MK_PT_Timetable.png)
 ## Our Curriculum
 
 
