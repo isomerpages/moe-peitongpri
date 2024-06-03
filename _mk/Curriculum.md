@@ -56,23 +56,25 @@ Our curriculum comprises 2 flagship programmes, the HI-Light Programme and Starl
 
 The HI-Light Programme supports the holistic development of MOE kindergarten children through an integrated approach to learning.
 
-![](/images/MK@Pei%20Tong/Curriculum%202.jpg)
+![](/images/MK@Pei%20Tong/Hi_Light_Programme.jpg)
 
 <b><u>Starlight Literacy Programme for English
 and Mother Tongue Language</u></b>  
 
 The Starlight Literacy Programme nurtures your child’s language skills through Big Books, rhymes and games set in the local context.
 
-![](/images/MK@Pei%20Tong/Curriculum%203.jpg)
+![](/images/MK@Pei%20Tong/Starlight.jpg)
 
 <b><u>Weeks of Wonders (WoW) Projects for
 English and Mother Tongue Language</u></b>  
 
 In these projects, children work together to investigate topics that interest them.
 
-![](/images/MK@Pei%20Tong/Curriculum%201.jpg)
+![](/images/MK@Pei%20Tong/WoW_Project.jpg)
 
 For more information on MK Curriculum, visit this [website](https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment)
 
 <b><u>Our Snack Menu</u></b>  
 At MK@Pei Tong, children will have a mid-day snack time at MK and snacks will be served daily. All snacks served will be nutritious, healthy, with minimal oil and salt. The food will not contain pork, beef and lard. Snacks served follow Health Promotion Board guidelines, e.g., “Healthier Choice” symbol. If your child has other dietary requirements, please inform the kindergarten.
+
+![](/images/MK@Pei%20Tong/MK_Snack_Menu.png)<br>
