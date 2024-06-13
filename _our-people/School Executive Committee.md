@@ -6,7 +6,11 @@ variant: tiptap
 ---
 <h1>School Executive Committee</h1>
 <h2>School Leaders</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -55,7 +59,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Heads of Department (HOD)</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -94,7 +102,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD Science (Covering)</strong>
+<p><strong>HOD Science</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -158,7 +166,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Year Heads (YH)/ Assistant Year Heads (AYH)</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -216,7 +228,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Level Heads (LH)</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -238,7 +254,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Subject Heads (SH)</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
