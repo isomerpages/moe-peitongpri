@@ -11,7 +11,12 @@ Gateway App (refer to image below for a guide).</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG_contacts2.jpg">
 </div>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -198,6 +203,17 @@ Gateway App (refer to image below for a guide).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Pei Shan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jeniece Oon</p>
 </td>
 </tr>
 <tr>
@@ -391,6 +407,17 @@ Gateway App (refer to image below for a guide).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Julie Quah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Integrity 5</strong>
 </p>
 </td>
@@ -476,7 +503,7 @@ Gateway App (refer to image below for a guide).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lek Eunice</p>
+<p>Mr Shazwan Bin Sahir</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yeo Cheng Yong</p>
@@ -642,6 +669,17 @@ Gateway App (refer to image below for a guide).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Revathy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Brindhadevi</p>
 </td>
 </tr>
 <tr>
