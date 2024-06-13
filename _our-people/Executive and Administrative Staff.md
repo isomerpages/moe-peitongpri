@@ -4,7 +4,11 @@ permalink: /our-people/executive-and-administrative-staff/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -41,11 +45,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operations Manager - OM</strong>
+<p><strong>Operations Manager - OM 1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Moonshi Tajuddin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Manager - OM 2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Poh Hak Yam</p>
 </td>
 </tr>
 <tr>
@@ -117,7 +130,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Pavin</p>
+<p>Mr Pavin Jefry</p>
 </td>
 </tr>
 <tr>
@@ -126,7 +139,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Aizat</p>
+<p>Mr Aizat Emir</p>
 </td>
 </tr>
 <tr>
@@ -181,6 +194,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Kamariah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer - OSO</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Marchus Phang Ting Seng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Librarian</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chan Tai Ding, Linda</p>
 </td>
 </tr>
 </tbody>
