@@ -924,6 +924,15 @@ Gateway App (refer to image below for a guide).</p>
 <p>Mr Arzme</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Special Educational Needs (SEN) Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yang Wenxuan</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
