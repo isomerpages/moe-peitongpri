@@ -222,7 +222,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Shazwan</p>
+<p>Mr Shazwan Bin Sahir</p>
 </td>
 </tr>
 </tbody>
