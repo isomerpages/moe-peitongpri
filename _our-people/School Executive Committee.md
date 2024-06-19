@@ -195,7 +195,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Keng Hock</p>
+<p>Mr Wee Khang Ping</p>
 </td>
 </tr>
 <tr>
@@ -218,11 +218,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>AYH (Middle Primary)</strong>
+<p><strong>AYH (Upper Primary)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wee Khang Ping</p>
+<p>Mr Shazwan</p>
 </td>
 </tr>
 </tbody>
