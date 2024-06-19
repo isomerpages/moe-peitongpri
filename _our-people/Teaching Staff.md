@@ -334,16 +334,15 @@ Gateway App (refer to image below for a guide).</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Goh Keng Hock</p>
+<p>Mr Wee Khang Ping</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head:</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Wee Khang Ping</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -474,16 +473,15 @@ Gateway App (refer to image below for a guide).</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Goh Keng Hock</p>
+<p>Mr Wee Khang Ping</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head:</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Wee Khang Ping</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -630,10 +628,11 @@ Gateway App (refer to image below for a guide).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Assistant Year Head:</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Mr Shazwan Bin Sahir</p>
 </td>
 </tr>
 <tr>
@@ -764,10 +763,11 @@ Gateway App (refer to image below for a guide).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Assistant Year Head:</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Mr Shazwan Bin Sahir</p>
 </td>
 </tr>
 <tr>
