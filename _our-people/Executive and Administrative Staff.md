@@ -72,15 +72,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ICT Trainer</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Yan Chen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Corporate Support Officer - CSO</strong>
 </p>
 </td>
@@ -126,24 +117,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Desktop Engineer - DE</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Pavin Jefry</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Desktop Engineer - DE</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Aizat Emir</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Operations Support Officer - OSO</strong>
 </p>
 </td>
@@ -166,7 +139,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Julia</p>
+<p>Mdm Juliah</p>
 </td>
 </tr>
 <tr>
@@ -202,7 +175,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Marchus Phang Ting Seng</p>
+<p>Mr Marcus Phang Ting Seng</p>
 </td>
 </tr>
 <tr>
@@ -212,6 +185,33 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chan Tai Ding, Linda</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ICT Trainer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Yan Chen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Desktop Engineer - DE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Pavin Jefry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Desktop Engineer - DE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Aizat Emir</p>
 </td>
 </tr>
 </tbody>
