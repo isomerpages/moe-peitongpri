@@ -237,7 +237,7 @@ Gateway App (refer to image below for a guide).</p>
 <p>Mdm Yu Sandy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Low Shu Min</p>
+<p>Ms Lim Lee Wah Jerrine</p>
 </td>
 </tr>
 <tr>
@@ -362,7 +362,8 @@ Gateway App (refer to image below for a guide).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Husni</p>
+<p>Mr Muhd</p>
+<p>Husni</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Sim Wan’er</p>
@@ -401,17 +402,6 @@ Gateway App (refer to image below for a guide).</p>
 <p>Mdm Tay Siew Gee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Hafizah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Julie Quah</p>
 </td>
 </tr>
@@ -424,7 +414,7 @@ Gateway App (refer to image below for a guide).</p>
 <p>Mr Chua Kelvin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Isfarina</p>
+<p>Ms Isfarina</p>
 </td>
 </tr>
 <tr>
@@ -501,7 +491,7 @@ Gateway App (refer to image below for a guide).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Shazwan Bin Sahir</p>
+<p>Mr Muhd Shazwan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yeo Cheng Yong</p>
@@ -527,7 +517,7 @@ Gateway App (refer to image below for a guide).</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Joy</p>
+<p>Ms Teo Tze Yue, Joy</p>
 </td>
 </tr>
 <tr>
@@ -540,17 +530,6 @@ Gateway App (refer to image below for a guide).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chow Sally</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Oon Jeniece</p>
 </td>
 </tr>
 <tr>
@@ -574,7 +553,7 @@ Gateway App (refer to image below for a guide).</p>
 <p>Miss Chua Shermaine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Alan</p>
+<p>Mr Tan Yu Leun Alan</p>
 </td>
 </tr>
 <tr>
@@ -632,7 +611,7 @@ Gateway App (refer to image below for a guide).</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Shazwan Bin Sahir</p>
+<p>Mr Muhd Shazwan</p>
 </td>
 </tr>
 <tr>
@@ -665,17 +644,6 @@ Gateway App (refer to image below for a guide).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Darren</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Revathy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Brindhadevi</p>
@@ -767,7 +735,7 @@ Gateway App (refer to image below for a guide).</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Shazwan Bin Sahir</p>
+<p>Mr Muhd Shazwan</p>
 </td>
 </tr>
 <tr>
@@ -835,7 +803,7 @@ Gateway App (refer to image below for a guide).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Keith</p>
+<p>Mr Tan Chye Chong Keith</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Khoo Juliet</p>
@@ -886,6 +854,15 @@ Gateway App (refer to image below for a guide).</p>
 </td>
 <td rowspan="1" colspan="1">
 <h4><strong>Name</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>AED T&amp;L</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nadirah</p>
 </td>
 </tr>
 <tr>
