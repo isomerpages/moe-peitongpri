@@ -8,6 +8,38 @@ variant: tiptap
 <p>Watch this space! We will be updating this year's photos soon!</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://photos.app.goo.gl/9h3bNtrTMQaMZntu7" rel="noopener noreferrer nofollow" target="_blank">2024 Upper Primary Sports Carnival</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/NNskMaPQkpU6HtvUA" rel="noopener noreferrer nofollow" target="_blank">2024 Lower Primary - Skipping</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/mj77xYa1ePbLDKcj8" rel="noopener noreferrer nofollow" target="_blank">2024 Melody @ Pei Tong (T2)</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/km6AeuhKDrqGi2BM6" rel="noopener noreferrer nofollow" target="_blank">2024 P1 Learning Journey to the zoo</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/rG98hk2gBGpSmnYd8" rel="noopener noreferrer nofollow" target="_blank">2024 Plastic Recycling Recess Activity</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/jMLVgUF7UHgBMTbu7" rel="noopener noreferrer nofollow" target="_blank">2024 Joy Of Learning @ Active Recess (SC)</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/6WbZQwJXWDUSRnCS9" rel="noopener noreferrer nofollow" target="_blank">2024 Joy Of Learning @ Active Recess (EL)</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/w9rqumkFvuJPWhPR8" rel="noopener noreferrer nofollow" target="_blank">2024 P5 Camp</a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/kKL8c8Utzmc1d8a28" rel="noopener noreferrer nofollow" target="_blank">2024 Hari Raya Celebrations</a>
 </p>
 </li>
