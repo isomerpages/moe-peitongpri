@@ -14,15 +14,9 @@ variant: markdown
 **Please call or send a WhatsApp message for an appointment before visiting.**
 
   
-The opening dates in June are:
+The opening dates in July are:
 
-- June 3-7: OPEN
-- June 10-14: CLOSED
-- June 17: Public Holiday
-- June 18 &amp; 19 (AM): OPEN
-- June 20: CLOSED
-- June 21 (AM): OPEN
-- June 24-28: CLOSED
+![](/images/School%20Information/July_calendar.png)
 
 
 
