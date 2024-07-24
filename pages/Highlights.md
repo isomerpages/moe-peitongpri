@@ -6,10 +6,10 @@ variant: tiptap
 ---
 <h1>Photo Gallery</h1>
 <p>Check out&nbsp;<a href="https://www.peitongpri.moe.edu.sg/our-gallery/photo-gallery/" rel="noopener noreferrer nofollow" target="_blank">our Photo Gallery</a> to
-catch a glimpse of school life in Pei Tong Primary School!</p>
+catch a glimpse of school life at Pei Tong Primary School!</p>
 <hr>
 <h1>Virtual Tour</h1>
-<p>Join us as our student leaders take you on <a href="https://www.peitongpri.moe.edu.sg/welcome-to-pei-tong/tour/" rel="noopener noreferrer nofollow" target="_blank">virtual tour around Pei Tong Primary School!</a>
+<p>Join us as our student leaders take you on a <a href="https://www.peitongpri.moe.edu.sg/welcome-to-pei-tong/tour/" rel="noopener noreferrer nofollow" target="_blank">virtual tour around Pei Tong Primary School!</a>
 </p>
 <hr>
 <h1>Get connected</h1>
