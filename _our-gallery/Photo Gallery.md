@@ -8,6 +8,22 @@ variant: tiptap
 <p>Watch this space! We will be updating this year's photos soon!</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://photos.app.goo.gl/jusxYVtUYpmyLmPDA" rel="noopener noreferrer nofollow" target="_blank">2024 Racial Harmony Day</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/i7Roe1Sk3sZGctjq5" rel="noopener noreferrer nofollow" target="_blank">2024 P5 N.E. Show</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/68BwnVALQLUo52F59" rel="noopener noreferrer nofollow" target="_blank">2024 Student Leaders Investiture</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/mGwuQP2QyoNX9wLd8" rel="noopener noreferrer nofollow" target="_blank">2024 P5 VIA (Bookmarks and Art Piece for Genesis School)</a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/9h3bNtrTMQaMZntu7" rel="noopener noreferrer nofollow" target="_blank">2024 Upper Primary Sports Carnival</a>
 </p>
 </li>
