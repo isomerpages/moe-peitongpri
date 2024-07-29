@@ -5,46 +5,31 @@ variant: tiptap
 description: ""
 ---
 <h2>School Bus Advertisement</h2>
-<p></p>
 <p>Please refer to the Service Requirements and the Application Procedure
 below to apply.</p>
-<p>&nbsp;</p>
-<p><strong>Service Requirements</strong>
+<h4><strong>Service Requirements</strong></h4>
+<p>1. <a href="/files/School Information/School Services/Call_for_Proposals.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
 </p>
-<p>1. Call for Proposal</p>
 <p></p>
-<p>2. Terms and Conditions for School Bus Operators to Provide School Bus
-Services</p>
+<p>2. <a href="/files/School Information/School Services/T_C_for_School_Bus_Operator_to_Provide_School_Bus_Services__For_Single_Bus_Service_.pdf" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions for School Bus Operators to Provide School Bus Services</a>
+</p>
 <p></p>
-<p>3. Request for School Bus Services</p>
+<p>3.<a href="/files/School Information/School Services/Request_for_School_Bus_Service_and_T_C_Governing_the_Requests_for_Services___For_Single_Bus_Service_.pdf" rel="noopener noreferrer nofollow" target="_blank"> Request for School Bus Services</a>
+</p>
 <p></p>
-<p>&nbsp;</p>
-<p><strong>Application Procedure</strong>
+<h4><strong>Application Procedure</strong></h4>
+<p>Complete the <a href="/files/School Information/School Services/Annex_A_Information_from_Vendor__For_Single_Bus_Service_.pdf" rel="noopener noreferrer nofollow" target="_blank">[Call for Proposal - Annex A (Information Required from Vendor)] &nbsp;</a>
 </p>
-<p>&nbsp;</p>
-<p>1. Complete the <a rel="noopener noreferrer nofollow" target="_blank">[Call for Proposal - Annex A (Information Required from Vendor)]</a>
-<a href="#_msocom_5" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[YT5]</a>&nbsp;</p>
-<p>&nbsp;</p>
-<p>2. Submit the completed Call for Proposal – Annex A by closing date, 1.00
-pm, 08 Aug 2024, to the School’s General Office.</p>
-<p>&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">* Address: 15 Clementi Ave 5, Singapore 129857</a>
+<p>Submit the completed Call for Proposal – Annex A by the closing date,
+1.00 pm, 08 Aug 2024, to the School’s General Office.</p>
+<p>Address: 15 Clementi Ave 5, Singapore 129857</p>
+<p>Contact No: 6777 5458</p>
+<p>Email:<em><u> jia_jinghui@schools.gov.sg</u></em>
 </p>
-<p>* Contact No: 6777 5458</p>
-<p>* Email: <a rel="noopener noreferrer nofollow" target="_blank">jia_jinghui@schools.gov.sg</a>
-</p>
-<p>* Contact Person: Mdm. Jia Jinghui</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>How to get there?</strong>
-</p>
+<p>Contact Person: Mdm Jia Jinghui</p>
+<h4><strong>How to get there?</strong></h4>
 <p>* Nearest MRT: Clementi MRT (EW23 line) – 10 minutes walking distance</p>
 <p>* Bus number: 7, 14, 52, 78, 96, 105, 106, 147, 154, 156, 165, 166, 175,
-183, 184, 185, 189, 201, 282, 667 – 3 minutes walking distance<a href="#_msocom_6" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[YT6]</a>&nbsp;</p>
+183, 184, 185, 189, 201, 282, 667 – 3 minutes walking distance</p>
 <hr>
-<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[YT1]</a>To be put up on the school’s website.</p>
-<p>&nbsp;<a href="#_msoanchor_2" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[YT2]</a>School to upload PDF here</p>
-<p>&nbsp;<a href="#_msoanchor_3" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[YT3]</a>School to upload PDF here</p>
-<p>&nbsp;<a href="#_msoanchor_4" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[YT4]</a>School to upload PDF here</p>
-<p>&nbsp;<a href="#_msoanchor_5" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[YT5]</a>School to upload PDF here</p>
-<p>&nbsp;<a href="#_msoanchor_6" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[YT6]</a>School to update details</p>
+<p></p>
