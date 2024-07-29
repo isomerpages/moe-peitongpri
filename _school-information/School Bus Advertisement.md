@@ -10,10 +10,8 @@ below to apply.</p>
 <h4><strong>Service Requirements</strong></h4>
 <p>1. <a href="/files/School Information/School Services/Call_for_Proposals.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
 </p>
-<p></p>
 <p>2. <a href="/files/School Information/School Services/T_C_for_School_Bus_Operator_to_Provide_School_Bus_Services__For_Single_Bus_Service_.pdf" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions for School Bus Operators to Provide School Bus Services</a>
 </p>
-<p></p>
 <p>3.<a href="/files/School Information/School Services/Request_for_School_Bus_Service_and_T_C_Governing_the_Requests_for_Services___For_Single_Bus_Service_.pdf" rel="noopener noreferrer nofollow" target="_blank"> Request for School Bus Services</a>
 </p>
 <p></p>
