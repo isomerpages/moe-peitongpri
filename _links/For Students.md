@@ -2,17 +2,18 @@
 title: For Students
 permalink: /ptps/links/for-students/
 description: ""
+variant: markdown
 ---
 # Quick Links
 
 
+* [MIMS Portal](https://idp.mims.moe.gov.sg/)
+<br><i>(Students can access Google Workspace/ Classroom by clicking on ICON after they have logged in through the MIMS Portal)</i>
 * [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
-*   [Google Workspace/ Classroom](https://workspace.google.com/dashboard)
-*   [Google Gmail](http://google.com/mail)
-*   [Padlet](https://padlet.com/)  
-*   [KooBits](https://member.koobits.com/)
-*   [Kahoot!](https://kahoot.it/)
-*   [Myskillsfuture (Pri)](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
+* [Padlet](https://padlet.com/)  
+* [KooBits](https://member.koobits.com/)
+* [Kahoot!](https://kahoot.it/)
+* [Myskillsfuture (Pri)](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
 
 
 # SLS Login Problems
