@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - School Services.md
       - TEst/School Services.md
       - TEst/.keep
       - Vision, Mission & Motto.md
