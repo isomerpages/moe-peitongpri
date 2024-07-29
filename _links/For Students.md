@@ -20,7 +20,7 @@ variant: markdown
 
 
 *   [PTPS SLS helpdesk](https://go.gov.sg/slsptps)
-*   [MOE SLS helpdesk](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/LoginTroubleshooting/ContactSLSHelpdesk.html)
+*   [MOE SLS helpdesk](https://www.learning.moe.edu.sg/login-troubleshooting/get-help/contact-sls-helpdesk/)
 
 # For Browsing
 
