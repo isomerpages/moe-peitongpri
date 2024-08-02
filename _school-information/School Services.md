@@ -16,7 +16,7 @@ variant: markdown
   
 The opening dates in July are:
 
-![](/images/School%20Information/July_calendar.png)
+![](/images/School%20Information/Aug_Dental_Clinic_Dates.jpg)
 
 
 
