@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - School Mascots.md
       - Vision, Mission & Motto.md
       - School History/.keep
       - School History/School History.md
@@ -10,6 +9,7 @@ collections:
       - School History/Heritage Gallery.md
       - School Crest.md
       - School Song.md
+      - School Mascots.md
       - School Hours.md
       - School Rules/.keep
       - School Rules/School Rules.md
