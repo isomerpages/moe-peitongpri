@@ -8,6 +8,10 @@ variant: tiptap
 <p>Watch this space! We will be updating this year's photos soon!</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://photos.app.goo.gl/sY7DNST8msa98X926" rel="noopener noreferrer nofollow" target="_blank">2024 National Day</a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/jusxYVtUYpmyLmPDA" rel="noopener noreferrer nofollow" target="_blank">2024 Racial Harmony Day</a>
 </p>
 </li>
