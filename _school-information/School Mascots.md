@@ -4,7 +4,7 @@ permalink: /school-mascots/
 variant: tiptap
 description: ""
 ---
-<h1>School Mascots</h1>
+<h1>School Level Mascots</h1>
 <p>At Pei Tong Primary School, we have carefully chosen animal mascots for
 each level to embody the school values we wish our students to embrace.
 These mascots will inspire and guide our students throughout their educational
