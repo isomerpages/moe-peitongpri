@@ -8,7 +8,19 @@ variant: tiptap
 <p>Watch this space! We will be updating this year's photos soon!</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://photos.app.goo.gl/bexuTRatrufvWejC7" rel="noopener noreferrer nofollow" target="_blank">2024 P3 NE Musical</a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/sY7DNST8msa98X926" rel="noopener noreferrer nofollow" target="_blank">2024 National Day</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/H7bAdXKhoe59Tbbr8" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Resilience Walk</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/zZZtFQA3hjaftN8c6" rel="noopener noreferrer nofollow" target="_blank">2024 P6 Virtual Learning Journey</a>
 </p>
 </li>
 <li>
