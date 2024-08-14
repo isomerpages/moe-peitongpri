@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Website_Hero_2024.gif
       key_highlights:
-        - title: Announcements
+        - title: HIGHLIGHTS
           description: ""
-          url: /announcements
+          url: /highlights
         - title: FOR PARENTS
           description: ""
           url: /parents-portal/school-terms-and-holidays/
