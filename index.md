@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Website_Hero_2024.gif
       key_highlights:
-        - title: Highlights
+        - title: HIGHLIGHTS
           description: ""
           url: /highlights
         - title: FOR PARENTS
