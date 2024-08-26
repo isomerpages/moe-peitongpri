@@ -8,6 +8,10 @@ variant: tiptap
 <p>Watch this space! We will be updating this year's photos soon!</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://photos.app.goo.gl/DaoACLtfWmYQZU4p6" rel="noopener nofollow" target="_blank">2024 P1 P2 Sports Day</a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/nhzshHZGJ96T68yz9" rel="noopener noreferrer nofollow" target="_blank">2024 Arts Fest</a>
 </p>
 </li>
