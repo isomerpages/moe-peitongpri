@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - School Bus Advertisement/School Services.md
       - School Bus Advertisement/.keep
       - Vision, Mission & Motto.md
       - School History/.keep
