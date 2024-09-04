@@ -15,9 +15,6 @@ variant: markdown
 [Click here ✉️](https://go.gov.sg/ptpsalumnimailinglist) to stay connected of upcoming alumni events and gatherings.
 
 
-![](/images/Alumni_visit_notice.png)
-
-
 ## Join Alumni
 To join our PTPS Alumni officially, please&nbsp;[complete this form](https://go.gov.sg/ptpsalumniregistration). 
 This record is required as part of Phase 2A of P1 registration.
