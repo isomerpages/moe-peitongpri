@@ -8,6 +8,10 @@ variant: tiptap
 <p>Watch this space! We will be updating this year's photos soon!</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://photos.app.goo.gl/KuuGkCWoK1ZS45xy8" rel="noopener nofollow" target="_blank">2024 Art Exhibition @ Clementi Library</a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/DaoACLtfWmYQZU4p6" rel="noopener nofollow" target="_blank">2024 P1 P2 Sports Day</a>
 </p>
 </li>
