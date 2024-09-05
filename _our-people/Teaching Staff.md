@@ -402,7 +402,7 @@ Gateway App (refer to image below for a guide).</p>
 <p>Mdm Tay Siew Gee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Julie Quah</p>
+<p></p>
 </td>
 </tr>
 <tr>
