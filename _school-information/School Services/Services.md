@@ -32,7 +32,7 @@ third_nav_title: School Services
 <p>Operating hours during school term:
 <br>Mon/Tues/Thurs/Fri - 8.30 am - 4.00 pm
 <br>Wed: 8.30 am - 3.30 pm
-<br>Lunch Hours - 11.30 am - 12.30 pm</p>
+<br>Lunch Hour - 11.30 am - 12.30 pm</p>
 <h2>School Uniform</h2>
 <p><strong>Finest Fashion Centre</strong>
 <br><strong>Tel: 64665697</strong>
