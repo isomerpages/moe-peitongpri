@@ -16,7 +16,8 @@ third_nav_title: School Services
 </div>
 <p>Opening hours:
 <br>Tues, Thurs : 8.00 am -5.30 pm
-<br>Mon, Wed, Fri: 8.00 am - 5.00 pm</p>
+<br>Mon, Wed, Fri: 8.00 am - 5.00 pm
+<br>Lunchtime : 12.30pm-1.30pm</p>
 <h2>School Bus Vendor</h2>
 <p><strong>Sin Koon Seng Enterprise</strong>
 <br><strong>Tel: 97439235</strong>
