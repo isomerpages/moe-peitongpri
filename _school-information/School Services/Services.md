@@ -16,7 +16,8 @@ third_nav_title: School Services
 </div>
 <p>Opening hours:
 <br>Tues, Thurs : 8.00 am -5.30 pm
-<br>Mon, Wed, Fri: 8.00 am - 5.00 pm</p>
+<br>Mon, Wed, Fri: 8.00 am - 5.00 pm
+<br>Lunchtime : 12.30pm-1.30pm</p>
 <h2>School Bus Vendor</h2>
 <p><strong>Sin Koon Seng Enterprise</strong>
 <br><strong>Tel: 97439235</strong>
@@ -31,7 +32,7 @@ third_nav_title: School Services
 <p>Operating hours during school term:
 <br>Mon/Tues/Thurs/Fri - 8.30 am - 4.00 pm
 <br>Wed: 8.30 am - 3.30 pm
-<br>Lunch Hours - 11.30 am - 12.30 pm</p>
+<br>Lunch Hour - 11.30 am - 12.30 pm</p>
 <h2>School Uniform</h2>
 <p><strong>Finest Fashion Centre</strong>
 <br><strong>Tel: 64665697</strong>
