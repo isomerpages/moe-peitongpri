@@ -12,8 +12,8 @@ third_nav_title: School Services
 matters.</p>
 <p>If you are unable to contact Mr. Leo via call, please send him a message
 via SMS.</p>
-<p>HP: 9772 3370</p>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">leodkj@yahoo.com.sg</a>
+<p>HP: 98188830</p>
+<p>Email: <a href="peitong2025@gmail.com" rel="noopener noreferrer nofollow" target="_blank">peitong2025@gmail.com</a>
 </p>
 <p>&nbsp;</p>
 <p>Period: 1 Jan 2025 to 31 Dec 2026</p>
