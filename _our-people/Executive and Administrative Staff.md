@@ -171,15 +171,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operations Support Officer - OSO</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Marcus Phang Ting Seng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Librarian</strong>
 </p>
 </td>
