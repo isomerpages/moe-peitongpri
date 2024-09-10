@@ -199,7 +199,7 @@ Gateway App (refer to image below for a guide).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kong Li Karen</p>
+<p>Mdm Kong Yanli Karen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Pei Shan</p>
