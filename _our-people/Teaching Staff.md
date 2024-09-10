@@ -199,7 +199,7 @@ Gateway App (refer to image below for a guide).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yap Erika</p>
+<p>Mdm Kong Li Karen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Pei Shan</p>
@@ -402,7 +402,7 @@ Gateway App (refer to image below for a guide).</p>
 <p>Mdm Tay Siew Gee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Wee Khang Ping</p>
 </td>
 </tr>
 <tr>
