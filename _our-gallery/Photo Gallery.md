@@ -8,6 +8,10 @@ variant: tiptap
 <p>Watch this space! We will be updating this year's photos soon!</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://photos.app.goo.gl/NUYJBQtqrzRCKiUR8" rel="noopener nofollow" target="_blank">2024 P2 VIA Appreciation OfNon-Teaching Staff</a>
+</p>
+</li>
+<li>
 <p><a href="" rel="noopener nofollow" target="_blank">2024 Teachers' Day Celebration</a>
 </p>
 </li>
