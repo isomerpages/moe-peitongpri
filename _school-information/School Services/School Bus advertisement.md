@@ -17,6 +17,8 @@ via SMS.</p>
 </p>
 <p>&nbsp;</p>
 <p>Period: 1 Jan 2025 to 31 Dec 2026</p>
+<p><u>Not to Exceed Price for School Bus Services.</u>
+</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -89,3 +91,48 @@ via SMS.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
+<p><u>Not to Exceed Price for After School Services.</u>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Distance Range Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Up to 15 seater (per trip)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&gt;15 seater (per trip)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Up to 2km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$5.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$5.00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&gt;2 – 4km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$8.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$8.00</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
