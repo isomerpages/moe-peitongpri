@@ -1,6 +1,6 @@
 ---
 title: PTPS Enriched Total Curriculum (PETC)
-permalink: /ptps-experience/ptps-enriched-total-curriculum-petc/
+permalink: /ptps-experience/petc/
 description: ""
 variant: markdown
 ---
@@ -17,5 +17,4 @@ The key features of PETC are:
 * Making learning meaningful through **authentic learning experiences**
 * Providing **holistic feedback** for students to enhance students’ motivation to learn 
 * **Differentiated learning** opportunities to suit and optimise students’ potential
-* **Values-driven** to prepare students to navigate future challenges and contribute positively to the community 
-
+* **Values-driven** to prepare students to navigate future challenges and contribute positively to the community

@@ -1,8 +1,9 @@
 ---
 title: Overview of PHE@PT
-permalink: /ptps-experience/physical-and-health-education-phe/
+permalink: /ptps-experience/phe/
 description: ""
 third_nav_title: Physical and Health Education
+variant: tiptap
 ---
 # Overview
 

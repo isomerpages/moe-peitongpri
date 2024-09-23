@@ -1,6 +1,6 @@
 ---
 title: Executive and Administrative Staff
-permalink: /our-people/executive-and-administrative-staff/
+permalink: /our-people/eas/
 description: ""
 variant: tiptap
 ---

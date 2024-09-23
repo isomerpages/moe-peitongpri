@@ -1,6 +1,6 @@
 ---
 title: Co Curricular Activities (CCA)
-permalink: /ptps-experience/co-curricular-activities-cca/
+permalink: /ptps-experience/cca/
 description: ""
 variant: tiptap
 ---

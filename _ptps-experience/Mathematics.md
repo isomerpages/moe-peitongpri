@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /ptps-experience/mathematics/
+permalink: /ptps-experience/math/
 description: ""
 variant: markdown
 ---

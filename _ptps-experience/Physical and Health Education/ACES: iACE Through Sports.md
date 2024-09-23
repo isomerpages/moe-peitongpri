@@ -1,8 +1,9 @@
 ---
 title: "ACES: iACE Through Sports"
-permalink: /ptps-experience/physical-and-health-education-phe/aces-iace-through-sports/
+permalink: /ptps-experience/phe/aces/
 description: ""
 third_nav_title: Physical and Health Education
+variant: tiptap
 ---
 # Overview
 All students participate in carefully curated sports activities to develop character excellence, social  emotional learning competencies and be physically active. 

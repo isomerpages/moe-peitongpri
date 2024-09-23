@@ -1,7 +1,8 @@
 ---
 title: Learning for Life Programme (LLP)
-permalink: /ptps-experience/learning-for-life-programme-llp/
+permalink: /ptps-experience/llp/
 description: ""
+variant: tiptap
 ---
 ## I’MADD- Music, Art, Drama and Dance
 
@@ -17,4 +18,3 @@ I’MADD is a signature Learning for Life (LLP) programme where students develop
 ## NE Musical
 ![](/images/PTPS%20Experience/LLP/LLP2.jpg)
 All Primary 3 students perform in the National Education (NE) musical as part of National Day Celebration, as a culmination of all 4 art forms. They also develop confidence on stage whilst learning more about Singapore’s history.
-

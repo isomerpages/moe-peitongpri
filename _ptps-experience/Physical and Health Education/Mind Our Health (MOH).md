@@ -1,8 +1,9 @@
 ---
 title: Mind Our Health (MOH)
-permalink: /ptps-experience/physical-and-health-education-phe/mind-our-health-moh/
+permalink: /ptps-experience/phe/moh/
 description: ""
 third_nav_title: Physical and Health Education
+variant: tiptap
 ---
 # Overview
 Students learn about good health practices and habits to enable them to stay active and healthy. 
@@ -30,4 +31,4 @@ In partnership with Singapore Heart Foundation, Primary 5 students learn about  
 
 ![](/images/PTPS%20Experience/Physical%20and%20Health%20Education/MOH%20-%20blood%20pressure.png)
 
-The aim of this workshop is for students to understand the importance of good heart health through knowing their BP numbers, making healthier food choices, leading an active lifestyle, and finally advocating a healthy lifestyle by sharing BP information with their family. Students get to bring home a BP monitor for a day to share their knowledge and skills with their families. (Dependent on SMM situation) 
+The aim of this workshop is for students to understand the importance of good heart health through knowing their BP numbers, making healthier food choices, leading an active lifestyle, and finally advocating a healthy lifestyle by sharing BP information with their family. Students get to bring home a BP monitor for a day to share their knowledge and skills with their families. (Dependent on SMM situation)

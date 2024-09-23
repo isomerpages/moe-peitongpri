@@ -1,6 +1,6 @@
 ---
 title: Photo Gallery
-permalink: /our-gallery/photo-gallery/
+permalink: /photos/
 description: ""
 variant: tiptap
 ---

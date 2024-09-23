@@ -1,6 +1,6 @@
 ---
 title: Applied Learning Programme (ALP)
-permalink: /ptps-experience/applied-learning-programme-alp/
+permalink: /ptps-experience/alp/
 description: ""
 variant: markdown
 ---

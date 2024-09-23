@@ -1,6 +1,6 @@
 ---
 title: Videos
-permalink: /our-gallery/videos/
+permalink: /videos/
 description: ""
 variant: tiptap
 ---
