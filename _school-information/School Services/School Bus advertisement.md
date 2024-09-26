@@ -7,7 +7,8 @@ third_nav_title: School Services
 ---
 <h2>School Bus Advertisement</h2>
 <p>&nbsp;</p>
-<p>DKJ Transport Service</p>
+<p><u>DKJ Transport Service</u>
+</p>
 <p>Please contact the Operation Manager, Mr. Leo Baiming on School Bus transport
 matters.</p>
 <p>If you are unable to contact Mr. Leo via call, please send him a message
