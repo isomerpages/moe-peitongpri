@@ -9,12 +9,12 @@ links:
   - title: PTPS Experience
     collection: ptps-experience
   - title: Our Gallery
-    url: /our-gallery/photo-gallery/
+    url: /photos/
     sublinks:
       - title: Photo Gallery
-        url: /our-gallery/photo-gallery/
+        url: /photos/
       - title: Videos
-        url: /our-gallery/videos/
+        url: /videos/
       - title: Art E-Gallery
         url: https://sites.google.com/moe.edu.sg/ptpsart/
       - title: Chinese E-Gallery
