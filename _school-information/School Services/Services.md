@@ -21,12 +21,17 @@ third_nav_title: School Services
 <br>Mon, Wed, Fri: 8.00 am - 5.00 pm
 <br>Lunchtime : 12.30pm-1.30pm</p>
 <h2>School Bus Vendor</h2>
+<p>2024 Bus vendor</p>
 <p><strong>Sin Koon Seng Enterprise</strong>
 <br><strong>Tel: 97439235</strong>
 </p>
 <p><strong>School Bus Services</strong>
 <br><a href="/files/School%20Information/School%20Services/2024_School_Bus_Fare.pdf" rel="noopener noreferrer nofollow" target="_blank">School Bus Fare 2024</a>
 </p>
+<p></p>
+<p>2025 Bus Vendor</p>
+<p>Please click on <a href="https://www.peitongpri.moe.edu.sg/school-bus-advertisement/" rel="noopener nofollow" target="_blank">this page</a> to
+view new bus vendor's details</p>
 <h2>School Bookshop</h2>
 <p><strong>Pacific Bookstore</strong>
 <br><strong>Tel: 9365 4839</strong>
