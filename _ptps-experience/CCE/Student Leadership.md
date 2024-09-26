@@ -11,7 +11,14 @@ and passionate, strives for <strong>e</strong>xcellence, <strong>e</strong>mpowe
 and enables the team, and <strong>e</strong>ncourages peers to be good and
 do good.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/CCE/Student_leadership_5E_traits.jpg">
+</div>
 <h2>Student Leadership Framework</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/CCE/student_leadership_framework.jpg">
+</div>
 <p>Adapting from Kouzes and Posner’s Leadership Challenge of “The 5 practices
 and 10 commitments of Exemplary Leadership” Model, the 5 ‘E’s behavioural
 traits of a Pei Tong student form the foundational dispositions that we
@@ -129,6 +136,9 @@ positional leadership roles each with a specific area of focus/advocacy.&nbsp;
 P4 – P6 students who display the potential and capacity to serve beyond
 class-based responsibilities are identified, nominated and appointed.&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/CCE/Student_leader_5_groups.png">
+</div>
 <h3>Tier 3: EXCO</h3>
 <p><strong>Tier 3</strong> is the highest level of leadership where elected
 P5 Tier 2 Student Leaders form the Student Leadership EXCO<strong>&nbsp;</strong>(Executive
@@ -138,4 +148,12 @@ and the school by working alongside each other and teachers to organise
 school events, lead school initiatives, promote causes, and contribute
 to the community/society. There is a vigorous election process to appoint
 the most suitable student leaders for the EXCO team.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/CCE/1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/CCE/2.jpg">
+</div>
 <p></p>
