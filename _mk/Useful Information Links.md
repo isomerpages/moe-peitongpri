@@ -85,7 +85,7 @@ For more information on KiFAS, you may visit&nbsp;<br>
 Beau Voix Uniform and Jeep Sing Fashion are the appointed suppliers for MK uniforms.&nbsp;<br>
 Please refer to the below image for more information on how to purchase the uniform.
 
-![](/images/MK@Pei%20Tong/Mk_Uniform.jpg)
+![](/images/MK@Pei%20Tong/MK_A4_FLYER_CONFIRMED.png)
 
 
   
