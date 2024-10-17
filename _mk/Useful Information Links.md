@@ -26,7 +26,7 @@ Children aged two months to four years attend the partner EYC(s) offered by MFS 
 #### MOE Kindergarten Family Handbook
 
 Download our handbook to know more about MOE Kindergarten.  <br>
-[2022 MOE Kindergarten Family Handbook.pdf](/files/MK@Pei%20Tong/2022%20MOE%20Kindergarten%20Family%20Handbook.pdf)
+[Family Handbook 2024](/files/MK@Pei%20Tong/Family_Handbook_2024.pdf)
 
   
 
@@ -85,7 +85,7 @@ For more information on KiFAS, you may visit&nbsp;<br>
 Beau Voix Uniform and Jeep Sing Fashion are the appointed suppliers for MK uniforms.&nbsp;<br>
 Please refer to the below image for more information on how to purchase the uniform.
 
-![](/images/MK@Pei%20Tong/Uniform%20Suppliers_Flyer.jpg)
+![](/images/MK@Pei%20Tong/MK_A4_FLYER_CONFIRMED.png)
 
 
   
