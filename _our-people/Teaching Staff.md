@@ -362,8 +362,7 @@ Gateway App (refer to image below for a guide).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd</p>
-<p>Husni</p>
+<p>Mr Muhd Husni</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Sim Wan’er</p>
