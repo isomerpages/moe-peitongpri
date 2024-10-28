@@ -13,7 +13,7 @@ for lifelong engagement.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/Music/music1.jpg">
 </div>
 <p></p>
-<h3>Music Programmes</h3>
+<h2>Music Programmes</h2>
 <h4>Primary 1 and 2</h4>
 <p>Students embark on a musical journey through singing and playing percussion
 instruments, including resonating bells, xylophones, and unpitched percussion.
