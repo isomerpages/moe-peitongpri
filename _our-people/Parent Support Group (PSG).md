@@ -1,8 +1,8 @@
 ---
 title: Parent Support Group (PSG)
-permalink: /our-people/psg/
+permalink: /psg/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 # Parent Support Group (PSG)
 
