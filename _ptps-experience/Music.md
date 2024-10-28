@@ -2,31 +2,72 @@
 title: Music
 permalink: /ptps-experience/music/
 description: ""
+variant: tiptap
 ---
-## Melody @ PeiTong
-
-Melody @ Pei Tong consists of various musical activities that encompass students’ life in school, aiming to make music an integral part of their school experience. The objectives of the program are to cultivate the joy of singing and an appreciation for music, building a foundation for life-long involvement in music.
-![](/images/PTPS%20Experience/Music/music%201.png)
-
-
-## Enrichment programmes
-
-Every year, students from each level receive enrichment lessons from music practitioners. They aim to provide authentic learning experiences for students to put their musical skills to use.
-![](/images/PTPS%20Experience/Music/music%202.png)
-
-## Primary 1 and 2
-
-Students embark on the musical journey through a vocal enrichment program to develop healthy singing habits and to have more awareness of pitch, rhythm, and vocal tone qualities. Students are exposed to a repertoire of songs from local and global cultures, in the context of fun activities and singing games.
-
-## Primary 3
-
-With the foundation of good singing voices established, students then prepare for a musical drama performance. It is an interdisciplinary project providing a platform for students with varied talents to shine. There are opportunities for students to provide input and contribute to writing the script, creating stage props and costumes, choreographing, and other aspects of putting up a stage performance. While students with a flair for drama play the main and supporting characters to act out the scenes, everyone else in the cohort also performs on stage as an ensemble.
-
-## Primary 4 and 5
-
-Students receive coaching to deepen their ukulele playing skills and equip them with the musical capacities to express themselves. They learn to play chords and a variety of strumming patterns. They also learn to read chord diagrams, so that interested students may continue learning new songs on their own after the end of the program.
-
-## Primary 6
-
-
-Students are trained in simple music arrangement and accompaniment using GarageBand on iPad. Through digital music creation, students have the opportunity to play music using different instruments such as the piano, guitar, strings, and drum set. This builds their music-making capabilities, and is a great platform for students to collaborate with their peers and experience playing in a music band.
+<h2>Melody @ PeiTong</h2>
+<p>Melody @ Pei Tong offers diverse musical activities to enrich students'
+school life and make music an integral experience. The programme aims to
+foster a love of singing and an appreciation for music, building a foundation
+for lifelong engagement.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/Music/music1.jpg">
+</div>
+<p></p>
+<h2>Music Programmes</h2>
+<h4>Primary 1 and 2</h4>
+<p>Students embark on a musical journey through singing and playing percussion
+instruments, including resonating bells, xylophones, and unpitched percussion.
+They develop good singing habits and become more aware of pitch and rhythm
+through ensemble playing. The programme introduces a repertoire of songs
+from local and global cultures, taught through engaging activities and
+singing games.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/Music/music2.png">
+</div>
+<p></p>
+<h4>Primary 3</h4>
+<p>With a foundation of strong singing voices, students then prepare for
+a musical performance—an interdisciplinary project that offers a platform
+for diverse talents to shine. They have opportunities to contribute by
+writing the script, creating stage props and costumes, choreographing,
+and other aspects of staging the production. Students with a flair for
+drama play the main and supporting roles, while the entire cohort performs
+together as an ensemble.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/Music/musicp3.png">
+</div>
+<h4>Primary 4</h4>
+<p>Students deepen their ukulele skills, gaining the musical ability to express
+themselves. They learn to play chords and explore various strumming patterns,
+as well as reading chord diagrams, enabling interested students to continue
+learning new songs independently after the programme.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/Music/musicp4.png">
+</div>
+<h4>Primary 5</h4>
+<p>Students are trained in small ensemble groups, where they develop SEL
+competencies like self-awareness, relationship management, and responsible
+decision-making. They also learn to play songs by reading simple music
+scores. To deepen their musical knowledge, they explore forms and structures
+such as pop music, rondo, and theme and variations, equipping them for
+more collaborative group work in Primary 6.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/Music/musicp5.png">
+</div>
+<h4>Primary 6</h4>
+<p>Students are trained in basic music arrangement and accompaniment using
+GarageBand on iPads. Through digital music creation, they can explore playing
+various instruments, such as piano, guitar, strings, and drums, building
+their music-making skills. This platform encourages collaboration and gives
+students a taste of playing in a band. They also have opportunities to
+use instruments like the ukulele and xylophone to perform ensemble pieces
+with their group.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/Music/musicp6.png">
+</div>
+<p></p>
