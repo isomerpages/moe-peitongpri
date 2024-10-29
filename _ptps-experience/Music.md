@@ -5,9 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h2>Melody @ PeiTong</h2>
-<p>Melody @ Pei Tong offers diverse musical activities to enrich students'
-school life and make music an integral experience. The programme aims to
-foster a love of singing and an appreciation for music, building a foundation
+<p>Melody @ Pei Tong offers students a platform to showcase their talents
+during recess, along with diverse musical activities to enrich school life
+and make music an integral part of their experience. The programme aims
+to foster a love of singing and an appreciation for music, building a foundation
 for lifelong engagement.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/Music/music1.jpg">
