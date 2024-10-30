@@ -8,49 +8,15 @@ variant: tiptap
 <h2>Overview</h2>
 <p>To achieve our desired CCE outcomes, we engage students in our Values-In-Action
 (VIA) programme, '<strong>iCare</strong>.'</p>
-<p>This programme adopts the ‘3A’ approach: creating ‘<strong>Awareness</strong>,’
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/iCare.png">
+</div>
+<p>This programme focuses on ‘3 As’: creating ‘<strong>Awareness</strong>,’
 providing opportunities for students to take ‘<strong>Action</strong>’
 in service, and fostering an ‘<strong>Attitude</strong>’ of giving back
 to the community.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/iCare.png">
-</div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Awareness</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To help students see the relationship between the community and themselves</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Action</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To provide students with avenues to express their care to the community</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Attitude</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To influence students to make the choice to care for the community</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>Our iCare lessons are carried out using the C. A. RE. approach:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>C</strong>onversation: Teacher-led discussion on the iCare experience</p>
@@ -63,6 +29,7 @@ to the community.</p>
 can continue to do</p>
 </li>
 </ul>
+<p></p>
 <p>Through 'iCare,' we hope our students will become more aware of community
 needs, explore ways to show care, and make a difference.</p>
 <h2>P1- iCare for my FAMILY</h2>
