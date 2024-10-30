@@ -38,20 +38,57 @@ and citizenship in this world of complexity, in our students. National
 Education (NE) will be anchored on the following citizenship dispositions,
 which will enable our students to realise their part in the flourishing
 of their community and nation:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>A Sense of Belonging</strong>
-<br>To develop a deeper understanding of who we are, and a shared understanding
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To develop a deeper understanding of who we are, and a shared understanding
 of the values that are important to us as a nation.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>A Sense of Reality</strong>
-<br>To be aware of contemporary realities including Singapore’s constraints
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be aware of contemporary realities including Singapore’s constraints
 and vulnerabilities which affect us as a nation amidst the backdrop of
 a less predictable world.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>A Sense of Hope</strong>
-<br>Having confidence and optimism in Singapore’s future and the resilience
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Having confidence and optimism in Singapore’s future and the resilience
 to face the challenges ahead.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>A Will to Act</strong>
-<br>Ultimately, these citizenship dispositions cultivate the will to act:
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ultimately, these citizenship dispositions cultivate the will to act:
 To be active citizens who have a collective resolve and a sense of shared
 mission towards building a Singapore for all.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h2>NE Commemorative Events</h2>
 <p>Beyond formal Character and Citizenship Education lessons and the celebration
 of festive events of the various races in Singapore, the four NE Commemorative
