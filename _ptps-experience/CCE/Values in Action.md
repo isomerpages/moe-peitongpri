@@ -105,7 +105,7 @@ students in need, and promote refilling as a sustainable option.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/CCE/p5via.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/CCE/p4via.png">
 </div>
 <h2>P5- iCare for the COMMUNITY (i)</h2>
 <p><strong><u>Learning about special needs</u></strong>
