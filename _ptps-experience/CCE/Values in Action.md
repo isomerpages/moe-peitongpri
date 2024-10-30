@@ -15,7 +15,6 @@ an ‘<strong>Attitude</strong>’ of giving back to the community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/iCare.png">
 </div>
-<h2>Approach and Goals</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -59,13 +58,13 @@ an ‘<strong>Attitude</strong>’ of giving back to the community.</p>
 <p><strong>A</strong>ction: Different ways that students can take action</p>
 </li>
 <li>
-<p><strong>RE</strong>flection: Reflect through what has been done and what
-students can continue to do</p>
+<p><strong>RE</strong>flection: Reflect on what has been done and what students
+can continue to do</p>
 </li>
 </ul>
-<p>Through our iCare programme, we hope that our students will become more
-aware of the needs in the community and explore ways that they can show
-care and make a difference in the community.</p>
+<p>Through 'iCare', we hope that our students will become more aware of the
+needs in the community, explore ways that they can show care and make a
+difference.</p>
 <h2>P1- iCare for my FAMILY</h2>
 <h4>Everyday Responsibilities @ Home</h4>
 <p>Students learn to perform simple chores and show care for their family
