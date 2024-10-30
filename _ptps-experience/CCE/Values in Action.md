@@ -7,10 +7,11 @@ variant: tiptap
 ---
 <h2>Overview</h2>
 <p>To achieve our desired CCE outcomes, we engage students in our Values-In-Action
-(VIA) programme, '<strong>iCare</strong>.' This programme adopts the ‘3A’
-approach: creating ‘<strong>Awareness</strong>,’ providing opportunities
-for students to take ‘<strong>Action</strong>’ in service, and fostering
-an ‘<strong>Attitude</strong>’ of giving back to the community.</p>
+(VIA) programme, '<strong>iCare</strong>.'</p>
+<p>This programme adopts the ‘3A’ approach: creating ‘<strong>Awareness</strong>,’
+providing opportunities for students to take ‘<strong>Action</strong>’
+in service, and fostering an ‘<strong>Attitude</strong>’ of giving back
+to the community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/iCare.png">
