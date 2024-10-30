@@ -28,7 +28,7 @@ in 4 art forms:</p>
 <h2>NE Musical</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/LLP ALP/nemusical.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/LLP/nemusical.png">
 </div>
 <p>All Primary 3 students perform in the National Education (NE) musical
 as part of National Day Celebration, as a culmination of all 4 art forms.
