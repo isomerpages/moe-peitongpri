@@ -9,8 +9,9 @@ variant: tiptap
 <p>Character Education is the cornerstone of every Pei Tong student’s school
 experience. Here in Pei Tong, we seek to&nbsp;<strong>ground all students in values</strong>&nbsp;and
 develop them in&nbsp;<strong>Personal Mastery, Resilience, Citizenry</strong>&nbsp;and&nbsp;<strong>Leadership</strong>.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/CCE%201.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/CCE/cce.png">
 </div>
 <h2>Key Programmes</h2>
 <ul data-tight="true" class="tight">
@@ -52,21 +53,36 @@ to face the challenges ahead.</p>
 To be active citizens who have a collective resolve and a sense of shared
 mission towards building a Singapore for all.</p>
 <h2>NE Commemorative Events</h2>
-<p>Beyond the formal Character and Citizenship Education lessons, the four
-NE Commemorative Days (Total Defence Day, International Friendship Day,
-Racial Harmony Day and National Day) are an important part of students’
-learning experiences in school.</p>
-<p>Through these NE commemorative days, students learn important lessons
-from significant moments in Singapore’s history, and reflect on how they
-can apply their learning to contribute as active citizens.</p>
+<p>Beyond formal Character and Citizenship Education lessons and the celebration
+of festive events of the various races in Singapore, the four NE Commemorative
+Days (Total Defence Day, International Friendship Day, Racial Harmony Day,
+and National Day) are integral to students’ learning experiences in school.</p>
+<p>Through these commemorative days, students learn valuable lessons from
+significant moments in Singapore’s history and reflect on how to apply
+their learning to contribute as active citizens.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/CCE/NEevents.png">
+</div>
 <h2>P5 National Education Show</h2>
-<p>All P5 students will have the opportunity to attend the P5 National Education
-Show (National Day Parade Preview).</p>
+<p>All Primary 5 students will have the opportunity to attend the P5 National
+Education Show (National Day Parade Preview). This experience enables them
+to witness the spirit of national pride and learn about Singapore’s history
+and culture, fostering a deeper sense of belonging and identity within
+the community.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/CCE/NE_Show.png">
+</div>
 <h2>Social Studies Learning Journeys</h2>
-<p>Authentic learning experience forms part of the teaching and learning
-of Social Studies. In Pei Tong, each year, students participate in field-based
-learning through learning journeys that take them to places like the museums
-and heritage trails.</p>
-<p>These experiences strengthen students’ understanding and appreciation
-of Singapore and enable them to make connections between knowledge learnt
-with real, authentic experiences.</p>
+<p>Authentic learning experiences are an integral part of teaching and learning
+Social Studies at Pei Tong. Each year, students participate in field-based
+learning through excursions to museums and heritage trails.</p>
+<p>These experiences enhance students’ understanding and appreciation of
+Singapore, allowing them to connect the knowledge they've gained with real-world
+experiences.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/CCE/ss.png">
+</div>
+<p></p>
