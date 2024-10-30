@@ -67,8 +67,7 @@ students can continue to do</p>
 aware of the needs in the community and explore ways that they can show
 care and make a difference in the community.</p>
 <h2>P1- iCare for my FAMILY</h2>
-<p><strong><u>Everyday Responsibilities @ Home</u></strong>
-</p>
+<h4>Everyday Responsibilities @ Home</h4>
 <p>Students learn to perform simple chores and show care for their family
 by helping at home and practising good habits.</p>
 <p></p>
@@ -76,8 +75,7 @@ by helping at home and practising good habits.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/CCE/p1via.png">
 </div>
 <h2>P2- iCare for my SCHOOL</h2>
-<p><strong><u>Appreciation of Non-teaching Staff</u></strong>
-</p>
+<h4>Appreciation of Non-teaching Staff</h4>
 <p>Students learn about the various roles within the school community, getting
 to know and appreciate the non-teaching staff as a way to show care for
 their school.</p>
@@ -86,8 +84,7 @@ their school.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/CCE/p2via.png">
 </div>
 <h2>P3- iCare for my ENVIRONMENT (i)</h2>
-<p><strong><u>Food Donation Drive (Food Bank SG)</u></strong>
-</p>
+<h4>Food Donation Drive (Food Bank SG)</h4>
 <p>Students show care for the environment by learning about food waste and
 participating in a Food Bank Donation Drive.</p>
 <p></p>
@@ -95,8 +92,7 @@ participating in a Food Bank Donation Drive.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/CCE/p3via.png">
 </div>
 <h2>P4- iCare for my ENVIRONMENT (ii)</h2>
-<p><strong><u>Save That Pen Campaign (savethatpen.org)</u></strong>
-</p>
+<h4>Save That Pen Campaign (savethatpen.org)</h4>
 <p>Students demonstrate care for the environment through a school-wide 'Save
 That Pen' campaign, encouraging classmates to reuse pens, donate them to
 students in need, and promote refilling as a sustainable option.</p>
@@ -108,8 +104,7 @@ students in need, and promote refilling as a sustainable option.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/CCE/p4via.png">
 </div>
 <h2>P5- iCare for the COMMUNITY (i)</h2>
-<p><strong><u>Learning about special needs</u></strong>
-</p>
+<h4>Learning about Special Needs</h4>
 <p>Students show care for their community by learning about special needs.
 In collaboration with Genesis School for Special Education, they create
 art and learning materials for Genesis School students.</p>
@@ -118,8 +113,7 @@ art and learning materials for Genesis School students.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/CCE/p5via.png">
 </div>
 <h2>P6- iCare for the COMMUNITY (ii)</h2>
-<p><strong><u>Learning about Seniors</u></strong>
-</p>
+<h4>Learning about Seniors</h4>
 <p>Students show care for the elderly by learning about their issues. They
 contribute items for goodie bags and assist in packing them for distribution
 to seniors in partnership with Lions Befrienders. Additionally, some students
@@ -131,20 +125,16 @@ help deliver the bags and engage with seniors at the activity centre.</p>
 <h2>Other schoolwide iCare Programmes</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Everyday Responsibilities @ PT (Classroom and Canteen Cleanliness)</strong>
-</p>
+<p>Everyday Responsibilities @ PT (Classroom and Canteen Cleanliness)</p>
 </li>
 <li>
-<p><strong>Environmental campaigns</strong>
-</p>
+<p>Environmental campaigns</p>
 </li>
 <li>
-<p><strong>Use-your-hand campaign</strong>
-</p>
+<p>Use-your-hand campaign</p>
 </li>
 <li>
-<p><strong>Fund-raising for senior citizens</strong>
-</p>
+<p>Fund-raising for Lions Befrienders</p>
 </li>
 </ul>
 <p></p>
