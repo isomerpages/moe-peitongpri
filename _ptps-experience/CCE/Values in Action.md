@@ -5,12 +5,13 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-<h1>Overview</h1>
-<p>One key platform that drives the desired CCE outcomes is our Values-In-Action
-(VIA) programme - ‘iCare’. It adopts the ‘3A’ approach of creating ‘<strong>Awareness</strong>’,
-providing platforms for students to put into ‘<strong>Action</strong>’
-to serve, with the intent to develop in them the ‘<strong>Attitude</strong>’
-of desiring to give back to the community and serve.</p>
+<h2>Overview</h2>
+<p>To achieve our desired CCE outcomes, we engage students in our Values-In-Action
+(VIA) programme, '<strong>iCare</strong>.' This programme adopts the ‘3A’
+approach: creating ‘<strong>Awareness</strong>,’ providing opportunities
+for students to take ‘<strong>Action</strong>’ in service, and fostering
+an ‘<strong>Attitude</strong>’ of giving back to the community.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/iCare.png">
 </div>
@@ -68,58 +69,64 @@ care and make a difference in the community.</p>
 <h2>P1- iCare for my FAMILY</h2>
 <p><strong><u>Everyday Responsibilities @ Home</u></strong>
 </p>
-<p>Students will show care for their family members by helping out at home
-through practising good habits.</p>
+<p>Students learn to perform simple chores and show care for their family
+by helping at home and practising good habits.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/ER%20at%20home.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/CCE/p1via.png">
 </div>
 <h2>P2- iCare for my SCHOOL</h2>
 <p><strong><u>Appreciation of Non-teaching Staff</u></strong>
 </p>
-<p>Students will show care for the school by getting to know the non-teaching
-staff and showing their appreciation.</p>
+<p>Students learn about the various roles within the school community, getting
+to know and appreciate the non-teaching staff as a way to show care for
+their school.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/Appreciation%20of%20non-teaching%20staff.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/CCE/p2via.png">
 </div>
 <h2>P3- iCare for my ENVIRONMENT (i)</h2>
 <p><strong><u>Food Donation Drive (Food Bank SG)</u></strong>
 </p>
-<p>Students will show care for the environment through learning more about
-food wastage and carrying out a Food Bank Donation Drive.</p>
+<p>Students show care for the environment by learning about food waste and
+participating in a Food Bank Donation Drive.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/foodbank.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/CCE/p3via.png">
 </div>
 <h2>P4- iCare for my ENVIRONMENT (ii)</h2>
 <p><strong><u>Save That Pen Campaign (savethatpen.org)</u></strong>
 </p>
-<p>Students will show care for the environment by embarking on a school-wide
-Save That Pen Campaign to encourage their schoolmates to reuse and donate
-pens to students in need, and also, to encourage the reuse of pens through
-refills.</p>
+<p>Students demonstrate care for the environment through a school-wide 'Save
+That Pen' campaign, encouraging classmates to reuse pens, donate them to
+students in need, and promote refilling as a sustainable option.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/VIA%20-%20Save%20that%20pen.png">
 </div>
-<h2>P5- iCare for the COMMUNITY (i)</h2>
-<p><strong><u>Understanding special needs</u></strong>
-</p>
-<p>Students will show care for their community by learning more about special
-needs. Through our collaboration with Genesis School For Special Education,
-our students created learning materials for the students from Genesis School.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/P5%20via%20-special%20needs.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/CCE/p5via.png">
+</div>
+<h2>P5- iCare for the COMMUNITY (i)</h2>
+<p><strong><u>Learning about special needs</u></strong>
+</p>
+<p>Students show care for their community by learning about special needs.
+In collaboration with Genesis School for Special Education, they create
+art and learning materials for Genesis School students.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/CCE/p5via.png">
 </div>
 <h2>P6- iCare for the COMMUNITY (ii)</h2>
-<p><strong><u>Learning about dementia (*new)</u></strong>
+<p><strong><u>Learning about Seniors</u></strong>
 </p>
-<p>Students will show care for the elderly by getting to know more about
-elderly issues and dementia.&nbsp;&nbsp;</p>
-<p><strong><u>CNY Goodie Bags for Seniors</u></strong>
-</p>
-<p>Our student leaders will also help with the packing of the goodie bags
-to be given to the seniors. Our teachers are also involved in helping to
-deliver the goodie bags to the seniors.</p>
+<p>Students show care for the elderly by learning about their issues. They
+contribute items for goodie bags and assist in packing them for distribution
+to seniors in partnership with Lions Befrienders. Additionally, some students
+help deliver the bags and engage with seniors at the activity centre.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/hongbao%20distribution.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/CCE/p6via.png">
 </div>
 <h2>Other schoolwide iCare Programmes</h2>
 <ul data-tight="true" class="tight">
@@ -132,7 +139,7 @@ deliver the goodie bags to the seniors.</p>
 </p>
 </li>
 <li>
-<p><strong>Termly Use-your-hand campaign</strong>
+<p><strong>Use-your-hand campaign</strong>
 </p>
 </li>
 <li>
@@ -140,7 +147,4 @@ deliver the goodie bags to the seniors.</p>
 </p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/Everyday%20Responsibilities.png">
-</div>
 <p></p>
