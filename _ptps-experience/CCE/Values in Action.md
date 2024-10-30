@@ -62,9 +62,8 @@ an ‘<strong>Attitude</strong>’ of giving back to the community.</p>
 can continue to do</p>
 </li>
 </ul>
-<p>Through 'iCare', we hope that our students will become more aware of the
-needs in the community, explore ways that they can show care and make a
-difference.</p>
+<p>Through 'iCare,' we hope our students will become more aware of community
+needs, explore ways to show care, and make a difference.</p>
 <h2>P1- iCare for my FAMILY</h2>
 <h4>Everyday Responsibilities @ Home</h4>
 <p>Students learn to perform simple chores and show care for their family
