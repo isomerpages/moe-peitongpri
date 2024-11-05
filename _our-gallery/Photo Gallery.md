@@ -15,6 +15,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://photos.app.goo.gl/P1n8ZQzcxojX3aUS7" rel="noopener nofollow" target="_blank">2024 P5 CL Language Showdown</a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/KKx4mYXf2jJkTHHH6" rel="noopener nofollow" target="_blank">2024 Purple Parade</a>
 </p>
 </li>
