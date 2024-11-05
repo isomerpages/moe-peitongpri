@@ -30,10 +30,9 @@ singing games.</p>
 <p>With a foundation of strong singing voices, students then prepare for
 a musical performance—an interdisciplinary project that offers a platform
 for diverse talents to shine. They have opportunities to contribute by
-writing the script, creating stage props and costumes, choreographing,
-and other aspects of staging the production. Students with a flair for
-drama play the main and supporting roles, while the entire cohort performs
-together as an ensemble.</p>
+creating stage props and costumes. Students with a flair for drama play
+the main and supporting roles, while the entire cohort performs together
+as an ensemble.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/Music/musicp3.png">
