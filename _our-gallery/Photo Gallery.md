@@ -8,7 +8,18 @@ variant: tiptap
 <p>Watch this space! We will be updating this year's photos soon!</p>
 <ul data-tight="true" class="tight">
 <li>
+<p></p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/bgTdfwpJDpfkP16r6" rel="noopener nofollow" target="_blank">2024 Deepavali</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/KKx4mYXf2jJkTHHH6" rel="noopener nofollow" target="_blank">2024 Purple Parade</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/u7DCoQbui2Q7PGv9A" rel="noopener nofollow" target="_blank">2024 Teaching MK Students Digital Skills</a>
 </p>
 </li>
 <li>
