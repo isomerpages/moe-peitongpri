@@ -3,26 +3,35 @@ title: Tamil Department
 permalink: /ptps-experience/mother-tongue/tamil-department-activities/
 description: ""
 third_nav_title: Mother Tongue
+variant: tiptap
 ---
-# Overview
-Students learn Tamil in authentic learning experiences where lessons have different themes or scenarios to provide real life experiences for students to apply the language skills or knowledge they have learnt.
-
-## Authentic Learning 
-Students create a video of themselves preparing a dish and identifying the ingredients to learn Tamil in an authentic learning environment. 
-
-
-![](/images/PTPS%20Experience/Tamil%204.jpg)
-
-## Primary 6 CCE
-
-Students create posters to propose their solutions to current issues in their neighbourhood. In their posters, they presented problems, laws to overcome these issues and benefits for the public.
-
-![](/images/PTPS%20Experience/Tamil%205.jpg)
-
-## Tamil Language Fortnight
-
-![](/images/PTPS%20Experience/tamil%201.jpg)
-
-Primary 5 and 6 students experience creative writing workshops for various  genres such as poetry and short stories. 
-
-![](/images/PTPS%20Experience/Tamil%202.jpg)
+<h1>Overview</h1>
+<p>Students learn Tamil through authentic experiences, with lessons themed
+around various real-life scenarios that allow them to apply the language
+skills and knowledge they have gained.</p>
+<h2>Storytelling </h2>
+<p>Students have the opportunity to stand before their peers to tell stories,
+coming up with creative ways to convey them. Some students make props,
+while others use puppets.</p>
+<p></p>
+<h2>Learning about our culture</h2>
+<p>Each term, Primary 3 and Primary 4 students explore different aspects
+of Indian culture. In Term 1, students learn about Pongal, a harvest festival,
+and have the opportunity to see, touch, and smell the various ingredients
+used in preparing Pongal. In Term 2, they engage in traditional pot painting.
+In Term 3, students experience the tradition of eating on a banana leaf,
+learning about its benefits and the placement of various food items. Finally,
+in Term 4, they create vibrant Kolam designs, using colourful powders to
+decorate their patterns.</p>
+<p></p>
+<h2>“I am a writer too!” </h2>
+<p>Primary 5 and 6 students experience creative writing workshops in various
+genres, such as poetry and short stories. These workshops help them develop
+expressive language skills, explore different writing styles, and build
+confidence in sharing their ideas and creativity.</p>
+<p></p>
+<h2>Flipgrid for spoken interaction </h2>
+<p>Students use Flipgrid to speak about common topics related to their daily
+lives. This platform boosts their confidence and fosters bonding with their
+parents or guardians, as some tasks require their support.</p>
+<p></p>
