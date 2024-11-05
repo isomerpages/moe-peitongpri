@@ -8,9 +8,6 @@ variant: tiptap
 <p>Watch this space! We will be updating this year's photos soon!</p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
-</li>
-<li>
 <p><a href="https://photos.app.goo.gl/bgTdfwpJDpfkP16r6" rel="noopener nofollow" target="_blank">2024 Deepavali</a>
 </p>
 </li>
