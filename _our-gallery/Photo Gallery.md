@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>📸 2024</h1>
-<p>Watch this space! We will be updating this year's photos soon!</p>
+<p>Stay tuned for new photos throughout the year!</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://photos.app.goo.gl/bgTdfwpJDpfkP16r6" rel="noopener nofollow" target="_blank">2024 Deepavali</a>
