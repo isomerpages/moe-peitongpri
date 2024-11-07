@@ -13,6 +13,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="2">
 <h1>Executive and Administrative Staff</h1>
+<p><a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofollow" target="_blank">Contact Us</a>
+</p>
 </td>
 </tr>
 <tr>
