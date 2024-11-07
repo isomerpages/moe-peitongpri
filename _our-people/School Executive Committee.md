@@ -5,6 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h1>School Executive Committee</h1>
+<p><a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofollow" target="_blank">Contact Us</a>
+</p>
 <h2>School Leaders</h2>
 <table style="minWidth: 50px">
 <colgroup>
