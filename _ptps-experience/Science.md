@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PTPS Experience/Science/Science_framework.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PTPS Experience/Science/Science_framework_edited.jpg">
 </div>
 <p><strong>Inspire</strong>, <strong>Inquire </strong>and <strong>Innovate </strong>represents
 the vision for Science Education and encapsulates the overall experience
