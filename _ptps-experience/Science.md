@@ -9,66 +9,48 @@ variant: tiptap
 </p>
 <p><em>To inspire and develop students as innovative inquirers</em>
 </p>
-<p>Inspire, Inquire and Innovate represents the vision for Science Education
-and encapsulates the overall experience of our students in Science education:</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/Science/science_overview.png">
 </div>
+<p><strong>Inspire</strong>, <strong>Inquire </strong>and <strong>Innovate </strong>represents
+the vision for Science Education and encapsulates the overall experience
+of our students in Science education.</p>
 <p></p>
-<p><strong>Developing Inquiring Learners Through ‘5E’ (DILE) programme</strong> is
-a school-wide Science programme that comprises comprehensive thematic teaching
-and learning packages for all themes in the Primary 3 to 6 syllabi. Each
-package:</p>
+<p>Our goal is to inspire and develop Pei Tong students as innovative inquirers
+through the acquisition of scientific knowledge and skills.</p>
+<p></p>
+<h2>Science Joy of Learning @ Active Recess (JoL@AR)</h2>
+<p>Students have the opportunity to interact with live animals and specimens,
+learning about their characteristics and life cycles. These engaging, hands-on
+experiences spark joy in learning and aim to deepen students' interest
+in Science, highlighting scientific inquiry as a vital tool for understanding
+the natural world.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/Science/1SC_JOLAR.png">
+</div>
+<p>JoL@AR Science actively engages students in hands-on STEM activities that
+spark creativity and strengthen problem-solving abilities. These activities
+encourage adaptive thinking and help students develop 21st-century skills,
+including critical thinking and adaptability.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/Science/2SC_JOLAR.png">
+</div>
+<h2>E2K Science </h2>
+<p>The programme engages students in scientific investigations involving
+advanced science concepts. Through scientific inquiry, this will help students
+to develop the habits, attitudes and dispositions that scientists possess.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/Science/3SC_E2K.png">
+</div>
+<h2>Competitions</h2>
+<p>These external competitions provide students with the opportunities and
+exposure to apply Scientific knowledge and skills which they have acquired.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>adopts the <strong>‘5E’ (Engage, Explore, Explain, Evaluate and Extend)</strong> approach
-as the key pedagogy in the teaching of Science.</p>
+<p>Raffles Science Olympiad (RSO)</p>
 </li>
 <li>
-<p>incorporates <strong>Assessment for Learning strategies (AfL)</strong> such
-as “Concept checkpoint and “Fact or Fiction” to ensure that students have
-the necessary understanding before moving on to the next chapter;</p>
-</li>
-<li>
-<p>includes <strong>performance tasks</strong> to provide authentic learning
-experiences</p>
-</li>
-<li>
-<p>includes <strong>activities in the Student Learning Space (SLS)</strong> to
-promote self-directed learning</p>
-</li>
-<li>
-<p>includes exercises for students to <strong>apply scientific concepts in different contexts</strong>
-</p>
+<p>Singapore Primary Science Olympiad (SPSO)</p>
 </li>
 </ul>
-<h2>Science Joy of Learning @ Active Recess (JoL@AR)</h2>
-<p>All students have opportunities to interact with live animals to learn
-more about their characteristics and life cycles during recess.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/SC%202023%20JoL.png">
-</div>
-<p>JoL@AR Science also engages students to immerse themselves in hands-on
-STEM activities. These activities foster their creativity and enhance their
-problem-solving skills.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/Science/science_jolar.png">
-</div>
-<p></p>
-<h2>E2K Science Programme</h2>
-<p>Upper primary students who demonstrate interest and ability in Science
-participate in the E2K science enrichment programme. The aim of E2K is
-to develop in them habits, attitudes and dispositions scientists possess
-through scientific investigations involving advanced concepts.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/sc_e2k.png">
-</div>
-<p></p>
-<h2>Competitions</h2>
-<p>Selected upper primary students can apply their higher-order thinking
-skills and gain exposure in external competitions, such as:</p>
-<p>• Raffles Science Olympiad (RSO)</p>
-<p>• Singapore Primary Science Olympiad (SPSO)</p>
 <p></p>
