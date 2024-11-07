@@ -10,6 +10,8 @@ Gateway App (refer to image below for a guide).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG_contacts2.jpg">
 </div>
+<p><a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofollow" target="_blank">Contact Us</a>
+</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
