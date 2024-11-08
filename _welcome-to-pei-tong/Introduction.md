@@ -21,3 +21,10 @@ of our school. Enjoy exploring!</p>
 <iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/H5Lnsoa7cp4"></iframe>
 </div>
 <p></p>
+<h1>💪 Resilient Individuals</h1>
+<p>Find out about how we build resilience in our Pei Tong students!</p>
+<div class="iframe-wrapper">
+<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mhVR5C9Z600"></iframe>
+</div>
+<p></p>
+<p></p>
