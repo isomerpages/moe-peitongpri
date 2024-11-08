@@ -3,10 +3,7 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - Introduction.md
-      - Passionate Learners.md
-      - Resilient Individuals.md
-      - Gracious Citizens.md
+      - Your adventure starts here.md
       - Virtual Tour.md
       - Welcoming Our P1 Students.md
       - Testimonials from Students.md
