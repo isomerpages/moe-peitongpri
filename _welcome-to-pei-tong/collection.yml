@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - Introduction.md
+      - Your adventure starts here.md
       - Virtual Tour.md
       - Welcoming Our P1 Students.md
       - Testimonials from Students.md
