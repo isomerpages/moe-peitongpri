@@ -4,7 +4,7 @@ permalink: /welcome-to-pei-tong/introduction/
 description: ""
 variant: tiptap
 ---
-<h1>🌱 Introduction</h1>
+<h1>🌱 Your adventure starts here</h1>
 <p>Welcome to Pei Tong Primary School! We’re so glad you’re here.
 <br>Check out our video playlist below for a peek into school life at Pei
 Tong—you’ll see what makes our community so special!</p>
