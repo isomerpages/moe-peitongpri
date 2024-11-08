@@ -2,18 +2,16 @@
 title: Introduction
 permalink: /welcome-to-pei-tong/introduction/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# 🌱 Introduction
-
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Cmuxq8fV7b0?si=eu8eyDjxkiwqEAxf" height="400" width="100%"></iframe>
-
-Welcome to Pei Tong Primary School's website! We're glad you're here. 
-
-We have put together a series of videos that will give you an insight into our school. You can also find photos and testimonials in the links on the sidebar. 
-
-We hope that through these resources, you'll get a sense of what life is like at Pei Tong. To get started, simply click on the video below. &nbsp;😊
-
-
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/gla34N-cEls" title="Pei Tong - 01 - First Steps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<h1>🌱 Introduction</h1>
+<p>Welcome to Pei Tong Primary School! We’re so glad you’re here.
+<br>Check out our videos for a peek into school life at Pei Tong—you’ll see
+what makes our community so special!</p>
+<div class="iframe-wrapper">
+<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/videoseries?si=XAD1cWQdn9iWU4dc&amp;list=PLMqAnzSGDRwx2WPsZ6arFoxzcga2Yd0n_"></iframe>
+</div>
+<p>You’ll also find photos and stories from our students, parents, and teachers
+in the sidebar.</p>
+<p>We hope these snapshots give you a real feel for the warmth and energy
+of our school. Enjoy exploring!</p>
