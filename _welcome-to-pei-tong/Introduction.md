@@ -15,3 +15,9 @@ Tong—you’ll see what makes our community so special!</p>
 in the sidebar.</p>
 <p>We hope these snapshots give you a real feel of the warmth and energy
 of our school. Enjoy exploring!</p>
+<h2>💯 Passionate Learners</h2>
+<p>Catch a glimpse of our Passionate Learners here in Pei Tong!</p>
+<div class="iframe-wrapper">
+<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/H5Lnsoa7cp4"></iframe>
+</div>
+<p></p>
