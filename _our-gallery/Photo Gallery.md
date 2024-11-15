@@ -8,6 +8,10 @@ variant: tiptap
 <p>Stay tuned for new photos throughout the year!</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://photos.app.goo.gl/eEVnVVAcFRLaUDKS7" rel="noopener nofollow" target="_blank">2024 P1 &amp; P2 Achievement Awards</a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/bgTdfwpJDpfkP16r6" rel="noopener nofollow" target="_blank">2024 Deepavali</a>
 </p>
 </li>
@@ -24,7 +28,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://photos.app.goo.gl/NUYJBQtqrzRCKiUR8" rel="noopener nofollow" target="_blank">2024 P2 VIA Appreciation OfNon-Teaching Staff</a>
+<p><a href="https://photos.app.goo.gl/NUYJBQtqrzRCKiUR8" rel="noopener nofollow" target="_blank">2024 P2 VIA Appreciation of Non-Teaching Staff</a>
 </p>
 </li>
 <li>
