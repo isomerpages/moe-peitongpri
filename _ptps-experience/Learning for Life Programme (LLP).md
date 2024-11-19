@@ -83,12 +83,12 @@ in music creation and performance activities.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/LLP/2024_LLP_Music.png">
 </div>
 <h3>Verve Art</h3>
-<p>The Verve Art programme is designed to nurture learners with a passion
-and aptitude for art. It aims to develop students’ artistic talents and
-empower them to inspire their peers through creative expression. Participants
-engage in advanced art-making techniques, collaborative projects, and exhibitions,
-providing opportunities to hone their skills and showcase their works to
-a wider audience.</p>
+<p>Verve Art cultivates the 8 studio habits of mind to encourage critical
+thinking and communication, bold experimentation, and artistic refinement.
+This initiative enhances technical skills while fostering a deeper connection
+to the creative process. Immersive experiences include: Paper-making from
+scratch, large-scale mural painting, handmade journal creation, and observational
+sketching.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/LLP/2024_LLP_Verve_Art.png">
 </div>
