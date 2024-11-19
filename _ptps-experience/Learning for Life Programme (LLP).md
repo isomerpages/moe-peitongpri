@@ -12,7 +12,7 @@ the arts.</p>
 <p>A key highlight is the P3 Musical, where every Primary 3 student performs
 on stage before an audience, showcasing their talents and building confidence.</p>
 <p></p>
-<h2>Type 1: Exploration and Discovery</h2>
+<h2>Tier 1: Exploration and Discovery</h2>
 <p>Over six years, students participate in modular lessons to explore and
 develop their interests in the arts, including:</p>
 <h3>Mass Dance</h3>
@@ -45,7 +45,7 @@ history.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/LLP/nemusical.png">
 </div>
 <p></p>
-<h2>Type 2: Extended Learning</h2>
+<h2>Tier 2: Extended Learning</h2>
 <p>Students with a strong interest in the arts can further their learning
 through co-curricular activities (CCAs) such as:</p>
 <ul data-tight="true" class="tight">
@@ -66,10 +66,10 @@ through co-curricular activities (CCAs) such as:</p>
 </li>
 </ul>
 <p></p>
-<p><a href="https://www.peitongpri.moe.edu.sg/ptps-experience/cca/" rel="noopener nofollow" target="_blank">Click here for more information about our CCAs.</a> 
+<p><a href="https://www.peitongpri.moe.edu.sg/ptps-experience/cca/" rel="noopener nofollow" target="_blank">Click here for more information about our CCAs.</a>
 </p>
 <p></p>
-<h2>Type 3: Talent Development</h2>
+<h2>Tier 3: Talent Development</h2>
 <p>Students with exceptional potential and passion in the arts are invited
 to specialised enrichment programmes such as Enkindle (Music) and Verve
 Art.</p>
