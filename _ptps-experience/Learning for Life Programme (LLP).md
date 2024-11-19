@@ -69,12 +69,26 @@ through co-curricular activities (CCAs) such as:</p>
 <p><a href="https://www.peitongpri.moe.edu.sg/ptps-experience/cca/" rel="noopener nofollow" target="_blank">Click here for more information about our CCAs.</a>
 </p>
 <p></p>
-<h2>Tier 3: Talent Development</h2>
+<h2>Tier 3: Excel and Talent Development</h2>
 <p>Students with exceptional potential and passion in the arts are invited
 to specialised enrichment programmes such as Enkindle (Music) and Verve
 Art.</p>
-<h3>Verve Art</h3>
 <p></p>
+<h3>Enkindle (Music)</h3>
+<p>The Enkindler programme aims to develop students who are musically inclined
+and proficient, so that they may in turn encourage and inspire their peers
+in music making. Members will have opportunities to collaborate and engage
+in music creation and performance activities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/LLP/2024_LLP_Music.png">
+</div>
+<h3>Verve Art</h3>
+<p>The Verve Art programme is designed to nurture learners with a passion
+and aptitude for art. It aims to develop students’ artistic talents and
+empower them to inspire their peers through creative expression. Participants
+engage in advanced art-making techniques, collaborative projects, and exhibitions,
+providing opportunities to hone their skills and showcase their works to
+a wider audience.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/LLP/2024_LLP_Verve_Art.png">
 </div>
