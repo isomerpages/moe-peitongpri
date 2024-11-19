@@ -66,6 +66,9 @@ through co-curricular activities (CCAs) such as:</p>
 </li>
 </ul>
 <p></p>
+<p><a href="https://www.peitongpri.moe.edu.sg/ptps-experience/cca/" rel="noopener nofollow" target="_blank">Click here for more information about our CCAs.</a> 
+</p>
+<p></p>
 <h2>Type 3: Talent Development</h2>
 <p>Students with exceptional potential and passion in the arts are invited
 to specialised enrichment programmes such as Enkindle (Music) and Verve
