@@ -70,6 +70,8 @@ listed below.</p>
 </ul>
 <p>Collection can be done at the school bookshop on stipulated dates given
 on the website.</p>
+<p></p>
+<p></p>
 <p>Walk-In During Year-End Sales Period</p>
 <p>You may purchase from the school bookshop on the dates stated below. Please
 take note that there may be a long queue and longer waiting time may be
