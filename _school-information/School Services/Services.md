@@ -12,10 +12,10 @@ third_nav_title: School Services
 </p>
 <p>The opening dates</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Information/Dental_Clinic_Dates__1_.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Information/Dental_Clinic_Dates.png">
+</div>
 <p>Opening hours:
 <br>Tues, Thurs : 8.00 am -5.30 pm
 <br>Mon, Wed, Fri: 8.00 am - 5.00 pm
