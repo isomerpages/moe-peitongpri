@@ -20,6 +20,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://photos.app.goo.gl/Z48U11QYaFDbwWZT9" rel="noopener nofollow" target="_blank">2024 P6 SS Learning Journey</a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/s4uyP6NhzupMEyat8" rel="noopener nofollow" target="_blank">2024 P5 Stomp Percussion</a>
 </p>
 </li>
