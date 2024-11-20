@@ -6,6 +6,48 @@ variant: tiptap
 ---
 <h1>📣 Testimonials from Students</h1>
 <p></p>
+<p>Pei Tong Primary School has been a transformative chapter in my life,
+shaping me into who I am today. My journey here began in Primary 5 when
+I moved from China through the AEIS program. Adapting to Singapore's education
+system, tackling rigorous assessments, and learning in a new language mode
+were challenges that tested my resilience and determination.</p>
+<p>Through perseverance and the unwavering support of my teachers, I achieved
+significant progress academically. My teachers were always patient and
+supportive, guiding me and answering my endless questions, which gave me
+the confidence to push beyond my limits.</p>
+<p>The school’s core values—Care, Respect, Responsibility, Integrity, Resilience,
+and Excellence—became guiding principles in my academic and personal growth.
+These values weren’t just words but ideals that my friends and I embraced
+in our daily lives, from supporting one another to striving for excellence
+in all we did.</p>
+<p>One of my proudest achievements was in mathematics, a subject I have grown
+passionate about thanks to the encouragement of Mr. Tan. With his guidance,
+I participated in Math Olympiads, earning high distinctions and awards
+such as a Platinum in the Asian Pacific Mathematics Olympiad. These experiences
+opened doors to Confirmed Offers from NUS High School, Hwa Chong Institution,
+and Raffles Institution, and this year, I secured 15th place in the Singapore
+Mathematical Olympiad.</p>
+<p>Science and English were also areas where I made significant strides.
+Despite never having studied science before joining Pei Tong, under Mr.
+Chua’s guidance, I made great progress and developed a deep understanding
+of the subject. My English also improved remarkably, thanks to the support
+and encouragement of Mr. Husni.</p>
+<p>I am deeply grateful to all my teachers, including Xie Laoshi, for their
+dedication, patience, and belief in me. Their guidance has helped me achieve
+more than I could have imagined.</p>
+<p>To my juniors, my advice is simple: embrace every opportunity, ask questions,
+and view challenges as stepping stones. Success isn’t just about grades—it’s
+about growth and becoming the best version of yourself.</p>
+<p>As I move on to the next chapter, I carry with me the lessons, friendships,
+and memories made at Pei Tong Primary School. To my fellow students, cherish
+your time here—it is a foundation for your future.</p>
+<p>Thank you, Pei Tong, for being my second home and a place of endless possibilities.</p>
+<p><strong><em>Jin Huichuan</em></strong>
+</p>
+<p><strong><em>Class of 2023</em></strong>
+</p>
+<p></p>
+<p></p>
 <blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/suga.jpg">
