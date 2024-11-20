@@ -5,9 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h1>👋 Welcoming our P1 students</h1>
-<p>Our Pei Tong staff and Parent Support Group (PSG) members work hand-in-hand
-to welcome our Primary 1 students and ensure a smooth transition for them.
-Here are some moments captured on our first day of school.</p>
+<p>Our Pei Tong staff and <a href="https://www.peitongpri.moe.edu.sg/psg/" rel="noopener nofollow" target="_blank">Parent Support Group (PSG)</a> members
+work hand-in-hand to welcome our Primary 1 students and ensure a smooth
+transition for them. Here are some moments captured on our first day of
+school.</p>
 <p></p>
 <h2>2025</h2>
 <ul data-tight="true" class="tight">
