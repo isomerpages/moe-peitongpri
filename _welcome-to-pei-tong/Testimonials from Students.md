@@ -8,6 +8,81 @@ variant: tiptap
 <p></p>
 <blockquote>
 <div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/2024_Valedi__2_.jpg">
+</div>
+</blockquote>
+<p>Pei Tong Primary School has played a pivotal role in shaping who I am
+today, both as a student and as a person. When I joined Pei Tong in Primary
+5, I faced many challenges as I adjusted to a new language, culture, and
+education system. Coming from China, where the education system and language
+were very different, I found it daunting to keep up with my lessons in
+English. But over time, I realised that Pei Tong taught me something invaluable:
+resilience. The school’s core values of resilience, care, and excellence
+helped me face every challenge head-on, knowing that every difficulty was
+an opportunity to grow.</p>
+<p>What truly made a difference at Pei Tong was the sense of community. I
+never had to face challenges alone. Whether it was tackling a difficult
+subject or managing personal hurdles, I always felt supported by my teachers
+and friends. The core value of care is not just a concept—it’s lived out
+every day in the school’s culture. I am especially grateful to teachers
+like Mr. Chua and Mr. Husni, who helped me excel in subjects like Science
+and English. Their patience and support encouraged me to believe in my
+abilities and helped me overcome challenges that once seemed impossible.</p>
+<p>One of the most rewarding experiences at Pei Tong was discovering my passion
+for competitive mathematics. Through the Math Olympiad, I learned that
+excellence isn’t just about achieving the highest marks—it’s about pushing
+yourself to constantly improve. This experience has been a source of great
+joy and fulfillment, and it’s something I’ll carry with me for the rest
+of my life.</p>
+<p>I am incredibly grateful to Pei Tong for the lessons it has taught me
+and the memories it has given me. To my juniors, I encourage you to embrace
+every challenge, seek support when needed, and never stop discovering what
+excites you. With the guidance and care of this wonderful school, I know
+you’ll thrive.</p>
+<p>Thank you, Pei Tong, for being such an important part of my journey.</p>
+<p><strong><em>Jin Huichuan</em></strong>
+</p>
+<p><strong><em>Class of 2023</em></strong>
+</p>
+<p></p>
+<blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/2024_Valedi__1_.jpg">
+</div>
+</blockquote>
+<p>Pei Tong Primary School holds a special place in my heart, and I am incredibly
+grateful for the experiences and lessons I gained here. Now, as a student
+at Nanyang Girls' High, I often reflect on my time at Pei Tong and the
+wonderful memories I created with my friends and teachers.</p>
+<p>During my years at Pei Tong, I learned that the school’s core values—Care,
+Respect, Integrity, Responsibility, Resilience, and Excellence—are much
+more than just words. They shaped me into a more passionate learner, resilient
+student, and caring individual. These values have guided me in everything
+I do, whether it’s helping friends with schoolwork, expressing gratitude
+to those around me, or striving to do my best in all my endeavors.</p>
+<p>One of the most important lessons I learned at Pei Tong is to embrace
+my unique strengths and not compare myself to others. A story that has
+always stuck with me is about a farmer and his two buckets—one with holes
+and one perfect. The imperfect bucket, despite leaking water, helped flowers
+and grass flourish along the path. This story taught me that everyone has
+their own strengths and weaknesses, and what may seem like a weakness can
+sometimes be a strength in a different situation. This mindset has helped
+me focus on my growth and take pride in my abilities.</p>
+<p>I am deeply grateful for the guidance of my teachers, especially my Primary
+6 teachers, Mr. Husni, Mr. Chua, and 谢老师, who supported me throughout my
+journey at Pei Tong. Their encouragement and care made learning enjoyable
+and engaging, and they always took the time to ensure that I understood
+difficult concepts. Their support, especially during challenging times
+like exams and competitions, made a world of difference.</p>
+<p>Pei Tong has given me a strong foundation for my future, and I am thankful
+for the lessons, friendships, and memories that I will always carry with
+me.</p>
+<p>Thank you, Pei Tong, for being a place where I truly grew, not just as
+a student, but as an individual ready to take on the world.</p>
+<p></p>
+<p></p>
+<blockquote>
+<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/suga.jpg">
 </div>
 </blockquote>
