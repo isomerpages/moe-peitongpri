@@ -46,6 +46,7 @@ and community showcases. Students gain a deeper understanding of aesthetics
 and communication through art presentation while fostering a sense of pride
 and ownership in their artistic journey.</p>
 <p></p>
+<h2>Online Gallery</h2>
 <p>To explore our students’ beautiful artworks, we invite you to visit our&nbsp;
-<a href="https://sites.google.com/moe.edu.sg/ptpsart/home?authuser=0%20" rel="noopener noreferrer nofollow" target="_blank">online gallery</a>
+<a href="https://sites.google.com/moe.edu.sg/ptpsart/home?authuser=0%20" rel="noopener noreferrer nofollow" target="_blank">online gallery.</a>
 </p>
