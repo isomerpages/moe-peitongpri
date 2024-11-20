@@ -6,6 +6,11 @@ variant: tiptap
 ---
 <h1>📣 Testimonials from Students</h1>
 <p></p>
+<blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/2024_Valedi__2_.jpg">
+</div>
+</blockquote>
 <p>Pei Tong Primary School has played a pivotal role in shaping who I am
 today, both as a student and as a person. When I joined Pei Tong in Primary
 5, I faced many challenges as I adjusted to a new language, culture, and
@@ -40,6 +45,11 @@ you’ll thrive.</p>
 <p><strong><em>Class of 2023</em></strong>
 </p>
 <p></p>
+<blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/2024_Valedi__1_.jpg">
+</div>
+</blockquote>
 <p>Pei Tong Primary School holds a special place in my heart, and I am incredibly
 grateful for the experiences and lessons I gained here. Now, as a student
 at Nanyang Girls' High, I often reflect on my time at Pei Tong and the
