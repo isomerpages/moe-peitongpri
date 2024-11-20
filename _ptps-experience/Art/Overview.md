@@ -13,10 +13,14 @@ variant: tiptap
 thinking, foster communication and global awareness, and promote character
 development. Through meaningful art-making and discussions, students are
 inspired to contribute positively to society.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/Art/2024_Art_1.png">
+</div>
 <p></p>
 <p>Inquiry-based learning serves as a key pedagogical approach in the primary
 art classroom, fostering curiosity and creativity while empowering students
 to take ownership of their learning journey.</p>
+<p></p>
 <p></p>
 <h2>Core Learning Experiences</h2>
 <p>The core learning experiences in our Art curriculum are thoughtfully designed
@@ -50,3 +54,4 @@ and ownership in their artistic journey.</p>
 <p>To explore our students’ beautiful artworks, we invite you to visit our&nbsp;
 <a href="https://sites.google.com/moe.edu.sg/ptpsart/home?authuser=0%20" rel="noopener noreferrer nofollow" target="_blank">online gallery.</a>
 </p>
+<p></p>
