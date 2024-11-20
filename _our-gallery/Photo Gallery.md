@@ -8,6 +8,10 @@ variant: tiptap
 <p>Stay tuned for new photos throughout the year!</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://photos.app.goo.gl/TJDh93tfdyyGTp2PA" rel="noopener nofollow" target="_blank">2024 P1 Orientation</a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/oMYVFY67zxfvzDDX7" rel="noopener nofollow" target="_blank">2024 Recognition Day</a>
 </p>
 </li>
