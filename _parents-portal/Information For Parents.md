@@ -27,6 +27,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<hr>
 <h2>Get Connected</h2>
 <p>Is your child/ward a current student of Pei Tong Primary School?
 <br>Join us at <a href="https://www.classdojo.com/" rel="noopener noreferrer nofollow" target="_blank">ClassDojo</a> to
@@ -35,6 +36,7 @@ your child's Form Teacher to find out more!</p>
 <p>For&nbsp;official school letters, consent forms and students’ after-school
 activities, please refer to&nbsp;<a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Parents Gateway</u></a>&nbsp;for the details
 in the respective forms and announcements.</p>
+<hr>
 <h2>Primary 1</h2>
 <ul data-tight="true" class="tight">
 <li>
