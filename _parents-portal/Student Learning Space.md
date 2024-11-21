@@ -12,7 +12,6 @@ developed and rolled out in 2018 by MOE.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ht--L3Pj_yQ?si=HSPLDN5Ihx6W98oo"></iframe>
 </div>
-<p></p>
 <p>SLS is an online platform with tools and curriculum-aligned resources
 for all students&nbsp;to&nbsp;learn at their own pace and collaboratively.&nbsp;With
 the SLS, students can take&nbsp;greater ownership of their learning and&nbsp;pick
@@ -21,6 +20,7 @@ will also use the SLS to&nbsp;complement classroom teaching and learning.</p>
 <p>The SLS is collectively shaped by teachers and students. Taking into consideration
 their ideas and feedback on the resources and tools, the system is developed
 iteratively to stay dynamic and responsive.</p>
+<hr>
 <h2>Useful Links</h2>
 <ul data-tight="true" class="tight">
 <li>
