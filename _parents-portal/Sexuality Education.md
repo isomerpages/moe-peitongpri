@@ -4,7 +4,7 @@ permalink: /parents-portal/sexuality-education/
 description: ""
 variant: tiptap
 ---
-<h2><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong></h2>
+<h1>MOE SEXUALITY EDUCATION IN SCHOOLS</h1>
 <ol data-tight="true" class="tight">
 <li>
 <p>&nbsp;&nbsp;&nbsp;Sexuality Education (SEd) in schools aims to enable
@@ -50,7 +50,7 @@ more information on MOE Sexuality Education.
 </p>
 </li>
 </ol>
-<h4><strong>OVERVIEW PEI TONG PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</strong></h4>
+<h4>OVERVIEW PEI TONG PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</h4>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>&nbsp;&nbsp;&nbsp;Sexuality Education is delivered in a holistic manner
@@ -68,7 +68,7 @@ more information on the scope of Sexuality Education in the school curriculum.</
 </p>
 </li>
 </ol>
-<h4><strong>Sexuality Education Lessons:</strong></h4>
+<h4>Sexuality Education Lessons:</h4>
 <ol start="6" data-tight="true" class="tight">
 <li>
 <p>&nbsp;&nbsp;&nbsp;The upper primary years mark the onset of puberty. With
@@ -95,10 +95,16 @@ themselves safe from sexuality-related risks.
 </p>
 </li>
 </ol>
-<h4><strong>At Pei Tong Primary School, the following Sexuality Education lessons will be taught in 2024:</strong></h4>
-<h5><strong>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021</strong></h5>
-<h4><strong>Primary 5</strong></h4>
-<table>
+<h4>At Pei Tong Primary School, the following Sexuality Education lessons will be taught in 2024:</h4>
+<h5>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021</h5>
+<h4>Primary 5</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -182,10 +188,16 @@ and how to seek help for themselves and their friends.</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>Primary 6</strong></h4>
+<h4>Primary 6</h4>
 <p><strong>&nbsp;</strong>
 </p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -248,7 +260,7 @@ and learn to behave maturely towards each other.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Information for Parents</strong></h4>
+<h4>Information for Parents</h4>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>Parents may opt their children out of Sexuality Education lessons, and/or
