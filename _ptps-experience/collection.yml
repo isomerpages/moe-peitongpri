@@ -2,8 +2,8 @@ collections:
   ptps-experience:
     output: true
     order:
-      - English.md
       - PTPS Enriched Total Curriculum (PETC).md
+      - English.md
       - Mathematics.md
       - Science.md
       - Mother Tongue/.keep
