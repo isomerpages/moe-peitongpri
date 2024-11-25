@@ -40,8 +40,15 @@ in the respective forms and announcements.</p>
 <h2>Primary 1</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p>Kindly anticipate forthcoming updates and additional information. Thank
-you for your patience.</p>
+<p><a href="https://docs.google.com/presentation/d/e/2PACX-1vTEsxWKBjXiHnEV1ZYuR2pVyqZDZ4nzKIw1ov3RrwTzYV0NmIHtXIgZinI6JdoLDg/pub?start=false&amp;loop=false&amp;delayms=3000" rel="noopener nofollow" target="_blank">Interactive Resource for Parent-Child</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Parents Portal/For Parents/SL_YH_Slides.pdf" rel="noopener nofollow" target="_blank">SL_YH Slides</a>
+</p>
+</li>
+<li>
+<p>SENO Slides Emotional Regulation</p>
 </li>
 </ul>
 <h2>Primary 2</h2>
