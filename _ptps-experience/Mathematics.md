@@ -5,9 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h1>Overview</h1>
-<h4>Our Vision</h4>
+<h3>Our Vision</h3>
 <blockquote>
-<h4><em>Every student, an engaged Mathematics learner.</em></h4>
+<p><em>Every student, an engaged Mathematics learner.</em>
+</p>
 </blockquote>
 <p>Students master mathematical concepts and skills through activity-based
 lessons using Concrete-Pictorial-Abstract (CPA) approach. They also learn
