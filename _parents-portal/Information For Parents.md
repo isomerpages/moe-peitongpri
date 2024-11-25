@@ -44,7 +44,11 @@ in the respective forms and announcements.</p>
 </p>
 </li>
 <li>
-<p></p>
+<p><a href="/files/Parents Portal/For Parents/SL_YH_Slides.pdf" rel="noopener nofollow" target="_blank">SL_YH Slides</a>
+</p>
+</li>
+<li>
+<p>SENO Slides Emotional Regulation</p>
 </li>
 </ul>
 <h2>Primary 2</h2>
