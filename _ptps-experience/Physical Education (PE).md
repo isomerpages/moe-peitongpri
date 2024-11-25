@@ -5,8 +5,12 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<h2>Our Vision</h2>
-<p>Every child a healthy and active individual</p>
+<h1>Overview</h1>
+<h3>Our Vision</h3>
+<blockquote>
+<p><em>Every child a healthy and active individual</em>
+</p>
+</blockquote>
 <p></p>
 <h2>The PE Syllabus</h2>
 <p>At the primary school level, we grow our students to demonstrate efficiency,
