@@ -10,6 +10,10 @@ variant: tiptap
 <p><em>Our students will be empathetic communicators, discerning readers and creative enquirers.</em>
 </p>
 </blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/EL/2024_EL_1.png">
+</div>
 <h2>Desired Outcomes</h2>
 <p>The English Language Department aims to empower students to engage thoughtfully,
 express themselves clearly, approach the world with curiosity and compassion,
@@ -104,6 +108,10 @@ participate in these activities and immerse themselves in the joy of reading.</p
 <p>storytelling sessions conducted by students, teachers and parent volunteers</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/EL/2024_EL_2.png">
+</div>
 <h2>Mindful Reader</h2>
 <h3>Objectives</h3>
 <ul data-tight="true" class="tight">
@@ -133,4 +141,8 @@ These discussions also serve to instil values and explore character strengths,
 fostering meaningful reflection. By engaging with contemporary issues in
 Singapore and globally, students are nurtured to become thoughtful and
 responsible citizens.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/EL/2024_EL_3.png">
+</div>
 <p></p>
