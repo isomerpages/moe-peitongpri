@@ -5,10 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h1>Overview&nbsp;</h1>
-<p><strong>Our Vision</strong>
-</p>
-<p><em>To inspire and develop students as innovative inquirers</em>
-</p>
+<h4>Our Vision</h4>
+<blockquote>
+<p>To inspire and develop students as innovative inquirers</p>
+</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PTPS Experience/Science/Science_framework_edited.jpg">
