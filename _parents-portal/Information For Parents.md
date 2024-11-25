@@ -48,7 +48,8 @@ in the respective forms and announcements.</p>
 </p>
 </li>
 <li>
-<p>SENO Slides Emotional Regulation</p>
+<p><a href="/files/Parents Portal/For Parents/Seno_Slide.pdf" rel="noopener noreferrer nofollow" target="_blank">SENO Slides Emotional Regulation</a>
+</p>
 </li>
 </ul>
 <h2>Primary 2</h2>
