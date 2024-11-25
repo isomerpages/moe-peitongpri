@@ -5,9 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h1>Overview&nbsp;</h1>
-<h4>Our Vision</h4>
+<h3>Our Vision</h3>
 <blockquote>
-<p>To inspire and develop students as innovative inquirers</p>
+<p><em>To inspire and develop students as innovative inquirers</em>
+</p>
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
