@@ -22,11 +22,11 @@ the years.</p>
 in programmes, such as learning journeys and recess activities. Over the
 years, our PSG has also helped to organise the school’s talent show competition
 to highlight the wonderful abilities of our students.</p>
-<h3>Join us</h3>
+<h2>Join us</h2>
 <p>We welcome all parents to join our <strong>PSG</strong> or to serve as <strong>Parent Volunteers on an ad hoc basis</strong>!
 To sign up, <a href="https://go.gov.sg/peitongparents" rel="noopener noreferrer nofollow" target="_blank">click on this link</a>.</p>
 <p>If you have queries, you may send an email to &nbsp;<strong><a href="mailto:psgptps@gmail.com" rel="noopener noreferrer nofollow" target="_blank">psgptps@gmail.com</a></strong>&nbsp;.</p>
-<h3>Our Parents In Action</h3>
+<h2>Our Parents In Action</h2>
 <div class="iframe-wrapper">
 <iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UatsUThIEmE?si=uEmfyz1bgmC9Cqd-"></iframe>
 </div>
