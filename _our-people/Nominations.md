@@ -5,12 +5,12 @@ variant: tiptap
 description: ""
 ---
 <h2>Appreciation &amp; Feedback</h2>
-<p>Your words of appreciation will serve as an encouragement, motivation
-and positive affirmation of the good work of our Pei Tong Staff and go
-a long way in motivating them to continue to do their best for the students.</p>
-<p><a href="https://go.gov.sg/saythanksptps" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a> to
-complete the information and submit it to the school.</p>
-<p>For feedback, please email directly to <a href="https://go.gov.sg/saythanksptps" rel="noopener noreferrer nofollow" target="_blank"><u>ptps@moe.edu.sg</u></a>.</p>
+<p>Your words of appreciation will provide encouragement, motivation, and
+positive affirmation for the dedication of our Pei Tong staff. Your support
+will inspire them to continue giving their best for our students.</p>
+<p>Click <a href="#" rel="noopener" target="_blank">here</a> to submit your
+message of appreciation.</p>
+<p>For feedback, please email us directly at <a href="#" rel="noopener noreferrer nofollow" target="_blank">ptps@moe.edu.sg</a>.</p>
 <h2>President's Award for Teachers (PAT)</h2>
 <p>The President's Award for Teachers (PAT) gives national recognition to
 the critical role that teachers play in moulding the future of our nation.
@@ -32,7 +32,7 @@ energy and enthusiasm, and play a critical role in moulding the future
 of the nation.</p>
 <p>OYEA is open to teachers aged 35 years and below, and presently in service
 at a primary school, secondary school, junior college/Millennia Institute.</p>
-<p>Express your appreciation by submitting a nomination here: <a href="https://go.gov.sg/oyea2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/oyea2025</a> 
+<p>Express your appreciation by submitting a nomination here: <a href="https://go.gov.sg/oyea2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/oyea2025</a>
 </p>
 <p>Nomination closes on <strong>10 January 2025, Friday</strong>.</p>
 <p></p>
