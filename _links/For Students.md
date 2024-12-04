@@ -2,34 +2,74 @@
 title: For Students
 permalink: /ptps/links/for-students/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# Quick Links
-
-
-* [MIMS Portal](https://idp.mims.moe.gov.sg/)
-<br><i>(Students can access Google Workspace/ Classroom by clicking on ICON after they have logged in through the MIMS Portal)</i>
-* [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
-* [Padlet](https://padlet.com/)  
-* [KooBits](https://member.koobits.com/)
-* [Kahoot!](https://kahoot.it/)
-* [Myskillsfuture (Pri)](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
-
-
-# SLS Login Problems
-
-
-*   [PTPS SLS helpdesk](https://go.gov.sg/slsptps)
-*   [MOE SLS helpdesk](https://www.learning.moe.edu.sg/login-troubleshooting/get-help/contact-sls-helpdesk/)
-
-# For Browsing
-
-*   [PTPS Photo Gallery](https://www.peitongpri.moe.edu.sg/our-gallery/photo-gallery/)
-*   [PTPS Art E-Gallery](https://sites.google.com/moe.edu.sg/ptpsart)
-*   [PTPS Library](https://schoolibrary.moe.edu.sg/peitongpri)
-
-  
-# NLB
-
-*   [NLB Book Recommendations](https://childrenandteens.nlb.gov.sg/book-recommendations/recommend-primary/)
-*   [NLB Reading D.I.Y. Resources](https://childrenandteens.nlb.gov.sg/diy-resources/primary/primary-main/)
+<h2>Quick Links</h2>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal</a>
+<br><em>(Students can access Google Workspace/ Classroom by clicking on ICON after they have logged in through the MIMS Portal)</em>
+</p>
+</li>
+<li>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
+</p>
+</li>
+<li>
+<p><a href="https://padlet.com/" rel="noopener noreferrer nofollow" target="_blank">Padlet</a>
+</p>
+</li>
+<li>
+<p><a href="https://member.koobits.com/" rel="noopener noreferrer nofollow" target="_blank">KooBits</a>
+</p>
+</li>
+<li>
+<p><a href="https://kahoot.it/" rel="noopener noreferrer nofollow" target="_blank">Kahoot!</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener noreferrer nofollow" target="_blank">Myskillsfuture (Pri)</a>
+</p>
+</li>
+</ul>
+<hr>
+<h2>SLS Login Problems</h2>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/slsptps" rel="noopener noreferrer nofollow" target="_blank">PTPS SLS helpdesk</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.learning.moe.edu.sg/login-troubleshooting/get-help/contact-sls-helpdesk/" rel="noopener noreferrer nofollow" target="_blank">MOE SLS helpdesk</a>
+</p>
+</li>
+</ul>
+<hr>
+<h2>For Browsing</h2>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.peitongpri.moe.edu.sg/our-gallery/photo-gallery/" rel="noopener noreferrer nofollow" target="_blank">PTPS Photo Gallery</a>
+</p>
+</li>
+<li>
+<p><a href="https://sites.google.com/moe.edu.sg/ptpsart" rel="noopener noreferrer nofollow" target="_blank">PTPS Art E-Gallery</a>
+</p>
+</li>
+<li>
+<p><a href="https://schoolibrary.moe.edu.sg/peitongpri" rel="noopener noreferrer nofollow" target="_blank">PTPS Library</a>
+</p>
+</li>
+</ul>
+<hr>
+<h2>NLB</h2>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://childrenandteens.nlb.gov.sg/book-recommendations/recommend-primary/" rel="noopener noreferrer nofollow" target="_blank">NLB Book Recommendations</a>
+</p>
+</li>
+<li>
+<p><a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/primary-main/" rel="noopener noreferrer nofollow" target="_blank">NLB Reading D.I.Y. Resources</a>
+</p>
+</li>
+</ul>
+<p></p>
