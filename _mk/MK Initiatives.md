@@ -40,6 +40,6 @@ and school and enhances children’s interest and motivation in learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@Pei%20Tong/parents%20support%20group%20(psg).jpg">
 </div>
-<p>At MK@PT, our Parents Support Group (PSG) aims to foster a closer collaborative
+<p>At MK@PT, our Parent Support Group (PSG) aims to foster a closer collaborative
 relationship between families and the school. Parents volunteered in event
 preparations, sharing sessions and various activities.</p>
