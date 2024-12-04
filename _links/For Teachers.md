@@ -2,56 +2,125 @@
 title: For Teachers
 permalink: /ptps/links/for-teachers/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# Quick Links
-
-
-* [Google Workspace (Previously iCON 2.0)](https://workspace.google.com/dashboard)
- 
-    
-*   [Resource Booking Service (RBS)](https://rbs.avero-tech.com/) 
-*   [SC Mobile](https://scmobile.moe.edu.sg/)
-*   [Parents Gateway](https://pg.moe.edu.sg/)
-*   [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
-*   [All Ears Form Builder (Form SG for MOE)](https://forms.moe.edu.sg/)
-
-  
-
-*   [School Cockpit - Admin & Reports](https://schoolcockpit.moe.gov.sg/)
-*   [School Cockpit - Results/Learning Outcomes](https://schoolcockpit.moe.gov.sg/academic)
-
-# MOE/SSOE 2
-
-
-*   [OPAL 2.0](https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F)
-*   [iEXAMS 2](https://iexams.seab.gov.sg/)
-*   [MOE Intranet](https://intranet.moe.gov.sg/)
-*   [HR Online Portal](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
-*   [SEN Resource Portal](https://intranet.moe.gov.sg/send/Pages/SEN_Resource_Portal.aspx)
-
-  
-
-*   [SSOE2 Service Portal](https://ssoe2.moe.edu.sg/)
-*   [MIMS Password Reset](https://idp.mims.moe.gov.sg/nidp/saml2/sso)
-*   [My Important Files Portal](https://scloud.ssoe.moe.edu.sg/userportal/#/login)
-
-  
-
-*   [MOE Sports and Recreational Club](https://www.mesrc.net/)
-
-# Professional Development (PD)
-
-
-*   [OPAL 2.0](https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F)
-*   [HBL PD for Teachers](https://go.gov.sg/ptpsjunehbljittrainingsls) 
-*   [HBL PD for Students](https://go.gov.sg/junehbljittrainingforstudents) 
-*   [SG Learning Designers Circle](https://www.facebook.com/groups/sglearningdesigners)
-
-# Others
-
-*   [KooBits](https://member.koobits.com/)
-*   [Myskillsfuture (Pri)](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
-*   [PTPS Photo Gallery](https://www.peitongpri.moe.edu.sg/our-gallery/photo-gallery/)
-*   [PTPS Art E-Gallery](https://sites.google.com/moe.edu.sg/ptpsart)  
-*   [PTPS Library](https://schoolibrary.moe.edu.sg/peitongpri/)
+<h1>Quick Links</h1>
+<ul>
+<li>
+<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Google Workspace (Previously iCON 2.0)</a>
+</p>
+</li>
+<li>
+<p><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">Resource Booking Service (RBS)</a>
+</p>
+</li>
+<li>
+<p><a href="https://scmobile.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SC Mobile</a>
+</p>
+</li>
+<li>
+<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
+</p>
+</li>
+<li>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
+</p>
+</li>
+<li>
+<p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">All Ears Form Builder (Form SG for MOE)</a>
+</p>
+</li>
+<li>
+<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">School Cockpit - Admin &amp; Reports</a>
+</p>
+</li>
+<li>
+<p><a href="https://schoolcockpit.moe.gov.sg/academic" rel="noopener noreferrer nofollow" target="_blank">School Cockpit - Results/Learning Outcomes</a>
+</p>
+</li>
+</ul>
+<hr>
+<h2>MOE/SSOE 2</h2>
+<ul>
+<li>
+<p><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F" rel="noopener noreferrer nofollow" target="_blank">OPAL 2.0</a>
+</p>
+</li>
+<li>
+<p><a href="https://iexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">iEXAMS 2</a>
+</p>
+</li>
+<li>
+<p><a href="https://intranet.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a>
+</p>
+</li>
+<li>
+<p><a href="https://intranet.moe.gov.sg/hronline/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">HR Online Portal</a>
+</p>
+</li>
+<li>
+<p><a href="https://intranet.moe.gov.sg/send/Pages/SEN_Resource_Portal.aspx" rel="noopener noreferrer nofollow" target="_blank">SEN Resource Portal</a>
+</p>
+</li>
+<li>
+<p><a href="https://ssoe2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SSOE2 Service Portal</a>
+</p>
+</li>
+<li>
+<p><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" rel="noopener noreferrer nofollow" target="_blank">MIMS Password Reset</a>
+</p>
+</li>
+<li>
+<p><a href="https://scloud.ssoe.moe.edu.sg/userportal/#/login" rel="noopener noreferrer nofollow" target="_blank">My Important Files Portal</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.mesrc.net/" rel="noopener noreferrer nofollow" target="_blank">MOE Sports and Recreational Club</a>
+</p>
+</li>
+</ul>
+<hr>
+<h2>Professional Development (PD)</h2>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F" rel="noopener noreferrer nofollow" target="_blank">OPAL 2.0</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/ptpsjunehbljittrainingsls" rel="noopener noreferrer nofollow" target="_blank">HBL PD for Teachers</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/junehbljittrainingforstudents" rel="noopener noreferrer nofollow" target="_blank">HBL PD for Students</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.facebook.com/groups/sglearningdesigners" rel="noopener noreferrer nofollow" target="_blank">SG Learning Designers Circle</a>
+</p>
+</li>
+</ul>
+<hr>
+<h2>Others</h2>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://member.koobits.com/" rel="noopener noreferrer nofollow" target="_blank">KooBits</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener noreferrer nofollow" target="_blank">Myskillsfuture (Pri)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.peitongpri.moe.edu.sg/our-gallery/photo-gallery/" rel="noopener noreferrer nofollow" target="_blank">PTPS Photo Gallery</a>
+</p>
+</li>
+<li>
+<p><a href="https://sites.google.com/moe.edu.sg/ptpsart" rel="noopener noreferrer nofollow" target="_blank">PTPS Art E-Gallery</a>
+</p>
+</li>
+<li>
+<p><a href="https://schoolibrary.moe.edu.sg/peitongpri/" rel="noopener noreferrer nofollow" target="_blank">PTPS Library</a>
+</p>
+</li>
+</ul>
+<p></p>
