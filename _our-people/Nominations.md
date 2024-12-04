@@ -11,6 +11,7 @@ will inspire them to continue giving their best for our students.</p>
 <p>Click <a href="#" rel="noopener" target="_blank">here</a> to submit your
 message of appreciation.</p>
 <p>For feedback, please email us directly at <a href="#" rel="noopener noreferrer nofollow" target="_blank">ptps@moe.edu.sg</a>.</p>
+<hr>
 <h2>President's Award for Teachers (PAT)</h2>
 <p>The President's Award for Teachers (PAT) gives national recognition to
 the critical role that teachers play in moulding the future of our nation.
@@ -22,7 +23,7 @@ Education, or National Institute of Early Childhood Development.</p>
 <p>Express your appreciation by submitting a nomination here: <a href="https://go.gov.sg/pat2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pat2025</a>
 </p>
 <p>Nomination closes on <strong>10 January 2025, Friday</strong>.</p>
-<p></p>
+<hr>
 <h2>Outstanding Youth in Education Award (OYEA)</h2>
 <p>The Outstanding Youth in Education Award (OYEA) gives national recognition
 to young teachers who are role models for the teaching profession. These
