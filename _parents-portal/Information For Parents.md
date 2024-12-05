@@ -7,7 +7,7 @@ variant: tiptap
 <h2>All Parents</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://peitongpri.moe.edu.sg/our-people/psg/" rel="noopener noreferrer nofollow" target="_blank">🖐️Join our Parent Support Group (PSG)/ serve as an ad hoc parent volunteer</a>
+<p><a href="https://peitongpri.moe.edu.sg/psg/" rel="noopener noreferrer nofollow" target="_blank">🖐️Join our Parent Support Group (PSG)/ serve as an ad hoc parent volunteer</a>
 </p>
 </li>
 <li>
