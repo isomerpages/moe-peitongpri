@@ -15,7 +15,7 @@ Gateway App (refer to image below for a guide).</p>
 <p>Alternatively, visit this page for details on how to get in touch with
 us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofollow" target="_blank">Contact Us</a>.</p>
 <hr>
-<h2>2024 Staff l=List</h2>
+<h2>2024 Staff List</h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
