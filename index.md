@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Website_Hero_2024.gif
+      background: /images/2025___80th_website_hero_.gif
       key_highlights:
         - title: HIGHLIGHTS
           description: ""
@@ -21,4 +21,5 @@ sections:
         - title: FOR STAFF
           description: ""
           url: /ptps/links/for-teachers/
+      variant: center
 ---
