@@ -13,12 +13,11 @@ variant: tiptap
 who can apply mathematical concepts and skills effectively in everyday
 life.</p>
 <p>At Pei Tong Primary School, students engage in activity-based lessons
-that incorporate the Concrete-Pictorial-Abstract (CPA) approach. Through
-hands-on activities and collaborative group work, they learn to reason
-logically and communicate mathematical ideas clearly.</p>
-<p>These approaches not only build numeracy skills but also foster a deeper
-interest in Mathematics, empowering students to tackle challenges with
-confidence and creativity.</p>
+using the Concrete-Pictorial-Abstract (CPA) approach. Through hands-on
+activities and collaborative group work, they develop logical reasoning
+and learn to communicate mathematical ideas clearly.</p>
+<p>These methods build numeracy skills, spark a deeper interest in Mathematics,
+and empower students to approach challenges with confidence and creativity.</p>
 <hr>
 <h2>Mathematics Made Meaningful (M³)</h2>
 <p>A child learns best through ‘play’, which is why we aim to make learning
