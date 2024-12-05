@@ -4,8 +4,11 @@ permalink: /mk/contact/
 description: ""
 variant: tiptap
 ---
-<h1>Contact Us</h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -28,10 +31,11 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Tell</p>
+<p>Tel</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>67775458</p>
+<p>67775458
+<br>(8.00 am - 5.00 pm, school hours only)</p>
 </td>
 </tr>
 <tr>
@@ -39,25 +43,28 @@ variant: tiptap
 <p>Email</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>mk_peitong@moe.edu.sg</p>
+<p><a href="mk_peitong@moe.edu.sg" rel="noopener nofollow" target="_blank">mk_peitong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong><u>CONTACT DETAILS</u></strong> 
-<br>Tel: 6777 5458 (8.00 am - 5.00 pm, school hours only)
-<br>Email:&nbsp;<a href="mailto:mk_peitong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_peitong@moe.edu.sg</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@Pei%20Tong/Contact%20us/school%20map.png">
+<div class="iframe-wrapper">
+<iframe style="height:320px;width:100%;border:0;" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Pei+Tong+Primary+School&amp;key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe>
 </div>
-<h3>Kindergarten Care (KCare)</h3>
+<p></p>
+<hr>
+<h2>Kindergarten Care (KCare)</h2>
 <p>We offer Kindergarten Care (KCare), a full-day childcare programme, 7.00
 am -7.00 pm.</p>
 <p>If you register, your child will be in KCare before and after your child’s
 MK session, providing the convenience of a full-day service.</p>
-<h3>NASCANS</h3>
-<table>
+<h4>NASCANS</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -73,7 +80,8 @@ MK session, providing the convenience of a full-day service.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>supervisor.ptkcc@nascans.com</p>
+<p><a href="supervisor.ptkcc@nascans.com" rel="noopener nofollow" target="_blank">supervisor.ptkcc@nascans.com</a>
+</p>
 </td>
 </tr>
 </tbody>
