@@ -5,9 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h2>Overview of PETC</h2>
-<p>Every child can develop holistally through <strong>Pei Tong Primary School’s Enriched Total Curriculum (PETC)</strong>.</p>
+<p>Every child can develop holistically through <strong>Pei Tong Primary School’s Enriched Total Curriculum (PETC)</strong>.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/Peitong-StagedShots-152.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PTPS Experience/PETC/Peitong-StagedShots-152.jpg">
 </div>
 <p>The key features of PETC are:</p>
 <ul data-tight="true" class="tight">
