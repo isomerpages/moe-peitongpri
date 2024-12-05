@@ -50,7 +50,7 @@ variant: tiptap
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe style="height:320px;width:100%;border:0;" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Pei+Tong+Primary+School&amp;key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe>
+<iframe style="border:0;" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7657538469316!2d103.76501030959795!3d1.3161196986658612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1a84b222873d%3A0xccb2a0c9cb175334!2sPei%20Tong%20Primary%20School!5e0!3m2!1sen!2ssg!4v1733384839916!5m2!1sen!2ssg"></iframe>
 </div>
 <p></p>
 <hr>
