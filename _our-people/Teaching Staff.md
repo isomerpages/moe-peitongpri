@@ -4,6 +4,8 @@ permalink: /our-people/teaching-staff/
 variant: tiptap
 description: ""
 ---
+<h2>2025 Staff List</h2>
+<p>Staff information for 2025 will be updated soon.</p>
 <h2>Form Teachers' Contact Information</h2>
 <p>Your child’s Form Teachers’ email addresses can be found in the Parents
 Gateway App (refer to image below for a guide).</p>
@@ -13,7 +15,7 @@ Gateway App (refer to image below for a guide).</p>
 <p>Alternatively, visit this page for details on how to get in touch with
 us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofollow" target="_blank">Contact Us</a>.</p>
 <hr>
-<p></p>
+<h2>2024 Staff l=List</h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
