@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>School Crest</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Information/PT%20Logo%20Squared.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/School%20Information/PT%20Logo%20Squared.jpg">
 </div>
 <p>The letters "PT" stand for Pei Tong ( 培童 ) which means nurturing the young.</p>
 <p>In addition, the 'PT' stands for 'pupil-teacher' and 'parent-teacher'
