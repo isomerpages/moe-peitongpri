@@ -10,16 +10,16 @@ variant: tiptap
 more videos.&nbsp;</p>
 <p></p>
 <h2>2024 Highlights</h2>
-<p>Check out our P1 2024 level highlights! For more videos of the other levels,
-<a href="https://www.youtube.com/playlist?list=PLMqAnzSGDRwx0G4s86mUjzkQotNtLp9J6" rel="noopener noreferrer nofollow" target="_blank">click here!</a>
+<p>Check out our P1 2024 level highlights!
+<br>For more videos of the other levels, <a href="https://www.youtube.com/playlist?list=PLMqAnzSGDRwx0G4s86mUjzkQotNtLp9J6" rel="noopener noreferrer nofollow" target="_blank">click here!</a>
 </p>
 <div class="iframe-wrapper">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9cS56SUkDXw?si=0Rgv4CtIaIcL6b08"></iframe>
 </div>
 <p></p>
 <h2>2023 Highlights</h2>
-<p>Check out our P1 2023 level highlights! For more videos of the other levels,
-<a href="https://www.youtube.com/watch?v=B5RjeFjznP0&amp;list=PLMqAnzSGDRwyCSxok-hJAhUXkf_LAOEhb&amp;ab_channel=PeiTongPrimarySchool" rel="noopener noreferrer nofollow" target="_blank">click here!</a>
+<p>Check out our P1 2023 level highlights!
+<br>For more videos of the other levels, <a href="https://www.youtube.com/watch?v=B5RjeFjznP0&amp;list=PLMqAnzSGDRwyCSxok-hJAhUXkf_LAOEhb&amp;ab_channel=PeiTongPrimarySchool" rel="noopener noreferrer nofollow" target="_blank">click here!</a>
 </p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/B5RjeFjznP0?si=1MAlEU8h1IVbKUGO"></iframe>
