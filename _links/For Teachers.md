@@ -107,7 +107,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener noreferrer nofollow" target="_blank">Myskillsfuture (Pri)</a>
+<p><a href="https://go.gov.sg/mysfpri" rel="noopener noreferrer nofollow" target="_blank">Myskillsfuture (Pri)</a>
 </p>
 </li>
 </ul>
