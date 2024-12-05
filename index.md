@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2025___80th_website_hero_.gif
+      background: /images/Logos and Website Heros/2025___website_hero_.gif
       key_highlights:
         - title: HIGHLIGHTS
           description: ""

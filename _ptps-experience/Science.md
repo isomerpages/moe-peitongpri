@@ -11,7 +11,7 @@ variant: tiptap
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PTPS Experience/Science/Science_framework_edited.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PTPS Experience/Science/Science_framework_edited.jpg">
 </div>
 <p><strong>Inspire</strong>, <strong>Inquire </strong>and <strong>Innovate </strong>represents
 the vision for Science Education and encapsulates the overall experience
@@ -27,7 +27,7 @@ experiences spark joy in learning and aim to deepen students' interest
 in Science, highlighting scientific inquiry as a vital tool for understanding
 the natural world.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/Science/1SC_JOLAR.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PTPS Experience/Science/1SC_JOLAR.png">
 </div>
 <p>JoL@AR Science actively engages students in hands-on STEM activities that
 spark creativity and strengthen problem-solving abilities. These activities
@@ -41,7 +41,7 @@ including critical thinking and adaptability.</p>
 advanced science concepts. Through scientific inquiry, this will help students
 to develop the habits, attitudes and dispositions that scientists possess.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/Science/3SC_E2K.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PTPS Experience/Science/3SC_E2K.png">
 </div>
 <h2>Competitions</h2>
 <p>These external competitions provide students with the opportunities and

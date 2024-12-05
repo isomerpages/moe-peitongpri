@@ -39,11 +39,10 @@ the strong bonds formed at the school.</p>
 <p><strong><em>Ms Chia Yi Fang</em></strong>
 </p>
 <hr>
-<blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:45%;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/F7065FD0-4448-4B47-87E1-DC0A12ED9028%20-%20Min%20lee.jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/F7065FD0-4448-4B47-87E1-DC0A12ED9028 - Min lee.jpeg">
 </div>
-</blockquote>
 <p>To be honest, my child entered Pei Tong Primary School (PTPS) through
 registration phase 2Cs as she was balloted out from another school. Coming
 in, I did not hope for much and just want her to make friends, have fun
@@ -64,11 +63,10 @@ amazing curry rice!</p>
 <p><strong><em>Ms Min Lee</em></strong>
 </p>
 <hr>
-<blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:45%;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/ryantan.jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/ryantan.jpeg">
 </div>
-</blockquote>
 <p>Our son Ryan Tan Zhiwen is a graduate of Pei Tong Primary and is currently
 in Secondary 3 at Commonwealth Secondary.&nbsp; Our daughter Katelyn Tan
 Hui Qi currently attends Pei Tong Primary.</p>
@@ -104,11 +102,10 @@ other students as well.&nbsp;&nbsp;</p>
 <p><strong><em>Mr Irwin Tan</em></strong>
 </p>
 <hr>
-<blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:45%;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/miny.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/miny.jpg">
 </div>
-</blockquote>
 <p>Sending my 2 girls to Pei Tong brings back fond memories as I was a former
 student of Pei Tong Primary. When Pei Tong moved to the new Clementi campus
 in 1981, my family had also just moved into Clementi new housing estate.&nbsp;
@@ -140,11 +137,10 @@ talents, and not be bogged down by the continuous chase after grades.</p>
 <p><strong><em>Mr Ong Chin Hwee</em></strong>
 </p>
 <hr>
-<blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:35%;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/fangfang%20Huang.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/fangfang Huang.jpg">
 </div>
-</blockquote>
 <p>My children are from the graduating classes of 2016 and 2019. My children
 are very privileged to have very supportive teachers and staff who have
 encouraged them both emotionally and academically in their 6 years in Pei
@@ -166,11 +162,10 @@ wholesome experience.&nbsp;</p>
 <p><strong><em>Mdm&nbsp;Suryati Widjaja</em></strong>
 </p>
 <hr>
-<blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:35%;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/nicole.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/nicole.png">
 </div>
-</blockquote>
 <p>Our daughter, Lim HuaMing, Nicole, graduated from Pei Tong Primary School
 (PTPS) in the Year 2020. We have seen many new changes to PTPS over the
 years with all of them making a positive impact on our child's learning
