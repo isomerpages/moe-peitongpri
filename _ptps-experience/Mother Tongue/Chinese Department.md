@@ -78,5 +78,5 @@ in using the language.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/Mother%20Tongue/Photograph_12.jpg">
 </div>
 <h2>Chinese E-Gallery</h2>
-<p><a href="https://sites.google.com/moe.edu.sg/studentsportfolio/home" rel="noopener noreferrer nofollow" target="_blank">Click Here!</a>
+<p><a href="https://sites.google.com/moe.edu.sg/studentsportfolio/home" rel="noopener noreferrer nofollow" target="_blank">Click here to visit our Chinese E-Gallery to view our students' work.</a>
 </p>
