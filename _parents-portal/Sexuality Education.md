@@ -4,7 +4,7 @@ permalink: /parents-portal/sexuality-education/
 description: ""
 variant: tiptap
 ---
-<h1>MOE SEXUALITY EDUCATION IN SCHOOLS</h1>
+<h2>MOE SEXUALITY EDUCATION IN SCHOOLS</h2>
 <ol data-tight="true" class="tight">
 <li>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
@@ -50,7 +50,7 @@ more information on MOE Sexuality Education.
 </p>
 </li>
 </ol>
-<h2>OVERVIEW </h2>
+<h2>OVERVIEW</h2>
 <h3>PEI TONG PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</h3>
 <ol start="4" data-tight="true" class="tight">
 <li>
