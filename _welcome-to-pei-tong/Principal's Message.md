@@ -4,7 +4,6 @@ permalink: /welcome-to-pei-tong/principals-message/
 description: ""
 variant: tiptap
 ---
-<h1>📃 Principal's Message</h1>
 <p>I am delighted to address you as we conclude another remarkable year at
 Pei Tong Primary School (PTPS). It is with great joy and gratitude that
 I reflect on the achievements and growth we have witnessed over the past
