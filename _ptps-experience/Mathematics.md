@@ -34,8 +34,8 @@ and reason through their thinking, building their confidence as problem-solvers
 and improving their ability to communicate their ideas clearly.</p>
 <hr>
 <h2>Mastery in Mathematics (M²)</h2>
-<p>Each child learns differently, and we provide resources to meet diverse
-learning needs.</p>
+<p>Each child learns differently, and we aim to cater to the diverse learning
+needs.</p>
 <p>Mastery worksheets focus on Numbers to build foundational numeracy skills.
 Problem-solving packages, based on Polya’s 4-step Problem-Solving Techniques,
 are introduced at each level to strengthen thinking skills.</p>
