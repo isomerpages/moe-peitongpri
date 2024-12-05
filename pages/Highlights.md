@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2>Photo Gallery</h2>
-<p>Check out&nbsp;<a href="https://www.peitongpri.moe.edu.sg/our-gallery/photo-gallery/" rel="noopener noreferrer nofollow" target="_blank">our Photo Gallery</a> to
+<p>Check out&nbsp;<a href="https://www.peitongpri.moe.edu.sg/photos/" rel="noopener noreferrer nofollow" target="_blank">our Photo Gallery</a> to
 catch a glimpse of school life at Pei Tong Primary School!</p>
 <hr>
 <h2>Virtual Tour</h2>
