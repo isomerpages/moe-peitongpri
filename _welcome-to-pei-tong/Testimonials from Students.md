@@ -152,7 +152,7 @@ significant role in shaping me into the person I am today.</p>
 <hr>
 <blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/yujay.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/yujay.jpg">
 </div>
 </blockquote>
 <p>Pei Tong Primary School has been a significant part of my life, shaping
@@ -289,7 +289,7 @@ soon!</p>
 <hr>
 <blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/min%20yi%20ong.jpeg">
+<img style="width: 30%;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/min%20yi%20ong.jpeg">
 </div>
 </blockquote>
 <p>Pei Tong has given me a conducive environment and opportunities to succeed,
