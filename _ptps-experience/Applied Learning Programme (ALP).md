@@ -4,7 +4,7 @@ permalink: /ptps-experience/alp/
 description: ""
 variant: tiptap
 ---
-<h1>Overview of PLANE</h1>
+<h2>Overview of PLANE</h2>
 <p><strong>PLANET (Pei Tong Learn And Nurture the Environment)</strong>,
 adopts STEM as its strand and Sustainability for its contextual theme.
 Coding is one of the key approaches to teaching students computational
