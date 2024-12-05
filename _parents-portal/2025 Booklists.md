@@ -49,14 +49,12 @@ variant: tiptap
 <p>You are strongly encouraged to pre-order to avoid long queues and enjoy
 shorter waiting time.</p>
 <p></p>
-<p></p>
-<p> 28/10/2024 to 05/11/2024</p>
+<h4>28/10/2024 to 05/11/2024</h4>
 <p>For collection on P1 Orientation Day, 15/11/2024. Orders placed after
 05/11/2024 will be collected/delivered during the year-end sales dates
 listed below.</p>
 <p></p>
-<p></p>
-<p> 07/11/2024 to 14/12/2024 (Subject to slot availability)</p>
+<h4>07/11/2024 to 14/12/2024 (Subject to slot availability)</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Home Delivery</p>
@@ -71,8 +69,7 @@ listed below.</p>
 <p>Collection can be done at the school bookshop on stipulated dates given
 on the website.</p>
 <p></p>
-<p></p>
-<p>Walk-In During Year-End Sales Period</p>
+<h4>Walk-In During Year-End Sales Period</h4>
 <p>You may purchase from the school bookshop on the dates stated below. Please
 take note that there may be a long queue and longer waiting time may be
 expected.</p>
@@ -308,9 +305,11 @@ expected.</p>
 </tbody>
 </table>
 <p></p>
-<p>Operating Hours:</p>
+<h4>Operating Hours</h4>
 <p>Mon-Fri: 9am to 3pm</p>
 <p>Lunch time : 12.00pm - 1.00pm</p>
-<p>Books supplied by Pacific Bookstores Pte Ltd. Tel: 69298012 Email: <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
+<p>Books supplied by Pacific Bookstores Pte Ltd.</p>
+<p>Tel: 69298012</p>
+<p>Email: <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
 </p>
 <p></p>

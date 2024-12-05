@@ -4,7 +4,7 @@ permalink: /parents-portal/student-learning-space/
 description: ""
 variant: tiptap
 ---
-<h1>Overview</h1>
+<h2>Overview</h2>
 <p>As part of the Ministry of Education’s (MOE) commitment to nurture future-ready
 learners, an online learning platform known as the&nbsp;<strong><a href="https://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a></strong>&nbsp;was
 developed and rolled out in 2018 by MOE.</p>

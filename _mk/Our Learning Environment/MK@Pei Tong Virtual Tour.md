@@ -5,10 +5,9 @@ description: ""
 third_nav_title: Our Learning Environment
 variant: tiptap
 ---
-# MK@Pei Tong Virtual Tour
-
-
-**Join us on a virtual tour of our centre!**<br>
-**Please click on the video below.**
-
-<iframe width="100%" height="560" src="https://www.youtube.com/embed/9h8gwvoRRHw" title="MK @ Pei Tong Virtual Tour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<p>Join us for a virtual tour of our centre!
+<br>Click on the video below to explore.</p>
+<div class="iframe-wrapper">
+<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oiDQKMShOz4?si=RzIMDTBKojI7Ila5"></iframe>
+</div>
+<p></p>

@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Mother Tongue
 variant: tiptap
 ---
-<h1>Overview</h1>
+<h2>Overview</h2>
 <p>The Malay Department’s activities offer students opportunities to actively
 use and explore the Malay language, fostering language proficiency and
 cultural understanding through hands-on learning and engaging experiences.</p>

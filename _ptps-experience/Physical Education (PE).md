@@ -5,8 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<h1>Overview</h1>
-<h3>Our Vision</h3>
+<h2>Our Vision</h2>
 <blockquote>
 <p><em>Every child a healthy and active individual</em>
 </p>

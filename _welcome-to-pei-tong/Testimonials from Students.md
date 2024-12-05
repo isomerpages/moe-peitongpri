@@ -4,7 +4,6 @@ permalink: /welcome-to-pei-tong/testimonials-from-students/
 description: ""
 variant: tiptap
 ---
-<h1>📣 Testimonials from Students</h1>
 <p></p>
 <blockquote>
 <div class="isomer-image-wrapper">
@@ -41,9 +40,9 @@ excites you. With the guidance and care of this wonderful school, I know
 you’ll thrive.</p>
 <p>Thank you, Pei Tong, for being such an important part of my journey.</p>
 <p><strong><em>Jin Huichuan</em></strong>
+<br><strong><em>Class of 2023</em></strong>
 </p>
-<p><strong><em>Class of 2023</em></strong>
-</p>
+<hr>
 <p></p>
 <blockquote>
 <div class="isomer-image-wrapper">
@@ -79,8 +78,9 @@ for the lessons, friendships, and memories that I will always carry with
 me.</p>
 <p>Thank you, Pei Tong, for being a place where I truly grew, not just as
 a student, but as an individual ready to take on the world.</p>
-<p></p>
-<p></p>
+<p><strong><em>Joy Tan<br>Class of 2023</em></strong>
+</p>
+<hr>
 <blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/suga.jpg">
@@ -114,7 +114,7 @@ at Pei Tong. Their passion for teaching has left a lasting impact on my
 life, and I am truly fortunate to have been under their guidance.</p>
 <p><strong><em>Gayathri Suresh Harisugaritha<br>Class of 2022</em></strong>
 </p>
-<p></p>
+<hr>
 <blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/kaeden.jpg">
@@ -150,10 +150,9 @@ significant role in shaping me into the person I am today.</p>
 <p><strong><em>Kaeden Niam<br>Class of 2022</em></strong>
 </p>
 <hr>
-<p></p>
 <blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/yujay.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/yujay.jpg">
 </div>
 </blockquote>
 <p>Pei Tong Primary School has been a significant part of my life, shaping
@@ -172,7 +171,6 @@ valuable lessons and experiences that have contributed to my personal growth.</p
 <p><strong><em>Ng Yu Jay<br>Class of 2022</em></strong>
 </p>
 <hr>
-<p></p>
 <blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Fiona.jpg">
@@ -291,7 +289,7 @@ soon!</p>
 <hr>
 <blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/min%20yi%20ong.jpeg">
+<img style="width: 30%;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/min%20yi%20ong.jpeg">
 </div>
 </blockquote>
 <p>Pei Tong has given me a conducive environment and opportunities to succeed,

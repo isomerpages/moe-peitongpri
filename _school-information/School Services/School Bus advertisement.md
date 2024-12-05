@@ -7,14 +7,13 @@ third_nav_title: School Services
 ---
 <h2>School Bus Advertisement</h2>
 <p>&nbsp;</p>
-<p><u>DKJ Transport Service</u>
-</p>
+<h4>DKJ Transport Service</h4>
 <p>Please contact the Operation Manager, Mr. Leo Baiming on School Bus transport
 matters.</p>
 <p>If you are unable to contact Mr. Leo via call, please send him a message
 via SMS.</p>
 <p>HP: 98188830</p>
-<p>Email: <a href="peitong2025@gmail.com" rel="noopener noreferrer nofollow" target="_blank">peitong2025@gmail.com</a>
+<p>Email: <a href="mailto:peitong2025@gmail.com" rel="noopener noreferrer nofollow" target="_blank">peitong2025@gmail.com</a>
 </p>
 <p>&nbsp;</p>
 <p>Period: 1 Jan 2025 to 31 Dec 2026</p>

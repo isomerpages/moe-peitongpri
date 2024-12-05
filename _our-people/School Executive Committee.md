@@ -4,9 +4,9 @@ permalink: /our-people/exco/
 description: ""
 variant: tiptap
 ---
-<h1>School Executive Committee</h1>
-<p><a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofollow" target="_blank">Contact Us</a>
-</p>
+<h3>Contact Information</h3>
+<p>Visit this page for details on how to get in touch with us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofollow" target="_blank">Contact Us</a>.</p>
+<hr>
 <h2>School Leaders</h2>
 <table style="minWidth: 50px">
 <colgroup>
@@ -299,4 +299,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<h3><a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofollow" target="_blank">Contact Us</a></h3>
 <p></p>

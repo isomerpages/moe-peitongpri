@@ -4,7 +4,7 @@ permalink: /ptps-experience/cca/
 description: ""
 variant: tiptap
 ---
-<h1>CCA @ Pei Tong</h1>
+<h2>CCA @ Pei Tong</h2>
 <p>At Pei Tong Primary School, we believe in providing a holistic experience
 for every child. CCAs allow our students to discover their interests and
 talents outside the classroom and promote interactions and friendships

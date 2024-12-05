@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Mother Tongue
 variant: tiptap
 ---
-<h1>Overview</h1>
+<h2>Overview</h2>
 <p>Students learn Tamil through authentic experiences, with lessons themed
 around various real-life scenarios that allow them to apply the language
 skills and knowledge they have gained.</p>

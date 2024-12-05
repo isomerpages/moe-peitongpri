@@ -4,9 +4,7 @@ permalink: /our-people/pei-tong-alumni/
 description: ""
 variant: tiptap
 ---
-<h1>Pei Tong Alumni</h1>
 <h2>Upcoming Event</h2>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS_80TH_ALUMNI_POSTER__2_.png">
 </div>
@@ -22,7 +20,7 @@ stay connected of upcoming alumni events and gatherings.</p>
 <p>
 <br>Let’s come together to honour 80 amazing years of Pei Tong’s legacy!
 <br>💙 #PTPS80</p>
-<p></p>
+<hr>
 <h2>Join Alumni</h2>
 <p>To join our PTPS Alumni officially, please&nbsp;<a href="https://go.gov.sg/ptpsalumniregistration" rel="noopener noreferrer nofollow" target="_blank">complete this form</a>.
 <br>This record is required as part of Phase 2A of P1 registration.</p>

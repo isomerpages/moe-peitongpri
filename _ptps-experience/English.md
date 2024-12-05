@@ -4,8 +4,7 @@ permalink: /ptps-experience/english/
 description: ""
 variant: tiptap
 ---
-<h1>Overview</h1>
-<h3>Our Vision</h3>
+<h2>Our Vision</h2>
 <blockquote>
 <p><em>Our students will be empathetic communicators, discerning readers and creative enquirers.</em>
 </p>

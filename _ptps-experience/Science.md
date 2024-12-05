@@ -4,8 +4,7 @@ permalink: /ptps-experience/science/
 description: ""
 variant: tiptap
 ---
-<h1>Overview&nbsp;</h1>
-<h3>Our Vision</h3>
+<h2>Our Vision</h2>
 <blockquote>
 <p><em>To inspire and develop students as innovative inquirers</em>
 </p>
