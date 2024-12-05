@@ -59,7 +59,9 @@ variant: tiptap
 am -7.00 pm.</p>
 <p>If you register, your child will be in KCare before and after your child’s
 MK session, providing the convenience of a full-day service.</p>
-<h4>NASCANS</h4>
+<p>The KCare contact information is as follows:</p>
+<p><strong><u>NASCANS</u></strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
