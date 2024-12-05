@@ -5,17 +5,18 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width:25%" height="auto" width="100%" src="/images/Our%20Partners/PTPS%20PSG%20logo_high%20res.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSG/PTPS PSG logo_high res.png">
 </div>
 <p>Our Pei Tong Parent Support Group (PSG) consists of parents with varied
 interests and talents and has served as a vital partner to the school over
 the years.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partners/2024_PSG.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2024_PSG.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Partners/2024_PSG_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2024_PSG_2.png">
 </div>
 <p>Other than providing feedback, our PSG has helped to support the school
 in programmes, such as learning journeys and recess activities. Over the
