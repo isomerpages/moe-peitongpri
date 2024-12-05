@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-<h1>Overview</h1>
+<h2>Overview</h2>
 <p>Character Education is the cornerstone of every Pei Tong student’s school
 experience. Here in Pei Tong, we seek to&nbsp;<strong>ground all students in values</strong>&nbsp;and
 develop them in&nbsp;<strong>Personal Mastery, Resilience, Citizenry</strong>&nbsp;and&nbsp;<strong>Leadership</strong>.</p>
