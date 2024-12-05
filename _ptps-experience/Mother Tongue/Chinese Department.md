@@ -5,12 +5,13 @@ description: ""
 third_nav_title: Mother Tongue
 variant: tiptap
 ---
-<h1>Overview</h1>
+<h2>Overview</h2>
 <p>The Chinese Department focuses on creating an authentic and engaging learning
 environment, where students are supported in mastering Chinese and developing
 confidence in using the language in everyday situations. Through this approach,
 students enhance their language proficiency, improve communication skills,
 and gain a deeper appreciation for the language and culture.</p>
+<hr>
 <h2>Authentic Learning</h2>
 <p>Authentic Learning allows students to learn Chinese through authentic
 learning experiences where lessons have different themes or scenarios to
@@ -58,6 +59,7 @@ activities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/Mother%20Tongue/Photograph_9.jpg">
 </div>
+<hr>
 <h2>Joy Of Learning</h2>
 <p>To foster a love for learning Chinese, engaging language games and activities
 are introduced to students, going beyond the textbook. These initiatives
@@ -75,6 +77,6 @@ in using the language.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/Mother%20Tongue/Photograph_12.jpg">
 </div>
-<h4>Chinese E-Gallery</h4>
+<h2>Chinese E-Gallery</h2>
 <p><a href="https://sites.google.com/moe.edu.sg/studentsportfolio/home" rel="noopener noreferrer nofollow" target="_blank">Click Here!</a>
 </p>
