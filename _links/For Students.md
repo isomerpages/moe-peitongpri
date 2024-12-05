@@ -8,7 +8,7 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal</a>
-<br><em>(Students can access Google Workspace/ Classroom by clicking on ICON after they have logged in through the MIMS Portal)</em>
+<br><em><sub>(Students can access Google Workspace/ Classroom by clicking on ICON after they have logged in through the MIMS Portal)</sub></em>
 </p>
 </li>
 <li>
@@ -24,11 +24,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://kahoot.it/" rel="noopener noreferrer nofollow" target="_blank">Kahoot!</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener noreferrer nofollow" target="_blank">Myskillsfuture (Pri)</a>
+<p><a href="https://go.gov.sg/mysfpri" rel="noopener noreferrer nofollow" target="_blank">Myskillsfuture (Pri)</a>
 </p>
 </li>
 </ul>

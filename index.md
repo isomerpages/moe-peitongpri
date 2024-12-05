@@ -14,12 +14,12 @@ sections:
           url: /highlights
         - title: FOR PARENTS
           description: ""
-          url: /parents-portal/school-terms-and-holidays/
+          url: /parents-portal/information-for-parents/
         - title: FOR STUDENTS
           description: ""
           url: /ptps/links/for-students/
         - title: FOR STAFF
           description: ""
           url: /ptps/links/for-teachers/
-      variant: center
+      variant: image
 ---

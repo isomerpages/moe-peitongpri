@@ -7,14 +7,6 @@ variant: tiptap
 <h1>Quick Links</h1>
 <ul>
 <li>
-<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Google Workspace (Previously iCON 2.0)</a>
-</p>
-</li>
-<li>
-<p><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">Resource Booking Service (RBS)</a>
-</p>
-</li>
-<li>
 <p><a href="https://scmobile.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SC Mobile</a>
 </p>
 </li>
@@ -23,11 +15,19 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Google Workspace</a>
+</p>
+</li>
+<li>
+<p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">All Ears Form Builder</a>
+</p>
+</li>
+<li>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
 </p>
 </li>
 <li>
-<p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">All Ears Form Builder (Form SG for MOE)</a>
+<p><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">Resource Booking Service (RBS)</a>
 </p>
 </li>
 <li>
@@ -107,19 +107,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener noreferrer nofollow" target="_blank">Myskillsfuture (Pri)</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.peitongpri.moe.edu.sg/our-gallery/photo-gallery/" rel="noopener noreferrer nofollow" target="_blank">PTPS Photo Gallery</a>
-</p>
-</li>
-<li>
-<p><a href="https://sites.google.com/moe.edu.sg/ptpsart" rel="noopener noreferrer nofollow" target="_blank">PTPS Art E-Gallery</a>
-</p>
-</li>
-<li>
-<p><a href="https://schoolibrary.moe.edu.sg/peitongpri/" rel="noopener noreferrer nofollow" target="_blank">PTPS Library</a>
+<p><a href="https://go.gov.sg/mysfpri" rel="noopener noreferrer nofollow" target="_blank">Myskillsfuture (Pri)</a>
 </p>
 </li>
 </ul>
