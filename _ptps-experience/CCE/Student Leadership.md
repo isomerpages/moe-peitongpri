@@ -5,11 +5,11 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-<h4>Our Vision</h4>
-<p>Every child an <strong>e</strong>xemplary role model who is <strong>e</strong>nthusiastic
-and passionate, strives for <strong>e</strong>xcellence, <strong>e</strong>mpowers
-and enables the team, and <strong>e</strong>ncourages peers to be good and
-do good.</p>
+<h2>Our Vision</h2>
+<blockquote>
+<p><em>Every child an </em><strong><em>e</em></strong><em>xemplary role model who is </em><strong><em>e</em></strong><em>nthusiastic and passionate, strives for </em><strong><em>e</em></strong><em>xcellence, </em><strong><em>e</em></strong><em>mpowers and enables the team, and </em><strong><em>e</em></strong><em>ncourages peers to be good and do good.</em>
+</p>
+</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/CCE/Student_leadership_5E_traits.jpg">
