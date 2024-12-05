@@ -4,7 +4,6 @@ permalink: /school-information/vision-mission-and-motto/
 description: ""
 variant: tiptap
 ---
-<h1>Vision, Mission and Motto</h1>
 <h2>Vision</h2>
 <p>Every child a <strong>passionate learner</strong>, a <strong>resilient individual</strong> and <strong>gracious citizen</strong>
 </p>
