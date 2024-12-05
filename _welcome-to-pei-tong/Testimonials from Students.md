@@ -5,11 +5,9 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/2024_Valedi__2_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/2024_Valedi__2_.jpg">
 </div>
-</blockquote>
 <p>Pei Tong Primary School has played a pivotal role in shaping who I am
 today, both as a student and as a person. When I joined Pei Tong in Primary
 5, I faced many challenges as I adjusted to a new language, culture, and
@@ -44,11 +42,9 @@ you’ll thrive.</p>
 </p>
 <hr>
 <p></p>
-<blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/2024_Valedi__1_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/2024_Valedi__1_.jpg">
 </div>
-</blockquote>
 <p>Pei Tong Primary School holds a special place in my heart, and I am incredibly
 grateful for the experiences and lessons I gained here. Now, as a student
 at Nanyang Girls' High, I often reflect on my time at Pei Tong and the
@@ -81,11 +77,10 @@ a student, but as an individual ready to take on the world.</p>
 <p><strong><em>Joy Tan<br>Class of 2023</em></strong>
 </p>
 <hr>
-<blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/suga.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/suga.jpg">
 </div>
-</blockquote>
 <p>Amidst the various experiences that have influenced my character, my time
 at Pei Tong Primary School (Pei Tong) holds a special significance. Pei
 Tong is a nurturing environment where achievements are celebrated, and
@@ -115,11 +110,10 @@ life, and I am truly fortunate to have been under their guidance.</p>
 <p><strong><em>Gayathri Suresh Harisugaritha<br>Class of 2022</em></strong>
 </p>
 <hr>
-<blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/kaeden.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/kaeden.jpg">
 </div>
-</blockquote>
 <p>I am a proud graduate of Pei Tong Primary School from the class of 2022,
 currently pursuing my studies at NUS High School of Mathematics and Science.</p>
 <p>During my six-year academic journey at Pei Tong, I had the privilege of
@@ -150,11 +144,10 @@ significant role in shaping me into the person I am today.</p>
 <p><strong><em>Kaeden Niam<br>Class of 2022</em></strong>
 </p>
 <hr>
-<blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/yujay.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/yujay.jpg">
 </div>
-</blockquote>
 <p>Pei Tong Primary School has been a significant part of my life, shaping
 me into the person I am today. Over the six years I spent there, I learned
 and grew immensely, thanks to the support of my friends and teachers.</p>
@@ -171,11 +164,10 @@ valuable lessons and experiences that have contributed to my personal growth.</p
 <p><strong><em>Ng Yu Jay<br>Class of 2022</em></strong>
 </p>
 <hr>
-<blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Fiona.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/Fiona.jpg">
 </div>
-</blockquote>
 <p>During my six years at Pei Tong Primary School, I formed a deep appreciation
 for the dedicated teachers who guided me through each level. They not only
 imparted knowledge but also created lasting memories and supported me both
@@ -189,11 +181,10 @@ six years.</p>
 <p><strong><em>Fiona Yap<br>Class of 2021</em></strong>
 </p>
 <hr>
-<blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:45%;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/Rynna%20Tan%20en%20qi%20Hyss.jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/Rynna Tan en qi Hyss.jpeg">
 </div>
-</blockquote>
 <p>Pei Tong is special to me because it is a place where we students can
 enjoy, play, study and make new friends. It is also a place where care
 is readily provided whenever we need it.</p>
@@ -236,11 +227,10 @@ Primary School.</p>
 <p><strong><em>Ee Arwen Elizabeth<br>Class of 2021</em></strong>
 </p>
 <hr>
-<blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:45%;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/testimonial%20-%20Raeann%20Goh%20jing%20en%20Krss.jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/testimonial - Raeann Goh jing en Krss.jpeg">
 </div>
-</blockquote>
 <p>Pei Tong is a special school to me as it is a place that holds many precious
 memories for me.&nbsp;</p>
 <p>The teachers work hard and try their best to make their lessons as fun
@@ -260,11 +250,9 @@ and enjoyable experience being at Pei Tong for 6 years!</p>
 <br><strong><em>Class of 2020</em></strong>
 </p>
 <hr>
-<blockquote>
 <div class="isomer-image-wrapper">
-<img style="width:35%;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/rynna%20give%20rice%20-%20Rynna%20Tan.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/rynna give rice - Rynna Tan.jpg">
 </div>
-</blockquote>
 <p>Pei Tong is special to me because it’s a place full of memories and a
 place that made me feel like it was a place where I belonged.&nbsp;</p>
 <p>Teachers and counsellors in Pei Tong are nice and friendly. Teachers work
@@ -287,11 +275,10 @@ soon!</p>
 <br><strong><em>Class of 2020</em></strong>
 </p>
 <hr>
-<blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/min%20yi%20ong.jpeg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/min yi ong.jpeg">
 </div>
-</blockquote>
 <p>Pei Tong has given me a conducive environment and opportunities to succeed,
 learn new skills, as well as make new friends.&nbsp;</p>
 <p>Back when I was in Primary 3, initially I wanted to join badminton as
@@ -329,11 +316,10 @@ I would not have been the person that I am today.&nbsp;</p>
 <br><strong><em>Class of 2018</em></strong>
 </p>
 <hr>
-<blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:20%;" height="auto" width="100%" src="/images/Welcome%20to%20Pei%20Tong/nurin%20batrisyia%20Mohamed%20ali%20Ctss.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/nurin batrisyia Mohamed ali Ctss.jpg">
 </div>
-</blockquote>
 <p>Pei Tong is special to me because when I moved to the west side of Singapore,
 I did not have many friends. Pei Tong has helped me meet new people whom
 I am still friends with till this day.</p>
@@ -356,6 +342,10 @@ to go back to visit the school when this Covid-19 situation improves.</p>
 <br><strong><em>Class of 2018</em></strong>
 </p>
 <hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/sze yeeng tan.jpeg">
+</div>
 <p>Pei Tong is special to me as it is a place where many important values
 had been instilled in me. Pei Tong has many fun, engaging as well as bonding
 activities and excursions for all the students. Nonetheless, Pei Tong offers
