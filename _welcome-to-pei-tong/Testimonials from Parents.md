@@ -4,7 +4,6 @@ permalink: /welcome-to-pei-tong/testimonials-from-parents/
 description: ""
 variant: tiptap
 ---
-<h1>📢 Testimonials from Parents</h1>
 <p>My daughter was part of the graduating class of 2023 at Pei Tong Primary
 School, and I couldn't be more impressed with the teachers, especially
 Mr. Husni and Mr. Chua. Their dedication and professionalism in providing
