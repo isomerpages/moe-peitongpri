@@ -13,15 +13,18 @@ variant: tiptap
 who can apply mathematical concepts and skills effectively in everyday
 life.</p>
 <p>At Pei Tong Primary School, students engage in activity-based lessons
-using the Concrete-Pictorial-Abstract (CPA) approach. Through hands-on
-activities and collaborative group work, they develop logical reasoning
-and learn to communicate mathematical ideas clearly.</p>
+using the <strong>Concrete-Pictorial-Abstract (CPA)</strong> approach. Through
+hands-on activities and collaborative group work, they develop logical
+reasoning and learn to communicate mathematical ideas clearly.</p>
 <p>These methods build numeracy skills, spark a deeper interest in Mathematics,
 and empower students to approach challenges with confidence and creativity.</p>
 <hr>
 <h2>Mathematics Made Meaningful (M³)</h2>
 <p>A child learns best through ‘play’, which is why we aim to make learning
 both enjoyable and meaningful.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/Math/M3-Circles.jpg">
+</div>
 <p>At Pei Tong Primary School, students participate in hands-on learning
 experiences that make mathematical concepts more engaging. Their understanding
 is strengthened through the use of manipulatives and technology, which
@@ -29,9 +32,6 @@ help bring abstract ideas to life.</p>
 <p>In group work, teachers use Talk Moves to encourage students to explain
 and reason through their thinking, building their confidence as problem-solvers
 and improving their ability to communicate their ideas clearly.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/Math/M3-Circles.jpg">
-</div>
 <hr>
 <h2>Mastery in Mathematics (M²)</h2>
 <p>Each child learns differently, and we provide resources to meet diverse
@@ -39,12 +39,12 @@ learning needs.</p>
 <p>Mastery worksheets focus on Numbers to build foundational numeracy skills.
 Problem-solving packages, based on Polya’s 4-step Problem-Solving Techniques,
 are introduced at each level to strengthen thinking skills.</p>
-<p>Selected upper primary students participate in the E2K Mathematics Programme,
-an MOE enrichment initiative that enhances mathematical reasoning and conceptual
-understanding through inquiry-based learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/Math/M2-%20AR.jpeg">
 </div>
+<p>Selected upper primary students participate in the E2K Mathematics Programme,
+an MOE enrichment initiative that enhances mathematical reasoning and conceptual
+understanding through inquiry-based learning.</p>
 <hr>
 <h2>Learning Support for Mathematics (LSM)</h2>
 <p>The Learning Support for Mathematics (LSM) programme is a specialised
@@ -54,6 +54,7 @@ numeracy skills. Primary 1 students are screened and selected for the programme.
 teachers during lessons, with small group sessions for more focused attention.
 If needed, learning support may continue in Primary 3 to further meet the
 learning needs of these students.</p>
+<hr>
 <h2>Improving Confidence and Achievement in Numeracy (ICAN)</h2>
 <p>All children can learn. The ICAN programme is a collaboration between
 schools and MOE to support low-progress learners beyond Primary 2, helping
@@ -71,9 +72,6 @@ to strengthen students' conceptual understanding and procedural fluency.</p>
 <li>
 <p>Focus on factual fluency and interleaved distributed practice to help
 students regularly recall and revise basic facts.</p>
-</li>
-<li>
-<p></p>
 </li>
 </ul>
 <hr>
