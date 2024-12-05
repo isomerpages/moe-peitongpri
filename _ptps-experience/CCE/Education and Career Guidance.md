@@ -15,7 +15,7 @@ play, they will also learn to incorporate their initial preferences into
 occupational roles.</p>
 <h2>My Skills-Future Student Portal</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/MySkillsFuture%20Website.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PTPS Experience/CCE/MySkillsFuture Website.jpg">
 </div>
 <p>MySkillsFuture is a one-stop education and career guidance (ECG) portal
 that supports students in making education and career decisions across
@@ -25,11 +25,19 @@ Singapore Education Landscape and learn more about the World of Work through
 videos and over 1000 job role information.</p>
 <p>MySkillsFuture Student Portal is accessible to all students from Primary
 5 to Pre-University.</p>
+<hr>
 <h2>Links</h2>
 <h4>MySkillsFuture Portal</h4>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture Portal (Primary)</a>
-<br><a href="https://youtu.be/i9fpBx9xeGU" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture Introductory Video</a>
 </p>
+</li>
+<li>
+<p><a href="https://youtu.be/i9fpBx9xeGU" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture Introductory Video</a>
+</p>
+</li>
+</ul>
 <h4>More information on various topics can be found below:</h4>
 <ul data-tight="true" class="tight">
 <li>
