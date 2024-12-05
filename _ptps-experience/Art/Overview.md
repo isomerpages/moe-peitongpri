@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Art
 variant: tiptap
 ---
-<h1>Overview</h1>
+<h2>Overview</h2>
 <blockquote>
-<h3>Art is Empowering</h3>
+<h3><em>Art is Empowering</em></h3>
 </blockquote>
 <p>The Art Department aims to provide opportunities for adaptive and inventive
 thinking, foster communication and global awareness, and promote character
