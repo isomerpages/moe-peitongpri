@@ -40,7 +40,7 @@ learning needs.</p>
 Problem-solving packages, based on Polya’s 4-step Problem-Solving Techniques,
 are introduced at each level to strengthen thinking skills.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/Math/M2-%20AR.jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/Math/M2-%20AR.jpeg">
 </div>
 <p>Selected upper primary students participate in the E2K Mathematics Programme,
 an MOE enrichment initiative that enhances mathematical reasoning and conceptual
