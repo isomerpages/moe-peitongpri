@@ -2,6 +2,7 @@ collections:
   our-gallery:
     output: true
     order:
+      - 2024.md
       - Photo Gallery.md
       - 2023.md
       - 2022/.keep
