@@ -4,7 +4,7 @@ permalink: /ptps-experience/ict/
 description: ""
 variant: tiptap
 ---
-<h1>Overview</h1>
+<h2>Overview</h2>
 <p>The ICT Programmes in Pei Tong Primary School are planned to support a
 community of curious and self-directed learners empowered with technology
 tools. This is done through a 3-pronged approach of equipping and allowing
