@@ -21,5 +21,5 @@ sections:
         - title: FOR STAFF
           description: ""
           url: /ptps/links/for-teachers/
-      variant: center
+      variant: image
 ---
