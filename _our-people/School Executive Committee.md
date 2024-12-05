@@ -300,5 +300,3 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h3><a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofollow" target="_blank">Contact Us</a></h3>
-<p></p>

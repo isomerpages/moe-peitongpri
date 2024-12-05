@@ -24,28 +24,10 @@ contacts:
       - other: "Fax: +65 6778 9784"
     title: General Enquiries & Feedback
   - content:
-      - phone: +65 8909 1679
+      - phone: ""
       - email: ""
-      - other: ""
-    title: School Dental Clinic
-  - content:
-      - phone: +65 9743 9235
-      - email: ""
-      - other: Sin Koon Seng Enterprise
-    title: School Bus Vendor
-  - content:
-      - phone: +65 6592 5713
-      - email: ""
-      - other: "Popular Book Co<br><br>Operating hours during school term:<br>For
-          Students: 8.30am - 4pm <br>For Parents/guardians: 2pm-4pm only"
-    title: School Bookshop
-  - content:
-      - phone: +65 6466 5697
-      - email: ""
-      - other: "Finest Fashion Centre<br><br>Beauty World Centre #B1-03144  <br>Upper
-          Bukit Timah Road Singapore 588177  <br><br>School uniform and PE
-          attire are available for purchase at the school bookshop from 2pm -
-          4pm on school days."
-    title: School Uniform
+      - other: Please click on "School Services" under the "School Information" top bar
+          for contact information of bookshop, bus vendor, dental service etc.
+    title: School Services
 feedback: /our-people/saythanksptps/
 ---

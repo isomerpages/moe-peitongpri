@@ -1,8 +1,6 @@
 ---
 title: FAQ
 permalink: /faq/
+variant: tiptap
 ---
-### **FAQ**
-
-Under construction.<br>
-Should you have any queries, please [contact us here](/contact-us). 
+<p>Should you have any queries, please <a href="/contact-us" rel="noopener noreferrer nofollow" target="_blank">contact us here</a>.</p>
