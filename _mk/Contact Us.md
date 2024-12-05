@@ -43,7 +43,7 @@ variant: tiptap
 <p>Email</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><a href="mk_peitong@moe.edu.sg" rel="noopener nofollow" target="_blank">mk_peitong@moe.edu.sg</a>
+<p><a href="mailto:mk_peitong@moe.edu.sg" rel="noopener nofollow" target="_blank">mk_peitong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -80,7 +80,7 @@ MK session, providing the convenience of a full-day service.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="supervisor.ptkcc@nascans.com" rel="noopener nofollow" target="_blank">supervisor.ptkcc@nascans.com</a>
+<p><a href="mailto:supervisor.ptkcc@nascans.com" rel="noopener nofollow" target="_blank">supervisor.ptkcc@nascans.com</a>
 </p>
 </td>
 </tr>
