@@ -13,8 +13,7 @@ Gateway App (refer to image below for a guide).</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG_contacts2.jpg">
 </div>
 <p>Alternatively, visit this page for details on how to get in touch with
-us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofollow" target="_blank">Contact Us</a>
-</p>
+us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofollow" target="_blank">Contact Us</a>.</p>
 <hr>
 <h2>2024 Staff List</h2>
 <table style="minWidth: 75px">
