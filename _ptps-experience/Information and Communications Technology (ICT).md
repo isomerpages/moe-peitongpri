@@ -18,6 +18,10 @@ students to explore new ICT skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/ICT/P2.png">
 </div>
+<p></p>
+<h4>P3 and 4 Digital Competencies Lessons&nbsp;<strong>&nbsp;</strong></h4>
+<p></p>
+<p></p>
 <h4>P4 Code-for-Fun</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/ICT/P4.png">
