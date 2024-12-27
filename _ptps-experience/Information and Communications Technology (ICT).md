@@ -5,11 +5,20 @@ description: ""
 variant: tiptap
 ---
 <h2>Overview</h2>
-<p>The ICT Programmes in Pei Tong Primary School are planned to support a
-community of curious and self-directed learners empowered with technology
-tools. This is done through a 3-pronged approach of equipping and allowing
-the achievement of digital literacy and technological skills and enthusing
-students to explore new ICT skills.</p>
+<p>The ICT programmes at Pei Tong Primary School are designed to cultivate
+a community of curious, self-directed learners empowered with technology
+tools. We aim to develop every student into a digitally-empowered and digitally
+literate individual. To achieve this, we equip them with essential digital
+literacy and technological skills, such as effective searching and coding.</p>
+<p>Recognising the importance of cyber wellness, we offer engaging activities
+to help our students acquire the knowledge they need to use technology
+safely and responsibly.</p>
+<p>Students have opportunities to apply their learning both inside and outside
+the classroom. They collaborate and use digital tools to co-construct and
+share knowledge with peers. Through this approach, we aim to inspire our
+students to explore new ICT competencies and effectively manage their learning
+with a variety of digital tools and resources.</p>
+<p></p>
 <h4>P1 Screen-less Coding</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS%20Experience/ICT/P1_Coding.png">
