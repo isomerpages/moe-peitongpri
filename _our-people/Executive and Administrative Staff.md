@@ -186,7 +186,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Dave</p>
+<p>Mr Devetharan</p>
 </td>
 </tr>
 <tr>
