@@ -126,7 +126,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Toh Li Hiong (Zhuo Lixiang)</p>
+<p>Mdm Toh Li Hiong</p>
 </td>
 </tr>
 <tr>
