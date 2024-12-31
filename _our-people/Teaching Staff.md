@@ -4,9 +4,7 @@ permalink: /our-people/teaching-staff/
 variant: tiptap
 description: ""
 ---
-<h2>2025 Staff List</h2>
-<p>Staff information for 2025 will be updated soon.</p>
-<h2>Form Teachers' Contact Information</h2>
+<h3>Form Teachers' Contact Information</h3>
 <p>Your child’s Form Teachers’ email addresses can be found in the Parents
 Gateway App (refer to image below for a guide).</p>
 <div class="isomer-image-wrapper">
