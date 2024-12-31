@@ -4,7 +4,7 @@ permalink: /our-people/teaching-staff/
 variant: tiptap
 description: ""
 ---
-<h2>Form Teachers' Contact Information</h2>
+<h3>Form Teachers' Contact Information</h3>
 <p>Your child’s Form Teachers’ email addresses can be found in the Parents
 Gateway App (refer to image below for a guide).</p>
 <div class="isomer-image-wrapper">
