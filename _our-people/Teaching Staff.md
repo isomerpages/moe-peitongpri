@@ -731,7 +731,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Liow Zhng Fa</p>
+<p>Mr Liow Zhong Fa</p>
 </td>
 </tr>
 <tr>
@@ -787,7 +787,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 <p>Ms Choi Clarissa Ming Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Irene Toh Li Hiong</p>
+<p>Ms Toh Li Hiong</p>
 </td>
 </tr>
 <tr>
