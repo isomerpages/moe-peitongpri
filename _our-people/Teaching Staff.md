@@ -15,7 +15,7 @@ Gateway App (refer to image below for a guide).</p>
 <p>Alternatively, visit this page for details on how to get in touch with
 us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofollow" target="_blank">Contact Us</a>.</p>
 <hr>
-<h2>2024 Staff List</h2>
+<h2>2025 Staff List</h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -63,10 +63,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Woon Tricia</p>
+<p>Ms Emily Chor Wai Si</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ma Yuan Yuan</p>
+<p>Mdm Julie Binte Abdullah</p>
 </td>
 </tr>
 <tr>
@@ -75,10 +75,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norshafiza</p>
+<p>Mdm Tham Irene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Janet</p>
+<p>Mdm Tan Siau Hoon (Cl)</p>
 </td>
 </tr>
 <tr>
@@ -87,10 +87,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chan – Lee Rebecca</p>
+<p>Mdm Fairuz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Syafinah</p>
+<p>Mdm Lee Pei Shan</p>
 </td>
 </tr>
 <tr>
@@ -99,10 +99,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shanthi</p>
+<p>Ms Siti Syakilla</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Zi Kai</p>
+<p>Mdm Quek Tinghui</p>
 </td>
 </tr>
 <tr>
@@ -111,10 +111,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim – Ang Bee Kuan</p>
+<p>Mdm Yu Siew Hui Sandy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Leow - Chia Pei San</p>
+<p>Mr Yusri</p>
 </td>
 </tr>
 <tr>
@@ -123,10 +123,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Quek Luke</p>
+<p>Mdm Yar King Looi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Mariam</p>
+<p>Miss Siti Nurulsyafiqah</p>
 </td>
 </tr>
 <tr>
@@ -135,10 +135,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Jonah (AYH P1 &amp; P2)</p>
+<p>Mdm Lee Junmin Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Abitha</p>
+<p>Mdm Chua Seow Cheng Desiree (Cl)</p>
 </td>
 </tr>
 <tr>
@@ -147,21 +147,22 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chia Foong Yin</p>
+<p>Mdm Azlinda Bte Bakar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Au Chuin Yin</p>
+<p>Mdm Low Shu Min (Cl)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Brindhadevi (Tl) (Fajt</p>
 </td>
 </tr>
 <tr>
@@ -204,21 +205,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kong Yanli Karen</p>
+<p>Mrs Woon-Poh Hui Ching Tricia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Pei Shan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jeniece Oon</p>
+<p>Ms Isfarina</p>
 </td>
 </tr>
 <tr>
@@ -227,10 +217,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chia Cai Yun</p>
+<p>Ms Norshafiza</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chua Desiree</p>
+<p>Mdm Goh Chen Chen Janet</p>
 </td>
 </tr>
 <tr>
@@ -239,10 +229,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yu Sandy</p>
+<p>Mrs Chan-Lee Su Wei Rebecca</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Lee Wah Jerrine</p>
+<p>Ms Nur Syafinah (Ml)</p>
 </td>
 </tr>
 <tr>
@@ -251,10 +241,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Grace</p>
+<p>Mdm Lim Sok Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Syafiqah</p>
+<p>Mr Lim Zi Kai</p>
 </td>
 </tr>
 <tr>
@@ -263,10 +253,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Syakilla</p>
+<p>Mrs Lim-Ang Bee Kuan Veron</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Fong Averyl</p>
+<p>Mr Li Yiming, Bernard</p>
 </td>
 </tr>
 <tr>
@@ -275,10 +265,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fairuz</p>
+<p>Mr Quek Joo Yoong Luke</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Siau Hoon</p>
+<p>Mdm Joanne Ho Lai Yeng</p>
 </td>
 </tr>
 <tr>
@@ -287,10 +277,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yar King Looi</p>
+<p>Mr Lim Teo Kwee Jonah (Ayh/Lp)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Julie</p>
+<p>Mdm Jiang Xihua (Cl)</p>
 </td>
 </tr>
 <tr>
@@ -299,33 +289,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tham Irene</p>
+<p>Mdm Chia Foong Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kanmani</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Respect 9</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Chor Emily</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Wong Jermayne</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Au Chuin Yin (Cl)</p>
 </td>
 </tr>
 <tr>
@@ -344,10 +311,11 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Assistant Year Head:</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Ms Suria</p>
 </td>
 </tr>
 <tr>
@@ -367,10 +335,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Husni</p>
+<p>Ms Yong Huiwen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Sim Wan’er</p>
+<p>Miss Lee Rui Ching</p>
 </td>
 </tr>
 <tr>
@@ -379,10 +347,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kan Amanda</p>
+<p>Mdm Norizainum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Morris</p>
+<p>Miss Jermayne Wong Hsi Hui</p>
 </td>
 </tr>
 <tr>
@@ -391,10 +359,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hsu Ashley</p>
+<p>Mdm Chia Chai Yun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jiang Xihua</p>
+<p>Ms Lee Chin Lin Jacqueline</p>
 </td>
 </tr>
 <tr>
@@ -403,10 +371,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tay Siew Gee</p>
+<p>Ms Suria</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wee Khang Ping</p>
+<p>Ms Teh Xiaowen Noelle</p>
 </td>
 </tr>
 <tr>
@@ -415,10 +383,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Kelvin</p>
+<p>Ms Yap Shi Mei Erika</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Isfarina</p>
+<p>Mdm Nor Zakiah Bte Arif</p>
 </td>
 </tr>
 <tr>
@@ -427,10 +395,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Li Jiande</p>
+<p>Mr Ramesh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Duan Tiandi</p>
+<p>Miss Farhana (Ml)</p>
 </td>
 </tr>
 <tr>
@@ -439,10 +407,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Goh Vanessa</p>
+<p>Ms Teo Tze Yue, Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yusri Mahfuz</p>
+<p>Mdm Teo Eng Hong (Cl)</p>
 </td>
 </tr>
 <tr>
@@ -472,10 +440,11 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Assistant Year Head:</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Ms Suria</p>
 </td>
 </tr>
 <tr>
@@ -495,10 +464,22 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Shazwan</p>
+<p>Mr Muhammad Husni</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yeo Cheng Yong</p>
+<p>Ms Sim Wan'er (Cl)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Shi Wei</p>
 </td>
 </tr>
 <tr>
@@ -507,21 +488,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Liow Zhong Fa</p>
+<p>Ms Kan Hui Ning Amanda</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zakiah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Teo Tze Yue, Joy</p>
+<p>Mr Koh Leong Seng Morris</p>
 </td>
 </tr>
 <tr>
@@ -530,10 +500,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chong Tjen Ken</p>
+<p>Mr Ashley Hsu Kai Wai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chow Sally</p>
+<p>Mr Tan Chye Chong Keith</p>
 </td>
 </tr>
 <tr>
@@ -542,10 +512,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Leow Guohao</p>
+<p>Ms Shermaine Chua Si Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Hean Choon</p>
+<p>Mdm Nur Hafizah Bte Mohd Rashib (Ml)</p>
 </td>
 </tr>
 <tr>
@@ -554,10 +524,22 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chua Shermaine</p>
+<p>Mr Chua Chin Wee Kelvin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yu Leun Alan</p>
+<p>Ms Yeo Cheng Yong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Khoo Juliet (Hod/El)</p>
 </td>
 </tr>
 <tr>
@@ -566,10 +548,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Yeo - Ng Lai Peng</p>
+<p>Mr Li Jiande (St/Math)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ho - Sek Yee Yong</p>
+<p>Mdm Duan Tiandi (Cl)</p>
 </td>
 </tr>
 <tr>
@@ -578,21 +560,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Clarissa</p>
+<p>Mrs Vanessa Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Quek Ting Hui</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ho-Sek Yee Yong (Hod Science)</p>
 </td>
 </tr>
 <tr>
@@ -606,7 +577,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Tan Mike</p>
+<p>Mr Liow Zhong Fa</p>
 </td>
 </tr>
 <tr>
@@ -635,10 +606,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sim Huili</p>
+<p>Mr Fong Zhen Hsiung Pierre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan - Chen Chai Kim</p>
+<p>Mr Tan Boon Tiong Mike</p>
 </td>
 </tr>
 <tr>
@@ -647,10 +618,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Darren</p>
+<p>Mdm Chow Sally</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Brindhadevi</p>
+<p>Mr Chong Tjen Ken</p>
 </td>
 </tr>
 <tr>
@@ -659,30 +630,34 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Choi Clarissa</p>
+<p>Mr Leow Guohao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Melvin</p>
+<p>Mdm Li Xiaoxi (Cl</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>Resilience 4</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Low Bryan</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ling Tien Tien</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Resilience 4</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Sen Lee</p>
+<p>Ms Clarissa Lim Jia Yin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chang Hao Yi Diana</p>
 </td>
 </tr>
 <tr>
@@ -691,32 +666,70 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Koh - Ong Karen</p>
+<p>Ms Tan Lay Kwan Hannah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cheong Hui Leng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Farhana</p>
+<p>Leow-Chia Pei San (St/Cl)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Chong Lay Cheng Emma</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Resilience 6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nurhanifah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Hean Choon (Cl)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kanmani D/O Namasivayam (Tl)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Resilience 7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Vicknesh Rajamohan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sakeena Ab Kadir</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Yeo-Ng Lai Peng</p>
 </td>
 </tr>
 <tr>
@@ -730,7 +743,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Tan Mike</p>
+<p>Mr Liow Zhng Fa</p>
 </td>
 </tr>
 <tr>
@@ -759,10 +772,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tay Angela</p>
+<p>Ms Sim Huili</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Li Xiaoxi</p>
+<p>Mrs Tan-Chen Chai Kim</p>
 </td>
 </tr>
 <tr>
@@ -771,10 +784,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Norizainum</p>
+<p>Mr Lee Eu Shen Darren</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chang Diana</p>
+<p>Ms Tan Wee Peng</p>
 </td>
 </tr>
 <tr>
@@ -783,10 +796,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Yong Huiwen</p>
+<p>Ms Choi Clarissa Ming Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lee Rui Ching</p>
+<p>Ms Irene Toh Li Hiong</p>
 </td>
 </tr>
 <tr>
@@ -795,10 +808,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ramesh</p>
+<p>Mr Bryan Low Zhi Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Eng Hong</p>
+<p>Mdm Ling Tien Tien</p>
 </td>
 </tr>
 <tr>
@@ -807,44 +820,22 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Chye Chong Keith</p>
+<p>Ms Ong Ming Yong Karen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Khoo Juliet</p>
+<p>Mr Muhammad Shazwan Bin Shahir</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Excellence 6</strong>
+<p><strong>&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sakeena</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Vicknesh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Teh Noelle</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Tan Yu Leun Alan</p>
 </td>
 </tr>
 <tr>
@@ -912,6 +903,15 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yang Wenxuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Student Welfare Officer (SWO)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Michelle Mah</p>
 </td>
 </tr>
 </tbody>
