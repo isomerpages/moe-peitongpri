@@ -55,7 +55,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Winston</p>
+<p>Mr Koh See Choon</p>
 </td>
 </tr>
 </tbody>
@@ -86,6 +86,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>School Staff Developer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Fong Zhen Hsiung Pierre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>HOD English</strong>
 </p>
 </td>
@@ -99,7 +108,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cheong Hui Leng</p>
+<p>Ms Chong Lay Cheng Emma</p>
 </td>
 </tr>
 <tr>
@@ -117,7 +126,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Eng Hong</p>
+<p>Mdm Toh Li Hiong (Zhuo Lixiang)</p>
 </td>
 </tr>
 <tr>
@@ -153,7 +162,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Quek Ting Hui</p>
+<p>Mdm Tan Lay Kwan Hannah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD (Data Management and Partnership)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Chin Lin Jacqueline</p>
 </td>
 </tr>
 <tr>
@@ -220,6 +238,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>AYH (Middle Primary)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Suria</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>AYH (Upper Primary)</strong>
 </p>
 </td>
@@ -243,6 +270,15 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Name</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>LH English</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ho Lai Yeng Joanne</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
