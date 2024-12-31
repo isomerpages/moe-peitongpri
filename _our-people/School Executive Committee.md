@@ -183,6 +183,15 @@ variant: tiptap
 <p>Mr Chong Tjen Ken</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD Special Project</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Boon Tiong Mike</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Year Heads (YH)/ Assistant Year Heads (AYH)</h2>
@@ -224,7 +233,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Mike</p>
+<p>Mr Liow Zhong Fa</p>
 </td>
 </tr>
 <tr>
@@ -322,15 +331,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Teh Noelle</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SH Values In Action &amp; National Education</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Liow Zhong Fa</p>
 </td>
 </tr>
 </tbody>
