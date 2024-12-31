@@ -618,7 +618,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chow Sally</p>
+<p>Ms Chow Sally</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chong Tjen Ken</p>
