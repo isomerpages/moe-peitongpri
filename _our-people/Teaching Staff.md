@@ -133,10 +133,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Junmin Grace</p>
+<p>Ms Lee Junmin Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Seow Cheng Desiree</p>
+<p>Ms Chua Seow Cheng Desiree</p>
 </td>
 </tr>
 <tr>
@@ -148,7 +148,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 <p>Mdm Azlinda Bte Bakar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Low Shu Min</p>
+<p>Ms Low Shu Min</p>
 </td>
 </tr>
 <tr>
@@ -218,7 +218,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 <p>Ms Norshafiza</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Chen Chen Janet</p>
+<p>Ms Goh Chen Chen Janet</p>
 </td>
 </tr>
 <tr>
@@ -266,7 +266,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 <p>Mr Quek Joo Yoong Luke</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Joanne Ho Lai Yeng</p>
+<p>Ms Joanne Ho Lai Yeng</p>
 </td>
 </tr>
 <tr>
@@ -290,7 +290,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 <p>Mdm Chia Foong Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Au Chuin Yin</p>
+<p>Miss Au Chuin Yin</p>
 </td>
 </tr>
 <tr>
@@ -405,7 +405,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Tze Yue, Joy</p>
+<p>Mrs Chang - Teo Tze Yue, Joy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Teo Eng Hong</p>
@@ -513,7 +513,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 <p>Ms Shermaine Chua Si Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Hafizah Bte Mohd Rashib</p>
+<p>Mdm Nur Hafizah</p>
 </td>
 </tr>
 <tr>
@@ -667,7 +667,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chong Lay Cheng Emma</p>
+<p>Ms Chong Lay Cheng Emma</p>
 </td>
 </tr>
 <tr>
