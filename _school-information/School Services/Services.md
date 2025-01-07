@@ -9,99 +9,11 @@ third_nav_title: School Services
 <p><strong>Tel: 89091679</strong>
 <br><strong>Please call or send a WhatsApp message for an appointment before visiting.</strong>
 </p>
-<p>December Schedule</p>
+<p>Schedule</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Information/DEC24.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Information/January_2025.png">
 </div>
-<p>In the event of a clinic closure, students requiring urgent dental treatment
-may contact the clinics listed below.</p>
-<p>Please call to make an appointment. <strong>Walk-ins are not permitted.</strong>
-</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Date of operation</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Mini Center</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Address</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Tell No</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>18 Nov - 20 Dec</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cedar Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 Cedar Ave,S349700</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>87646935</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25-29 Nov</p>
-<p>16-20 Dec</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Radin Mas Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Bukit Prumei Ave , S099840</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>89092397</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9-12Dec</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Chinese Girls' School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>190 Dunearn Rd , S309437</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>89097659</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25-28 Nov</p>
-<p>5,6,16-31 Dec</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>St Andrew's Junior School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 Francis Thomas Dr,S359337</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>89097867</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <h4>Opening hours</h4>
 <p>Tues, Thurs : 8.00 am -5.30 pm
 <br>Mon, Wed, Fri: 8.00 am - 5.00 pm
