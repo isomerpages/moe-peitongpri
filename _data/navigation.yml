@@ -8,7 +8,7 @@ links:
     collection: our-people
   - title: PTPS Experience
     collection: ptps-experience
-  - title: Our Gallery
+  - title: Gallery
     url: /photos/
     sublinks:
       - title: Photo Gallery
