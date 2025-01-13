@@ -58,6 +58,10 @@ teachers during lessons, with small group sessions for more focused attention.
 If needed, learning support may continue in Primary 3 and further meet
 the learning needs of these students.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/Math/LSM.jpg">
+</div>
+<p></p>
 <p></p>
 <hr>
 <hr>
