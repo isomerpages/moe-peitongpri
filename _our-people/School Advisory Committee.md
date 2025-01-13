@@ -96,7 +96,7 @@ Outcomes of Education; and</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Charlton Low Inn Chong</p>
+<p>Mr Tan Qing Wen Jeremeny</p>
 </td>
 </tr>
 <tr>
