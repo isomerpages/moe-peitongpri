@@ -2,6 +2,7 @@ collections:
   parents-portal:
     output: true
     order:
+      - Nominations for Teachers 2025.md
       - Information For Parents.md
       - School Terms and Holidays.md
       - 2025 Booklists.md
