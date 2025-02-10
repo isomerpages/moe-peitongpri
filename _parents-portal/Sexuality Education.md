@@ -254,8 +254,8 @@ Education programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
 an opt-out form. This form will be communicated &nbsp;to parents at the
-start of the year and is also downloadable <u>here</u> The completed opt-out
-form is to be submitted by February 28, 2025.</p>
+start of the year and is also downloadable<a href="/files/Parents Portal/Annex_A_opt_out_form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"> <u>here</u></a> The
+completed opt-out form is to be submitted by February 28, 2025.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 67775458 for discussion or to seek clarification about the school’s
 Sexuality Education programme.</p>
