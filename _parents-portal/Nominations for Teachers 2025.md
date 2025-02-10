@@ -87,4 +87,4 @@ Tamil)</p>
 </div>
 </details>
 </div>
-<p></p>
+<p>Click on the arrow button to view additional content</p>
