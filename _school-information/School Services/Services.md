@@ -6,9 +6,6 @@ description: ""
 third_nav_title: School Services
 ---
 <h2>School Dental Clinic</h2>
-<p><strong>Tel: 89091679</strong>
-<br><strong>Please call or send a WhatsApp message for an appointment before visiting.</strong>
-</p>
 <p>Schedule</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -18,6 +15,10 @@ third_nav_title: School Services
 <p>Tues, Thurs : 8.00 am -5.30 pm
 <br>Mon, Wed, Fri: 8.00 am - 5.00 pm
 <br>Lunchtime : 12.30pm-1.30pm</p>
+<p></p>
+<p><strong>Tel: 89091679</strong>
+<br><strong>Please call or send a WhatsApp message for an appointment before visiting.</strong>
+</p>
 <hr>
 <h2>School Bus Vendor</h2>
 <h4>2025 Bus Vendor</h4>
