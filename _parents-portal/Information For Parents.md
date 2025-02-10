@@ -37,7 +37,6 @@ your child's Form Teacher to find out more!</p>
 activities, please refer to&nbsp;<a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Parents Gateway</u></a>&nbsp;for the details
 in the respective forms and announcements.</p>
 <hr>
-<h2>Schoolbag- The Education News Site</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Information/Logo_School_Bag.jpg">
