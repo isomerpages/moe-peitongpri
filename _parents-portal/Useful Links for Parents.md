@@ -27,12 +27,6 @@ problems and possibilities. Each Kit presents a series of scenarios with
 supporting resources, curated carefully by a team of specialists and educators,
 and sent to you in the comfort of your home through Parents Gateway, via
 your child’s school.</p>
-<h2>Schoolbag- The Education News Site</h2>
-<p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/<br></a>
-</p>
-<p>Schoolbag.sg is an online publication by the Ministry of Education. It
-provides parents, educators and the public with education news, school
-features and tips.</p>
 <h2>Parenting with MOE SG Instagram</h2>
 <p><a href="https://www.instagram.com/parentingwith.moesg/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/parentingwith.moesg/</a>
 </p>
