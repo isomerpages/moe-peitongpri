@@ -6,18 +6,19 @@ description: ""
 third_nav_title: School Services
 ---
 <h2>School Dental Clinic</h2>
-<p><strong>Tel: 89091679</strong>
-<br><strong>Please call or send a WhatsApp message for an appointment before visiting.</strong>
-</p>
 <p>Schedule</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Information/January_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Information/FEB_Dental_Clinic_Dates.jpg">
 </div>
 <h4>Opening hours</h4>
 <p>Tues, Thurs : 8.00 am -5.30 pm
 <br>Mon, Wed, Fri: 8.00 am - 5.00 pm
 <br>Lunchtime : 12.30pm-1.30pm</p>
+<p></p>
+<p><strong>Tel: 89091679</strong>
+<br><strong>Please call or send a WhatsApp message for an appointment before visiting.</strong>
+</p>
 <hr>
 <h2>School Bus Vendor</h2>
 <h4>2025 Bus Vendor</h4>

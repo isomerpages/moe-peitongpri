@@ -37,6 +37,16 @@ your child's Form Teacher to find out more!</p>
 activities, please refer to&nbsp;<a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Parents Gateway</u></a>&nbsp;for the details
 in the respective forms and announcements.</p>
 <hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Information/Logo_School_Bag.jpg">
+</div>
+<p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/<br></a>
+</p>
+<p>Schoolbag.sg is an online publication by the Ministry of Education. It
+provides parents, educators and the public with education news, school
+features and tips.</p>
+<p></p>
 <h2>Primary 1</h2>
 <ul data-tight="true" class="tight">
 <li>
