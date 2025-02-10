@@ -38,6 +38,10 @@ activities, please refer to&nbsp;<a href="https://pg.moe.edu.sg/" rel="noopener 
 in the respective forms and announcements.</p>
 <hr>
 <h2>Schoolbag- The Education News Site</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Information/Logo_School_Bag.jpg">
+</div>
 <p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/<br></a>
 </p>
 <p>Schoolbag.sg is an online publication by the Ministry of Education. It
