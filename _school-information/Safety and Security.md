@@ -127,5 +127,12 @@ Students should be certified fit for&nbsp;school before resuming school.</p>
 <p>All students are covered under a basic insurance policy. Payouts of insurance
 will be subject to policy terms and&nbsp;conditions.</p>
 </li>
+<li>
+<p>For more information, you may click here or visit the link provided below</p>
+</li>
+<li>
+<p>Income Insurance’s GPA portal : <a rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
+</p>
+</li>
 </ul>
 <p></p>
