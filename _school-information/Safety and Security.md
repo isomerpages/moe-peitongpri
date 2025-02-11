@@ -12,7 +12,7 @@ responsibility of all.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Parents/Guardians are allowed to drive in and alight their children/ward
-at the front porch only in the&nbsp;morning up to 7.30 am.</p>
+at the front porch only in the&nbsp;morning up to 7.25 am.</p>
 </li>
 <li>
 <p>For pick up at dismissal time, parents/guardians are requested to park
