@@ -12,7 +12,8 @@ responsibility of all.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Parents/Guardians are allowed to drive in and alight their children/ward
-at the front porch only in the&nbsp;morning up to 7.25 am.</p>
+at the front porch only in the&nbsp;morning up to<strong> 7.25 am.</strong>
+</p>
 </li>
 <li>
 <p>For pick up at dismissal time, parents/guardians are requested to park
@@ -126,6 +127,14 @@ Students should be certified fit for&nbsp;school before resuming school.</p>
 <li>
 <p>All students are covered under a basic insurance policy. Payouts of insurance
 will be subject to policy terms and&nbsp;conditions.</p>
+</li>
+<li>
+<p>For more information, you may click <a href="/files/School Information/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> or
+visit the link provided below</p>
+</li>
+<li>
+<p>Income Insurance’s GPA portal : <a rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
+</p>
 </li>
 </ul>
 <p></p>
