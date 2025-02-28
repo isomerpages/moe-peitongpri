@@ -9,7 +9,7 @@ third_nav_title: School Services
 <p>Schedule</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Information/FEB_Dental_Clinic_Dates.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Information/March.png">
 </div>
 <h4>Opening hours</h4>
 <p>Tues, Thurs : 8.00 am -5.30 pm
