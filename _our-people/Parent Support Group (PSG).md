@@ -26,7 +26,12 @@ to highlight the wonderful abilities of our students.</p>
 <h2>Join us</h2>
 <p>We welcome all parents to join our <strong>PSG</strong> or to serve as <strong>Parent Volunteers on an ad hoc basis</strong>!
 To sign up, <a href="https://go.gov.sg/peitongparents" rel="noopener noreferrer nofollow" target="_blank">click on this link</a>.</p>
-<p>If you have queries, you may send an email to &nbsp;<strong><a href="mailto:psgptps@gmail.com" rel="noopener noreferrer nofollow" target="_blank">psgptps@gmail.com</a></strong>&nbsp;.</p>
+<p>If you have queries, you may send an email to &nbsp;<a href="mailto:psgptps@gmail.com" rel="noopener noreferrer nofollow" target="_blank">psgptps@gmail.com</a>&nbsp;.</p>
+<hr>
+<h2>Parent Volunteer Event Feedback</h2>
+<p>Have you volunteered with us? Share your feedback about the events you
+supported at <a href="https://go.gov.sg/ptpspsgfeedback" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ptpspsgfeedback</a>
+</p>
 <hr>
 <h2>Our Parents In Action</h2>
 <div class="iframe-wrapper">
