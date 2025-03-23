@@ -17,6 +17,30 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://photos.app.goo.gl/gTKMenXJhstp2M2L8" rel="noopener nofollow" target="_blank">2025 P4 Coding</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/tdFi2oMeaiRZjGaj8" rel="noopener nofollow" target="_blank">2025 Science Joy Of Learning @ Active Recess</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/Hj1njM7EQVmruwzF9" rel="noopener nofollow" target="_blank">2025 Environment Club Litter Picking</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/55jBf8myVmLWDUkr9" rel="noopener nofollow" target="_blank">2025 P3 CCM</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/CSLh14yvX8ZrArW36" rel="noopener nofollow" target="_blank">2025 CNY Celebrations</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/a7vSzh3qQVayEw6r8" rel="noopener nofollow" target="_blank">2025 P3 Swimsafer</a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/EcRLEbU15K9tt2iE9" rel="noopener nofollow" target="_blank">2025 CCA Starts</a>
 </p>
 </li>
