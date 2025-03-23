@@ -9,6 +9,14 @@ variant: tiptap
 <br>For photos and videos from previous years, click on the links in the sidebar.</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://photos.app.goo.gl/mxybDeQWcH2g57oz6" rel="noopener nofollow" target="_blank">2025 P6 VIA Visit to Lion Befrienders' Senior Activity Centre</a>
+</p>
+</li>
+<li>
+<p><a href="2025 Total Defence Day" rel="noopener nofollow" target="_blank">2025 Total Defence Day</a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/EcRLEbU15K9tt2iE9" rel="noopener nofollow" target="_blank">2025 CCA Starts</a>
 </p>
 </li>
