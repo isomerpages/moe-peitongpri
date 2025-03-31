@@ -7,18 +7,19 @@ third_nav_title: School Services
 ---
 <h2>School Dental Clinic</h2>
 <p>Schedule</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Information/March.png">
+<div class="iframe-wrapper">
+<iframe style="border: 0" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?src=c_82f0ef2a9a98b2b724cf469f2f435a434732ad69db535f149171147c293aacdb%40group.calendar.google.com&amp;ctz=Asia%2FSingapore"></iframe>
 </div>
 <h4>Opening hours</h4>
 <p>Tues, Thurs : 8.00 am -5.30 pm
 <br>Mon, Wed, Fri: 8.00 am - 5.00 pm
 <br>Lunchtime : 12.30pm-1.30pm</p>
 <p></p>
-<p><strong>Tel: 89091679</strong>
+<p><strong>Tel: 89091679 </strong>
 <br><strong>Please call or send a WhatsApp message for an appointment before visiting.</strong>
-</p>
+</p><a class="isomer-image-wrapper" href="https://wa.me/6589091679"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/buttons.png"></a>
+<p></p>
+<p></p>
 <hr>
 <h2>School Bus Vendor</h2>
 <h4>2025 Bus Vendor</h4>
