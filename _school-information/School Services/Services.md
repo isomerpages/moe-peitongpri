@@ -13,16 +13,137 @@ third_nav_title: School Services
 <div class="iframe-wrapper">
 <iframe style="border: 0" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?src=c_82f0ef2a9a98b2b724cf469f2f435a434732ad69db535f149171147c293aacdb%40group.calendar.google.com&amp;ctz=Asia%2FSingapore"></iframe>
 </div>
-<p><strong>Contact: </strong>89091679
+<p><strong>Tel: 89091679 </strong>
 <br>Please call or send a WhatsApp message for an appointment before visiting.</p>
 <a class="isomer-image-wrapper" href="https://wa.me/6589091679">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/buttons.png">
 </a>
 <hr>
 <h3>School Bus Vendor</h3>
-<h4>2025 Bus Vendor</h4>
-<p>Please click on <a href="https://www.peitongpri.moe.edu.sg/school-bus-advertisement/" rel="noopener nofollow" target="_blank">this page</a> to
-view new bus vendor's details</p>
+<p><strong>DKJ Transport Service<br>Tel: 98188830</strong>
+<br><strong>Email: <a href="mailto:peitong2025@gmail.com" rel="noopener noreferrer nofollow" target="_blank"><u>peitong2025@gmail.com</u></a></strong>
+<br>
+<br><strong>Bus Operations Manager: Mr Leo Bai Ming</strong>
+<br>
+<br>Period: 1 Jan 2025 to 31 Dec 2026</p>
+<p><u>Not to Exceed Price for School Bus Services.</u>
+</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Distance</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Up to 15-seater</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>&gt;15-seater</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1-Way Trip</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-Way Trip</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-Way Trip</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-Way Trip</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Up to 2KM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$95.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$115.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$95.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$115.00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&gt;2 – 4KM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$145.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$165.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$125.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$145.00</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><u>Not to Exceed Price for After School Services.</u>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Distance Range Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Up to 15 seater (per trip)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&gt;15 seater (per trip)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Up to 2km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$5.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$5.00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&gt;2 – 4km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$8.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$8.00</p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h3>School Bookshop</h3>
 <p><strong>Pacific Bookstore</strong>
@@ -37,8 +158,9 @@ view new bus vendor's details</p>
 <p><strong>Finest Fashion Centre</strong>
 <br><strong>Tel: 64665697</strong>
 </p>
-<p>Beauty World Centre #B1-03144
-<br>Upper Bukit Timah Road Singapore 588177</p>
+<p><strong>Address:</strong>
+<br>Beauty World Centre #B1-03
+<br>144 Upper Bukit Timah Road Singapore 588177</p>
 <p>School uniforms and PE attires are available for purchase at the school
 bookshop from 2.00 pm - 4.00 pm on school days.</p>
 <hr>
@@ -49,7 +171,5 @@ bookshop from 2.00 pm - 4.00 pm on school days.</p>
 </p>
 <hr>
 <h3>KCare (Kindergarten)</h3>
-<p><strong>Tel: 8298 8518</strong>
-<br><strong>Email: <a href="mailto:ptkcc@nascans.com" rel="noopener noreferrer nofollow" target="_blank">ptkcc@nascans.com</a></strong>
-<br>
+<p><strong>Tel: 8298 8518<br>Email: <a href="mailto:supervisor.ptkcc@nascans.com" rel="noopener noreferrer nofollow" target="_blank"><u>supervisor.ptkcc@nascans.com</u></a><br></strong>
 </p>
