@@ -9,17 +9,14 @@ sections:
   - hero:
       background: /images/Logos and Website Heros/2025___website_hero___1_.gif
       key_highlights:
-        - title: HIGHLIGHTS
-          description: ""
+        - title: Know the latest
+          description: Events and News
           url: /highlights
-        - title: FOR PARENTS
-          description: ""
-          url: /parents-portal/information-for-parents/
-        - title: FOR STUDENTS
-          description: ""
-          url: /ptps/links/for-students/
-        - title: FOR STAFF
-          description: ""
-          url: /ptps/links/for-teachers/
+        - title: Explore Our CCAs
+          description: Our Holistic Approach
+          url: /ptps-experience/cca/
+        - title: Getting Here
+          description: Plan your visit
+          url: /contact-us/
       variant: center
 ---
