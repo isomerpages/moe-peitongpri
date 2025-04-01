@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/herobanner2_ezgif_com_optimize.gif
+      background: /images/herobanner3_ezgif_com_video_to_gif_converter.gif
       key_highlights:
         - title: Know the latest
           description: School events & news
