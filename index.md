@@ -13,7 +13,7 @@ sections:
           description: School events & news
           url: /highlights
         - title: Explore Our CCAs
-          description: Discover, grow and thrive
+          description: Cultivating skills and values
           url: /ptps-experience/cca/
         - title: Getting Here
           description: Plan your visit
