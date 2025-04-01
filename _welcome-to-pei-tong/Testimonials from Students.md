@@ -4,7 +4,6 @@ permalink: /welcome-to-pei-tong/testimonials-from-students/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/2024_Valedi__2_.jpg">
 </div>
@@ -17,14 +16,14 @@ English. But over time, I realised that Pei Tong taught me something invaluable:
 resilience. The school’s core values of resilience, care, and excellence
 helped me face every challenge head-on, knowing that every difficulty was
 an opportunity to grow.</p>
-<p>What truly made a difference at Pei Tong was the sense of community. I
-never had to face challenges alone. Whether it was tackling a difficult
-subject or managing personal hurdles, I always felt supported by my teachers
-and friends. The core value of care is not just a concept—it’s lived out
-every day in the school’s culture. I am especially grateful to teachers
-like Mr. Chua and Mr. Husni, who helped me excel in subjects like Science
-and English. Their patience and support encouraged me to believe in my
-abilities and helped me overcome challenges that once seemed impossible.</p>
+<h4><strong>What truly made a difference at Pei Tong was the sense of community. I never had to face challenges alone.</strong> </h4>
+<p>Whether it was tackling a difficult subject or managing personal hurdles,
+I always felt supported by my teachers and friends. The core value of care
+is not just a concept—it’s lived out every day in the school’s culture.
+I am especially grateful to teachers like Mr. Chua and Mr. Husni, who helped
+me excel in subjects like Science and English. Their patience and support
+encouraged me to believe in my abilities and helped me overcome challenges
+that once seemed impossible.</p>
 <p>One of the most rewarding experiences at Pei Tong was discovering my passion
 for competitive mathematics. Through the Math Olympiad, I learned that
 excellence isn’t just about achieving the highest marks—it’s about pushing
@@ -65,10 +64,10 @@ sometimes be a strength in a different situation. This mindset has helped
 me focus on my growth and take pride in my abilities.</p>
 <p>I am deeply grateful for the guidance of my teachers, especially my Primary
 6 teachers, Mr. Husni, Mr. Chua, and 谢老师, who supported me throughout my
-journey at Pei Tong. Their encouragement and care made learning enjoyable
-and engaging, and they always took the time to ensure that I understood
-difficult concepts. Their support, especially during challenging times
-like exams and competitions, made a world of difference.</p>
+journey at Pei Tong.</p>
+<h4>Their encouragement and care made learning enjoyable and engaging, and they always took the time to ensure that I understood difficult concepts. </h4>
+<p>Their support, especially during challenging times like exams and competitions,
+made a world of difference.</p>
 <p>Pei Tong has given me a strong foundation for my future, and I am thankful
 for the lessons, friendships, and memories that I will always carry with
 me.</p>
