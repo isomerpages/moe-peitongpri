@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Logos and Website Heros/2025___website_hero___1_.gif
+      background: /images/herobanner2_ezgif_com_optimize.gif
       key_highlights:
         - title: Know the latest
           description: School events & news
@@ -18,5 +18,7 @@ sections:
         - title: Getting Here
           description: Plan your visit
           url: /contact-us/
-      variant: center
+      variant: image
+      title: fsds
+      subtitle: sdf
 ---
