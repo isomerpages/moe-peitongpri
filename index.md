@@ -10,10 +10,10 @@ sections:
       background: /images/Logos and Website Heros/2025___website_hero___1_.gif
       key_highlights:
         - title: Know the latest
-          description: Events and News
+          description: School events & news
           url: /highlights
         - title: Explore Our CCAs
-          description: Our Holistic Approach
+          description: Discover, grow and thrive
           url: /ptps-experience/cca/
         - title: Getting Here
           description: Plan your visit
