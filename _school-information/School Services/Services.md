@@ -9,9 +9,9 @@ third_nav_title: School Services
 <p><strong>Opening hours</strong>
 <br>Mon, Wed, Fri: 8.00 am - 5.00 pm
 <br>Tue, Thu: 8.00 am - 5.30 pm
-<br>(Closed during lunch hours 12.30pm - 1.30pm)</p>
+<br>(Closed during lunch hours 12.30 pm - 1.30 pm)</p>
 <div class="iframe-wrapper">
-<iframe style="border: 0" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?src=c_82f0ef2a9a98b2b724cf469f2f435a434732ad69db535f149171147c293aacdb%40group.calendar.google.com&amp;ctz=Asia%2FSingapore"></iframe>
+<iframe style="border: 0" height="600" width="100%" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?src=c_82f0ef2a9a98b2b724cf469f2f435a434732ad69db535f149171147c293aacdb%40group.calendar.google.com&amp;ctz=Asia%2FSingapore"></iframe>
 </div>
 <p><strong>Tel: 89091679 </strong>
 <br>Please call or send a WhatsApp message for an appointment before visiting.</p>
@@ -26,7 +26,7 @@ third_nav_title: School Services
 <br><strong>Bus Operations Manager: Mr Leo Bai Ming</strong>
 <br>
 <br>Period: 1 Jan 2025 to 31 Dec 2026</p>
-<p><u>Not to Exceed Price for School Bus Services.</u>
+<p><u>Not to Exceed Price for School Bus Services</u>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -100,7 +100,7 @@ third_nav_title: School Services
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><u>Not to Exceed Price for After School Services.</u>
+<p><u>Not to Exceed Price for After School Services</u>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
