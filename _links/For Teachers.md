@@ -1,6 +1,6 @@
 ---
 title: For Teachers
-permalink: /ptps/links/for-teachers/
+permalink: /forteachers/
 description: ""
 variant: tiptap
 ---

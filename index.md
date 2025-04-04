@@ -15,8 +15,11 @@ sections:
         - title: Explore Our CCAs
           description: Cultivating Skills and Values
           url: /ptps-experience/cca/
-        - title: Getting Here
-          description: Plan Your Visit
-          url: /contact-us/
+        - title: For Teachers
+          description: Quick Links
+          url: /forteachers/
+        - title: For Students
+          description: Quick Links
+          url: /forstudents/
       variant: center
 ---

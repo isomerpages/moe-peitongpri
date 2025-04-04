@@ -1,6 +1,6 @@
 ---
 title: For Students
-permalink: /ptps/links/for-students/
+permalink: /forstudents/
 description: ""
 variant: tiptap
 ---
