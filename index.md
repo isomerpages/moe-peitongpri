@@ -18,5 +18,5 @@ sections:
         - title: Getting Here
           description: Plan Your Visit
           url: /contact-us/
-      variant: image
+      variant: center
 ---
