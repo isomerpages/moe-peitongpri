@@ -1,8 +1,8 @@
 ---
 title: MK@Pei Tong
 permalink: /mkpeitong/
-description: ""
 variant: tiptap
+description: ""
 ---
 <blockquote>
 <p><em>Welcome to MOE Kindergarten @ Pei Tong!</em>
