@@ -10,13 +10,13 @@ sections:
       background: /images/ezgif_com_animated_gif_maker__1_.gif
       key_highlights:
         - title: Know the latest
-          description: School events & news
+          description: Happenings & Updates
           url: /highlights
         - title: Explore Our CCAs
-          description: Cultivating skills and values
+          description: Cultivating Skills and Values
           url: /ptps-experience/cca/
         - title: Getting Here
-          description: Plan your visit
+          description: Plan Your Visit
           url: /contact-us/
-      variant: center
+      variant: image
 ---
