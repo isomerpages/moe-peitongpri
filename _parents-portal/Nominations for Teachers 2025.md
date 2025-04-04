@@ -4,7 +4,7 @@ permalink: /nominations-for-teachers-2025/
 variant: tiptap
 description: ""
 ---
-<h3><strong>INSPIRING TEACHERS OF 2025</strong></h3>
+<h2>INSPIRING TEACHERS OF 2025</h2>
 <p></p>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
