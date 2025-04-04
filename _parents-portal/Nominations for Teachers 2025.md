@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2>INSPIRING TEACHERS OF 2025</h2>
-<p></p>
-<hr>
+<p>Click on the arrow button to view additional content.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>INSPIRING TEACHER OF ENGLISH AWARD 2025</strong>
@@ -87,4 +86,4 @@ Tamil)</p>
 </div>
 </details>
 </div>
-<p>Click on the arrow button to view additional content</p>
+<p></p>
