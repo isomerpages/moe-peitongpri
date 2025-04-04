@@ -7,19 +7,16 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Logos and Website Heros/2025___website_hero___1_.gif
+      background: /images/ezgif_com_animated_gif_maker__1_.gif
       key_highlights:
-        - title: HIGHLIGHTS
-          description: ""
+        - title: Know the latest
+          description: School events & news
           url: /highlights
-        - title: FOR PARENTS
-          description: ""
-          url: /parents-portal/information-for-parents/
-        - title: FOR STUDENTS
-          description: ""
-          url: /ptps/links/for-students/
-        - title: FOR STAFF
-          description: ""
-          url: /ptps/links/for-teachers/
+        - title: Explore Our CCAs
+          description: Cultivating skills and values
+          url: /ptps-experience/cca/
+        - title: Getting Here
+          description: Plan your visit
+          url: /contact-us/
       variant: center
 ---
