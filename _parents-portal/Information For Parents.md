@@ -4,7 +4,14 @@ permalink: /parents-portal/information-for-parents/
 description: ""
 variant: tiptap
 ---
-<h2>All Parents</h2>
+<h2>Get Connected</h2>
+<p>Is your child/ward a current student of Pei Tong Primary School?
+<br>Join us at <a href="https://www.classdojo.com/" rel="noopener noreferrer nofollow" target="_blank">ClassDojo</a> to
+view photos and updates on the latest happenings around our school. Contact
+your child's Form Teacher to find out more!</p>
+<p>For&nbsp;official school letters, consent forms and students’ after-school
+activities, please refer to&nbsp;<a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Parents Gateway</u></a>&nbsp;for the details
+in the respective forms and announcements.All Parents</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://peitongpri.moe.edu.sg/psg/" rel="noopener noreferrer nofollow" target="_blank">🖐️Join our Parent Support Group (PSG)/ serve as an ad hoc parent volunteer</a>
@@ -28,73 +35,12 @@ variant: tiptap
 </li>
 </ul>
 <hr>
-<h2>Get Connected</h2>
-<p>Is your child/ward a current student of Pei Tong Primary School?
-<br>Join us at <a href="https://www.classdojo.com/" rel="noopener noreferrer nofollow" target="_blank">ClassDojo</a> to
-view photos and updates on the latest happenings around our school. Contact
-your child's Form Teacher to find out more!</p>
-<p>For&nbsp;official school letters, consent forms and students’ after-school
-activities, please refer to&nbsp;<a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Parents Gateway</u></a>&nbsp;for the details
-in the respective forms and announcements.</p>
-<hr>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Information/Logo_School_Bag.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/School Information/Logo_School_Bag.jpg">
 </div>
 <p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/<br></a>
 </p>
 <p>Schoolbag.sg is an online publication by the Ministry of Education. It
 provides parents, educators and the public with education news, school
 features and tips.</p>
-<p></p>
-<h2>Primary 1</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://docs.google.com/presentation/d/e/2PACX-1vTEsxWKBjXiHnEV1ZYuR2pVyqZDZ4nzKIw1ov3RrwTzYV0NmIHtXIgZinI6JdoLDg/pub?start=false&amp;loop=false&amp;delayms=3000" rel="noopener nofollow" target="_blank">Interactive Resource for Parent-Child</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Parents Portal/For Parents/SL_YH_Slides.pdf" rel="noopener nofollow" target="_blank">SL_YH Slides</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Parents Portal/For Parents/Seno_Slide.pdf" rel="noopener noreferrer nofollow" target="_blank">SENO Slides Emotional Regulation</a>
-</p>
-</li>
-</ul>
-<h2>Primary 2</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p>Kindly anticipate forthcoming updates and additional information. Thank
-you for your patience.</p>
-</li>
-</ul>
-<h2>Primary 3</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p>Kindly anticipate forthcoming updates and additional information. Thank
-you for your patience.</p>
-</li>
-</ul>
-<h2>Primary 4</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p>Kindly anticipate forthcoming updates and additional information. Thank
-you for your patience.</p>
-</li>
-</ul>
-<h2>Primary 5</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p>Kindly anticipate forthcoming updates and additional information. Thank
-you for your patience.</p>
-</li>
-</ul>
-<h2>Primary 6</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p>Kindly anticipate forthcoming updates and additional information. Thank
-you for your patience.</p>
-</li>
-</ul>
 <p></p>
