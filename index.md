@@ -18,5 +18,8 @@ sections:
         - title: Getting Here
           description: Plan Your Visit
           url: /contact-us/
+        - title: For Teachers
+          description: Quick Links
+          url: /forteachers/
       variant: center
 ---
