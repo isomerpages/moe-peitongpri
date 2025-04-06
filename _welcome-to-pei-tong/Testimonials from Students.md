@@ -31,34 +31,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/suga.jpg">
 </div>
-<p>Amidst the various experiences that have influenced my character, my time
-at Pei Tong Primary School (Pei Tong) holds a special significance. Pei
-Tong is a nurturing environment where achievements are celebrated, and
-mistakes are seen as opportunities for growth. It's a place where care,
-respect, and social responsibility are deeply ingrained, fostering an atmosphere
-of trust and integrity.</p>
-<p>Moreover, Pei Tong provides ample opportunities for students to challenge
-themselves and develop resilience while striving for excellence. These
-core values of care, respect, integrity, responsibility, resilience, and
-excellence are not just taught but embodied by every Pei Tong student,
-shaping them into capable leaders.</p>
-<p>Reflecting on my journey at Pei Tong, I am reminded of the dedicated teachers
-who have played a pivotal role in creating such a supportive environment.
-Despite facing challenges, they have worked tirelessly to ensure our success.
-Though I couldn't attend Teachers' Day this year due to the school being
-used as a polling center, I am grateful for this opportunity to express
-my heartfelt appreciation to all my teachers.</p>
-<p>Special thanks to my Primary 6 form teachers, Mr. Li and Mdm. Teo, for
-their invaluable guidance on staying motivated and resilient. My Tamil
-Teacher, Mdm. Kanmani, always imparted important life lessons with her
-teachings, inspiring us to be our best selves. And of course, Ms. Sim,
-my Mathematics teacher, motivated us to strive for excellence through rewards
-and recognition.</p>
-<p>I am forever grateful for the dedication and support of all my teachers
-at Pei Tong. Their passion for teaching has left a lasting impact on my
-life, and I am truly fortunate to have been under their guidance.</p>
-<p><strong><em>Gayathri Suresh Harisugaritha<br>Class of 2022</em></strong>
-</p>
+<p></p>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Hannah__3_.png">
@@ -310,7 +283,7 @@ Pei Tong had indeed brought me to greater heights.</p>
 <br><strong><em>Class of 2018</em></strong>
 </p>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong><em>Jin Huichuan (Class of 2023)</em></strong>
 </summary>
@@ -353,6 +326,47 @@ excites you. With the guidance and care of this wonderful school, I know
 you’ll thrive.</p>
 <p></p>
 <p>Thank you, Pei Tong, for being such an important part of my journey.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><em>Gayathri Suresh Harisugaritha (Class of 2022)</em></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/suga.jpg">
+</div>
+<p></p>
+<p>Amidst the various experiences that have influenced my character, my time
+at Pei Tong Primary School (Pei Tong) holds a special significance. Pei
+Tong is a nurturing environment where achievements are celebrated, and
+mistakes are seen as opportunities for growth. It's a place where care,
+respect, and social responsibility are deeply ingrained, fostering an atmosphere
+of trust and integrity.</p>
+<p></p>
+<p>Moreover, Pei Tong provides ample opportunities for students to challenge
+themselves and develop resilience while striving for excellence. These
+core values of care, respect, integrity, responsibility, resilience, and
+excellence are not just taught but embodied by every Pei Tong student,
+shaping them into capable leaders.</p>
+<p></p>
+<p>Reflecting on my journey at Pei Tong, I am reminded of the dedicated teachers
+who have played a pivotal role in creating such a supportive environment.
+Despite facing challenges, they have worked tirelessly to ensure our success.
+Though I couldn't attend Teachers' Day this year due to the school being
+used as a polling center, I am grateful for this opportunity to express
+my heartfelt appreciation to all my teachers.</p>
+<p></p>
+<p>Special thanks to my Primary 6 form teachers, Mr. Li and Mdm. Teo, for
+their invaluable guidance on staying motivated and resilient. My Tamil
+Teacher, Mdm. Kanmani, always imparted important life lessons with her
+teachings, inspiring us to be our best selves. And of course, Ms. Sim,
+my Mathematics teacher, motivated us to strive for excellence through rewards
+and recognition.</p>
+<p></p>
+<p>I am forever grateful for the dedication and support of all my teachers
+at Pei Tong. Their passion for teaching has left a lasting impact on my
+life, and I am truly fortunate to have been under their guidance.</p>
 </div>
 </details>
 </div>
