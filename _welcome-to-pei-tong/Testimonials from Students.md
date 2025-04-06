@@ -27,12 +27,6 @@ variant: tiptap
 <p><em>Thank you, Pei Tong, for being a place where I truly grew, not just as a student, but as an individual ready to take on the world.</em>
 </p>
 <hr>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/suga.jpg">
-</div>
-<p></p>
-<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Hannah__3_.png">
 </div>
