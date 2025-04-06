@@ -142,7 +142,7 @@ fun and memorable, as we completed it in the company of friends and teachers.&nb
 <p>I am thankful for my learning experience in Pei Tong and I would like
 to go back to visit the school when this Covid-19 situation improves.</p>
 <hr>
-<h2>See more past testimonials here</h2>
+<h2>More stories from our students!</h2>
 <h2>2022-2025</h2>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
