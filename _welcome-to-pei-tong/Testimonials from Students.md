@@ -26,8 +26,9 @@ variant: tiptap
 <p><em>Thank you, Pei Tong, for being a place where I truly grew, not just as a student, but as an individual ready to take on the world.</em>
 </p>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Hannah__3_.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Hannah__3_.png">
 </div>
 <p>I am a proud graduate of Pei Tong Primary School from the class of 2022,
 currently pursuing my studies at NUS High School of Mathematics and Science.</p>
@@ -58,6 +59,7 @@ but also imparted valuable life lessons and moral values. I am deeply thankful
 for the supportive environment and dedicated teachers who have played a
 significant role in shaping me into the person I am today.</p>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Hannah__6_.png">
 </div>
@@ -81,8 +83,9 @@ soon.&nbsp;</p>
 <p>Thank you to the teachers and staff who have done so much for me, and
 I really hope to be able to see all of you again soon!</p>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Hannah__7_.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Hannah__7_.png">
 </div>
 <p>Pei Tong has given me a conducive environment and opportunities to succeed,
 learn new skills, as well as make new friends.&nbsp;</p>
@@ -142,8 +145,8 @@ fun and memorable, as we completed it in the company of friends and teachers.&nb
 <p>I am thankful for my learning experience in Pei Tong and I would like
 to go back to visit the school when this Covid-19 situation improves.</p>
 <hr>
-<h2>More stories from our students!</h2>
-<h2>2022-2025</h2>
+<h2>Read more stories from our students!</h2>
+<h3>2022-2025</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Jin Huichuan (Class of 2023)</strong>
@@ -259,7 +262,7 @@ valuable lessons and experiences that have contributed to my personal growth.</p
 </details>
 </div>
 <p></p>
-<h2>2018-2021</h2>
+<h3>2018-2021</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Fiona Yap (Class of 2021)</strong>
