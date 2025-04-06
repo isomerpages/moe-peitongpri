@@ -54,4 +54,9 @@ new friendships and build a culture of care.</p>
 </a><a rel="noopener noreferrer nofollow" href="https://photos.app.goo.gl/ncPC8kdhXxg8JUcS8" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2023_Card Image" src="/images/2023_card2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2023</div><div class="isomer-card-description">"Best day ever!"</div><div class="isomer-card-link">View Album</div></div></a>
 </div>
 <p></p>
+<h3>Explore Our School Events and Programmes</h3>
+<p>Witness the growth and memorable moments that shape your child’s journey
+at Pei Tong. Our gallery captures the close bonds formed, milestones celebrated,
+and the unique experiences that makes learning at Pei Tong special.</p>
+<h4><strong><a href="/gallery" rel="noopener nofollow" target="_blank">Visit Our Gallery Page</a></strong></h4>
 <p></p>
