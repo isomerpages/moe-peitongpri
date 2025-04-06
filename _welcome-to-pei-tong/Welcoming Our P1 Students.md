@@ -28,7 +28,7 @@ memories and relive the moments that made the start of school unforgettable.</p>
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2023_Card Image" src="/images/P1_First_Day__47_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2023_Card Image" src="/images/2023_card1a.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2023</div><div class="isomer-card-description">A teacher's gentle hands</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
 <p>Our Pei Tong staff and <a href="https://www.peitongpri.moe.edu.sg/psg/" rel="noopener nofollow" target="_blank">Parent Support Group (PSG)</a> members
