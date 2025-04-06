@@ -37,7 +37,7 @@ of exploration, friendship, and growth.</div>
 <p>With a small task booklet in hand and a big heart, Primary 4 buddies guide
 our Primary 1 students through their first week — from the field to the
 library, the canteen to the general office. These shared moments spark
-new friendships and build a culture of care.</p>
+new friendships and foster a culture of care.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://photos.app.goo.gl/UC4crgyZqWrf2LY76" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2025-Card Image" src="/images/2025_card2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2025</div><div class="isomer-card-description">"Let's Go Together"</div><div class="isomer-card-link">View Album</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://photos.app.goo.gl/46xmZ1caoCKMwyRD9" class="isomer-card">
