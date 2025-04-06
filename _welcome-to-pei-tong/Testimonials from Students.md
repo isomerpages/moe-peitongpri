@@ -4,8 +4,9 @@ permalink: /welcome-to-pei-tong/testimonials-from-students/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Hannah__1_.png">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Hannah__4_.png">
 </div>
 <p><em>Pei Tong Primary School holds a special place in my heart, and I am incredibly grateful for the experiences and lessons I gained here. Now, as a student at Nanyang Girls' High, I often reflect on my time at Pei Tong and the wonderful memories I created with my friends and teachers.</em>
 </p>
@@ -59,9 +60,8 @@ life, and I am truly fortunate to have been under their guidance.</p>
 <p><strong><em>Gayathri Suresh Harisugaritha<br>Class of 2022</em></strong>
 </p>
 <hr>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/kaeden.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Hannah__3_.png">
 </div>
 <p>I am a proud graduate of Pei Tong Primary School from the class of 2022,
 currently pursuing my studies at NUS High School of Mathematics and Science.</p>
@@ -91,8 +91,6 @@ Circuit Breaker period.</p>
 but also imparted valuable life lessons and moral values. I am deeply thankful
 for the supportive environment and dedicated teachers who have played a
 significant role in shaping me into the person I am today.</p>
-<p><strong><em>Kaeden Niam<br>Class of 2022</em></strong>
-</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
