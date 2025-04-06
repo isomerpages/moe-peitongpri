@@ -7,24 +7,35 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Hannah__4_.png">
 </div>
-<p><em>Pei Tong Primary School holds a special place in my heart, and I am incredibly grateful for the experiences and lessons I gained here. Now, as a student at Nanyang Girls' High, I often reflect on my time at Pei Tong and the wonderful memories I created with my friends and teachers.</em>
-</p>
+<p>Pei Tong Primary School holds a special place in my heart, and I am incredibly
+grateful for the experiences and lessons I gained here. Now, as a student
+at Nanyang Girls' High, I often reflect on my time at Pei Tong and the
+wonderful memories I created with my friends and teachers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Their_encouragement_and_care_made_learning_enjoyable_and_engaging__and_they_always_took_the_time_to_ensure_that_I_understood_difficult_concepts__Their_support__especially_during_challenging_times___1_.png">
 </div>
-<p><em>These values have guided me in everything I do, whether it’s helping friends with schoolwork, expressing gratitude to those around me, or striving to do my best in all my endeavors.</em>
-</p>
-<p><em>One of the most important lessons I learned at Pei Tong is to embrace my unique strengths and not compare myself to others. A story that has always stuck with me is about a farmer and his two buckets—one with holes and one perfect. The imperfect bucket, despite leaking water, helped flowers and grass flourish along the path. This story taught me that everyone has their own strengths and weaknesses, and what may seem like a weakness can sometimes be a strength in a different situation. This mindset has helped me focus on my growth and take pride in my abilities.</em>
-</p>
-<p><em>I am deeply grateful for the guidance of my teachers, especially my Primary 6 teachers, Mr. Husni, Mr. Chua, and 谢老师, who supported me throughout my journey at Pei Tong.</em>
-</p>
+<p>These values have guided me in everything I do, whether it’s helping friends
+with schoolwork, expressing gratitude to those around me, or striving to
+do my best in all my endeavors.</p>
+<p>One of the most important lessons I learned at Pei Tong is to embrace
+my unique strengths and not compare myself to others. A story that has
+always stuck with me is about a farmer and his two buckets—one with holes
+and one perfect. The imperfect bucket, despite leaking water, helped flowers
+and grass flourish along the path. This story taught me that everyone has
+their own strengths and weaknesses, and what may seem like a weakness can
+sometimes be a strength in a different situation. This mindset has helped
+me focus on my growth and take pride in my abilities.</p>
+<p>I am deeply grateful for the guidance of my teachers, especially my Primary
+6 teachers, Mr. Husni, Mr. Chua, and 谢老师, who supported me throughout my
+journey at Pei Tong.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Their_encouragement_and_care_made_learning_enjoyable_and_engaging__and_they_always_took_the_time_to_ensure_that_I_understood_difficult_concepts__Their_support__especially_during_challenging_times_.png">
 </div>
-<p><em>Pei Tong has given me a strong foundation for my future, and I am thankful for the lessons, friendships, and memories that I will always carry with me.</em>
-</p>
-<p><em>Thank you, Pei Tong, for being a place where I truly grew, not just as a student, but as an individual ready to take on the world.</em>
-</p>
+<p>Pei Tong has given me a strong foundation for my future, and I am thankful
+for the lessons, friendships, and memories that I will always carry with
+me.</p>
+<p>Thank you, Pei Tong, for being a place where I truly grew, not just as
+a student, but as an individual ready to take on the world.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
