@@ -77,15 +77,16 @@ pride in my work, and a commitment to kindness towards others.</p>
 journey. It began in Primary 3 when I was nominated as a junior prefect,
 providing me with opportunities to develop essential leadership skills
 through duty roles and training sessions. In Primary 5, I was honored to
-be nominated as Vice-Head Prefect through the Head Prefect Election process.
-This journey taught me the importance of public speaking, teamwork, and
-leading by example, which have all contributed to my personal growth and
-prepared me for future leadership roles.</p>
+be nominated as Vice-Head Prefect through the Head Prefect Election process.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/testimonial_quote.png">
+</div>
 <p>I am also immensely grateful for the unwavering support and guidance provided
 by my teachers, especially during challenging times such as the COVID-19
-Circuit Breaker period. Despite the difficulties of transitioning to Home-Based
-Learning, my teachers went above and beyond to ensure our academic progress
-and well-being through platforms like WhatsApp and online meetings.</p>
+Circuit Breaker period.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/testimonial_quote__1_.png">
+</div>
 <p>Overall, my experience at Pei Tong has not only enriched my academic knowledge
 but also imparted valuable life lessons and moral values. I am deeply thankful
 for the supportive environment and dedicated teachers who have played a
