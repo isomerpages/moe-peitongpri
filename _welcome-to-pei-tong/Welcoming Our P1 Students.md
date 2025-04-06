@@ -58,5 +58,5 @@ new friendships and build a culture of care.</p>
 <p>Witness the growth and memorable moments that shape your child’s journey
 at Pei Tong. Our gallery captures the close bonds formed, milestones celebrated,
 and the unique experiences that makes learning at Pei Tong special.</p>
-<h4><strong><a href="/gallery" rel="noopener nofollow" target="_blank">Visit Our Gallery Page</a></strong></h4>
+<h4><strong><a href="/photos/" rel="noopener nofollow" target="_blank">Visit Our Gallery Page</a></strong></h4>
 <p></p>
