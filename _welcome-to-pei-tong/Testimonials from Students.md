@@ -5,14 +5,14 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Hannah__4_.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Hannah__4_.png">
 </div>
 <p>Pei Tong Primary School holds a special place in my heart, and I am incredibly
 grateful for the experiences and lessons I gained here. Now, as a student
 at Nanyang Girls' High, I often reflect on my time at Pei Tong and the
 wonderful memories I created with my friends and teachers.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Their_encouragement_and_care_made_learning_enjoyable_and_engaging__and_they_always_took_the_time_to_ensure_that_I_understood_difficult_concepts__Their_support__especially_during_challenging_times___1_.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Their_encouragement_and_care_made_learning_enjoyable_and_engaging__and_they_always_took_the_time_to_ensure_that_I_understood_difficult_concepts__Their_support__especially_during_challenging_times___1_.png">
 </div>
 <p>These values have guided me in everything I do, whether it’s helping friends
 with schoolwork, expressing gratitude to those around me, or striving to
@@ -29,7 +29,7 @@ me focus on my growth and take pride in my abilities.</p>
 6 teachers, Mr. Husni, Mr. Chua, and 谢老师, who supported me throughout my
 journey at Pei Tong.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Their_encouragement_and_care_made_learning_enjoyable_and_engaging__and_they_always_took_the_time_to_ensure_that_I_understood_difficult_concepts__Their_support__especially_during_challenging_times_.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Their_encouragement_and_care_made_learning_enjoyable_and_engaging__and_they_always_took_the_time_to_ensure_that_I_understood_difficult_concepts__Their_support__especially_during_challenging_times_.png">
 </div>
 <p>Pei Tong has given me a strong foundation for my future, and I am thankful
 for the lessons, friendships, and memories that I will always carry with
@@ -39,7 +39,7 @@ a student, but as an individual ready to take on the world.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Hannah__3_.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Hannah__3_.png">
 </div>
 <p>I am a proud graduate of Pei Tong Primary School from the class of 2022,
 currently pursuing my studies at NUS High School of Mathematics and Science.</p>
@@ -57,13 +57,13 @@ providing me with opportunities to develop essential leadership skills
 through duty roles and training sessions. In Primary 5, I was honored to
 be nominated as Vice-Head Prefect through the Head Prefect Election process.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/testimonial_quote.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/testimonial_quote.png">
 </div>
 <p>I am also immensely grateful for the unwavering support and guidance provided
 by my teachers, especially during challenging times such as the COVID-19
 Circuit Breaker period.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/testimonial_quote__1_.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/testimonial_quote__1_.png">
 </div>
 <p>Overall, my experience at Pei Tong has not only enriched my academic knowledge
 but also imparted valuable life lessons and moral values. I am deeply thankful
@@ -72,19 +72,19 @@ significant role in shaping me into the person I am today.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Hannah__6_.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Hannah__6_.png">
 </div>
 <p>Pei Tong is special to me because it is a place where we students can
 enjoy, play, study and make new friends. It is also a place where care
 is readily provided whenever we need it.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/testimonial_quote__4_.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/testimonial_quote__4_.png">
 </div>
 <p>Another special teacher I remember fondly is my Primary 6 math teacher,
 Mrs Yeo. Math was difficult, but she ensured that we learned well as we
 prepared for PSLE.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/testimonial_quote__5_.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/testimonial_quote__5_.png">
 </div>
 <p>Now that I am in Hua Yi Secondary School, I look back and am incredibly
 grateful to them for their patience and how they have played an important
@@ -96,7 +96,7 @@ I really hope to be able to see all of you again soon!</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Hannah__7_.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Hannah__7_.png">
 </div>
 <p>Pei Tong has given me a conducive environment and opportunities to succeed,
 learn new skills, as well as make new friends.&nbsp;</p>
@@ -104,7 +104,7 @@ learn new skills, as well as make new friends.&nbsp;</p>
 a CCA.&nbsp; Unfortunately, I later discovered that I had asthma and hence
 the chance to join badminton was gone.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/testimonial_quote__6_.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/testimonial_quote__6_.png">
 </div>
 <p>My passion for Erhu grew and led me to take extra lessons outside school.
 Later, I even applied for Direct School Admission to Nan Hua High through
@@ -123,7 +123,7 @@ in the background, my form teacher Mr Liow selected me as a junior prefect
 in Primary 3. He probably saw the potential in me which I was not aware
 of.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/testimonial_quote__7_.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/testimonial_quote__7_.png">
 </div>
 <p>Their guidance was instrumental in my journey as they taught me to step
 up, show initiative, and develop leadership and organising skills so as
@@ -136,7 +136,7 @@ I would not have been the person that I am today.&nbsp;</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Hannah__5_.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Hannah__5_.png">
 </div>
 <p>Pei Tong is special to me because when I moved to the west side of Singapore,
 I did not have many friends. Pei Tong has helped me meet new people whom
@@ -145,7 +145,7 @@ I am still friends with till this day.</p>
 CDAC teachers supported me and helped me with my studies. As such, I managed
 to pass PSLE with flying colours.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/testimonial_quote__3_.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/testimonial_quote__3_.png">
 </div>
 <p>I do have many fond memories of Pei Tong. Other than the classroom lessons,
 I remembered we had a bouncy castle for quite a few of our Children's Day
