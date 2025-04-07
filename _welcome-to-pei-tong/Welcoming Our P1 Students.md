@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/welcome_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/welcomeP1_header.png">
 </div>
 <h1>A First Day to Remember</h1>
 <blockquote>
