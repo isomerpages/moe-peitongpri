@@ -29,7 +29,7 @@ memories and relive the moments that made the start of school unforgettable.</p>
 of exploration, friendship, and growth.</div>
 <div class="isomer-card-link">View Album</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://photos.app.goo.gl/GJacZMyENCGM5CmS9" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2023_Card Image" src="/images/Welcome to Pei Tong/P1_First_Day__45_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2023</div><div class="isomer-card-description">Orderly steps, warm smiles — we welcome our Primary 1 students into a safe and joyful learning environment.</div><div class="isomer-card-link">View Album</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://photos.app.goo.gl/GJacZMyENCGM5CmS9" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2023_Card Image" src="/images/Welcome to Pei Tong/P1_First_Day__45_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2023</div><div class="isomer-card-description">Teachers model healthy routines, so students learn to care for themselves and others.</div><div class="isomer-card-link">View Album</div></div></a>
 </div>
 <p></p>
 <p></p>
