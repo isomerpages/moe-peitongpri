@@ -6,11 +6,11 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/welcomeP1_header.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/welcome_p1_header.png">
 </div>
 <h1>A First Day to Remember</h1>
 <blockquote>
-<h2>Welcoming our youngest learners</h2>
+<h3>Welcoming our youngest learners</h3>
 </blockquote>
 <p>From the quiet nerves of stepping into a new classroom to the joy of meeting
 a new friend, the first day of school is always special. Browse each year’s
