@@ -80,14 +80,16 @@ significant role in shaping me into the person I am today.</p>
 <p>Pei Tong is special to me because it is a place where we students can
 enjoy, play, study and make new friends. It is also a place where care
 is readily provided whenever we need it.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/testimonial_quote__4_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/TestimonialQuote_Raynr1.png">
 </div>
 <p>Another special teacher I remember fondly is my Primary 6 math teacher,
 Mrs Yeo. Math was difficult, but she ensured that we learned well as we
 prepared for PSLE.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/testimonial_quote__5_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/TestimonialQuote_Raynr2.png">
 </div>
 <p>Now that I am in Hua Yi Secondary School, I look back and am incredibly
 grateful to them for their patience and how they have played an important
@@ -106,8 +108,9 @@ learn new skills, as well as make new friends.&nbsp;</p>
 <p>Back when I was in Primary 3, initially I wanted to join badminton as
 a CCA.&nbsp; Unfortunately, I later discovered that I had asthma and hence
 the chance to join badminton was gone.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/testimonial_quote__6_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/TestimonialQuote_Minyi1.png">
 </div>
 <p>My passion for Erhu grew and led me to take extra lessons outside school.
 Later, I even applied for Direct School Admission to Nan Hua High through
@@ -125,8 +128,9 @@ speaking and was low in confidence. Despite being someone who was just
 in the background, my form teacher Mr Liow selected me as a junior prefect
 in Primary 3. He probably saw the potential in me which I was not aware
 of.&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/testimonial_quote__7_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/TestimonialQuote_Minyi2.png">
 </div>
 <p>Their guidance was instrumental in my journey as they taught me to step
 up, show initiative, and develop leadership and organising skills so as
@@ -147,8 +151,9 @@ I am still friends with till this day.</p>
 <p>During one of my most stressful time leading to PSLE, my Pei Tong and
 CDAC teachers supported me and helped me with my studies. As such, I managed
 to pass PSLE with flying colours.&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/testimonial_quote__3_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/TestimonialQuote_Nurin1.png">
 </div>
 <p>I do have many fond memories of Pei Tong. Other than the classroom lessons,
 I remembered we had a bouncy castle for quite a few of our Children's Day
