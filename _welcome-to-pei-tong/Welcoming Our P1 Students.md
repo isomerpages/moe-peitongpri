@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/welcome_pri1_header.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/welcome_pri1_header__1_.png">
 </div>
 <h1>A First Day to Remember</h1>
 <blockquote>
@@ -20,7 +20,7 @@ memories and relive the moments that made the start of school unforgettable.</p>
 <a rel="noopener noreferrer nofollow" href="https://photos.app.goo.gl/X9D4EzrkN47URj839" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2024-Card Image" src="/images/Welcome to Pei Tong/welcome_p1_2024_card1.png">
+<img style="width: 100%" height="auto" width="100%" alt="2024-Card Image" src="/images/Welcome to Pei Tong/welcome_pri1_header__2_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
