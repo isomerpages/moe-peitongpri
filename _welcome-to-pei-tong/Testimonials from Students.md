@@ -11,8 +11,9 @@ variant: tiptap
 grateful for the experiences and lessons I gained here. Now, as a student
 at Nanyang Girls' High, I often reflect on my time at Pei Tong and the
 wonderful memories I created with my friends and teachers.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Their_encouragement_and_care_made_learning_enjoyable_and_engaging__and_they_always_took_the_time_to_ensure_that_I_understood_difficult_concepts__Their_support__especially_during_challenging_times___1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/TestimonialQuote_Joy1.png">
 </div>
 <p>These values have guided me in everything I do, whether it’s helping friends
 with schoolwork, expressing gratitude to those around me, or striving to
@@ -29,7 +30,7 @@ me focus on my growth and take pride in my abilities.</p>
 6 teachers, Mr. Husni, Mr. Chua, and 谢老师, who supported me throughout my
 journey at Pei Tong.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Their_encouragement_and_care_made_learning_enjoyable_and_engaging__and_they_always_took_the_time_to_ensure_that_I_understood_difficult_concepts__Their_support__especially_during_challenging_times_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/TestimonialQuote_Joy2a.png">
 </div>
 <p>Pei Tong has given me a strong foundation for my future, and I am thankful
 for the lessons, friendships, and memories that I will always carry with
@@ -56,14 +57,16 @@ journey. It began in Primary 3 when I was nominated as a junior prefect,
 providing me with opportunities to develop essential leadership skills
 through duty roles and training sessions. In Primary 5, I was honored to
 be nominated as Vice-Head Prefect through the Head Prefect Election process.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/testimonial_quote.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/TestimonialQuote_Kaeden1.png">
 </div>
 <p>I am also immensely grateful for the unwavering support and guidance provided
 by my teachers, especially during challenging times such as the COVID-19
 Circuit Breaker period.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/testimonial_quote__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/TestimonialQuote_Kaeden2.png">
 </div>
 <p>Overall, my experience at Pei Tong has not only enriched my academic knowledge
 but also imparted valuable life lessons and moral values. I am deeply thankful
