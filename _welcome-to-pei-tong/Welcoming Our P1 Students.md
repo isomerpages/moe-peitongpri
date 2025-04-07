@@ -39,7 +39,7 @@ our Primary 1 students through their first week — from the field to the
 library, the canteen to the general office. These shared moments spark
 new friendships and foster a culture of care.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://photos.app.goo.gl/UC4crgyZqWrf2LY76" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2025-Card Image" src="/images/Welcome to Pei Tong/welcome_p1_2025_card2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2025</div><div class="isomer-card-link">View Album</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://photos.app.goo.gl/UC4crgyZqWrf2LY76" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2025-Card Image" src="/images/Welcome to Pei Tong/welcome_pri1_header__1_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2025</div><div class="isomer-card-description">"Come see my favourite spot in school!"</div><div class="isomer-card-link">View Album</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://photos.app.goo.gl/46xmZ1caoCKMwyRD9" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -48,9 +48,10 @@ new friendships and foster a culture of care.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">2024</div>
+<div class="isomer-card-description">"How was your experience?"</div>
 <div class="isomer-card-link">View Album</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://photos.app.goo.gl/ncPC8kdhXxg8JUcS8" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2023_Card Image" src="/images/Welcome to Pei Tong/welcome_pri1_header.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2023</div><div class="isomer-card-link">View Album</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://photos.app.goo.gl/ncPC8kdhXxg8JUcS8" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2023_Card Image" src="/images/Welcome to Pei Tong/welcome_pri1_header.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2023</div><div class="isomer-card-description">"I love my P4 buddy!"</div><div class="isomer-card-link">View Album</div></div></a>
 </div>
 <p></p>
 <h3>Explore Our School Events and Programmes</h3>
