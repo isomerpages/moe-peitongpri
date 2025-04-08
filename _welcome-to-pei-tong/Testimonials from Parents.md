@@ -185,3 +185,22 @@ This positive attitude helps her cope well with her secondary school studies.</p
 She is proud to be part of Pei Tong family!</p>
 <p><strong><em>Mr &amp; Mrs TH Lim</em></strong>
 </p>
+<p></p>
+<h4><strong>You may also like:</strong></h4>
+<blockquote>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/welcome-to-pei-tong/testimonials-from-students/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="link-student" src="/images/Logos and Website Heros/Untitled_design__80_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hear from our Students</div><div class="isomer-card-description">Voices that bring our school to life.</div><div class="isomer-card-link">Click here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/ptps-experience/cca/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="link-cca" src="/images/Logos and Website Heros/Untitled_design__81_.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Explore Our CCAs</div>
+<div class="isomer-card-description">Discover passions beyond the classroom, offered at Pei Tong.</div>
+<div class="isomer-card-link">Click here</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/photos/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="link-psg" src="/images/Logos and Website Heros/Untitled_design__85_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Join Our Parent Support Group</div><div class="isomer-card-description">Be part of our caring village.</div><div class="isomer-card-link">Click here</div></div></a>
+</div>
+</blockquote>
+<p></p>
