@@ -4,6 +4,9 @@ permalink: /welcome-to-pei-tong/welcoming-our-p1-students/
 description: ""
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/welcome_pri1_header__1_.png">
+</div>
 <h1>A First Day to Remember</h1>
 <blockquote>
 <h3>Welcoming our youngest learners</h3>
