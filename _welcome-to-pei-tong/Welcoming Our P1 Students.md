@@ -32,7 +32,6 @@ of exploration, friendship, and growth.</div>
 </a><a rel="noopener noreferrer nofollow" href="https://photos.app.goo.gl/GJacZMyENCGM5CmS9" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2023_Card Image" src="/images/Welcome to Pei Tong/P1_First_Day__45_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2023</div><div class="isomer-card-description">Teachers model healthy routines, so students learn to care for themselves and others.</div><div class="isomer-card-link">View Album</div></div></a>
 </div>
 <p></p>
-<p></p>
 <h2>Primary 1 &amp; 4 Buddy Programme</h2>
 <p>With a small task booklet in hand and a big heart, Primary 4 buddies guide
 our Primary 1 students through their first week — from the field to the
@@ -54,8 +53,7 @@ new friendships and foster a culture of care.</p>
 </a><a rel="noopener noreferrer nofollow" href="https://photos.app.goo.gl/ncPC8kdhXxg8JUcS8" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2023_Card Image" src="/images/Welcome to Pei Tong/welcome_pri1_header.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2023</div><div class="isomer-card-description">"I love my P4 buddy!"</div><div class="isomer-card-link">View Album</div></div></a>
 </div>
 <p></p>
-<p><strong>You may also like:</strong>
-</p>
+<h4><strong>You may also like:</strong></h4>
 <blockquote>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/testimonials-from-parents/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Hear from our Parents</div><div class="isomer-card-description">Read what Pei Tong's parents have to say.</div><div class="isomer-card-link">Click here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/gallery/" class="isomer-card">
