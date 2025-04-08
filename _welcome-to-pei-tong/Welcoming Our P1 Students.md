@@ -51,18 +51,28 @@ new friendships and foster a culture of care.</p>
 <p></p>
 <h4><strong>You may also like:</strong></h4>
 <blockquote>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/testimonials-from-parents/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="link-testimonial-from-parent" src="/images/Logos and Website Heros/Untitled_design__71_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hear from our Parents</div><div class="isomer-card-link">Click here</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/welcome-to-pei-tong/testimonials-from-parents/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="link-parent" src="/images/Logos and Website Heros/Untitled_design__82_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hear from our Parents</div><div class="isomer-card-link">Click here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/ptps-experience/cca/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="link-cca" src="/images/Logos and Website Heros/Untitled_design__77_.png">
+<img style="width: 100%" height="auto" width="100%" alt="link-cca" src="/images/Logos and Website Heros/Untitled_design__81_.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Explore Our CCAs</div>
 <div class="isomer-card-link">Click here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/photos/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="link-photos" src="/images/Logos and Website Heros/Untitled_design__75_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">View Our Gallery</div><div class="isomer-card-link">Click here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/photos/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="link-photos" src="/images/Logos and Website Heros/Untitled_design__83_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">View Our Gallery</div><div class="isomer-card-link">Click here</div></div></a>
 </div>
 </blockquote>
+<h4><strong>You may also like:</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/testimonials-from-parents/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Hear from our Parents</div><div class="isomer-card-description">Real stories from our supportive community.</div><div class="isomer-card-link">Click here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/ptps-experience/cca/" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Explore Our CCAs</div>
+<div class="isomer-card-description">Discover passions beyond the classroom., offered at Pei Tong</div>
+<div class="isomer-card-link">Click here</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/photos/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">View Our Gallery</div><div class="isomer-card-description">Experience school life through our lens.</div><div class="isomer-card-link">Click here</div></div></a>
+</div>
 <p></p>
