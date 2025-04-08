@@ -66,6 +66,7 @@ new friendships and foster a culture of care.</p>
 </div>
 </blockquote>
 <h4><strong>You may also like:</strong></h4>
+<blockquote>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/testimonials-from-parents/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Hear from our Parents</div><div class="isomer-card-description">Real stories from our supportive community.</div><div class="isomer-card-link">Click here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/ptps-experience/cca/" class="isomer-card">
 <div class="isomer-card-body">
@@ -75,4 +76,5 @@ new friendships and foster a culture of care.</p>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/photos/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">View Our Gallery</div><div class="isomer-card-description">Experience school life through our lens.</div><div class="isomer-card-link">Click here</div></div></a>
 </div>
+</blockquote>
 <p></p>
