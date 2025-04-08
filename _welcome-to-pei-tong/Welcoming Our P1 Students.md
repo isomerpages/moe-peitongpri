@@ -4,10 +4,6 @@ permalink: /welcome-to-pei-tong/welcoming-our-p1-students/
 description: ""
 variant: tiptap
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/welcome_pri1_header__1_.png">
-</div>
 <h1>A First Day to Remember</h1>
 <blockquote>
 <h3>Welcoming our youngest learners</h3>
@@ -55,14 +51,18 @@ new friendships and foster a culture of care.</p>
 <p></p>
 <h4><strong>You may also like:</strong></h4>
 <blockquote>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/testimonials-from-parents/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Hear from our Parents</div><div class="isomer-card-description">Read what Pei Tong's parents have to say.</div><div class="isomer-card-link">Click here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/gallery/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/testimonials-from-parents/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="link-testimonial-from-parent" src="/images/Logos and Website Heros/Untitled_design__71_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hear from our Parents</div><div class="isomer-card-link">Click here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/ptps-experience/cca/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="link-cca" src="/images/Logos and Website Heros/Untitled_design__77_.png">
+</div>
+</div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Our CCAs</div>
-<div class="isomer-card-description">Explore the CCAs offered at Pei Tong.</div>
+<div class="isomer-card-title">Explore Our CCAs</div>
 <div class="isomer-card-link">Click here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/photos/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Gallery</div><div class="isomer-card-description">Witness the growth and memorable moments that shape a child’s journey at Pei Tong.</div><div class="isomer-card-link">Click here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/photos/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="link-photos" src="/images/Logos and Website Heros/Untitled_design__75_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">View Our Gallery</div><div class="isomer-card-link">Click here</div></div></a>
 </div>
 </blockquote>
 <p></p>
