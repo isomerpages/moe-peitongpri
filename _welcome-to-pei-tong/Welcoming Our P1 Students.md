@@ -66,30 +66,5 @@ new friendships and foster a culture of care.</p>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/photos/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Gallery</div><div class="isomer-card-description">Witness the growth and memorable moments that shape a child’s journey at Pei Tong.</div><div class="isomer-card-link">Click here</div></div></a>
 </div>
-<p></p>
 </blockquote>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h4>CCAs</h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Our Gallery<br></strong>Witness the growth and memorable moments
-that shape your child’s journey at Pei Tong.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4></h4>
 <p></p>
