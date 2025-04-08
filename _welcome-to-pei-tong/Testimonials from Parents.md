@@ -4,42 +4,6 @@ permalink: /welcome-to-pei-tong/testimonials-from-parents/
 description: ""
 variant: tiptap
 ---
-<p>My daughter was part of the graduating class of 2023 at Pei Tong Primary
-School, and I couldn't be more impressed with the teachers, especially
-Mr. Husni and Mr. Chua. Their dedication and professionalism in providing
-support and guidance, not only to the children but also to us, the 'gan
-cheong' parents, have been truly amazing. They go above and beyond by making
-themselves available - something we truly appreciate.</p>
-<p>Since moving on to the next chapter of her education in 2024, there hasn't
-been a single day where my daughter hasn't expressed how much she misses
-her teachers at Pei Tong. Their impact on her goes beyond the classroom,
-and I am deeply grateful for the positive influence they've had on her.</p>
-<p><strong><em>Mr Tan Wei Hsuan</em></strong>
-</p>
-<hr>
-<p>My son had the privilege of being taught by some of the finest educators
-during his crucial years in P5 and P6 at Pei Tong Primary School. These
-teachers stand out as remarkable educators whose patience, dedication,
-and commitment to teaching left a lasting impact on my son's education.</p>
-<p>I witnessed firsthand their unwavering dedication to ensuring that every
-child understood the lessons thoroughly. Thanks to their guidance, my son
-excelled enough to gain entry into a reputable school of his choice. Beyond
-imparting knowledge, these teachers instilled valuable values and never
-hesitated to discipline with firm yet loving guidance.</p>
-<p>In addition to the academic curriculum, his teachers went above and beyond
-by sharing personal experiences and setbacks with the students, inspiring
-them with stories of resilience and overcoming challenges. One teacher,
-in particular, demonstrated musical talents by playing guitar and singing
-with the children, and also created engaging educational content to enhance
-the learning experience.</p>
-<p>My son formed deep connections during his six years at Pei Tong, forging
-friendships and building relationships outside our family circle. Despite
-moving on after PSLE, he remains in touch with several classmates, highlighting
-the strong bonds formed at the school.</p>
-<p><strong><em>Ms Chia Yi Fang</em></strong>
-</p>
-<hr>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/F7065FD0-4448-4B47-87E1-DC0A12ED9028 - Min lee.jpeg">
 </div>
@@ -185,6 +149,42 @@ This positive attitude helps her cope well with her secondary school studies.</p
 She is proud to be part of Pei Tong family!</p>
 <p><strong><em>Mr &amp; Mrs TH Lim</em></strong>
 </p>
+<hr>
+<p>My daughter was part of the graduating class of 2023 at Pei Tong Primary
+School, and I couldn't be more impressed with the teachers, especially
+Mr. Husni and Mr. Chua. Their dedication and professionalism in providing
+support and guidance, not only to the children but also to us, the 'gan
+cheong' parents, have been truly amazing. They go above and beyond by making
+themselves available - something we truly appreciate.</p>
+<p>Since moving on to the next chapter of her education in 2024, there hasn't
+been a single day where my daughter hasn't expressed how much she misses
+her teachers at Pei Tong. Their impact on her goes beyond the classroom,
+and I am deeply grateful for the positive influence they've had on her.</p>
+<p><strong><em>Mr Tan Wei Hsuan</em></strong>
+</p>
+<hr>
+<p>My son had the privilege of being taught by some of the finest educators
+during his crucial years in P5 and P6 at Pei Tong Primary School. These
+teachers stand out as remarkable educators whose patience, dedication,
+and commitment to teaching left a lasting impact on my son's education.</p>
+<p>I witnessed firsthand their unwavering dedication to ensuring that every
+child understood the lessons thoroughly. Thanks to their guidance, my son
+excelled enough to gain entry into a reputable school of his choice. Beyond
+imparting knowledge, these teachers instilled valuable values and never
+hesitated to discipline with firm yet loving guidance.</p>
+<p>In addition to the academic curriculum, his teachers went above and beyond
+by sharing personal experiences and setbacks with the students, inspiring
+them with stories of resilience and overcoming challenges. One teacher,
+in particular, demonstrated musical talents by playing guitar and singing
+with the children, and also created engaging educational content to enhance
+the learning experience.</p>
+<p>My son formed deep connections during his six years at Pei Tong, forging
+friendships and building relationships outside our family circle. Despite
+moving on after PSLE, he remains in touch with several classmates, highlighting
+the strong bonds formed at the school.</p>
+<p><strong><em>Ms Chia Yi Fang</em></strong>
+</p>
+<p></p>
 <p></p>
 <h4><strong>You may also like:</strong></h4>
 <blockquote>
