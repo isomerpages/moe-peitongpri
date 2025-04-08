@@ -54,9 +54,42 @@ new friendships and foster a culture of care.</p>
 </a><a rel="noopener noreferrer nofollow" href="https://photos.app.goo.gl/ncPC8kdhXxg8JUcS8" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2023_Card Image" src="/images/Welcome to Pei Tong/welcome_pri1_header.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2023</div><div class="isomer-card-description">"I love my P4 buddy!"</div><div class="isomer-card-link">View Album</div></div></a>
 </div>
 <p></p>
-<h3>Explore Our School Events and Programmes</h3>
-<p>Witness the growth and memorable moments that shape your child’s journey
-at Pei Tong. Our gallery captures the close bonds formed, milestones celebrated,
-and the unique experiences that makes learning at Pei Tong special.</p>
-<h4><strong><a href="/photos/" rel="noopener nofollow" target="_blank">Visit Our Gallery Page</a></strong></h4>
+<p><strong>You may also like:</strong>
+</p>
+<blockquote>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/testimonials-from-parents/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Hear from our Parents</div><div class="isomer-card-description">Read what Pei Tong's parents have to say.</div><div class="isomer-card-link">Click here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/gallery/" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Our CCAs</div>
+<div class="isomer-card-description">Explore the CCAs offered at Pei Tong.</div>
+<div class="isomer-card-link">Click here</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/photos/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Gallery</div><div class="isomer-card-description">Witness the growth and memorable moments that shape a child’s journey at Pei Tong.</div><div class="isomer-card-link">Click here</div></div></a>
+</div>
+<p></p>
+</blockquote>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4>CCAs</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Our Gallery<br></strong>Witness the growth and memorable moments
+that shape your child’s journey at Pei Tong.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4></h4>
 <p></p>
