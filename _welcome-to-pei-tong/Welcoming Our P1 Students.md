@@ -69,6 +69,5 @@ new friendships and foster a culture of care.</p>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/photos/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="link-photos" src="/images/Logos and Website Heros/Untitled_design__83_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">See Our Gallery</div><div class="isomer-card-description">Experience school life through our lens.</div><div class="isomer-card-link">Click here</div></div></a>
 </div>
-<p></p>
 </blockquote>
 <p></p>
