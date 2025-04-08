@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <blockquote>
-<p><em>Welcome to Pei Tong Primary School! <br>We’re so glad you’re here. </em>
+<p><em>Welcome to Pei Tong Primary School! <br>We’re so glad you’re here.</em>
 </p>
 </blockquote>
 <p>Check out our video playlist below for a peek into school life at Pei
@@ -37,4 +37,22 @@ video below to catch a glimpse of our students in action!</p>
 <div class="iframe-wrapper">
 <iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EhDoip3iG04"></iframe>
 </div>
+<p></p>
+<h4><strong>You may also like:</strong></h4>
+<blockquote>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/ptps-experience/petc/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="link-curriculum" src="/images/Logos and Website Heros/Untitled_design__79_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Explore Our Curriculum</div><div class="isomer-card-description">Discover a curriculum designed for future success.</div><div class="isomer-card-link">Click here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/ptps-experience/cca/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="link-cca" src="/images/Logos and Website Heros/Untitled_design__81_.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Explore Our CCAs</div>
+<div class="isomer-card-description">Discover passions beyond the classroom, offered at Pei Tong.</div>
+<div class="isomer-card-link">Click here</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/photos/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="link-photos" src="/images/Logos and Website Heros/Untitled_design__83_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">See Our Gallery</div><div class="isomer-card-description">Experience school life through our lens.</div><div class="isomer-card-link">Click here</div></div></a>
+</div>
+</blockquote>
 <p></p>
