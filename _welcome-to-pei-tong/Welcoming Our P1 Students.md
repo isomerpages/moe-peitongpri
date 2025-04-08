@@ -49,9 +49,10 @@ new friendships and foster a culture of care.</p>
 </a><a rel="noopener noreferrer nofollow" href="https://photos.app.goo.gl/ncPC8kdhXxg8JUcS8" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2023_Card Image" src="/images/Welcome to Pei Tong/welcome_pri1_header.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2023</div><div class="isomer-card-description">"I love my P4 buddy!"</div><div class="isomer-card-link">View Album</div></div></a>
 </div>
 <p></p>
+<p></p>
 <h4><strong>You may also like:</strong></h4>
 <blockquote>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/welcome-to-pei-tong/testimonials-from-parents/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="link-parent" src="/images/Logos and Website Heros/Untitled_design__82_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hear from our Parents</div><div class="isomer-card-link">Click here</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/welcome-to-pei-tong/testimonials-from-students/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="link-student" src="/images/Logos and Website Heros/Untitled_design__80_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hear from our Students</div><div class="isomer-card-description">Voices that bring our school to life.</div><div class="isomer-card-link">Click here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/ptps-experience/cca/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -60,21 +61,11 @@ new friendships and foster a culture of care.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Explore Our CCAs</div>
+<div class="isomer-card-description">Discover passions beyond the classroom, offered at Pei Tong.</div>
 <div class="isomer-card-link">Click here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/photos/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="link-photos" src="/images/Logos and Website Heros/Untitled_design__83_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">View Our Gallery</div><div class="isomer-card-link">Click here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/photos/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="link-photos" src="/images/Logos and Website Heros/Untitled_design__83_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">See Our Gallery</div><div class="isomer-card-description">Experience school life through our lens.</div><div class="isomer-card-link">Click here</div></div></a>
 </div>
-</blockquote>
-<h4><strong>You may also like:</strong></h4>
-<blockquote>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/testimonials-from-parents/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Hear from our Parents</div><div class="isomer-card-description">Real stories from our supportive community.</div><div class="isomer-card-link">Click here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/ptps-experience/cca/" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Explore Our CCAs</div>
-<div class="isomer-card-description">Discover passions beyond the classroom., offered at Pei Tong</div>
-<div class="isomer-card-link">Click here</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/photos/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">View Our Gallery</div><div class="isomer-card-description">Experience school life through our lens.</div><div class="isomer-card-link">Click here</div></div></a>
-</div>
+<p></p>
 </blockquote>
 <p></p>
