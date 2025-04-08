@@ -4,8 +4,9 @@ permalink: /welcome-to-pei-tong/testimonials-from-students/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Hannah__4_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/Hannah__4_.png">
 </div>
 <p>Pei Tong Primary School holds a special place in my heart, and I am incredibly
 grateful for the experiences and lessons I gained here. Now, as a student
@@ -40,7 +41,7 @@ a student, but as an individual ready to take on the world.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Hannah__3_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/Hannah__3_.png">
 </div>
 <p>I am a proud graduate of Pei Tong Primary School from the class of 2022,
 currently pursuing my studies at NUS High School of Mathematics and Science.</p>
@@ -75,7 +76,7 @@ significant role in shaping me into the person I am today.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Hannah__6_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/Hannah__6_.png">
 </div>
 <p>Pei Tong is special to me because it is a place where we students can
 enjoy, play, study and make new friends. It is also a place where care
@@ -101,7 +102,7 @@ I really hope to be able to see all of you again soon!</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Hannah__7_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/Hannah__7_.png">
 </div>
 <p>Pei Tong has given me a conducive environment and opportunities to succeed,
 learn new skills, as well as make new friends.&nbsp;</p>
@@ -143,7 +144,7 @@ I would not have been the person that I am today.&nbsp;</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Hannah__5_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/Hannah__5_.png">
 </div>
 <p>Pei Tong is special to me because when I moved to the west side of Singapore,
 I did not have many friends. Pei Tong has helped me meet new people whom
