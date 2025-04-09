@@ -4,9 +4,6 @@ permalink: /welcome-to-pei-tong/welcoming-our-p1-students/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/welcome_pri1_header__1_.png">
-</div>
 <h1>A First Day to Remember</h1>
 <blockquote>
 <h3>Welcoming our youngest learners</h3>
@@ -55,19 +52,14 @@ new friendships and foster a culture of care.</p>
 <p></p>
 <h4><strong>You may also like:</strong></h4>
 <blockquote>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/welcome-to-pei-tong/testimonials-from-students/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="link-student" src="/images/Logos and Website Heros/Untitled_design__80_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hear from our Students</div><div class="isomer-card-description">Voices that bring our school to life.</div><div class="isomer-card-link">Click here</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/welcome-to-pei-tong/testimonials-from-students/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Hear from our Students</div><div class="isomer-card-description">Voices that bring our school to life.</div><div class="isomer-card-link">Click here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/ptps-experience/cca/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="link-cca" src="/images/Logos and Website Heros/Untitled_design__81_.png">
-</div>
-</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Explore Our CCAs</div>
 <div class="isomer-card-description">Discover passions beyond the classroom, offered at Pei Tong.</div>
 <div class="isomer-card-link">Click here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/photos/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="link-photos" src="/images/Logos and Website Heros/Untitled_design__83_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">See Our Gallery</div><div class="isomer-card-description">Experience school life through our lens.</div><div class="isomer-card-link">Click here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/photos/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">See Our Gallery</div><div class="isomer-card-description">Experience school life through our lens.</div><div class="isomer-card-link">Click here</div></div></a>
 </div>
 </blockquote>
 <p></p>
