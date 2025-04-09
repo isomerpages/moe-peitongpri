@@ -25,6 +25,7 @@ if there is any vacancy. <a href="https://go.gov.sg/mkpeitongwaitlist" rel="noop
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRauSfOW9089AwF4Ar7fnOSUEmGQxLZf3GvKFkDAui_TURzjj4LIoje1gsONSkBuNBqaqCRXexMPj9J/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@Pei%20Tong/MK%20%20PTPS.jpg">
 </div>
