@@ -4,7 +4,6 @@ permalink: /welcome-to-pei-tong/testimonials-from-students/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/Hannah__4_.png">
 </div>
@@ -421,19 +420,14 @@ Pei Tong had indeed brought me to greater heights.</p>
 <p></p>
 <h4>You may also like:</h4>
 <blockquote>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/welcome-to-pei-tong/testimonials-from-parents/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="link-parents" src="/images/Logos and Website Heros/Untitled_design__82_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hear from our Parents</div><div class="isomer-card-description">Real stories from our supportive community.</div><div class="isomer-card-link">Click here</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/welcome-to-pei-tong/testimonials-from-parents/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Hear from our Parents</div><div class="isomer-card-description">Real stories from our supportive community.</div><div class="isomer-card-link">Click here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/ptps-experience/cca/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="link-ccas" src="/images/Logos and Website Heros/Untitled_design__81_.png">
-</div>
-</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Explore Our CCAs</div>
 <div class="isomer-card-description">Discover passions beyond the classroom, offered at Pei Tong</div>
 <div class="isomer-card-link">Click here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/our-people/nominate/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="link-appreciatestaff" src="/images/Logos and Website Heros/Untitled_design__84_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Appreciate A Staff</div><div class="isomer-card-description">Say thank you to someone who matters.</div><div class="isomer-card-link">Click here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/our-people/nominate/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Appreciate A Staff</div><div class="isomer-card-description">Say thank you to someone who matters.</div><div class="isomer-card-link">Click here</div></div></a>
 </div>
 </blockquote>
 <p></p>
