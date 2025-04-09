@@ -14,15 +14,17 @@ of activities outside MK.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@Pei%20Tong/partnership%20with%20pei%20tong%20primary.jpg">
 </div>
-<h2>MK @ PT Library</h2>
-<p>As part of our MK Reads! initiative, we have set up a physical library
-for MK children to visit. We have a variety of age-appropriate books of
-different genres and Mother-Tongue languages.</p>
-<p>Through this initiative, we hope to instil love and joy in reading in
-our children. Parents who have donated preloved books during our book drive
-have also been included in our collection.</p>
+<h2>MK Reads!</h2>
+<p>As part of our MK Reads! initiative, we have created a rich reading environment
+for our MK children. They can explore a diverse collection of age-appropriate
+books in different genres and Mother Tongue languages at our reading corners.</p>
+<p>To further enhance their reading experiences, children also have the opportunity
+to visit the Molly Bus and the library at Pei Tong Primary School, borrow
+books from the MK Classroom Library to engage in reading activities with
+their families, and participate in storytelling sessions with parents.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@Pei%20Tong/mk@pt%20library.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@Pei Tong/MK_Reads.jpg">
 </div>
 <h2>K1/K2 Level Day</h2>
 <p>Our MK Level Days are held bi-weekly for our respective levels. During
