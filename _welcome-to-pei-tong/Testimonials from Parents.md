@@ -4,9 +4,6 @@ permalink: /welcome-to-pei-tong/testimonials-from-parents/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/Testimonials/F7065FD0-4448-4B47-87E1-DC0A12ED9028 - Min lee.jpeg">
-</div>
 <p>To be honest, my child entered Pei Tong Primary School (PTPS) through
 registration phase 2Cs as she was balloted out from another school. Coming
 in, I did not hope for much and just want her to make friends, have fun
@@ -188,19 +185,14 @@ the strong bonds formed at the school.</p>
 <p></p>
 <h4><strong>You may also like:</strong></h4>
 <blockquote>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/welcome-to-pei-tong/testimonials-from-students/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="link-student" src="/images/Logos and Website Heros/Untitled_design__80_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hear from our Students</div><div class="isomer-card-description">Voices that bring our school to life.</div><div class="isomer-card-link">Click here</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/welcome-to-pei-tong/testimonials-from-students/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Hear from our Students</div><div class="isomer-card-description">Voices that bring our school to life.</div><div class="isomer-card-link">Click here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/ptps-experience/cca/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="link-cca" src="/images/Logos and Website Heros/Untitled_design__81_.png">
-</div>
-</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Explore Our CCAs</div>
 <div class="isomer-card-description">Discover passions beyond the classroom, offered at Pei Tong.</div>
 <div class="isomer-card-link">Click here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/psg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="link-psg" src="/images/Logos and Website Heros/Untitled_design__85_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Join Our Parent Support Group</div><div class="isomer-card-description">Be part of our caring village.</div><div class="isomer-card-link">Click here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/psg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Join Our Parent Support Group</div><div class="isomer-card-description">Be part of our caring village.</div><div class="isomer-card-link">Click here</div></div></a>
 </div>
 </blockquote>
 <p></p>
