@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Logos and Website Heros/PT80_herobanner4.png
+      background: /images/Logos and Website Heros/PT80_herobanner_1.png
       key_highlights:
         - title: Know the latest
           description: Happenings & Updates
