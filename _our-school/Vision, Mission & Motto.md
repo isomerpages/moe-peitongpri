@@ -8,9 +8,11 @@ variant: tiptap
 <p>Every child a <strong>passionate learner</strong>, a <strong>resilient individual</strong> and <strong>gracious citizen</strong>
 </p>
 <h2>Mission</h2>
-<p>Nurturing and inspiring every child to be an engaged learner who is holistically
-developed, future-ready and anchored in values in a caring environment.</p>
+<p>Nurturing our students to be future-ready and rooted in values.</p>
 <h2>School Values</h2>
 <p>Care. Respect. Integrity. Responsibility. Resilience. Excellence</p>
 <h2>Motto</h2>
-<p>We look ahead</p>
+<p><strong>We look ahead</strong>
+</p>
+<p><em>The motto of the school "We Look Ahead" reiterates the vision of our founders, that is, to nurture the young and prepare them for their roles in the future.</em>
+</p>
