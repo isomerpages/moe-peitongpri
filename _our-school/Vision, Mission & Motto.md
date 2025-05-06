@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2>Vision</h2>
-<p>Every child a <strong>passionate learner</strong>, a <strong>resilient individual</strong> and <strong>gracious citizen</strong>
+<p>Every child a <strong>passionate learner</strong>, a <strong>resilient individual</strong> and <strong>gracious citizen.</strong>
 </p>
 <h2>Mission</h2>
 <p>Nurturing our students to be future-ready and rooted in values.</p>
