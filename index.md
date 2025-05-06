@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Logos and Website Heros/TOGETHER_TOWARDS_TOMORROW.gif
+      background: /images/Logos and Website Heros/80th_2025___website_hero.gif
       key_highlights:
         - title: Know the latest
           description: Happenings & Updates
