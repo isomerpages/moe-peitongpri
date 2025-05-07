@@ -32,14 +32,16 @@ variant: tiptap
 <h2>SLS Login Problems</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/slsptps" rel="noopener noreferrer nofollow" target="_blank">PTPS SLS helpdesk</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.learning.moe.edu.sg/login-troubleshooting/get-help/contact-sls-helpdesk/" rel="noopener noreferrer nofollow" target="_blank">MOE SLS helpdesk</a>
+<p><a href="https://form.gov.sg/6086551d3e784500119356d1" rel="noopener noreferrer nofollow" target="_blank">PTPS SLS helpdesk</a>
 </p>
 </li>
 </ul>
+<p></p>
+<p>Upon submission of this form, you will receive a response via email by
+3 working days (<strong>excluding weekends and public holidays</strong>).
+For urgent access issues, you may perform a self-reset by answering your
+security questions on SLS or MIMS. For SLS-specific enquiries, you may
+also contact the SLS Helpdesk directly at <a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank"><u>helpdesk@sls.ufinity.com</u></a>.</p>
 <hr>
 <h2>For Browsing</h2>
 <ul data-tight="true" class="tight">
