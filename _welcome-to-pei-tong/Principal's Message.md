@@ -41,9 +41,8 @@ legacy of excellence in education and character building. Together, we
 can nurture our children into confident, capable individuals who will make
 positive contributions to society, just as generations of PTPS alumni have
 done before them.</p>
-<p><strong><em>Together Towards Tomorrow, let us all walk this journey.</em></strong>
+<p><strong>Together Towards Tomorrow, let us all walk this journey.</strong>
 </p>
 <p></p>
-<p><strong>Mrs Ong - Chew Lu See</strong>
-<br><strong>Principal</strong>
+<p><strong><em>Mrs Ong - Chew Lu See</em></strong><em><br></em><strong><em>Principal</em></strong>
 </p>
