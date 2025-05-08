@@ -4,6 +4,9 @@ permalink: /welcome-to-pei-tong/principals-message/
 description: ""
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/new_logo__slogan_1.png">
+</div>
 <p>Welcome to Pei Tong Primary School (PTPS), where we are committed to nurturing
 every child to be passionate learner, a resilient individual, and a gracious
 citizen. 2025 marks a significant milestone as we celebrate our 80th anniversary.
@@ -46,3 +49,5 @@ done before them.</p>
 <p></p>
 <p><strong><em>Mrs Ong - Chew Lu See</em></strong><em><br></em><strong><em>Principal</em></strong>
 </p>
+<p></p>
+<p></p>
