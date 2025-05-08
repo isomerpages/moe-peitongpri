@@ -21,5 +21,5 @@ sections:
         - title: For Students
           description: Quick Links
           url: /forstudents/
-      variant: image
+      variant: center
 ---
