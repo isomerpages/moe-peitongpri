@@ -2,7 +2,7 @@
 title: Principal's Message
 permalink: /welcome-to-pei-tong/principals-message/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <p>Welcome to Pei Tong Primary School (PTPS), where we are committed to nurturing
 every child to be passionate learner, a resilient individual, and a gracious
@@ -46,6 +46,6 @@ done before them.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/pt80_p_signogg.png">
+<img style="width: 45%;" align="left" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/pt80_p_signogg.png">
 </div>
 <p></p>
