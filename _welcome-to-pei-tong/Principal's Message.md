@@ -43,8 +43,9 @@ positive contributions to society, just as generations of PTPS alumni have
 done before them.</p>
 <p><strong>Together Towards Tomorrow, let us all walk this journey.</strong>
 </p>
+<hr>
 <p></p>
-<p><strong><em>Mrs Ong - Chew Lu See</em></strong><em><br></em><strong><em>Principal</em></strong>
-</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" align="left" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/pt80_p_signogg.png">
+</div>
 <p></p>
