@@ -2,6 +2,7 @@ collections:
   welcome-to-pei-tong:
     output: true
     order:
+      - Announcements.md
       - Principal's Message.md
       - Your adventure starts here.md
       - Virtual Tour.md
