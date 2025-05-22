@@ -1,7 +1,7 @@
 ---
-title: "Together Towards Tomorrow: Celebrating 80 Years of Excellence"
-permalink: /together-towards-tomorrow-celebrating-80-years-of-excellence/
-variant: tiptap
+title: PT 80th Anniversary
+permalink: /pt80/
+variant: markdown
 description: ""
 ---
 <p>Get ready for an extraordinary milestone as Pei Tong Primary School marks
