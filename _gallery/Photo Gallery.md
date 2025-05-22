@@ -9,6 +9,18 @@ variant: tiptap
 <br>For photos and videos from previous years, click on the links in the sidebar.</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://photos.app.goo.gl/qyp5U9EKztiY76TD9" rel="noopener nofollow" target="_blank">2025 P5 Camp</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/E3mmKBAhutLRLXeN9" rel="noopener nofollow" target="_blank">2025 Arts Fest</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/NgApU5Pre4u9cTkf6" rel="noopener nofollow" target="_blank">2025 International Friendship Day</a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/mxybDeQWcH2g57oz6" rel="noopener nofollow" target="_blank">2025 P6 VIA Visit to Lion Befrienders' Senior Activity Centre</a>
 </p>
 </li>

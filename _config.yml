@@ -3,10 +3,10 @@ url: https://peitongpri.moe.edu.sg
 favicon: /images/favicon-32x32.png
 colors:
   primary-color: "#01796f"
-  secondary-color: "#00a29c"
+  secondary-color: "#00a499"
   media-colors:
     - title: media-color-one
-      color: "#7cbc44"
+      color: "#78be20"
     - title: media-color-two
       color: "#81c784"
     - title: media-color-three
@@ -57,3 +57,4 @@ facebook-pixel: ""
 google_analytics: G-EW3FRXGYRG
 linkedin-insights: ""
 google_analytics_ga4: G-EW3FRXGYRG
+resources_name: announcements
