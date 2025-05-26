@@ -29,7 +29,7 @@ sections:
       description: Discover what makes our school a vibrant and nurturing place for
         every child.
       button: See brochure
-      url: /2025_PTPS_Brochure_compressed.pdf
+      url: /files/2025/2025_PTPS_Brochure_compressed.pdf
       image: /images/Untitled_design__90_.png
       alt: Image alt text
 ---
