@@ -39,10 +39,7 @@ video below to catch a glimpse of our students in action!</p>
 </div>
 <hr>
 <p><em>Tap the image to learn how your child thrives in Pei Tong.</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__90_.png">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/2025_PTPS_Brochure_1.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__90_.png"></a>
 <p></p>
 <h4><strong>You may also like:</strong></h4>
 <blockquote>
