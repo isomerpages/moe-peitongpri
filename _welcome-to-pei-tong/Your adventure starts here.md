@@ -37,6 +37,12 @@ video below to catch a glimpse of our students in action!</p>
 <div class="iframe-wrapper">
 <iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EhDoip3iG04"></iframe>
 </div>
+<hr>
+<p><em>Tap the image to learn how your child thrives in Pei Tong.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__90_.png">
+</div>
 <p></p>
 <h4><strong>You may also like:</strong></h4>
 <blockquote>
