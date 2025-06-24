@@ -164,6 +164,17 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Revathy</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <h2><strong>Primary 2</strong></h2>
 </td>
@@ -219,6 +230,17 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Chen Chen Janet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Gunasekar Ramya</p>
 </td>
 </tr>
 <tr>
