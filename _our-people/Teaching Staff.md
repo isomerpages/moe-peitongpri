@@ -497,18 +497,6 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 <p>Mr Muhammad Husni</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sim Wan'er</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Tan Shi Wei</p>
 </td>
 </tr>
@@ -533,7 +521,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 <p>Mr Ashley Hsu Kai Wai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Chye Chong Keith</p>
+<p>Ms Sim Wan'er</p>
 </td>
 </tr>
 <tr>
