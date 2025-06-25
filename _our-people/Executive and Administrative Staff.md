@@ -101,7 +101,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Admin Executive - AE</strong>
+<p><strong>Admin Executive - AE (MK)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -110,11 +110,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Admin Executive - AE (MK)</strong>
+<p><strong>Admin Executive - AE </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Charlotte</p>
+<p>Mdm Cynthia Tan</p>
 </td>
 </tr>
 <tr>
