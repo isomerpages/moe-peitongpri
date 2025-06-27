@@ -451,7 +451,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharon Ong</p>
+<p>Ms Joy Teo Tze Yue</p>
 </td>
 </tr>
 <tr>
@@ -833,6 +833,17 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Shanthi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Excellence 5</strong>
 </p>
 </td>
@@ -884,15 +895,6 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Yam Eileen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Special Educational Needs (SEN) Officer</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Jane Jayanthi</p>
 </td>
 </tr>
 <tr>

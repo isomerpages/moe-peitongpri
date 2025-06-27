@@ -47,7 +47,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operations Manager - OM 1</strong>
+<p><strong>Operations Manager - OM </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -56,7 +56,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operations Manager - OM 2</strong>
+<p><strong>Operations Manager - OM </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -110,7 +110,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Admin Executive - AE </strong>
+<p><strong>Admin Executive - AE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
