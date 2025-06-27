@@ -444,17 +444,6 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Joy Teo Tze Yue</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="3">
 <h2><strong>Primary 4</strong></h2>
 </td>
