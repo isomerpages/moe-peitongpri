@@ -315,6 +315,24 @@ variant: tiptap
 <p>Miss Teh Noelle</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH Student Management</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Vicknesh Rajamohan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH Aesthetic</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Chen Chen Janet</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
