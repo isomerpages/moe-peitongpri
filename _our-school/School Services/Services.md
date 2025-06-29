@@ -11,9 +11,6 @@ third_nav_title: School Services
 <br>Tue, Thu: 8.00 am - 5.30 pm
 <br>(Closed during lunch hours 12.30 pm - 1.30 pm)</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our School/Dental_Clinic_Dates_jUNE.png">
-</div>
 <p><strong>Tel: 89091679 </strong>
 <br>Please call or send a WhatsApp message for an appointment before visiting.</p>
 <a class="isomer-image-wrapper" href="https://wa.me/6589091679">
