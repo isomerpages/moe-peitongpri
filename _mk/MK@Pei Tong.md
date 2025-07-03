@@ -19,7 +19,7 @@ of the year.</p>
 give us a call at 67775458</p>
 <p></p>
 <p>Please fill in the form to join the waiting list. We will contact you
-if there is any vacancy. <a href="https://go.gov.sg/mkpeitongwaitlist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mkpeitongwaitlist</a>
+if there is any vacancy. <a href="https://go.gov.sg/ptmkwaitlist" rel="noopener nofollow" target="_blank">https://go.gov.sg/ptmkwaitlist</a>
 </p>
 <p></p>
 <div class="iframe-wrapper">
