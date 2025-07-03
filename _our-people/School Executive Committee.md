@@ -256,7 +256,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>Level Heads (LH)</h2>
+<h2>Level Heads (LH)/ Subject Heads</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -279,23 +279,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Ho Lai Yeng Joanne</p>
 </td>
-</tr>
-</tbody>
-</table>
-<h2>Subject Heads (SH)</h2>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
