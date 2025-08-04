@@ -61,7 +61,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://photos.app.goo.gl/UUS9yDDfDoWeg33i8" rel="noopener nofollow" target="_blank">2025 Mass Dance</a>
+<p><a href="https://photos.app.goo.gl/UUS9yDDfDoWeg33i8" rel="noopener nofollow" target="_blank">2025 P1 &amp; P2 Mass Dance</a>
 </p>
 </li>
 <li>
