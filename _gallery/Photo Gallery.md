@@ -9,7 +9,79 @@ variant: tiptap
 <br>For photos and videos from previous years, click on the links in the sidebar.</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://photos.app.goo.gl/i9hHe4YoVF54hnBt9" rel="noopener nofollow" target="_blank">2025 Racial Harmony Day</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/2v8sP9EMWv7mR7nCA" rel="noopener nofollow" target="_blank">2025 GetActive! Fun Play (GASG)</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/L4GFD6JPUhBtDf3u7" rel="noopener nofollow" target="_blank">2025 NE Show</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/MfvL1ti8gTMPY7Cs5" rel="noopener nofollow" target="_blank">2025 Student Leaders Investiture</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/dx7ukPrTrnZwJMUZ8" rel="noopener nofollow" target="_blank">2025 Student Leaders 2-Day Camp</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/UhiJUjNLhhVAnvf77" rel="noopener nofollow" target="_blank">2025 P6 Science Learning Journey</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/oqk36LjgWsrSexK56" rel="noopener nofollow" target="_blank">2025 BB/GB Annual Camp</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/T5YG8yD8bcnFHQoo9" rel="noopener nofollow" target="_blank">2025 Upper Primary Sports Carnival</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/JdgZ9ytmrPvtgEMz9" rel="noopener nofollow" target="_blank">2025 Kindergarten Engagement</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/pfzc1HGCSc1crB6R9" rel="noopener nofollow" target="_blank">2025 PT Dads</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/kezan2NDHE7GSWd89" rel="noopener nofollow" target="_blank">2025 Museum-Based Learning</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/V2TrQkFnzdnmp7Sd8" rel="noopener nofollow" target="_blank">2025 P4 Experiential Learning Camp</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/ZssC1qg2QPDXABoQ8" rel="noopener nofollow" target="_blank">2025 P4 Social Studies Learning Journey</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/UUS9yDDfDoWeg33i8" rel="noopener nofollow" target="_blank">2025 Mass Dance</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/tBQLNLE1KWHTHn2o8" rel="noopener nofollow" target="_blank">2025 P1 Zoo Learning Journey</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/6teG3bbaKqaLerdt9" rel="noopener nofollow" target="_blank">2025 P3 VIA Food Donation Drive</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/SsMTenvmNkY7qn169" rel="noopener nofollow" target="_blank">2025 JoL@AR: Earth Day</a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/qyp5U9EKztiY76TD9" rel="noopener nofollow" target="_blank">2025 P5 Camp</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/RjfbvZdpYqUuYrY46" rel="noopener nofollow" target="_blank">2025 Soccer Boys Achievement</a>
 </p>
 </li>
 <li>
@@ -18,6 +90,14 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://photos.app.goo.gl/NgApU5Pre4u9cTkf6" rel="noopener nofollow" target="_blank">2025 International Friendship Day</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/3Lc6ggdWyQ8Eq7LS6" rel="noopener nofollow" target="_blank">2025 P3 &amp; P4 Digital Competencies Lessons</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/kUsmcwrixwe9KHXFA" rel="noopener nofollow" target="_blank">2025 Hari Raya Celebration (Assembly)</a>
 </p>
 </li>
 <li>
