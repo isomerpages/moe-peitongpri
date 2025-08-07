@@ -11,7 +11,7 @@ variant: tiptap
 <p>Check out our video playlist below for a peek into school life at Pei
 Tong—you’ll see what makes our community so special!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BKPvHG880yY?si=UPG8yPCOgho3DP0i"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BKPvHG880yY?si=UPG8yPCOgho3DP0i"></iframe>
 </div>
 <p>You’ll also find photos and stories from our students, parents, and teachers
 in the sidebar.</p>
