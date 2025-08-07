@@ -214,7 +214,7 @@ only be returned to parents/guardians.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>E. Hazardous items and safety of self and others</strong>
+<p><strong>E. Guidelines for Student Use of Electronic Devices in School</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
