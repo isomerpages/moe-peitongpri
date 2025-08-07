@@ -9,6 +9,10 @@ variant: tiptap
 <br>For photos and videos from previous years, click on the links in the sidebar.</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://photos.app.goo.gl/YnyK4izejMywnU1n9" rel="noopener nofollow" target="_blank">2025 Pei Tong 80th Anniversary</a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/i9hHe4YoVF54hnBt9" rel="noopener nofollow" target="_blank">2025 Racial Harmony Day</a>
 </p>
 </li>
