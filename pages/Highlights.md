@@ -9,7 +9,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni_visit_notice.png">
 </div>
 <blockquote>
-<p><strong>Say Thanks!<br><a href="https://go.gov.sg/ptpsalumnimailinglist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ptpsalumnimailinglist</a></strong>
+<p><strong>Say Thanks!<br><a href="https://go.gov.sg/saythanksptps" rel="noopener nofollow" target="_blank">https://go.gov.sg/saythanksptps</a></strong>
 </p>
 <p><strong>Stay in touch!</strong>
 <br><strong><a href="https://go.gov.sg/ptpsalumnimailinglist" rel="noopener nofollow" target="_blank">https://go.gov.sg/ptpsalumnimailinglist</a></strong>
