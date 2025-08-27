@@ -8,26 +8,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni_visit_notice.png">
 </div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Stay in touch!</strong>
-<br><strong><a href="https://go.gov.sg/ptpsalumnimailinglist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ptpsalumnimailinglist</a></strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Say Thanks!</strong>
-<br><strong><a href="https://go.gov.sg/ptpsalumnimailinglist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ptpsalumnimailinglist</a></strong>
-</p>
-</th>
-</tr>
-</tbody>
-</table>
+<h4><strong>Say Thanks!<br><a href="https://go.gov.sg/ptpsalumnimailinglist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ptpsalumnimailinglist</a></strong></h4>
+<h4><strong>Stay in touch!<br><a href="https://go.gov.sg/ptpsalumnimailinglist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ptpsalumnimailinglist</a></strong></h4>
 <p></p>
 <h2><strong>Be Part of Teachers’ Day 2025 </strong>🍎</h2>
 <p>Teachers’ Day is a time to say <strong>THANK YOU</strong> to those who have
