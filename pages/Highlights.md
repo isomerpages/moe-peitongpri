@@ -20,10 +20,10 @@ visit your teachers on <strong>Thursday, 4 September 2025</strong>.</p>
 <br>Venue:<strong> School Foyer (outside the General Office)</strong>
 </p>
 </blockquote>
-<p>*<strong>IMPORTANT: </strong>Make an appointment for you or your list
-of friends <strong><u>BEFORE</u> </strong>coming as teachers may not be
-in school after dismissal time. To do so, you may email<strong> </strong>or
-text your teacher.</p>
+<p>*<strong>IMPORTANT: </strong>Make an appointment for yourself or with
+friends <strong>before coming</strong>, as teachers may not be in school
+after dismissal. Please <strong>include the names of all friends who will be visiting</strong> and
+email or text your teacher to confirm.</p>
 <h4><strong>Important reminders for alumni visitors:</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
