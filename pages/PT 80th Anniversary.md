@@ -12,11 +12,8 @@ description: ""
 <div class="iframe-wrapper">
 <iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BKPvHG880yY?si=1hXKd3AV4jGswvFp"></iframe>
 </div>
-<p>Get ready for an extraordinary milestone as Pei Tong Primary School marks
-eight decades of nurturing minds and shaping futures. Our 80th Anniversary
-celebration promises to be a spectacular showcase of our rich heritage
-and vibrant community.</p>
-<p>Stay tuned – an exciting lineup of events and activities is coming your
-way. Be part of this historic moment as we honour our past and embrace
-our future.</p>
-<p>Watch this space for more updates!</p>
+<p></p>
+<p><strong>Visit this <a href="https://photos.app.goo.gl/YnyK4izejMywnU1n9" rel="noopener nofollow" target="_blank">gallery</a> to relive the highlights! Click the image below to download the Commemorative Book.</strong>
+</p>
+<p></p>
+<p></p>
