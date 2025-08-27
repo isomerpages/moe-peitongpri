@@ -61,7 +61,8 @@ School!</p>
 <hr>
 <h2>We Are 80!</h2>
 <p>🥳 Join the fun! Check out more exciting updates about our school celebrations
-here!</p>
+<a href="https://www.peitongpri.moe.edu.sg/pt80/" rel="noopener nofollow" target="_blank">here!</a>
+</p>
 <p></p>
 <hr>
 <h2>Virtual Tour</h2>
