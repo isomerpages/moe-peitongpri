@@ -4,12 +4,12 @@ permalink: /highlights/
 description: ""
 variant: tiptap
 ---
-<h2><strong>Be Part of Teachers’ Day 2025 🎉</strong></h2>
+<h2><strong>Be Part of Teachers’ Day 2025 </strong>🍎</h2>
 <p>Teachers’ Day is a time to say <strong>THANK YOU</strong> to those who have
 guided, encouraged, and inspired us. As Pei Tong alumni, you have two special
 ways to join in the celebration this year:</p>
-<h3>1. Write a Note of Thanks ✨</h3>
-<p>A few words from you can brighten a teacher’s day. Share your message
+<h3>1. Write a Note of Thanks ✍️</h3>
+<p>A few words from you can brighten a teacher’s day. Share your e-message
 at <strong><a href="https://go.gov.sg/saythanksptps" class="decorated-link" rel="noopener" target="_new">this link</a></strong> and
 let your encouragement make this Teachers’ Day even more memorable!</p>
 <h3>2. Visit Your Teacher 💐</h3>
