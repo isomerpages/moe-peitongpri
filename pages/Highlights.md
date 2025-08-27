@@ -22,7 +22,7 @@ visit your teachers on <strong>Thursday, 4 September 2025</strong>.</p>
 </blockquote>
 <p>*<strong>IMPORTANT: </strong>Make an appointment <strong><u>BEFORE</u> </strong>coming
 as teachers may not be in school after dismissal time. To do so, you may
-email<strong> </strong>or text your teacher. Staff emails can be found <strong>here</strong>.</p>
+email<strong> </strong>or text your teacher.</p>
 <h4><strong>Important reminders for alumni visitors:</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
