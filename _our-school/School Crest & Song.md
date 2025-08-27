@@ -36,7 +36,7 @@ proprietary.</p>
 <br>Our country - we cherish and adore
 <br>We all pledge to be strong and true.</p>
 <p><strong><em>Take courage friends for we are one</em></strong>
-<br><strong><em>Respect one another honour our elders</em></strong>
+<br><strong><em>Respect one another, care for you and me</em></strong>
 <br><strong><em>Diligent stead-fast in all that we do</em></strong>
 <br><strong><em>This is the path to a bright future.</em></strong>
 </p>
