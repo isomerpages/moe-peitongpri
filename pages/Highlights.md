@@ -20,7 +20,7 @@ visit your teachers on <strong>Thursday, 4 September 2025</strong>.</p>
 <br>Venue:<strong> School Foyer (outside the General Office)</strong>
 </p>
 </blockquote>
-<p>*<strong>IMPORTANT: </strong>Make an appointment for you or your group
+<p>*<strong>IMPORTANT: </strong>Make an appointment for you or your list
 of friends <strong><u>BEFORE</u> </strong>coming as teachers may not be
 in school after dismissal time. To do so, you may email<strong> </strong>or
 text your teacher.</p>
