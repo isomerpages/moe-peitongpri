@@ -8,18 +8,30 @@ third_nav_title: School Services
 <h3>School Dental Clinic</h3>
 <p><strong>Opening hours</strong>
 <br>Mon, Wed, Fri: 8.00 am - 5.00 pm
-<br>Tue, Thu: 8.00 am - 5.30 pm
-<br>(Closed during lunch hours 12.30 pm - 1.30 pm)</p>
-<p></p>
-<p></p>
+<br>Tue, Thu: 8.00 am - 5.30 pm</p>
+<p>Lunch Hour (1pm-2pm)</p>
+<p>
+<br><strong>Tel: 89091679 </strong>
+<br>Please call or send a WhatsApp message for an appointment before visiting.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our School/School Dental Info/August.jpg">
 </div>
-<p><strong>Tel: 89091679 </strong>
-<br>Please call or send a WhatsApp message for an appointment before visiting.</p>
-<a class="isomer-image-wrapper" href="https://wa.me/6589091679">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/buttons.png">
-</a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our School/september 2025.png">
+</div>
+<p>For urgent dental treatment such as facial swelling or pain that is required
+during clinic closure, please call and make appointment at the clinic below
+BEFORE going down , no walk ins are allowed</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Fairfield Methodist Pri Sch<strong>(FMPS)</strong> : 87647361</p>
+</li>
+<li>
+<p>Queenstwon Pri Sch <strong>(QTPS)</strong>: 8909 2160</p>
+</li>
+</ul>
+<p></p><a class="isomer-image-wrapper" href="https://wa.me/6589091679"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/buttons.png"></a>
 <hr>
 <h3>School Bus Vendor</h3>
 <p><strong>DKJ Transport Service<br>Tel: 98188830</strong>
