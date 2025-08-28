@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni_visit_notice.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni_visit_notice__1_.png">
 </div>
 <blockquote>
 <p><strong>Stay in touch!</strong>
