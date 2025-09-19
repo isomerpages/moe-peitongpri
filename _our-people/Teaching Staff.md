@@ -389,7 +389,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chia Chai Yun</p>
+<p>Mrs Seah-Chia Cai Yun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Chin Lin Jacqueline</p>
