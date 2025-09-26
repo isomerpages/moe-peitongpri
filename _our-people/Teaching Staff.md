@@ -409,6 +409,17 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Amos Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Integrity 5</strong>
 </p>
 </td>
@@ -569,7 +580,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Angela Tay</p>
+<p>Ms Kong Yanli</p>
 </td>
 </tr>
 <tr>
