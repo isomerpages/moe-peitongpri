@@ -47,20 +47,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operations Manager - OM </strong>
+<p><strong>Operations Manager - OM</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Moonshi Tajuddin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Operations Manager - OM </strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Poh Hak Yam</p>
 </td>
 </tr>
 <tr>
