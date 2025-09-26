@@ -13,13 +13,7 @@ third_nav_title: School Services
 <p>
 <br><strong>Tel: 89091679 </strong>
 <br>Please call or send a WhatsApp message for an appointment before visiting.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our School/School Dental Info/August.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our School/september 2025.png">
-</div>
 <p>For urgent dental treatment such as facial swelling or pain that is required
 during clinic closure, please call and make appointment at the clinic below
 BEFORE going down , no walk ins are allowed</p>
@@ -31,7 +25,10 @@ BEFORE going down , no walk ins are allowed</p>
 <p>Queenstwon Pri Sch <strong>(QTPS)</strong>: 8909 2160</p>
 </li>
 </ul>
-<p></p><a class="isomer-image-wrapper" href="https://wa.me/6589091679"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/buttons.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OCT_25.png">
+</div><a class="isomer-image-wrapper" href="https://wa.me/6589091679"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/buttons.png"></a>
 <hr>
 <h3>School Bus Vendor</h3>
 <p><strong>DKJ Transport Service<br>Tel: 98188830</strong>
