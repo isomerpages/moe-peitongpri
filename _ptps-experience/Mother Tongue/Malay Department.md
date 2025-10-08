@@ -9,7 +9,7 @@ variant: tiptap
 <p>The Malay Department’s activities offer students opportunities to actively
 use and explore the Malay language, fostering language proficiency and
 cultural understanding through hands-on learning and engaging experiences.</p>
-<h2>Mother Tongue Language (MTL) Fortnight</h2>
+<h3>Mother Tongue Language (MTL) Fortnight</h3>
 <p>The Malay Department’s annual Mother Tongue Fortnight immerses students
 in Malay culture, enhancing their appreciation of traditional art forms
 through hands-on experiences. Lower primary students explore tarian (dance),
@@ -22,7 +22,7 @@ a deeper connection with Malay heritage.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/Mother Tongue/2024_ML3.png">
 </div>
 <p></p>
-<h2>Hari Raya Celebrations</h2>
+<h3>Hari Raya Celebrations</h3>
 <p>The Hari Raya celebrations in the school provide students with an opportunity
 to learn about and embrace the cultural significance of the holiday, while
 fostering a sense of community and inclusivity.</p>
@@ -36,7 +36,7 @@ concert featuring performances by students and teachers, along with interactive
 games, bringing the festive spirit to life.</p>
 <p></p>
 <p></p>
-<h2>Conversational Chinese Malay Programme</h2>
+<h3>Conversational Chinese Malay Programme</h3>
 <p>The Conversational Chinese Malay programme offers students opportunities
 to learn and practise real-life communication in both languages through
 engaging scenarios. The programme wraps up with a lively, hands-on activity
@@ -50,7 +50,7 @@ everyday situations like shopping and asking for prices.</p>
 progress in the programme, giving students a memorable and practical experience
 to apply their language learning.</p>
 <p></p>
-<h2>Theatre-In-Education</h2>
+<h3>Theatre-In-Education</h3>
 <p>The Theatre-In-Education programme aims to provide students with an immersive
 learning experience, where they engage with the arts to enhance their understanding
 of cultural, social, and linguistic concepts.</p>
@@ -62,7 +62,7 @@ to actively engage students. Each performance explores important themes
 such as communication, cooperation, empathy, and embracing diversity, all
 of which are crucial to students’ holistic development.</p>
 <p></p>
-<h2>Competitions</h2>
+<h3>Competitions</h3>
 <p>Our students actively participate in external competitions such as Sahibba,
 Lensa Si Cilik, and Cepat Tepat, showcasing their skills in language, critical
 thinking, and teamwork. These competitions offer valuable opportunities
@@ -73,4 +73,10 @@ and resilience.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTPS Experience/Mother Tongue/2024_ML5.png">
 </div>
 <p></p>
+<h3>Karya Pelajar 2025</h3>
+<p>
+<br>A beautifully designed digital flipbook showcasing the creative works
+and achievements of our students in 2025. From artwork and essays to projects
+and reflections, it’s a visual celebration of student talent and learning.
+Click through the pages to explore inspiring pieces by our young creators.</p>
 <p></p>
