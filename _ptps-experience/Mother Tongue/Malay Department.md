@@ -79,5 +79,5 @@ and resilience.</p>
 and achievements of our students in 2025. From artwork and essays to projects
 and reflections, it’s a visual celebration of student talent and learning.
 Click through the pages to explore inspiring pieces by our young creators.</p>
-<p>Click on the image to read the ebook</p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/e2d9308ff1.html#page/1"><img style="width: 40%;" height="auto" width="100%" alt="Click on the image to read the ebook" src="/images/PTPS Experience/Mother Tongue/Screenshot_2025_10_08_105346.png"></a>
+<p>Click on the image below to read the e-book.</p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/e2d9308ff1.html#page/1"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PTPS Experience/Mother Tongue/Screenshot_2025_10_08_105346.png"></a>
 <p></p>
