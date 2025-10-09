@@ -75,9 +75,18 @@ and resilience.</p>
 <p></p>
 <h3>Karya Pelajar 2025</h3>
 <p>
-<br>A beautifully designed digital flipbook showcasing the creative works
-and achievements of our students in 2025. From artwork and essays to projects
-and reflections, it’s a visual celebration of student talent and learning.
-Click through the pages to explore inspiring pieces by our young creators.</p>
-<p>Click on the image below to read the e-book.</p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/e2d9308ff1.html#page/1"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PTPS Experience/Mother Tongue/Screenshot_2025_10_08_105346.png"></a>
+<br>This e-book features a collection of the best compositions written by
+our students. Each piece showcases their creativity, imagination, and growing
+mastery of the Malay language.</p>
+<p>In addition to these inspiring works, the e-book also includes helpful
+tips on good writing—such as maintaining a smooth flow of ideas, using
+the "show, not tell" technique, and adding key elements that make a composition
+more interesting and lively.</p>
+<p>This e-book not only celebrates our students' writing efforts and creativity
+but also serves as a valuable reference and source of inspiration for other
+students to emulate and improve their own writing.</p>
+<p>Let's explore their creative works and celebrate the joy of writing together!</p>
+<a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/e2d9308ff1.html#page/1">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PTPS Experience/Mother Tongue/Screenshot_2025_10_08_105346.png">
+</a>
 <p></p>
