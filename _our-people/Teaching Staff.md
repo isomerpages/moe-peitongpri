@@ -903,7 +903,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Khadijah</p>
+<p>Ms Siti Khadijah</p>
 </td>
 </tr>
 <tr>
