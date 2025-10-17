@@ -11,8 +11,8 @@ education policy of building a dynamic, strong and self-reliant generation.</p>
 <p>The functions of the SAC are:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>To promote closer relationship in various ways, between members of the
-local community and the school leaders, teachers and students in Government
+<p>To promote closer relationships in various ways between members of the
+local community and school leaders, teachers, and students in Government
 schools.</p>
 </li>
 <li>
@@ -65,24 +65,6 @@ Outcomes of Education; and</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Treasurer</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Ren De</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Member</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Jason Kuah Teck Leng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Member</strong>
 </p>
 </td>
@@ -115,6 +97,24 @@ Outcomes of Education; and</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Kenneth Tong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Member</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kuah Teck Tze, Roger</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Member</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Zheng Zhihong Danielle</p>
 </td>
 </tr>
 </tbody>
