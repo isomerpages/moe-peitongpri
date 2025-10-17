@@ -5,9 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h2>Extraordinary teachers deserve a PAT on their backs. <em>(OYEA!)</em></h2>
-<p>Nominations for PAT 2026 and OYEA 2026 are now open.</p>
-<p>Find out more about the awards and how you can nominate an exceptional
-Pei Tong teacher <a href="/our-people/nominate/" rel="noopener nofollow" target="_blank">here</a>!</p>
+<p>Nominations for PAT 2026 and OYEA 2026 are <strong>now open</strong>. Click
+<a href="https://peitongpri.moe.edu.sg/our-people/nominate/" rel="noopener nofollow" target="_blank">here</a>to find out more about the awards and how you can nominate an
+exceptional Pei Tong teacher!</p>
 <hr>
 <h2>Photo Gallery</h2>
 <p>Check out&nbsp;<a href="https://www.peitongpri.moe.edu.sg/photos/" rel="noopener noreferrer nofollow" target="_blank">our Photo Gallery</a> for
