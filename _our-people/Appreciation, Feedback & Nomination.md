@@ -4,7 +4,7 @@ permalink: /our-people/nominate/
 variant: tiptap
 description: ""
 ---
-<h2>Extraordinary teachers deserve a PAT on the back. <em>(OYEA!)</em></h2>
+<h2>Extraordinary teachers deserve a PAT on their backs. <em>(OYEA!)</em></h2>
 <p>Every exceptional teacher deserves recognition. The President's Award
 for Teachers (PAT) and Outstanding Youth in Education Award (OYEA) are
 Singapore's most prestigious national honours for educators who inspire,
