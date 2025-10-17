@@ -21,7 +21,7 @@ embody youthful idealism, energy and enthusiasm, and inspire both their
 students and peers through their words and deeds.</p>
 <h3><strong>Ready to Nominate?</strong></h3>
 <p>Nominations for PAT 2026 and OYEA 2026 are <strong>now open</strong> and
-will close on <strong>Friday, 9 January 2026</strong>. <em>Click on the images below to start your nomination. </em>
+will close on <strong>Friday, 9 January 2026</strong>. <em>Click on the images below to start your nomination.</em>
 </p><a class="isomer-image-wrapper" href="https://go.gov.sg/pat2026"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAT_Banner.jpg"></a>
 <a class="isomer-image-wrapper" href="https://go.gov.sg/oyea2026">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OYEA_Banner.jpg">
