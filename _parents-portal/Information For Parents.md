@@ -27,6 +27,40 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<p><strong>Student Movement</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Withdraw from the school: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ptpswithdraw</a>
+</p>
+</li>
+<li>
+<p>Apply Leave of Absence: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ptps-leave-of-absence</a>
+</p>
+</li>
+<li>
+<p>Admission Waitlist: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ptpswaitlist</a>
+</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Finance</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Financial Assistance Scheme (FAS) Application (for Singapore Citizen students
+only): TBC by HQ. Will update you next week.</p>
+</li>
+<li>
+<p>eGIRO application: <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>
+</p>
+</li>
+<li>
+<p>Edusave Standing Order Application (for Singapore Citizen students only)
+: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ptpsedusave</a>
+</p>
+</li>
+</ul>
 <hr>
 <h2>Connect with us</h2>
 <h4>Parents Gateway (PG)</h4>
