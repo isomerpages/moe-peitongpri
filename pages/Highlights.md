@@ -7,7 +7,8 @@ variant: tiptap
 <h2>Passionate Learners, Inspiring Educators</h2>
 <p>Nominations for the Caring Teacher Award (CTA) 2026, President Awards
 for Teachers (PAT) 2026 and Outstanding Youth in Education Award (OYEA)
-2026 are&nbsp;<strong>now open</strong>. Click&nbsp;<a href="https://peitongpri.moe.edu.sg/our-people/nominate/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+2026 are&nbsp;<strong>now open</strong>.</p>
+<p>Click&nbsp;<a href="https://peitongpri.moe.edu.sg/our-people/nominate/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more about the awards and how you can nominate an exceptional
 Pei Tong teacher!</p>
 <hr>
