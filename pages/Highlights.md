@@ -4,16 +4,13 @@ permalink: /highlights/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni_visit_notice__2_.png">
-</div>
-<blockquote>
-<p><strong>Stay in touch!</strong>
-<br><strong><a href="https://go.gov.sg/ptpsalumnimailinglist" rel="noopener nofollow" target="_blank">https://go.gov.sg/ptpsalumnimailinglist</a></strong>
-</p>
-<p><strong>Say Thanks!<br><a href="https://go.gov.sg/saythanksptps" rel="noopener nofollow" target="_blank">https://go.gov.sg/saythanksptps</a></strong>
-</p>
-</blockquote>
+<h2>Passionate Learners, Inspiring Educators</h2>
+<p>Nominations for the Caring Teacher Award (CTA) 2026, President Awards
+for Teachers (PAT) 2026 and Outstanding Youth in Education Award (OYEA)
+2026 are&nbsp;<strong>now open</strong>.</p>
+<p>Click&nbsp;<strong><a href="/our-people/nominate/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> to
+find out more about the awards and how you can nominate an exceptional
+Pei Tong teacher!</p>
 <hr>
 <h2>Photo Gallery</h2>
 <p>Check out&nbsp;<a href="https://www.peitongpri.moe.edu.sg/photos/" rel="noopener noreferrer nofollow" target="_blank">our Photo Gallery</a> for
