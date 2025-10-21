@@ -4,10 +4,12 @@ permalink: /highlights/
 description: ""
 variant: tiptap
 ---
-<h2>Extraordinary teachers deserve a PAT on their backs. <em>(OYEA!)</em></h2>
-<p>Nominations for PAT 2026 and OYEA 2026 are <strong>now open</strong>. Click
-<a href="https://peitongpri.moe.edu.sg/our-people/nominate/" rel="noopener nofollow" target="_blank">here</a>to find out more about the awards and how you can nominate an
-exceptional Pei Tong teacher!</p>
+<h2>Passionate Learners, Inspiring Educators</h2>
+<p>Nominations for the Caring Teacher Award (CTA) 2026, President Awards
+for Teachers (PAT) 2026 and Outstanding Youth in Education Award (OYEA)
+2026 are&nbsp;<strong>now open</strong>. Click&nbsp;<a href="https://peitongpri.moe.edu.sg/our-people/nominate/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+find out more about the awards and how you can nominate an exceptional
+Pei Tong teacher!</p>
 <hr>
 <h2>Photo Gallery</h2>
 <p>Check out&nbsp;<a href="https://www.peitongpri.moe.edu.sg/photos/" rel="noopener noreferrer nofollow" target="_blank">our Photo Gallery</a> for
