@@ -9,7 +9,7 @@ description: ""
 2026, President's Award for Teachers (PAT) and Outstanding Youth in Education
 Award (OYEA) celebrate exceptional educators who inspire, nurture, and
 shape young minds.</p>
-<h3><strong>Caring Teacher Award 2026</strong></h3>
+<h3><strong>Caring Teacher Award (CTA) 2026</strong></h3>
 <p>The Caring Teacher Awards (CTA) celebrate educators who exemplify care
 and compassion in their teaching, going beyond the call of duty to nurture
 the holistic development of their students. These dedicated teachers play
