@@ -53,12 +53,12 @@ only): <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="
 </p>
 </li>
 <li>
-<p>eGIRO application: <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>
+<p>eGIRO application: <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>
 </p>
 </li>
 <li>
 <p>Edusave Standing Order Application (for Singapore Citizen students only)
-: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ptpsedusave</a>
+: <a href="https://go.gov.sg/ptpsedusave" rel="noopener nofollow" target="_blank">https://go.gov.sg/ptpsedusave</a>
 </p>
 </li>
 </ul>
