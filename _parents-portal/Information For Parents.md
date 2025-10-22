@@ -27,8 +27,9 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p><strong>Student Movement</strong>
-</p>
+<p></p>
+<p></p>
+<h4><strong>Student Movement</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Withdraw from the school: <a href="https://go.gov.sg/ptpswithdraw" rel="noopener nofollow" target="_blank">https://go.gov.sg/ptpswithdraw</a>
@@ -44,8 +45,7 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
-<p><strong>Finance</strong>
-</p>
+<h4><strong>Finance</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Financial Assistance Scheme (FAS) Application (for Singapore Citizen students
@@ -128,4 +128,5 @@ in a positive way starting today! Find out more at&nbsp;<a href="https://www.hea
 <p>Schoolbag.sg is an online publication by the Ministry of Education. It
 provides parents, educators and the public with education news, school
 features and tips.</p>
+<p></p>
 <p></p>
