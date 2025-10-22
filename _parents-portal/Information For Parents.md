@@ -27,29 +27,30 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p><strong>Student Movement</strong>
-</p>
+<p></p>
+<p></p>
+<h4><strong>Student Movement</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Withdraw from the school: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ptpswithdraw</a>
+<p>Withdraw from the school: <a href="https://go.gov.sg/ptpswithdraw" rel="noopener nofollow" target="_blank">https://go.gov.sg/ptpswithdraw</a>
 </p>
 </li>
 <li>
-<p>Apply Leave of Absence: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ptps-leave-of-absence</a>
+<p>Apply Leave of Absence: <a href="https://go.gov.sg/ptps-leave-of-absence" rel="noopener nofollow" target="_blank">https://go.gov.sg/ptps-leave-of-absence</a>
 </p>
 </li>
 <li>
-<p>Admission Waitlist: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ptpswaitlist</a>
+<p>Admission Waitlist: <a href="https://go.gov.sg/ptpswaitlist" rel="noopener nofollow" target="_blank">https://go.gov.sg/ptpswaitlist</a>
 </p>
 </li>
 </ul>
 <p></p>
-<p><strong>Finance</strong>
-</p>
+<h4><strong>Finance</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Financial Assistance Scheme (FAS) Application (for Singapore Citizen students
-only): TBC by HQ. Will update you next week.</p>
+only): <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
+</p>
 </li>
 <li>
 <p>eGIRO application: <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>
@@ -127,4 +128,5 @@ in a positive way starting today! Find out more at&nbsp;<a href="https://www.hea
 <p>Schoolbag.sg is an online publication by the Ministry of Education. It
 provides parents, educators and the public with education news, school
 features and tips.</p>
+<p></p>
 <p></p>
