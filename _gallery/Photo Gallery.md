@@ -21,10 +21,12 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>2025 Teachers' Day Celebrations</p>
+<p><a href="https://photos.app.goo.gl/J5aHzCxtCHTHm81A6" rel="noopener nofollow" target="_blank">2025 Teachers' Day Celebrations</a>
+</p>
 </li>
 <li>
-<p>2025 National Day Celebrations</p>
+<p><a href="https://photos.app.goo.gl/KxwtizGaKujkXYY46" rel="noopener nofollow" target="_blank">2025 National Day Celebrations</a>
+</p>
 </li>
 <li>
 <p><a href="https://photos.app.goo.gl/uBX4z8KSyJprrUoD6" rel="noopener nofollow" target="_blank">2025 Penang Immersion Trip</a>
