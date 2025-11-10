@@ -12,9 +12,9 @@ sections:
         - title: Know the latest
           description: Happenings & Updates
           url: /highlights
-        - title: Explore Our CCAs
-          description: Cultivating Skills and Values
-          url: /ptps-experience/cca/
+        - title: For Parents
+          description: Resources & Partnership
+          url: /parents-portal/information-for-parents/
         - title: For Teachers
           description: Quick Links
           url: /forteachers/
