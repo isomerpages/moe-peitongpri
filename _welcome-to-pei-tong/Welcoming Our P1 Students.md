@@ -16,7 +16,7 @@ a new friend, the first day of school is always special.</p>
 of school unforgettable.</p>
 </li>
 <li>
-<p><a href="#primary-1-&amp;-4-buddy-programme" rel="noopener nofollow" target="_blank">Primary 1 &amp; 4 Buddy Programme</a> -
+<p><a href="#primary-1-4-buddy-programme" rel="noopener nofollow" target="_blank">Primary 1 &amp; 4 Buddy Programme</a> -
 Learn about our P4 Buddy Programme</p>
 </li>
 <li>
