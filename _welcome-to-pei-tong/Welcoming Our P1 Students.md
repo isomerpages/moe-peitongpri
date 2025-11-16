@@ -16,11 +16,13 @@ a new friend, the first day of school is always special.</p>
 of school unforgettable.</p>
 </li>
 <li>
-<p>Learn about our P4 Buddy Programme</p>
+<p><a href="#primary-1-&amp;-4-buddy-programme" rel="noopener nofollow" target="_blank">Primary 1 &amp; 4 Buddy Programme</a> -
+Learn about our P4 Buddy Programme</p>
 </li>
 <li>
-<p>Download resources prepared just for you by our teachers to help your
-child start their primary school journey at Pei Tong right.</p>
+<p><a href="#resources-for-p1-parents" rel="noopener nofollow" target="_blank">Resources for P1 Parents</a> -
+Download resources prepared just for you by our teachers to help your child
+start their primary school journey at Pei Tong right.</p>
 </li>
 </ul>
 <p></p>
