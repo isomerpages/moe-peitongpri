@@ -12,17 +12,16 @@ variant: tiptap
 a new friend, the first day of school is always special.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Browse each year’s memories and relive the moments that made the start
-of school unforgettable.</p>
+<p>Browse past years’ memories and revisit the moments that made starting
+school unforgettable.</p>
 </li>
 <li>
-<p><a href="#primary-1-4-buddy-programme" rel="noopener nofollow" target="_blank">Primary 1 &amp; 4 Buddy Programme</a> -
-Learn about our P4 Buddy Programme</p>
+<p>Learn how our P1 &amp; P4 Buddy Programme supports your child during their
+first week of school.</p>
 </li>
 <li>
-<p><a href="#resources-for-p1-parents" rel="noopener nofollow" target="_blank">Resources for P1 Parents</a> -
-Download resources prepared just for you by our teachers to help your child
-start their primary school journey at Pei Tong right.</p>
+<p>Download resources specially prepared by our teachers to start your child
+on their Primary 1 journey at Pei Tong.</p>
 </li>
 </ul>
 <p></p>
@@ -53,7 +52,7 @@ new friendships and foster a culture of care.</p>
 <a rel="noopener noreferrer nofollow" href="https://photos.app.goo.gl/46xmZ1caoCKMwyRD9" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2024-Card Image" src="/images/Welcome to Pei Tong/welcome_p1_2024_card2__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2024 p1 p4 buddy programme" src="/images/Welcome to Pei Tong/welcome_p1_2024_card2__2_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -66,11 +65,8 @@ new friendships and foster a culture of care.</p>
 <p></p>
 <h2>Resources for P1 Parents</h2>
 <p>Tap a file to download or preview.</p>
-<p><a href="#first-day-of-school-matters" rel="noopener nofollow" target="_blank">First Day Of School Matters</a>
-</p>
 <h3>P1 Orientation</h3>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1WbE5H2sWI18JBokmva2QnRKc6K7GBnO5/view?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="school home partnership for primary 1 parents" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">School Home Partnership</div><div class="isomer-card-link">Click here</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1WbE5H2sWI18JBokmva2QnRKc6K7GBnO5/view?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="school home partnership for primary 1 parents" src="/images/school_home_partnership.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">School Home Partnership</div><div class="isomer-card-link">Click here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -95,7 +91,7 @@ new friendships and foster a culture of care.</p>
 <div class="isomer-card-title">Parent-Child Activity Guide</div>
 <div class="isomer-card-link">Click here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="transition resources for primary 1 parents roblox" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Roblox Info Sheet</div><div class="isomer-card-link">Click here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="transition resources for primary 1 parents roblox" src="/images/roblox_infosheet.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Roblox Info Sheet</div><div class="isomer-card-link">Click here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
