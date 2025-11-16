@@ -64,6 +64,8 @@ new friendships and foster a culture of care.</p>
 <p></p>
 <h2>Resources for P1 Parents</h2>
 <p>Tap a file to download or preview.</p>
+<p><a href="#first-day-of-school-matters" rel="noopener nofollow" target="_blank">First Day Of School Matters</a>
+</p>
 <h3>P1 Orientation</h3>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1WbE5H2sWI18JBokmva2QnRKc6K7GBnO5/view?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="school home partnership for primary 1 parents" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">School Home Partnership</div><div class="isomer-card-link">Click here</div></div></a>
