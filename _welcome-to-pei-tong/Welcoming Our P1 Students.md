@@ -80,11 +80,11 @@ new friendships and foster a culture of care.</p>
 </a>
 </div>
 <h3>Transition Support Resources</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1j8aOhDK-LqkddMm25ziFCOkY0xE7WMmc/view?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="orientation handbook for primary 1 parents" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Orientation Handbook</div><div class="isomer-card-link">Click here</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1j8aOhDK-LqkddMm25ziFCOkY0xE7WMmc/view?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="orientation handbook for primary 1 parents" src="/images/p1orientationbklet.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Orientation Handbook</div><div class="isomer-card-link">Click here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1SjAtQQ4w-3vuJ7rv7ps4vGzXlqRE_eae/view?usp=drive_link" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="transition support resources for primary 1 parents" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="parent child activity guide for primary 1 parents" src="/images/parentchildactivityguide.png">
 </div>
 </div>
 <div class="isomer-card-body">
