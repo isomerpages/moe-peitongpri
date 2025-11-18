@@ -10,6 +10,7 @@ variant: tiptap
 </blockquote>
 <p>From the quiet nerves of stepping into a new classroom to the joy of meeting
 a new friend, the first day of school is always special.</p>
+<p>Here, you can:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Browse past years’ memories and revisit the moments that made starting
@@ -24,7 +25,6 @@ first week of school.</p>
 on their Primary 1 journey at Pei Tong.</p>
 </li>
 </ul>
-<p></p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://photos.app.goo.gl/r7daoVZdnYoeCVgn9" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2025-Card Image" src="/images/Welcome to Pei Tong/welcome_p1_2025_card1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2025</div><div class="isomer-card-description">New experiences can feel big — but with caring hands nearby, our students grow bold enough to try them on their own.</div><div class="isomer-card-link">View Album</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://photos.app.goo.gl/X9D4EzrkN47URj839" class="isomer-card">
@@ -64,7 +64,8 @@ new friendships and foster a culture of care.</p>
 </div>
 <p></p>
 <h2>Resources for P1 Parents</h2>
-<p>Tap a file to download or preview.</p>
+<p>Tap a file to download or preview. Alternatively, bookmark this🌲<a href="https://linktr.ee/ptpsP1orientation" rel="noopener nofollow" target="_blank">linktree</a> to
+quickly access all our parent resources.</p>
 <h3>P1 Orientation</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1WbE5H2sWI18JBokmva2QnRKc6K7GBnO5/view?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="school home partnership for primary 1 parents" src="/images/school_home_partnership.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">School Home Partnership</div><div class="isomer-card-link">Click here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
@@ -108,8 +109,7 @@ new friendships and foster a culture of care.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="assistant year head briefing slides for primary 1 parents" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assistant Year Head Briefing Slides</div><div class="isomer-card-link">Click here (TBC)</div></div></a>
 </div>
-<p><strong>Save this🌲<a href="https://linktr.ee/ptpsP1orientation" rel="noopener nofollow" target="_blank">linktree</a> to quickly access to all our parent resources.</strong>
-</p>
+<p></p>
 <p></p>
 <p></p>
 <h4><strong>You may also like:</strong></h4>
