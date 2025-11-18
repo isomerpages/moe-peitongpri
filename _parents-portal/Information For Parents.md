@@ -11,11 +11,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/ptpscanteen" rel="noopener noreferrer nofollow" target="_blank">Canteen Menu and Pricing</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Parents%20Portal/For%20Parents/Uniform_Online_Ordering_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">School Uniform Ordering Guide</a>
+<p><a href="https://www.peitongpri.moe.edu.sg/welcome-to-pei-tong/welcoming-our-p1-students/" rel="noopener nofollow" target="_blank">Find resources and useful information for parents of P1 students</a>
 </p>
 </li>
 <li>
@@ -26,9 +22,15 @@ variant: tiptap
 <p><a href="https://www.digitalforlife.gov.sg/Learn/Resources/All-Resources" rel="noopener nofollow" target="_blank">Cyber Wellness Online Resources for Parents</a>
 </p>
 </li>
+<li>
+<p><a href="https://go.gov.sg/ptpscanteen" rel="noopener noreferrer nofollow" target="_blank">Canteen Menu and Pricing</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Parents%20Portal/For%20Parents/Uniform_Online_Ordering_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">School Uniform Ordering Guide</a>
+</p>
+</li>
 </ul>
-<p></p>
-<p></p>
 <h4><strong>Student Movement</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
