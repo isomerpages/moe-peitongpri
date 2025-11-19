@@ -1,6 +1,6 @@
 ---
-title: 2026 Booklists
-permalink: /parents-portal/2026-booklists/
+title: 2026 Booklist & Uniform Sale
+permalink: /parents-portal/2026-booklist/
 description: ""
 variant: tiptap
 ---
