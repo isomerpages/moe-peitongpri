@@ -13,58 +13,20 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>K1 (4-hour MK Programme)</p>
+<p>K1 &amp; K2 (4-hour MK Programme) 2026</p>
 </th>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>AM session</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8.00 am - 12.00 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PM session</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.00 pm - 5.00 pm</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>K2 (4-hour MK Programme)</p>
+<p><strong>8.00am-12.00am</strong>
+</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>AM session</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.50 am - 11.50 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PM session</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12.50 pm - 4.50 pm</p>
-</td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@Pei%20Tong/MK_PT_Timetable.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@Pei Tong/WhatsApp_Image_2025_11_17_at_7_48_19_AM.jpg">
 </div>
 <h2>Our Curriculum</h2>
 <p>Our curriculum comprises 2 flagship programmes, the HI-Light Programme
