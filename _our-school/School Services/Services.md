@@ -26,8 +26,9 @@ BEFORE going down , no walk ins are allowed</p>
 </li>
 </ul>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OCT_25.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our School/School Dental Info/Dental_Clinic_Dates_Nov.jpg">
 </div><a class="isomer-image-wrapper" href="https://wa.me/6589091679"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/buttons.png"></a>
 <hr>
 <h3>School Bus Vendor</h3>

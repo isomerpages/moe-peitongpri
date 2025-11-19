@@ -64,6 +64,21 @@ only): <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="
 </p>
 </li>
 </ul>
+<h4><strong> Insurance Coverage</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>All students are covered under a basic insurance policy. Payouts of insurance
+will be subject to policy terms and&nbsp;conditions.</p>
+</li>
+<li>
+<p>For more information, you may click <a href="/files/School Information/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> or
+visit the link provided below</p>
+</li>
+<li>
+<p>Income Insurance’s GPA portal : <a rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
+</p>
+</li>
+</ul>
 <hr>
 <h2>Connect with us</h2>
 <h4>Parents Gateway (PG)</h4>
