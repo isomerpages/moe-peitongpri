@@ -64,7 +64,7 @@ only): <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="
 </p>
 </li>
 </ul>
-<h4><strong> Insurance Coverage</strong></h4>
+<h4><strong>Insurance Coverage</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>All students are covered under a basic insurance policy. Payouts of insurance
