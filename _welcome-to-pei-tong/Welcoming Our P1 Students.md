@@ -68,17 +68,6 @@ new friendships and foster a culture of care.</p>
 quickly access all our parent resources.</p>
 <h3>P1 Orientation</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1WbE5H2sWI18JBokmva2QnRKc6K7GBnO5/view?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="school home partnership for primary 1 parents" src="/images/school_home_partnership.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">School Home Partnership</div><div class="isomer-card-link">Click here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Year Head Briefing Slides for primary 1 parents" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Year Head Briefing Slides</div>
-<div class="isomer-card-link">Click here (TBC)</div>
-</div>
-</a>
 </div>
 <h3>Transition Support Resources</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1j8aOhDK-LqkddMm25ziFCOkY0xE7WMmc/view?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="orientation handbook for primary 1 parents" src="/images/p1orientationbklet.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Orientation Handbook</div><div class="isomer-card-link">Click here</div></div></a>
@@ -93,22 +82,8 @@ quickly access all our parent resources.</p>
 <div class="isomer-card-link">Click here</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="transition resources for primary 1 parents roblox" src="/images/roblox_infosheet.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Roblox Info Sheet</div><div class="isomer-card-link">Click here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="transition support resources for primary 1 parents" src="https://placehold.co/600x400">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Ready, Set, P1</div>
-<div class="isomer-card-link">Click here (TBC)</div>
-</div>
-</a>
-</div>
-<h3>First Day of School Matters</h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="assistant year head briefing slides for primary 1 parents" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assistant Year Head Briefing Slides</div><div class="isomer-card-link">Click here (TBC)</div></div></a>
-</div>
 <p></p>
 <p></p>
 <p></p>
