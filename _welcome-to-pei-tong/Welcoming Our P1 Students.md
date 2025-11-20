@@ -66,7 +66,7 @@ new friendships and foster a culture of care.</p>
 <h2>Resources for P1 Parents</h2>
 <p>Tap a file to download or preview. Alternatively, bookmark this🌲<a href="https://linktr.ee/ptpsP1orientation" rel="noopener nofollow" target="_blank">linktree</a> to
 quickly access all our parent resources.</p>
-<h3>Parent Resources (MOE)</h3>
+<h3>MOE Parent Resources</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1WbE5H2sWI18JBokmva2QnRKc6K7GBnO5/view?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="school home partnership for primary 1 parents" src="/images/school_home_partnership.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">School Home Partnership</div><div class="isomer-card-link">Click here</div></div></a>
 </div>
 <h3>School Transition Support Resources</h3>
