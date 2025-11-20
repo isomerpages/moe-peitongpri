@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.peitongpri.moe.edu.sg/welcome-to-pei-tong/welcoming-our-p1-students/" rel="noopener nofollow" target="_blank">Find resources and useful information for parents of P1 students</a>
+<p><a href="https://www.peitongpri.moe.edu.sg/welcome-to-pei-tong/welcoming-our-p1-students/" rel="noopener nofollow" target="_blank">For parents of P1 students</a>
 </p>
 </li>
 <li>
