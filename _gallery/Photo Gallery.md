@@ -17,6 +17,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://photos.app.goo.gl/F5jYx2y9ZxyEoK3M8" rel="noopener nofollow" target="_blank">2025 Lower Pri Awards Day</a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/7YzkMA5U2nhhmua28" rel="noopener nofollow" target="_blank">2025 P6 Graduation</a>
 </p>
 </li>
