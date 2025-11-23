@@ -9,6 +9,10 @@ variant: tiptap
 <br>For photos and videos from previous years, click on the links in the sidebar.</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://photos.app.goo.gl/HNBJP6MeMrBGCQgc7" rel="noopener nofollow" target="_blank">2025 P1 Orientation</a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/3nj9KaaHEHizuE4A7" rel="noopener nofollow" target="_blank">2025 Recognition Day</a>
 </p>
 </li>
@@ -22,6 +26,10 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://photos.app.goo.gl/QUfyr9A1o6aTv8CL7" rel="noopener nofollow" target="_blank">2025 PT Dads Event - WCP</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/v5D71sUSkVWAi9Ug8" rel="noopener nofollow" target="_blank">2025 Book Characters Day</a>
 </p>
 </li>
 <li>
