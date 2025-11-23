@@ -9,6 +9,42 @@ variant: tiptap
 <br>For photos and videos from previous years, click on the links in the sidebar.</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://photos.app.goo.gl/HNBJP6MeMrBGCQgc7" rel="noopener nofollow" target="_blank">2025 P1 Orientation</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/3nj9KaaHEHizuE4A7" rel="noopener nofollow" target="_blank">2025 Recognition Day</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/F5jYx2y9ZxyEoK3M8" rel="noopener nofollow" target="_blank">2025 Lower Pri Awards Day</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/7YzkMA5U2nhhmua28" rel="noopener nofollow" target="_blank">2025 P6 Graduation</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/SZHkJ47JyJ3achYH8" rel="noopener nofollow" target="_blank">2025 P6 Empathy In Action</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/QUfyr9A1o6aTv8CL7" rel="noopener nofollow" target="_blank">2025 PT Dads Event - WCP</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/v5D71sUSkVWAi9Ug8" rel="noopener nofollow" target="_blank">2025 Book Characters Day</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/YqUPyehQRfshoZFn8" rel="noopener nofollow" target="_blank">2025 P3 Inline Skating</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/inpqBhebqHy6LzQm6" rel="noopener nofollow" target="_blank">2025 P5 LLP: Stomp</a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/CYp4rreTAd5QbtiC9" rel="noopener nofollow" target="_blank">2025 Deepavali Celebrations</a>
 </p>
 </li>
