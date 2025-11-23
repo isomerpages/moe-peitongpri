@@ -33,6 +33,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://photos.app.goo.gl/YqUPyehQRfshoZFn8" rel="noopener nofollow" target="_blank">2025 P3 Inline Skating</a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/inpqBhebqHy6LzQm6" rel="noopener nofollow" target="_blank">2025 P5 LLP: Stomp</a>
 </p>
 </li>
