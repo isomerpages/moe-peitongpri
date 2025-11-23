@@ -9,6 +9,22 @@ variant: tiptap
 <br>For photos and videos from previous years, click on the links in the sidebar.</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://photos.app.goo.gl/3nj9KaaHEHizuE4A7" rel="noopener nofollow" target="_blank">2025 Recognition Day</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/7YzkMA5U2nhhmua28" rel="noopener nofollow" target="_blank">2025 P6 Graduation</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/SZHkJ47JyJ3achYH8" rel="noopener nofollow" target="_blank">2025 P6 Empathy In Action</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/QUfyr9A1o6aTv8CL7" rel="noopener nofollow" target="_blank">2025 PT Dads Event - WCP</a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/CYp4rreTAd5QbtiC9" rel="noopener nofollow" target="_blank">2025 Deepavali Celebrations</a>
 </p>
 </li>
