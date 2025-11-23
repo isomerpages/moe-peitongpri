@@ -33,6 +33,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://photos.app.goo.gl/inpqBhebqHy6LzQm6" rel="noopener nofollow" target="_blank">2025 P5 LLP: Stomp</a>
+</p>
+</li>
+<li>
 <p><a href="https://photos.app.goo.gl/CYp4rreTAd5QbtiC9" rel="noopener nofollow" target="_blank">2025 Deepavali Celebrations</a>
 </p>
 </li>
