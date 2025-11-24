@@ -12,6 +12,9 @@ interests and talents and has served as a vital partner to the school over
 the years.</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/PSG/2025_PSG.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2024_PSG.png">
 </div>
 <p></p>
