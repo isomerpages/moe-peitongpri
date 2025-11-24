@@ -14,13 +14,11 @@ the years.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/PSG/2025_PSG.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2024_PSG.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2024_PSG_2.png">
-</div>
 <p>Other than providing feedback, our PSG has helped to support the school
 in programmes, such as learning journeys and recess activities. Over the
 years, our PSG has also helped to organise the school’s talent show competition
