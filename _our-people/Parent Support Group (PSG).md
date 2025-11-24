@@ -36,7 +36,7 @@ To sign up, <a href="https://go.gov.sg/peitongparents" rel="noopener noreferrer 
 supported at <a href="https://go.gov.sg/ptpspsgfeedback" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ptpspsgfeedback</a>
 </p>
 <hr>
-<h2>Join the Pei Tong Dads Community!</h2>
+<h2>Join our Pei Tong Dads Community!</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PSG/PT_Dads.png">
@@ -59,18 +59,10 @@ we'll be in touch with more information about upcoming activities and events!</p
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qCyYWZC4UKc?si=v20PFoIv0wKYKY4v"></iframe>
-</div>
-<p></p>
-<div class="iframe-wrapper">
 <iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UatsUThIEmE?si=uEmfyz1bgmC9Cqd-"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qCyYWZC4UKc?si=v20PFoIv0wKYKY4v"></iframe>
-</div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6pfKOxTxhMs"></iframe>
 </div>
 <p></p>
