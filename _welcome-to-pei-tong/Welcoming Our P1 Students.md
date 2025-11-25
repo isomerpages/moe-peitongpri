@@ -83,7 +83,6 @@ new friendships and foster a culture of care.</p>
 </a><a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1DXmPcblbq9ZFxSojmCLQYYGyW81l7RtD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ready, Set, Go!" src="/images/ready_set_go.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ready, Set, Go!</div><div class="isomer-card-link">Click here</div></div></a>
 </div>
 <h3><strong>P1 Orientation Slides &amp; Parent Toolkit</strong></h3>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1kF3MMfmRpObdwUDXWlm4KdS-DHndugIt/view?usp=drive_link" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">P1 Orientation Briefing Slides 2026</div><div class="isomer-card-description">P1 orientation briefing slides covering school policies and programmes.</div><div class="isomer-card-link">Click here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://linktr.ee/ptpsP1orientation" class="isomer-card">
 <div class="isomer-card-body">
