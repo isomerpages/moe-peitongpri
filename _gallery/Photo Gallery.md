@@ -13,7 +13,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://photos.app.goo.gl/3nj9KaaHEHizuE4A7" rel="noopener nofollow" target="_blank">2025 Recognition Day</a>
+<p><a href="https://photos.app.goo.gl/u4zP2NKmjskbbhL57" rel="noopener nofollow" target="_blank">2025 Recognition Day</a>
 </p>
 </li>
 <li>
