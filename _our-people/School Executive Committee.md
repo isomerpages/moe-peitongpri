@@ -81,15 +81,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan - Chen Chai Kim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>School Staff Developer</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Fong Zhen Hsiung Pierre</p>
 </td>
 </tr>
@@ -144,7 +135,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chang Diana</p>
+<p>Mr Tang Qisheng</p>
 </td>
 </tr>
 <tr>
@@ -287,6 +278,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nor Zakiah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH Science</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Grace Huang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH ICT</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Florence Choy</p>
 </td>
 </tr>
 <tr>
