@@ -545,6 +545,17 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Karen Kong Yanli</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Responsibility 7</strong>
 </p>
 </td>
@@ -686,7 +697,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 <p>Ms Teh Xiaowen Noelle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Shazwan</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -808,18 +819,6 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </td>
 <td rowspan="1" colspan="1">
 <p>Leow-Chia Pei San</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chong Lay Cheng Emma</p>
 </td>
 </tr>
 <tr>
