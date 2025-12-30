@@ -157,8 +157,10 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -298,6 +300,9 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 <tr>
 <td rowspan="1" colspan="3">
 <p></p>
+<p></p>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -412,6 +417,9 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 </td>
 </tr>
@@ -563,6 +571,9 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 <tr>
 <td rowspan="1" colspan="3">
 <p></p>
+<p></p>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -701,6 +712,9 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 </td>
 </tr>
@@ -863,6 +877,9 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 </td>
 </tr>
