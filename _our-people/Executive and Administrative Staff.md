@@ -56,6 +56,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Operations Manager - OM</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Joshua</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>ICT Manager</strong>
 </p>
 </td>
@@ -105,7 +114,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cynthia Tan</p>
+<p>Mdm Tan Cynthia</p>
 </td>
 </tr>
 <tr>
@@ -168,7 +177,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chan Tai Ding, Linda</p>
+<p>Ms Chan Linda</p>
 </td>
 </tr>
 <tr>
