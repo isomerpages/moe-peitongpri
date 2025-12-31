@@ -14,9 +14,9 @@ third_nav_title: School Services
 <br><strong>Tel: 89091679 </strong>
 <br>Please call or send a WhatsApp message for an appointment before visiting.</p>
 <p></p>
-<p>For urgent dental treatment such as facial swelling or pain that is required
-during clinic closure, please call and make appointment at the clinic below
-BEFORE going down , no walk ins are allowed</p>
+<p>For urgent dental treatment, such as facial swelling or pain that is required
+during clinic closure, please call and make an appointment at the clinic
+below BEFORE going down; no walk-ins are allowed</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Fairfield Methodist Pri Sch<strong>(FMPS)</strong> : 87647361</p>
@@ -28,7 +28,7 @@ BEFORE going down , no walk ins are allowed</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our School/School Dental Info/Dec_Dental_Clinic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our School/January_2026_Dental_Clinic_Schedule.png">
 </div><a class="isomer-image-wrapper" href="https://wa.me/6589091679"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/buttons.png"></a>
 <hr>
 <h3>School Bus Vendor</h3>
