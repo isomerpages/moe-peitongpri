@@ -131,7 +131,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD PE, Aesthetics &amp; CCA</strong>
+<p><strong>HOD PE &amp; Aesthetics </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -264,15 +264,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LH English</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ho Lai Yeng Joanne</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>SH MT (Malay &amp; Tamil Language)</strong>
 </p>
 </td>
@@ -296,6 +287,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Florence Choy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH NE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ho Lai Yeng Joanne</p>
 </td>
 </tr>
 <tr>
