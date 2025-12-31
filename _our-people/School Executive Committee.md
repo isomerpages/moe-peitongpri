@@ -90,7 +90,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Khoo Juliet</p>
+<p>Ms Khoo Juliet</p>
 </td>
 </tr>
 <tr>
@@ -99,7 +99,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chong Lay Cheng Emma</p>
+<p>Ms Chong Emma</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +131,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD PE &amp; Aesthetics </strong>
+<p><strong>HOD PE &amp; Aesthetics</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -153,7 +153,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Tan Lay Kwan Hannah</p>
+<p>Ms Tan Hannah</p>
 </td>
 </tr>
 <tr>
@@ -162,7 +162,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Chin Lin Jacqueline</p>
+<p>Ms Lee Jacqueline</p>
 </td>
 </tr>
 <tr>
@@ -197,7 +197,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chan Wen Hui</p>
+<p>Ms Chan Wen Hui</p>
 </td>
 </tr>
 <tr>
@@ -242,7 +242,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Shazwan</p>
+<p>Mr Shazwan</p>
 </td>
 </tr>
 </tbody>
@@ -268,7 +268,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nor Zakiah</p>
+<p>Mdm Zakiah</p>
 </td>
 </tr>
 <tr>
@@ -277,7 +277,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Grace Huang</p>
+<p>Ms Huang Grace</p>
 </td>
 </tr>
 <tr>
@@ -286,7 +286,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Florence Choy</p>
+<p>Ms Choy Florence</p>
 </td>
 </tr>
 <tr>
@@ -295,7 +295,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ho Lai Yeng Joanne</p>
+<p>Ms Ho Joanne</p>
 </td>
 </tr>
 <tr>
@@ -304,7 +304,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Teh Noelle</p>
+<p>Ms Teh Noelle</p>
 </td>
 </tr>
 <tr>
@@ -322,7 +322,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Chen Chen Janet</p>
+<p>Ms Goh Janet</p>
 </td>
 </tr>
 </tbody>
