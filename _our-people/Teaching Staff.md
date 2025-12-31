@@ -23,8 +23,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Primary 1&nbsp;</strong>
-</p>
+<h4><strong>Primary 1&nbsp;</strong></h4>
 </td>
 </tr>
 <tr>
@@ -165,8 +164,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Primary 2</strong>
-</p>
+<h4><strong>Primary 2</strong></h4>
 </td>
 </tr>
 <tr>
@@ -307,8 +305,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Primary 3</strong>
-</p>
+<h4><strong>Primary 3</strong></h4>
 </td>
 </tr>
 <tr>
@@ -425,8 +422,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Primary 4</strong>
-</p>
+<h4><strong>Primary 4</strong></h4>
 </td>
 </tr>
 <tr>
@@ -578,8 +574,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Primary 5</strong>
-</p>
+<h4><strong>Primary 5</strong></h4>
 </td>
 </tr>
 <tr>
@@ -720,8 +715,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Primary 6</strong>
-</p>
+<h4><strong>Primary 6</strong></h4>
 </td>
 </tr>
 <tr>
@@ -885,8 +879,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Allied Educators (AED)</strong>
-</p>
+<h4><strong>School Counsellor &amp; SEN Officers</strong></h4>
 </td>
 </tr>
 <tr>
@@ -941,7 +934,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Aw wan ping</p>
+<p>Miss Aw Wan Ping</p>
 </td>
 </tr>
 <tr>
