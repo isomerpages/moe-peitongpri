@@ -11,5 +11,8 @@ description: ""
 <li>
 <p>2026 P1 First Day of School</p>
 </li>
+<li>
+<p>2026 P1 Orientation</p>
+</li>
 </ul>
 <p></p>
