@@ -17,3 +17,8 @@ Student well-being is at the heart of all that we do. Guided by our Positive Edu
 We deeply value our partnership with parents and the wider community. Working closely together, we provide consistent support and guidance for our children, strengthening the connection between home and school. This shared commitment plays an important role in nurturing confident and well-rounded learners.
 
 As we look ahead, we remain optimistic and steadfast in our mission. Together, let us continue to support and inspire our children as they grow into capable individuals who will contribute meaningfully to society.
+
+* * *
+
+
+![](https://www.peitongpri.moe.edu.sg/images/Welcome%20to%20Pei%20Tong/pt80_p_signogg.png)
