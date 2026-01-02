@@ -2,50 +2,61 @@
 title: Principal's Message
 permalink: /welcome-to-pei-tong/principals-message/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<p>Welcome to Pei Tong Primary School (PTPS), where we are committed to nurturing
-every child to be passionate learner, a resilient individual, and a gracious
-citizen. 2025 marks a significant milestone as we celebrate our 80th anniversary.
-Our journey since 1945 reflects not just our heritage, but our unwavering
-dedication to nurturing generations of students who embody our vision.</p>
-<p>At PTPS, we believe that education goes beyond textbooks and examinations.
-Our mission of nurturing students to be future-ready and rooted in values
-guides everything we do. This philosophy has served us well in our journey
-of educational excellence and continues to be our compass as we prepare
-our students for an ever-evolving world.</p>
-<p>Our dedicated educators create dynamic learning environments where students
-develop critical thinking skills, creativity, and a genuine love for learning.
-Through innovative teaching approaches and meaningful learning experiences,
-we encourage our students to be curious, to question, and to explore.</p>
-<p>The foundation of our school rests upon our core values of care, respect,
-integrity, responsibility, resilience, and excellence. These values have
-been our cornerstone through the decades and continue to shape our students'
-character. They are not just words on a wall – they are lived experiences
-in our classrooms, corridors, and beyond. We believe that by embodying
-these values, our students develop the character strength needed to navigate
-life's challenges successfully.</p>
-<p>Our partnership with parents and the community has been crucial to our
-80-year journey. Together, we create a supportive environment where children
-feel safe to explore, make mistakes, learn, and grow. This collaborative
-approach ensures that our students receive consistent guidance both at
-home and in school, continuing a tradition of strong home-school-community
-partnership that has defined PTPS since its establishment.</p>
-<p>At PTPS, every child matters. We recognise and celebrate the unique talents
-and potential in each student. Whether in the classroom, on the sports
-field, or in the arts studio, we provide opportunities for every child
-to discover their strengths and pursue their passions. This commitment
-to holistic development has been our hallmark.</p>
-<p>As we celebrate this milestone year, I invite you to be part of our continuing
-legacy of excellence in education and character building. Together, we
-can nurture our children into confident, capable individuals who will make
-positive contributions to society, just as generations of PTPS alumni have
-done before them.</p>
-<p><strong>Together Towards Tomorrow, let us all walk this journey.</strong>
-</p>
+<p>Welcome to Pei Tong Primary School (PTPS), a place where every child is
+valued and nurtured to become a passionate learner, a resilient individual,
+and a gracious citizen. Guided by our school motto, “We Look Ahead,” we
+remain committed to providing a holistic education that prepares our students
+for life beyond the classroom.</p>
+<p>At PTPS, we believe that education is not only about academic achievement,
+but also about developing character, confidence, and purpose. Our mission
+to nurture future-ready learners rooted in strong values shapes our approach
+to teaching and learning. As the world continues to evolve rapidly, we
+strive to equip our students with critical thinking skills, creativity,
+adaptability, and a love for lifelong learning.</p>
+<p>Our dedicated and caring educators play a vital role in this journey.
+Through engaging lessons, meaningful experiences, and thoughtful guidance,
+they create a positive learning environment where students are encouraged
+to be curious, ask questions, and explore new ideas. Learning at PTPS is
+purposeful, joyful, and designed to help every child grow at their own
+pace.</p>
+<p>Central to our school culture are our school values of care, respect,
+integrity, responsibility, resilience, and excellence. These values guide
+our daily interactions and decision-making, helping our students develop
+strong character and a sense of responsibility towards others. At PTPS,
+values are not merely taught — they are lived and experienced through everyday
+moments in school.</p>
+<p>Student well-being is at the heart of all that we do. Guided by our Positive
+Education and PERMAH framework (positive emotion, engagement, relationships,
+meaning, accomplishment and health), we are committed to creating a safe
+and supportive environment where students feel a sense of belonging, purpose,
+and joy in learning. When students are emotionally well, they are better
+able to thrive academically and socially.</p>
+<p>We deeply value our partnership with parents and the wider community.
+Working closely together, we provide consistent support and guidance for
+our children, strengthening the connection between home and school. This
+shared commitment plays an important role in nurturing confident and well-rounded
+learners.</p>
+<p>As we look ahead, we remain optimistic and steadfast in our mission. Together,
+let us continue to support and inspire our children as they grow into capable
+individuals who will contribute meaningfully to society.</p>
 <hr>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" align="left" height="auto" width="100%" alt="" src="/images/Welcome to Pei Tong/pt80_p_signogg.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Principal_s_message_sign_off_2.png">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
