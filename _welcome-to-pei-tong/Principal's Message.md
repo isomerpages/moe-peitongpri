@@ -15,4 +15,5 @@ Central to our school culture are our school values of care, respect, integrity,
 Student well-being is at the heart of all that we do. Guided by our Positive Education and PERMAH framework (positive emotion, engagement, relationships, meaning, accomplishment and health), we are committed to creating a safe and supportive environment where students feel a sense of belonging, purpose, and joy in learning. When students are emotionally well, they are better able to thrive academically and socially.
 
 We deeply value our partnership with parents and the wider community. Working closely together, we provide consistent support and guidance for our children, strengthening the connection between home and school. This shared commitment plays an important role in nurturing confident and well-rounded learners.
+
 As we look ahead, we remain optimistic and steadfast in our mission. Together, let us continue to support and inspire our children as they grow into capable individuals who will contribute meaningfully to society.
