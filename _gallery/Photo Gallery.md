@@ -12,7 +12,8 @@ description: ""
 <p>2026 P1 First Day of School</p>
 </li>
 <li>
-<p>2026 P1 Orientation</p>
+<p><a href="https://photos.app.goo.gl/SNVm7ePvbqk528hM8" rel="noopener nofollow" target="_blank">2026 P1 Orientation</a>
+</p>
 </li>
 </ul>
 <p></p>
