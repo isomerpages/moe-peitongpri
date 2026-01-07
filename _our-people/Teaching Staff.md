@@ -346,7 +346,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Karen</p>
+<p>Mrs Koh - Ong Ming Yong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Zi Kai</p>
