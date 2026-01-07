@@ -121,20 +121,5 @@ the General Office so that follow up actions can be carried out where&nbsp;neces
 Students should be certified fit for&nbsp;school before resuming school.</p>
 </li>
 </ul>
-<p><strong>7. Insurance Coverage</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>All students are covered under a basic insurance policy. Payouts of insurance
-will be subject to policy terms and&nbsp;conditions.</p>
-</li>
-<li>
-<p>For more information, you may click <a href="/files/School Information/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> or
-visit the link provided below</p>
-</li>
-<li>
-<p>Income Insurance’s GPA portal : <a rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
-</p>
-</li>
-</ul>
+<p></p>
 <p></p>
