@@ -71,11 +71,11 @@ only): <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="
 will be subject to policy terms and&nbsp;conditions.</p>
 </li>
 <li>
-<p>For more information, you may click <a href="/files/School Information/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> or
+<p>For more information, you may click <a href="/files/Parents Portal/For Parents/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> or
 visit the link provided below</p>
 </li>
 <li>
-<p>Income Insurance’s GPA portal : <a rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
+<p>Income Insurance’s GPA portal :<a href="https://www.income.com.sg/studentgpa" rel="noopener nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
 </p>
 </li>
 </ul>
