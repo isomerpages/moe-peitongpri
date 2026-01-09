@@ -289,4 +289,10 @@ ceremony.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>For parents/guardians who are driving, we ask that you alight your child/ward
+at the foyer before 7.25am. To ensure students’ safety, vehicles will not
+be allowed to enter the school compound at other times.</p>
+<p>During wet weather, vehicles will be allowed to enter the school for drop-off
+until 7.45am, and for pick-up half an hour after dismissal (after school
+buses have left). If your child/ward is unwell, parents/guardians may also
+drive into school to pick them up at the General Office.</p>
