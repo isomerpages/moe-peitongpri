@@ -2,6 +2,7 @@ collections:
   mk:
     output: true
     order:
+      - 2026 MK@PT Open House.md
       - MK@Pei Tong.md
       - About MOE Kindergarten (MK).md
       - Curriculum.md
