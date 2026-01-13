@@ -41,7 +41,7 @@ Casual sex can harm and hurt you and your loved ones.
 more information on MOE Sexuality Education.
 <br>
 </p>
-<h4><strong>Overview of Pei Tong Primary School’s Sexuality Education Programme for 2025</strong></h4>
+<h4><strong>Overview of Pei Tong Primary School’s Sexuality Education Programme for 2026</strong></h4>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
@@ -81,7 +81,7 @@ responsible decisions to keep themselves safe from sexuality-related risks.</p>
 <p><strong>At Pei Tong Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
 <p></p>
-<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
+<h4><strong>2026 Sexuality Education Lessons in CCE</strong></h4>
 <h4>Primary 5</h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -178,7 +178,7 @@ and how to seek help for themselves and their friends.</p>
 </tbody>
 </table>
 <hr>
-<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
+<h4><strong>2026 Sexuality Education Lessons in CCE</strong></h4>
 <h4>Primary 6</h4>
 <table style="minWidth: 100px">
 <colgroup>
