@@ -153,18 +153,10 @@ ceremony.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1</p>
+<p>P1 &amp; P2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.00 am – 9.30 am</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9.30 am – 10.00 am</p>
+<p>9.30 am – 10.00am</p>
 </td>
 </tr>
 <tr>
