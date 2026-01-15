@@ -92,8 +92,9 @@ mobile app on your mobile phone (available on iOS and Android platforms
 only) and perform a simple one-time onboarding process.</p>
 <p>Please click here for the <a href="/files/Parents%20Portal/Parents%20Gateway%20Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway Guide</a> for
 a step-by-step guide.</p>
-<p>Should you require assistance, please contact our Administration Manager,
-Ms Jia Jinghui, at 67775458 or email her at&nbsp;<a href="mailto:jia_jinghui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jia_jinghui@schools.gov.sg</a>.</p>
+<p>Should you require assistance, please contact us at 67775458 or email
+at&nbsp;<a href="ptps@moe.edu.sg" rel="noopener nofollow" target="_blank">ptps@moe.edu.sg</a>
+</p>
 <p><strong>Download app from the&nbsp;<a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" rel="noopener noreferrer nofollow" target="_blank">Apple App Store</a>&nbsp;or&nbsp;<a href="https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en_SG" rel="noopener noreferrer nofollow" target="_blank">Google Play Store</a></strong>
 </p>
 <h4>ClassDojo</h4>
