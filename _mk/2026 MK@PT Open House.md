@@ -15,6 +15,7 @@ you and your child!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MK@Pei Tong/PTPS_MOE_K.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@Pei Tong/MOE_K_Open_House.jpg">
 </div>
