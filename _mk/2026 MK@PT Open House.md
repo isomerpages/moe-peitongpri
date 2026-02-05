@@ -10,16 +10,15 @@ description: ""
 March 2026, from 8.30 am to 11.00 am, at MOE Kindergarten @ Pei Tong.</p>
 <p>Learn more about our kindergarten programme, explore our learning spaces,
 and meet our team of teachers.</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@Pei Tong/MOE_K_Open_House.jpg">
-</div>
 <p>📱 Scan the QR code to register your interest. We look forward to welcoming
 you and your child!</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MK@Pei Tong/PTPS_MOE_K.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@Pei Tong/MOE_K_Open_House.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
