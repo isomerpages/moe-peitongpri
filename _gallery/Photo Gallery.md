@@ -28,5 +28,9 @@ description: ""
 <p><a href="https://photos.app.goo.gl/SNVm7ePvbqk528hM8" rel="noopener nofollow" target="_blank">2026 P1 Orientation</a>
 </p>
 </li>
+<li>
+<p><a href="https://photos.app.goo.gl/uVGNxsRkuqfZxju66" rel="noopener nofollow" target="_blank">2026 Total Defence Day</a>
+</p>
+</li>
 </ul>
 <p></p>
