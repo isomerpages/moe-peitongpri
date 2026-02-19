@@ -36,5 +36,9 @@ description: ""
 <p><a href="https://photos.app.goo.gl/uVGNxsRkuqfZxju66" rel="noopener nofollow" target="_blank">2026 Total Defence Day</a>
 </p>
 </li>
+<li>
+<p><a href="https://photos.app.goo.gl/24xZJ2noX8dGZ4pA8" rel="noopener nofollow" target="_blank">2026 CNY Celebrations</a>
+</p>
+</li>
 </ul>
 <p></p>
