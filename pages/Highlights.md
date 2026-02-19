@@ -24,7 +24,7 @@ School!</p>
 </p>
 <hr>
 <h2>Virtual Tour</h2>
-<p>Join us as our student leaders take you on a <a href="https://www.peitongpri.moe.edu.sg/welcome-to-pei-tong/tour/" rel="noopener noreferrer nofollow" target="_blank">virtual tour around Pei Tong Primary School! </a>
+<p>Join us as our student leaders take you on a <a href="https://www.peitongpri.moe.edu.sg/welcome-to-pei-tong/tour/" rel="noopener noreferrer nofollow" target="_blank">virtual tour around Pei Tong Primary School!</a>
 </p>
 <hr>
 <h2>We Earn BCA Green Mark Gold</h2>
