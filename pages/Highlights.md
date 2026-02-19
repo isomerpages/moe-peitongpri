@@ -33,5 +33,5 @@ Gold Certification, recognizing our commitment to environmental sustainability
 and green building practices.</p>
 <p>This achievement reflects our dedication to creating a sustainable learning
 environment for our students while contributing to Singapore's environmental
-goals. <a href="/files/bca green mark.pdf" rel="noopener noreferrer nofollow" target="_blank">Click more</a>
+goals. <a href="https://peitongpri.moe.edu.sg/bca-green-mark-gold-certification/" rel="noopener nofollow" target="_blank">Read More</a>
 </p>
