@@ -16,7 +16,10 @@ you and your child!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MK@Pei Tong/PTPS_MOE_K.jpg">
 </div>
-<p>Click on the image to view more</p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1B4V112UGrfkE8WsMEUqYCOhbOduBq3gv/view?usp=drive_link"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@Pei Tong/MOE_K_Open_House.jpg"></a>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQRMun9EBTzdtSMyjPkaVaq6x5zSiI-kOH2liqD5HHQ6JGPQ_uM3ugqF5KxYaMGGUXihh6_RhlaG1qf/pubembed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p></p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a_4cq8A7eOc"></iframe>
