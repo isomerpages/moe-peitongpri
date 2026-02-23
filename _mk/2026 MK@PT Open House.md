@@ -21,9 +21,6 @@ you and your child!</p>
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQRMun9EBTzdtSMyjPkaVaq6x5zSiI-kOH2liqD5HHQ6JGPQ_uM3ugqF5KxYaMGGUXihh6_RhlaG1qf/pubembed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a_4cq8A7eOc"></iframe>
-</div>
 <p></p>
 <p></p>
 <p></p>
