@@ -12,7 +12,7 @@ March 2026, from 8.30 am to 11.00 am, at MOE Kindergarten @ Pei Tong.</p>
 and meet our team of teachers.</p>
 <p>📱 Scan the QR code to register your interest. We look forward to welcoming
 you and your child!</p>
-<p></p>
+<p>⬇️ Please scroll down to learn more about our programme.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MK@Pei Tong/PTPS_MOE_K.jpg">
 </div>
