@@ -9,7 +9,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Inspiring_Teacher_of_English_2026.jpg">
 </div>
 <p>Nominations for the annual <em>Inspiring Teacher of English</em>  <em>Award</em> are
-now open.&nbsp;The Award is open to all in-service <strong>teachers of English Language</strong>,
+now open.&nbsp;The Award is open to all in-service <strong>English Language teachers</strong>,
 including teachers of Literature in English and General Paper. All students,
 their parents, and teachers are invited to send in nominations for the
 Teaching Award to the Principal of the nominee’s school by 6 p.m. on 23
