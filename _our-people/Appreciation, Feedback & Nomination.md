@@ -4,7 +4,7 @@ permalink: /our-people/nominate/
 variant: tiptap
 description: ""
 ---
-<h2><em>Inspiring Teacher of English Award 2026</em></h2>
+<h2>Inspiring Teacher of English Award 2026</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Inspiring_Teacher_of_English_2026.jpg">
 </div>
@@ -18,7 +18,8 @@ March 2026.</p>
 Click <a href="https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information" rel="noopener noreferrer nofollow" target="_blank">here </a>to
 download nomination forms</p>
 <p>For more information, please email SGEM at <a href="mailto:nhb_speakgoodenglishmovement@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nhb_speakgoodenglishmovement@nhb.gov.sg</a>.&nbsp;</p>
-<h2><em>Arif Budiman Malay Language Teacher Award 2026</em></h2>
+<hr>
+<h2>Arif Budiman Malay Language Teacher Award 2026</h2>
 <p>From 2 February to 13 March 2026, students, educators, parents, and members
 of the public are invited to nominate outstanding <strong>Malay Language teachers</strong> for
 the Arif Budiman Malay Language Teacher Award (AGAB) 2026. The award recognises
@@ -30,7 +31,8 @@ in September 2026.</p>
 <br>&gt;&gt; Click <a href="https://go.gov.sg/agab-2026" rel="noopener nofollow" target="_blank">here</a> to
 make an online nomination</p>
 <p>For more information, please email <a href="mailto:MOE_TLLPC_Secretariat@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_TLLPC_Secretariat@moe.gov.sg</u></a>.</p>
-<h2><em>Most Inspiring Tamil Teachers' Award 2026</em></h2>
+<hr>
+<h2>Most Inspiring Tamil Teachers' Award 2026</h2>
 <p>From 2 February to 13 March 2026, students, educators, parents, and members
 of the public are invited to nominate <strong>Tamil Language (TL) teachers</strong> for
 the Most Inspiring Tamil Teachers' (MITT) Award 2026. Jointly presented
