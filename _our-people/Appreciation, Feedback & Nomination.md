@@ -14,9 +14,8 @@ including teachers of Literature in English and General Paper. All students,
 their parents, and teachers are invited to send in nominations for the
 Teaching Award to the Principal of the nominee’s school by 6 p.m. on 23
 March 2026.</p>
-<p><strong>Nomination closes on <u>23 March 2026, Monday, at 6pm.</u> <br>&gt;</strong>&gt;
-Click <a href="https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information" rel="noopener noreferrer nofollow" target="_blank">here </a>to
-download nomination forms</p>
+<p><strong>Nomination closes on <u>23 March 2026, Monday, at 6pm.</u> <br>&gt;&gt; </strong>Click
+<a href="https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information" rel="noopener noreferrer nofollow" target="_blank">here</a>to download a nomination form.</p>
 <p>For more information, please email SGEM at <a href="mailto:nhb_speakgoodenglishmovement@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nhb_speakgoodenglishmovement@nhb.gov.sg</a>.&nbsp;</p>
 <hr>
 <h2>Arif Budiman Malay Language Teacher Award 2026</h2>
@@ -28,8 +27,7 @@ colleges and the Millennia Institute who have made exceptional contributions
 to the teaching of the Malay Language. Award recipients will be announced
 in September 2026.</p>
 <p><strong>Nomination closes on <u>13 March 2026, Friday.</u></strong>
-<br>&gt;&gt; Click <a href="https://go.gov.sg/agab-2026" rel="noopener nofollow" target="_blank">here</a> to
-make an online nomination</p>
+<br><strong>&gt;&gt;</strong> Click <a href="https://go.gov.sg/agab-2026" rel="noopener nofollow" target="_blank">here</a> to make an online nomination.</p>
 <p>For more information, please email <a href="mailto:MOE_TLLPC_Secretariat@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_TLLPC_Secretariat@moe.gov.sg</u></a>.</p>
 <hr>
 <h2>Most Inspiring Tamil Teachers' Award 2026</h2>
@@ -43,8 +41,8 @@ Institute who have made significant contributions to the teaching and learning
 of TL. The awards will be presented to recipients at a ceremony in August
 2026.</p>
 <p><strong>Nomination closes on <u>13 March 2026, Friday.</u></strong>
-<br>&gt;&gt; Click <a href="https://go.gov.sg/mitt2026nominations" rel="noopener nofollow" target="_blank">here</a> to
-make an online nomination</p>
+<br><strong>&gt;&gt; </strong>Click <a href="https://go.gov.sg/mitt2026nominations" rel="noopener nofollow" target="_blank">here</a> to make an online
+nomination.</p>
 <p>For more information, please email <a href="mailto:MOE_TLLPC_Secretariat@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_TLLPC_Secretariat@moe.gov.sg</u></a>.</p>
 <hr>
 <h2>Words of Appreciation</h2>
