@@ -14,8 +14,9 @@ including teachers of Literature in English and General Paper. All students,
 their parents, and teachers are invited to send in nominations for the
 Teaching Award to the Principal of the nominee’s school by 6 p.m. on 23
 March 2026.</p>
-<p><strong>Nomination closes on <u>23 March 2026, Monday, at 6pm.</u> <br>&gt;&gt; </strong>Click
-<a href="https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information" rel="noopener nofollow" target="_blank">here</a>to download a nomination form.</p>
+<p><strong>Nomination closes on <u>23 March 2026, Monday, at 6pm.</u> </strong>
+<br><strong>&gt;&gt; </strong>Click <a href="https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information" rel="noopener nofollow" target="_blank">here</a> to
+download a nomination form.</p>
 <p>For more information, please email SGEM at <a href="mailto:nhb_speakgoodenglishmovement@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nhb_speakgoodenglishmovement@nhb.gov.sg</a>.&nbsp;</p>
 <hr>
 <h2>Distinguished Chinese Language Teachers Awards 2026</h2>
