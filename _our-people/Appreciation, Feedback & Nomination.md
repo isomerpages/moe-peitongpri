@@ -29,8 +29,8 @@ for their students.</p>
 of teaching experience in MOE primary, secondary, pre-university, junior
 colleges and IP schools are eligible (except for past winners). Students
 and parents are warmly invited to submit nominations online.</p>
-<p><strong>Nomination closes on <u>30 April 2026, Thursday.</u> <br>&gt;&gt; </strong>Click
-<a href="https://zb.sg/dclta2026" rel="noopener nofollow" target="_blank">here</a>to make an online nomination.</p>
+<p><strong>Nomination closes on <u>30 April 2026, Thursday.</u> </strong>
+<br><strong>&gt;&gt; </strong>Click <a href="https://zb.sg/dclta2026" rel="noopener nofollow" target="_blank">here</a> to make an online nomination.</p>
 <p>For more information, please email <a href="mailto:zbschools@sph.com.sg" rel="noopener noreferrer nofollow" target="_blank">zbschools@sph.com.sg</a>
 </p>
 <hr>
