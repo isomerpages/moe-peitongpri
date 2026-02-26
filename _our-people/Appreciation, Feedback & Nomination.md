@@ -15,7 +15,7 @@ their parents, and teachers are invited to send in nominations for the
 Teaching Award to the Principal of the nominee’s school by 6 p.m. on 23
 March 2026.</p>
 <p><strong>Nomination closes on <u>23 March 2026, Monday, at 6pm.</u> <br>&gt;&gt; </strong>Click
-<a href="https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information" rel="noopener noreferrer nofollow" target="_blank">here</a>to download a nomination form.</p>
+<a href="https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information" rel="noopener nofollow" target="_blank">here</a>to download a nomination form.</p>
 <p>For more information, please email SGEM at <a href="mailto:nhb_speakgoodenglishmovement@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nhb_speakgoodenglishmovement@nhb.gov.sg</a>.&nbsp;</p>
 <hr>
 <h2>Distinguished Chinese Language Teachers Awards 2026</h2>
@@ -30,7 +30,7 @@ of teaching experience in MOE primary, secondary, pre-university, junior
 colleges and IP schools are eligible (except for past winners). Students
 and parents are warmly invited to submit nominations online.</p>
 <p><strong>Nomination closes on <u>30 April 2026, Thursday.</u> <br>&gt;&gt; </strong>Click
-<a href="https://zb.sg/dclta2026" rel="noopener noreferrer nofollow" target="_blank">here</a>to make an online nomination.</p>
+<a href="https://zb.sg/dclta2026" rel="noopener nofollow" target="_blank">here</a>to make an online nomination.</p>
 <p>For more information, please email <a href="mailto:zbschools@sph.com.sg" rel="noopener noreferrer nofollow" target="_blank">zbschools@sph.com.sg</a>
 </p>
 <hr>
