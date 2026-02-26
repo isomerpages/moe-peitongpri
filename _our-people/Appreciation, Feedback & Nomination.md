@@ -18,6 +18,22 @@ March 2026.</p>
 <a href="https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information" rel="noopener noreferrer nofollow" target="_blank">here</a>to download a nomination form.</p>
 <p>For more information, please email SGEM at <a href="mailto:nhb_speakgoodenglishmovement@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nhb_speakgoodenglishmovement@nhb.gov.sg</a>.&nbsp;</p>
 <hr>
+<h2>Distinguished Chinese Language Teachers Awards 2026</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinguished_Chinese_Language_Teachers_Awards_2026.jpg">
+</div>
+<p>The Distinguished Chinese Language Teachers Awards 2026 celebrates exceptional
+educators who demonstrate excellence in teaching, innovation, and care
+for their students.</p>
+<p>All <strong>Chinese Language teachers</strong> with at least five years
+of teaching experience in MOE primary, secondary, pre-university, junior
+colleges and IP schools are eligible (except for past winners). Students
+and parents are warmly invited to submit nominations online.</p>
+<p><strong>Nomination closes on <u>30 April 2026, Thursday.</u> <br>&gt;&gt; </strong>Click
+<a href="https://zb.sg/dclta2026" rel="noopener noreferrer nofollow" target="_blank">here</a>to make an online nomination.</p>
+<p>For more information, please email <a href="mailto:zbschools@sph.com.sg" rel="noopener noreferrer nofollow" target="_blank">zbschools@sph.com.sg</a>
+</p>
+<hr>
 <h2>Arif Budiman Malay Language Teacher Award 2026</h2>
 <p>From 2 February to 13 March 2026, students, educators, parents, and members
 of the public are invited to nominate outstanding <strong>Malay Language teachers</strong> for
