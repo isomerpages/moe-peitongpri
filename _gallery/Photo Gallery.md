@@ -40,5 +40,13 @@ description: ""
 <p><a href="https://photos.app.goo.gl/24xZJ2noX8dGZ4pA8" rel="noopener nofollow" target="_blank">2026 CNY Celebrations</a>
 </p>
 </li>
+<li>
+<p><a href="https://photos.app.goo.gl/5UGtZf6AdftEBFvJ9" rel="noopener nofollow" target="_blank">2026 P4 Code For Fun</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/v2CvWVfuwDZUHFn19" rel="noopener nofollow" target="_blank">2026 Hari Raya Celebrations</a>
+</p>
+</li>
 </ul>
 <p></p>
