@@ -23,7 +23,7 @@ if there is any vacancy. <a href="https://go.gov.sg/ptmkwaitlist" rel="noopener 
 </p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRauSfOW9089AwF4Ar7fnOSUEmGQxLZf3GvKFkDAui_TURzjj4LIoje1gsONSkBuNBqaqCRXexMPj9J/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQRMun9EBTzdtSMyjPkaVaq6x5zSiI-kOH2liqD5HHQ6JGPQ_uM3ugqF5KxYaMGGUXihh6_RhlaG1qf/pubembed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
