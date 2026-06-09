@@ -48,5 +48,49 @@ description: ""
 <p><a href="https://photos.app.goo.gl/v2CvWVfuwDZUHFn19" rel="noopener nofollow" target="_blank">2026 Hari Raya Celebrations</a>
 </p>
 </li>
+<li>
+<p><a href="https://photos.app.goo.gl/45Ndb3YqYq5L8dNJ8" rel="noopener nofollow" target="_blank">2026 P3 CCA Showcase Day</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/yVyDec6LiUxRSPow5" rel="noopener nofollow" target="_blank">2026 Arts Fest &amp; International Friendship Day</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/cWxd9YCTz2LHEmpg8" rel="noopener nofollow" target="_blank">2026 Zero Waste Day</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/V9hc8Qxd2YQ2p4jb8" rel="noopener nofollow" target="_blank">2026 SYF: Percussion Ensemble</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/YE3djadDcTtCxayb7" rel="noopener nofollow" target="_blank">2026 P3 Conversational Chinese &amp; Malay (CCM)</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/VLh4815QqRUGMJuRA" rel="noopener nofollow" target="_blank">2026 SYF: Modern Dance</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/bo5Tzfd74EiJJabj8" rel="noopener nofollow" target="_blank">2026 P2 Sandwich Making</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/u3KM4y1kYjoui2jg7" rel="noopener nofollow" target="_blank">2026 P3 VIA Food Donation</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/DxToAcLjeXCTrPtM9" rel="noopener nofollow" target="_blank">2026 P1 &amp; P2 Mass Dance</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/qqVVnnc4p8hWMqV47" rel="noopener nofollow" target="_blank">2026 P4 Experiential Learning</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/KhJjZQhMZ2MMzsA19" rel="noopener nofollow" target="_blank">2026 P1 Parent-Teacher Conference</a>
+</p>
+</li>
 </ul>
 <p></p>
