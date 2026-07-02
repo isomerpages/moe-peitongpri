@@ -413,6 +413,17 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sabrina Choo</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <p></p>
 <p></p>
@@ -467,6 +478,17 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Rui Ching</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Low Shu Min</p>
 </td>
 </tr>
 <tr>
@@ -539,17 +561,6 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jiang Xihua</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Kong Yanli</p>
 </td>
 </tr>
 <tr>
@@ -776,18 +787,6 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tang Qisheng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Excellence 3</strong>
 </p>
 </td>
@@ -818,7 +817,7 @@ us: <a href="https://www.peitongpri.moe.edu.sg/contact-us/" rel="noopener nofoll
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms LIm Clarissa</p>
+<p>Mr Tang Qisheng</p>
 </td>
 </tr>
 <tr>
