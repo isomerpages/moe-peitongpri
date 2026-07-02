@@ -264,20 +264,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>LH English</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Choi Clarissa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>SH MT (Malay &amp; Tamil Language)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zakiah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SH Science</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Huang Grace</p>
 </td>
 </tr>
 <tr>

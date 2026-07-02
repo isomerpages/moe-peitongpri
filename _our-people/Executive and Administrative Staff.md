@@ -74,6 +74,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Admin Executive - AE (MK)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Goh Jessica</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Admin Executive - AE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Cynthia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Corporate Support Officer - CSO</strong>
 </p>
 </td>
@@ -97,24 +115,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Norazlin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Admin Executive - AE (MK)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Goh Jessica</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Admin Executive - AE</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Cynthia</p>
 </td>
 </tr>
 <tr>
@@ -173,6 +173,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer - OSO</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Kin Lock Desmond</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Librarian</strong>
 </p>
 </td>
@@ -205,6 +214,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Aizat Emir</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Resource Personnel (Science/Math/Admin)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chandra Vani</p>
 </td>
 </tr>
 </tbody>
