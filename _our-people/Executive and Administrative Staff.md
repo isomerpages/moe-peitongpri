@@ -173,6 +173,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer - OSO</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Kin Lock Desmond</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Librarian</strong>
 </p>
 </td>
@@ -205,6 +214,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Aizat Emir</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Resource Personnel (Science/Math/Admin)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chandra Vani</p>
 </td>
 </tr>
 </tbody>
