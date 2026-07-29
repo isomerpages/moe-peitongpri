@@ -26,6 +26,7 @@ below BEFORE going down; no walk-ins are allowed</p>
 </li>
 </ul>
 <p></p>
+<p>Dental clinic will be close on 30th July 2026</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/August_2026.png">
