@@ -6,10 +6,10 @@ description: ""
 ---
 <h1>Teacher's Day Appreciation</h1>
 <blockquote>
-<p>Note: All Pei Tong staff will be having a lunch engagement after our school's
-Teacher's Day celebrations, and will not be able to meet ex-students in
-school this year. Our alumni are welcome to write a message or send in
-an appreciation video (NEW) instead. More details below.</p>
+<p>📢🍎 Note: All Pei Tong staff will be having a lunch engagement after
+our school's Teacher's Day celebrations, and will <u>not</u> be able to meet
+ex-students in school this year. Our alumni are welcome to <strong>write a message</strong> or <strong>upload an appreciation video (NEW)</strong> instead.
+More details below.</p>
 </blockquote>
 <p>Dear parents, alumni and students,</p>
 <p>Write a message via <strong><a href="http://go.gov.sg/saythanksptps" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/saythanksptps</a></strong> to
