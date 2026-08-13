@@ -4,14 +4,6 @@ permalink: /highlights/
 description: ""
 variant: tiptap
 ---
-<h2>Passionate Learners, Inspiring Educators</h2>
-<p>Nominations for the Caring Teacher Award (CTA) 2026, President Awards
-for Teachers (PAT) 2026 and Outstanding Youth in Education Award (OYEA)
-2026 are&nbsp;<strong>now open</strong>.</p>
-<p>Click&nbsp;<strong><a href="/our-people/nominate/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> to
-find out more about the awards and how you can nominate an exceptional
-Pei Tong teacher!</p>
-<hr>
 <h2>Photo Gallery</h2>
 <p>Check out&nbsp;<a href="https://www.peitongpri.moe.edu.sg/photos/" rel="noopener noreferrer nofollow" target="_blank">our Photo Gallery</a> for
 the latest photographs and catch a glimpse of school life at Pei Tong Primary
