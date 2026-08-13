@@ -26,9 +26,10 @@ below BEFORE going down; no walk-ins are allowed</p>
 </li>
 </ul>
 <p></p>
+<p>Dental clinic will be closed on 30th July 2026</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/July.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/August_2026.png">
 </div><a class="isomer-image-wrapper" href="https://wa.me/6589091679"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/buttons.png"></a>
 <hr>
 <h3>School Bus Vendor</h3>
