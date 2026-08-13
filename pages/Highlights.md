@@ -19,7 +19,7 @@ School!</p>
 <p>Join us as our student leaders take you on a <a href="https://www.peitongpri.moe.edu.sg/welcome-to-pei-tong/tour/" rel="noopener noreferrer nofollow" target="_blank">virtual tour around Pei Tong Primary School!</a>
 </p>
 <hr>
-<h2>We Earn BCA Green Mark Gold</h2>
+<h2>BCA Green Mark (Gold Award)</h2>
 <p>Pei Tong Primary School has been awarded the prestigious BCA Green Mark
 Gold Certification, recognizing our commitment to environmental sustainability
 and green building practices.</p>
